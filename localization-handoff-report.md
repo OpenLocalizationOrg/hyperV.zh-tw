@@ -6,14 +6,14 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [virtualization\hyperv_on_windows\windows_welcome1.md](https://github.com/OpenLocalizationOrg/hyperV/blob/3d6868a4b43c3cb4e094d80b44f7ea59a7397b11/virtualization/hyperv_on_windows/windows_welcome1.md) | OutofSyncHandedBackSuccess | [Details](#4a7922df4d4a51d728b577c21abf2c82b863a02a202)
+ [virtualization\hyperv_on_windows\windows_welcome1.md](https://github.com/OpenLocalizationOrg/hyperV/blob/96fb410ea512fcbe0ee6cee8dc1f6929ad310edf/virtualization/hyperv_on_windows/windows_welcome1.md) | OutofSyncHandedBackSuccess | [Details](#4535ce1d4051075dd73c61787c26afee15e21b3d202)
 
 ## Item Details
-##### <a name='4a7922df4d4a51d728b577c21abf2c82b863a02a202'></a> Source: [virtualization\hyperv_on_windows\windows_welcome1.md](https://github.com/OpenLocalizationOrg/hyperV/blob/3d6868a4b43c3cb4e094d80b44f7ea59a7397b11/virtualization/hyperv_on_windows/windows_welcome1.md)
+##### <a name='4535ce1d4051075dd73c61787c26afee15e21b3d202'></a> Source: [virtualization\hyperv_on_windows\windows_welcome1.md](https://github.com/OpenLocalizationOrg/hyperV/blob/96fb410ea512fcbe0ee6cee8dc1f6929ad310edf/virtualization/hyperv_on_windows/windows_welcome1.md)
 * Status: OutofSyncHandedBackSuccess
 * Target File: 
-* Handoff File: [windows_welcome1.1eec8547e8270740cdb6073b648778b04421e23a.zh-tw.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/d654fdeb1e72b16f2c2fecc4703fc935d0f90e27/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/windows_welcome1.1eec8547e8270740cdb6073b648778b04421e23a.zh-tw.xlf)
-* Handoff Datetime: 2016-01-11 09:31:24
+* Handoff File: [windows_welcome1.1eec8547e8270740cdb6073b648778b04421e23a.zh-tw.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/dc2bf1662f9a9f035b5e51b784b372c0a468671c/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/windows_welcome1.1eec8547e8270740cdb6073b648778b04421e23a.zh-tw.xlf)
+* Handoff Datetime: 2016-01-11 14:54:32
 * Handoff Reason: Include
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
