@@ -1,29 +1,11 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 1
+ Total Files | 0
 
 ## File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [virtualization\hyperv_on_windows\quick_start\walkthrough_compatibility.md](https://github.com/OpenLocalizationOrg/hyperV/blob/23e48ea25ff4d667f2d21fe0551f12b76acc336e/virtualization/hyperv_on_windows/quick_start/walkthrough_compatibility.md) | OutofSyncHandedBackSuccess | [Details](#dd010998c268d7bfa0bc922a7e67c7f6a7feb6b1182)
 
 ## Item Details
-##### <a name='dd010998c268d7bfa0bc922a7e67c7f6a7feb6b1182'></a> Source: [virtualization\hyperv_on_windows\quick_start\walkthrough_compatibility.md](https://github.com/OpenLocalizationOrg/hyperV/blob/23e48ea25ff4d667f2d21fe0551f12b76acc336e/virtualization/hyperv_on_windows/quick_start/walkthrough_compatibility.md)
-* Status: OutofSyncHandedBackSuccess
-* Target File: 
-* Handoff File: [walkthrough_compatibility.b81630a3813897e1115f050cb3fb67a3db007cf8.zh-tw.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/c69ba35bb67cd36b77dd07c7096ad11812511996/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/walkthrough_compatibility.b81630a3813897e1115f050cb3fb67a3db007cf8.zh-tw.xlf)
-* Handoff Datetime: 2016-01-27 06:46:35
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* Current Target File: [virtualization\hyperv_on_windows\quick_start\walkthrough_compatibility.md](https://github.com/OpenLocalizationOrg/hyperV.zh-tw/blob/192aad52ec9cd6d13541daecbe66300ab25a8bf9/virtualization/hyperv_on_windows/quick_start/walkthrough_compatibility.md)
-* Current Handback File: [walkthrough_compatibility.b81630a3813897e1115f050cb3fb67a3db007cf8.zh-tw.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/23b7cc78a121cc16a17caf613e5be1a5d8876d1e/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/walkthrough_compatibility.b81630a3813897e1115f050cb3fb67a3db007cf8.zh-tw.xlf)
-* Current Handback Datetime: 2016-01-11 05:30:24
-* [Back to Top](#report-top)
-
 
 ## Error Details
 
