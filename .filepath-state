@@ -96,6 +96,9 @@
   "0a5cf2ba600896aeab999b4e8d62df930ee0226d": [
     "virtualization\\hyperv_on_windows\\quick_start\\media\\systeminfo.png"
   ],
+  "0a6bedc4986f18fe70975dab130b535537b1fc01": [
+    "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_create_vm.md"
+  ],
   "fb5745f381ba508a20b462528535485b0667a700": [
     "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_create_vm.md"
   ],

@@ -1,11 +1,29 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 0
+ Total Files | 1
 
 ## File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [virtualization\hyperv_on_windows\quick_start\walkthrough_create_vm.md](https://github.com/OpenLocalizationOrg/hyperV/blob/987ef00710cb3d53c41f650bff622169fba5b542/virtualization/hyperv_on_windows/quick_start/walkthrough_create_vm.md) | OutofSyncHandedBackSuccess | [Details](#0a6bedc4986f18fe70975dab130b535537b1fc01183)
 
 ## Item Details
+##### <a name='0a6bedc4986f18fe70975dab130b535537b1fc01183'></a> Source: [virtualization\hyperv_on_windows\quick_start\walkthrough_create_vm.md](https://github.com/OpenLocalizationOrg/hyperV/blob/987ef00710cb3d53c41f650bff622169fba5b542/virtualization/hyperv_on_windows/quick_start/walkthrough_create_vm.md)
+* Status: OutofSyncHandedBackSuccess
+* Target File: 
+* Handoff File: [walkthrough_create_vm.698a46fb78fa92b3f275f4115d4b77072fff0ed6.zh-tw.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/99997655985829683a7bf6a36795289908691c21/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/walkthrough_create_vm.698a46fb78fa92b3f275f4115d4b77072fff0ed6.zh-tw.xlf)
+* Handoff Datetime: 2016-01-28 02:43:26
+* Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Current Target File: [virtualization\hyperv_on_windows\quick_start\walkthrough_create_vm.md](https://github.com/OpenLocalizationOrg/hyperV.zh-tw/blob/192aad52ec9cd6d13541daecbe66300ab25a8bf9/virtualization/hyperv_on_windows/quick_start/walkthrough_create_vm.md)
+* Current Handback File: [walkthrough_create_vm.698a46fb78fa92b3f275f4115d4b77072fff0ed6.zh-tw.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/23b7cc78a121cc16a17caf613e5be1a5d8876d1e/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/walkthrough_create_vm.698a46fb78fa92b3f275f4115d4b77072fff0ed6.zh-tw.xlf)
+* Current Handback Datetime: 2016-01-11 05:30:24
+* [Back to Top](#report-top)
+
 
 ## Error Details
 
