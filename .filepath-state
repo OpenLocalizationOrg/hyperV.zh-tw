@@ -5,6 +5,9 @@
   "5d11212ed4e763ea605d9ec9c70210d3cbe3a15b": [
     "virtualization\\hyperv_on_windows\\TOC.md"
   ],
+  "25a794bd56d974bf454b9b3a84f73a81b18bded1": [
+    "virtualization\\hyperv_on_windows\\windows_welcome1.md"
+  ],
   "fb97cceb63b6eb903f0c64a9fdaff72be312ba63": [
     "virtualization\\hyperv_on_windows\\windows_welcome1.md"
   ],
@@ -46,5 +49,8 @@
   ],
   "c9a613b41195c01471a39d59e0fccdb2e226b08a": [
     "virtualization\\windowscontainers\\TOC.md"
+  ],
+  "f3f1f06ec428a26e56c99689a1c3dfad72ff4460": [
+    "virtualization\\hyperv_on_windows\\media\\22222.png"
   ]
 }
