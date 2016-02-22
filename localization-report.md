@@ -233,7 +233,7 @@
  [virtualization\center.json](https://github.com/OpenLocalizationOrg/hyperV/blob/273e4a10eaa9c8c8244e5cb53840bdff1afce542/virtualization/center.json) | Ignored | [Details](#d50691e91b65863f8635fbfa8cfb87cf21c0471f92)
  [virtualization\community\Docset.json](https://github.com/OpenLocalizationOrg/hyperV/blob/273e4a10eaa9c8c8244e5cb53840bdff1afce542/virtualization/community/Docset.json) | Ignored | [Details](#d74ebe4088d2d8baae9703d34e67864dca2dc73794)
  [virtualization\ContainerNodeTitles.csv](https://github.com/OpenLocalizationOrg/hyperV/blob/273e4a10eaa9c8c8244e5cb53840bdff1afce542/virtualization/ContainerNodeTitles.csv) | Ignored | [Details](#c733d78267d27b61d745b22da96352bf5cc37ffe96)
- [virtualization\failure.txt](https://github.com/OpenLocalizationOrg/hyperV/blob/273e4a10eaa9c8c8244e5cb53840bdff1afce542/virtualization/failure.txt) | Ignored | [Details](#d3e566406cb0035e521b3d95a9158f4295e8e3d597)
+ [virtualization\failure.txt](https://github.com/OpenLocalizationOrg/hyperV/blob/273e4a10eaa9c8c8244e5cb53840bdff1afce542/virtualization/failure.txt) | Ignored | [Details](#62678242ac69a2fb5cfa6a2cc3256fd8229fd7f497)
  [virtualization\hyperv_on_windows\about\media\StandardCheckpoints.png](https://github.com/OpenLocalizationOrg/hyperV/blob/273e4a10eaa9c8c8244e5cb53840bdff1afce542/virtualization/hyperv_on_windows/about/media/StandardCheckpoints.png) | Ignored | [Details](#907679edd04736394d4e796f706436d114baec4f100)
  [virtualization\hyperv_on_windows\Docset.json](https://github.com/OpenLocalizationOrg/hyperV/blob/273e4a10eaa9c8c8244e5cb53840bdff1afce542/virtualization/hyperv_on_windows/Docset.json) | Ignored | [Details](#28b6d7b9695ac2b8811091ac4020e8c242aef8ae105)
  [virtualization\hyperv_on_windows\media\10.png](https://github.com/OpenLocalizationOrg/hyperV/blob/273e4a10eaa9c8c8244e5cb53840bdff1afce542/virtualization/hyperv_on_windows/media/10.png) | Ignored | [Details](#c03a5c80b30140cb497ed0bff018bab4b304d835107)
@@ -1472,7 +1472,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='d3e566406cb0035e521b3d95a9158f4295e8e3d597'></a> Source: [virtualization\failure.txt](https://github.com/OpenLocalizationOrg/hyperV/blob/273e4a10eaa9c8c8244e5cb53840bdff1afce542/virtualization/failure.txt)
+##### <a name='62678242ac69a2fb5cfa6a2cc3256fd8229fd7f497'></a> Source: [virtualization\failure.txt](https://github.com/OpenLocalizationOrg/hyperV/blob/273e4a10eaa9c8c8244e5cb53840bdff1afce542/virtualization/failure.txt)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
