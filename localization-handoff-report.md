@@ -1,45 +1,11 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 2
+ Total Files | 0
 
 ## File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [virtualization\windowscontainers\quick_start\manage_powershell.md](https://github.com/OpenLocalizationOrg/hyperV/blob/273e4a10eaa9c8c8244e5cb53840bdff1afce542/virtualization/windowscontainers/quick_start/manage_powershell.md) | OutofSyncHandedBackSuccess | [Details](#8072344dba9d8f7a1a59b8444801054d3c59095f230)
- [virtualization\windowscontainers\quick_start\quickstart.md](https://github.com/OpenLocalizationOrg/hyperV/blob/273e4a10eaa9c8c8244e5cb53840bdff1afce542/virtualization/windowscontainers/quick_start/quickstart.md) | OutofSyncHandedBackSuccess | [Details](#924e2e370be9a3c1123f84902e4b26e5bd333d76264)
 
 ## Item Details
-##### <a name='8072344dba9d8f7a1a59b8444801054d3c59095f230'></a> Source: [virtualization\windowscontainers\quick_start\manage_powershell.md](https://github.com/OpenLocalizationOrg/hyperV/blob/273e4a10eaa9c8c8244e5cb53840bdff1afce542/virtualization/windowscontainers/quick_start/manage_powershell.md)
-* Status: OutofSyncHandedBackSuccess
-* Target File: 
-* Handoff File: [manage_powershell.fccfd13be3f4bd16afbe4f31a5ca5ed4e93806b7.zh-tw.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/1f92ad28e615702597ea172e7b7feb1fde56fffb/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/manage_powershell.fccfd13be3f4bd16afbe4f31a5ca5ed4e93806b7.zh-tw.xlf)
-* Handoff Datetime: 2016-02-22 13:34:53
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* Current Target File: [virtualization\windowscontainers\quick_start\manage_powershell.md](https://github.com/OpenLocalizationOrg/hyperV.zh-tw/blob/192aad52ec9cd6d13541daecbe66300ab25a8bf9/virtualization/windowscontainers/quick_start/manage_powershell.md)
-* Current Handback File: [manage_powershell.fccfd13be3f4bd16afbe4f31a5ca5ed4e93806b7.zh-tw.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/23b7cc78a121cc16a17caf613e5be1a5d8876d1e/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/manage_powershell.fccfd13be3f4bd16afbe4f31a5ca5ed4e93806b7.zh-tw.xlf)
-* Current Handback Datetime: 2016-02-22 08:59:06
-* [Back to Top](#report-top)
-
-##### <a name='924e2e370be9a3c1123f84902e4b26e5bd333d76264'></a> Source: [virtualization\windowscontainers\quick_start\quickstart.md](https://github.com/OpenLocalizationOrg/hyperV/blob/273e4a10eaa9c8c8244e5cb53840bdff1afce542/virtualization/windowscontainers/quick_start/quickstart.md)
-* Status: OutofSyncHandedBackSuccess
-* Target File: 
-* Handoff File: [quickstart.162635dd9e091e7f54e55d5a354f09231e2393d5.zh-tw.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/1f92ad28e615702597ea172e7b7feb1fde56fffb/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/quickstart.162635dd9e091e7f54e55d5a354f09231e2393d5.zh-tw.xlf)
-* Handoff Datetime: 2016-02-22 13:34:53
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* Current Target File: [virtualization\windowscontainers\quick_start\quickstart.md](https://github.com/OpenLocalizationOrg/hyperV.zh-tw/blob/192aad52ec9cd6d13541daecbe66300ab25a8bf9/virtualization/windowscontainers/quick_start/quickstart.md)
-* Current Handback File: [quickstart.162635dd9e091e7f54e55d5a354f09231e2393d5.zh-tw.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/23b7cc78a121cc16a17caf613e5be1a5d8876d1e/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/quickstart.162635dd9e091e7f54e55d5a354f09231e2393d5.zh-tw.xlf)
-* Current Handback Datetime: 2016-02-22 08:59:06
-* [Back to Top](#report-top)
-
 
 ## Error Details
 
