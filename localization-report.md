@@ -142,7 +142,7 @@
  Source File | Status | Details 
  ----------- | ------ | ------- 
  [.gitignore](https://github.com/OpenLocalizationOrg/hyperV/blob/860e314384e867a9fe3e16326e33e15fcdeb556e/.gitignore) | Ignored | [Details](#53dc443a626b71dd55acef1eb425626a2e091fc60)
- [.localization-config](https://github.com/OpenLocalizationOrg/hyperV/blob/860e314384e867a9fe3e16326e33e15fcdeb556e/.localization-config) | Ignored | [Details](#46841f1ca2d9fa8cb5541fab884663d06b1e5a4f1)
+ [.localization-config](https://github.com/OpenLocalizationOrg/hyperV/blob/860e314384e867a9fe3e16326e33e15fcdeb556e/.localization-config) | Ignored | [Details](#048af782e400f7d526e34cb2cd0d7ecf047c93211)
  [localization.json](https://github.com/OpenLocalizationOrg/hyperV/blob/860e314384e867a9fe3e16326e33e15fcdeb556e/localization.json) | Ignored | [Details](#1c75f714b30e6a61579231eb84beb9c7df76552a2)
  [media\drawing.svg](https://github.com/OpenLocalizationOrg/hyperV/blob/860e314384e867a9fe3e16326e33e15fcdeb556e/media/drawing.svg) | Ignored | [Details](#79cd9853b89adbd61a5c5f4292ace595edd7daab3)
  [media\SVG-with-Hotspot.jpg](https://github.com/OpenLocalizationOrg/hyperV/blob/860e314384e867a9fe3e16326e33e15fcdeb556e/media/SVG-with-Hotspot.jpg) | Ignored | [Details](#3176573c49dfd02925d59556f177497ccb341ed64)
@@ -321,7 +321,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='46841f1ca2d9fa8cb5541fab884663d06b1e5a4f1'></a> Source: [.localization-config](https://github.com/OpenLocalizationOrg/hyperV/blob/860e314384e867a9fe3e16326e33e15fcdeb556e/.localization-config)
+##### <a name='048af782e400f7d526e34cb2cd0d7ecf047c93211'></a> Source: [.localization-config](https://github.com/OpenLocalizationOrg/hyperV/blob/860e314384e867a9fe3e16326e33e15fcdeb556e/.localization-config)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
