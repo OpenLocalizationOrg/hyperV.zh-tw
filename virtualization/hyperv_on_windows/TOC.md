@@ -10,8 +10,6 @@
 
 ### [Whats New](about/whats_new.md)
 
-## [Build](about/build.md)
-
 ## Develop
 
 ### [Make Mgmt Service](develop/make_mgmt_service.md)
