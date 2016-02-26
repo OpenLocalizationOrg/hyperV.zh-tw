@@ -20,7 +20,7 @@
 
 ### [Walkthrough](quick_start/walkthrough.md)
 
-### [walkthrough checkpoints](quick_start/walkthrough_checkpoints.md)
+### [walkthrough checkpoints](quick_start/walkthrough_checkpoints1.md)
 
 ### [walkthrough compatibility](quick_start/walkthrough_compatibility.md)
 
