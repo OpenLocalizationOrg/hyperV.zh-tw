@@ -10,8 +10,6 @@
 
 ## Develop
 
-### [Make Mgmt Service](develop/make_mgmt_service.md)
-
 ### [Powershell Snippets](develop/powershell_snippets.md)
 
 ## Quick Start
