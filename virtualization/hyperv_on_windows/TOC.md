@@ -1,7 +1,5 @@
 # HyperV
 
-## [Welcome to Hyper-V on Windows 10](windows_welcome1.md)
-
 ## About
 
 ### [Hyper-v on Windows](about/hyperv_on_windows_new.md)
