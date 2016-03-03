@@ -4,7 +4,7 @@ Hyper-V Manager provides tools for diagnosing and managing your local Hyper-V ho
 
 To connect to a Hyper-V host in Hyper-V Manager, make sure **Hyper-V Manager** is selected in the left hand pane and then select **Connect to Server...** in the right-hand pane.
 
-![](media/HyperVManager-ConnectToHost.png)
+![](media/HyperVManager-ConnectToHost1.png)
 
 ## Supported Hyper-V host combinations with Hyper-V Manager
 
