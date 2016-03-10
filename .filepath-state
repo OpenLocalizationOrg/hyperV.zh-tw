@@ -143,6 +143,9 @@
   "8b5e8f8277dd3bb9ae0df0f19c95fd9f1a2f47e3": [
     "virtualization\\hyperv_on_windows\\quick_start\\media\\restart.png"
   ],
+  "78628b4f06ad2b87d32783bc1adde69f0ae52fe6": [
+    "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_powershell.md"
+  ],
   "d5ff93f76a16632d5909862b698bee3b388b3e9d": [
     "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_powershell.md"
   ],
