@@ -255,6 +255,10 @@
   "97b7a61587c66152db853a90d5be37c9132d7db1": [
     "virtualization\\hyperv_on_windows\\windows_welcome1.md"
   ],
+  "a26fcbf2016944cace1f75451c1ad50d55313943": [
+    "virtualization\\windowscontainers\\EULA.md",
+    "virtualization\\hyperv_on_windows\\ECULA.md"
+  ],
   "fa53c214597e4b34fa08c4682e0fc032441f3edc": [
     "virtualization\\windowscontainers\\EULA.md"
   ],
