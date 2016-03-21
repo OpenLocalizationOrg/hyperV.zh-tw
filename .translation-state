@@ -8,6 +8,7 @@
       "SourceFilePath": "virtualization\\community\\community_overview.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\community\\community_overview.md"
       ],
@@ -44,6 +45,7 @@
       "SourceFilePath": "virtualization\\community\\TOC.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\community\\TOC.md"
       ],
@@ -80,6 +82,7 @@
       "SourceFilePath": "virtualization\\hyperv_on_windows\\about\\hyperv_on_windows_new.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\about\\hyperv_on_windows_new.md"
       ],
@@ -118,6 +121,7 @@
       "DependencyFrom": [
         "virtualization\\hyperv_on_windows\\about\\hyperv_on_windows_new.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\about\\media\\ProductionCheckpoints_new.png"
       ],
@@ -154,6 +158,7 @@
       "SourceFilePath": "virtualization\\hyperv_on_windows\\about\\supported_guest_os.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\about\\supported_guest_os.md"
       ],
@@ -190,6 +195,7 @@
       "SourceFilePath": "virtualization\\hyperv_on_windows\\about\\whats_new.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\about\\whats_new.md"
       ],
@@ -226,6 +232,7 @@
       "SourceFilePath": "virtualization\\hyperv_on_windows\\develop\\make_mgmt_servic.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\develop\\make_mgmt_servic.md"
       ],
@@ -265,6 +272,7 @@
         "virtualization\\hyperv_on_windows\\develop\\make_mgmt_servic.md",
         "virtualization\\hyperv_on_windows\\windows_welcome1.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\media\\1.png"
       ],
@@ -301,6 +309,7 @@
       "SourceFilePath": "virtualization\\hyperv_on_windows\\develop\\powershell_snippets.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\develop\\powershell_snippets.md"
       ],
@@ -337,6 +346,7 @@
       "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\walkthrough.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough.md"
       ],
@@ -373,6 +383,7 @@
       "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints.md",
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints1.md"
@@ -413,6 +424,7 @@
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints.md",
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints1.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\media\\standard1.png"
       ],
@@ -452,6 +464,7 @@
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints.md",
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints1.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\media\\standard_notepad.png"
       ],
@@ -491,6 +504,7 @@
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints.md",
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints1.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\media\\checkpoint_button.png"
       ],
@@ -530,6 +544,7 @@
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints.md",
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints1.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\media\\save_standard.png"
       ],
@@ -569,6 +584,7 @@
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints.md",
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints1.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\media\\standard_complete.png"
       ],
@@ -608,6 +624,7 @@
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints.md",
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints1.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\media\\production.png"
       ],
@@ -647,6 +664,7 @@
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints.md",
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints1.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\media\\production_CheckpointName.png"
       ],
@@ -686,6 +704,7 @@
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints.md",
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints1.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\media\\production_complete.png"
       ],
@@ -725,6 +744,7 @@
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints.md",
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints1.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\media\\apply_standard.png"
       ],
@@ -764,6 +784,7 @@
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints.md",
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints1.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\media\\standard_applied.png"
       ],
@@ -803,6 +824,7 @@
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints.md",
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints1.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\media\\standard_applied_notepad.png"
       ],
@@ -843,6 +865,7 @@
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_vmconnect.md",
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints1.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\media\\start.png"
       ],
@@ -882,6 +905,7 @@
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints.md",
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints1.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\media\\production_notepad.png"
       ],
@@ -921,6 +945,7 @@
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints.md",
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints1.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\media\\delete_me.png"
       ],
@@ -960,6 +985,7 @@
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints.md",
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints1.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\media\\delete_checkpoint.png"
       ],
@@ -999,6 +1025,7 @@
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints.md",
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints1.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\media\\delete_warn.png"
       ],
@@ -1038,6 +1065,7 @@
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints.md",
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints1.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\media\\after_delete.png"
       ],
@@ -1074,6 +1102,7 @@
       "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_compatibility.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_compatibility.md"
       ],
@@ -1112,6 +1141,7 @@
       "DependencyFrom": [
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_compatibility.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\media\\systeminfo.png"
       ],
@@ -1148,6 +1178,7 @@
       "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_create_vm.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_create_vm.md"
       ],
@@ -1184,6 +1215,7 @@
       "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_export_import.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_export_import.md"
       ],
@@ -1222,6 +1254,7 @@
       "DependencyFrom": [
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_export_import.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\media\\select_export1.png"
       ],
@@ -1260,6 +1293,7 @@
       "DependencyFrom": [
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_export_import.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\media\\click_export.png"
       ],
@@ -1298,6 +1332,7 @@
       "DependencyFrom": [
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_export_import.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\media\\export_progress.png"
       ],
@@ -1336,6 +1371,7 @@
       "DependencyFrom": [
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_export_import.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\media\\export_confirm.png"
       ],
@@ -1372,6 +1408,7 @@
       "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_install.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_install.md"
       ],
@@ -1410,6 +1447,7 @@
       "DependencyFrom": [
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_install.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\media\\programs_and_features.png"
       ],
@@ -1448,6 +1486,7 @@
       "DependencyFrom": [
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_install.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\media\\hyper-v_feature_selected.png"
       ],
@@ -1486,6 +1525,7 @@
       "DependencyFrom": [
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_install.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\media\\restart.png"
       ],
@@ -1522,6 +1562,7 @@
       "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_powershell.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_powershell.md"
       ],
@@ -1560,6 +1601,7 @@
       "DependencyFrom": [
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_powershell.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\media\\command_grid.png"
       ],
@@ -1598,6 +1640,7 @@
       "DependencyFrom": [
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_powershell.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\media\\get_help.png"
       ],
@@ -1636,6 +1679,7 @@
       "DependencyFrom": [
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_powershell.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\media\\get_vm.png"
       ],
@@ -1674,6 +1718,7 @@
       "DependencyFrom": [
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_powershell.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\media\\POSH_CP2.png"
       ],
@@ -1710,6 +1755,7 @@
       "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_virtual_switch.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_virtual_switch.md"
       ],
@@ -1748,6 +1794,7 @@
       "DependencyFrom": [
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_virtual_switch.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\media\\virtual_switch_manager1.png"
       ],
@@ -1786,6 +1833,7 @@
       "DependencyFrom": [
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_virtual_switch.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\media\\new_switch.png"
       ],
@@ -1824,6 +1872,7 @@
       "DependencyFrom": [
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_virtual_switch.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\media\\new_switch_createbutton.png"
       ],
@@ -1862,6 +1911,7 @@
       "DependencyFrom": [
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_virtual_switch.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\media\\share_nic.png"
       ],
@@ -1900,6 +1950,7 @@
       "DependencyFrom": [
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_virtual_switch.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\media\\network_warning.png"
       ],
@@ -1936,6 +1987,7 @@
       "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_vmconnect.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_vmconnect.md"
       ],
@@ -1974,6 +2026,7 @@
       "DependencyFrom": [
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_vmconnect.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\media\\turnoff.png"
       ],
@@ -2012,6 +2065,7 @@
       "DependencyFrom": [
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_vmconnect.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\media\\shutdown.png"
       ],
@@ -2050,6 +2104,7 @@
       "DependencyFrom": [
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_vmconnect.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\media\\save.png"
       ],
@@ -2088,6 +2143,7 @@
       "DependencyFrom": [
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_vmconnect.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\media\\pause.png"
       ],
@@ -2126,6 +2182,7 @@
       "DependencyFrom": [
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_vmconnect.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\media\\reset.png"
       ],
@@ -2164,6 +2221,7 @@
       "DependencyFrom": [
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_vmconnect.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\media\\ctrlaltdel.png"
       ],
@@ -2202,6 +2260,7 @@
       "DependencyFrom": [
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_vmconnect.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\media\\basic.png"
       ],
@@ -2240,6 +2299,7 @@
       "DependencyFrom": [
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_vmconnect.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\media\\checkpoint.png"
       ],
@@ -2278,6 +2338,7 @@
       "DependencyFrom": [
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_vmconnect.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\media\\revert.png"
       ],
@@ -2314,6 +2375,7 @@
       "SourceFilePath": "virtualization\\hyperv_on_windows\\TOC.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\TOC.md"
       ],
@@ -2350,6 +2412,7 @@
       "SourceFilePath": "virtualization\\hyperv_on_windows\\user_guide\\checkpoints.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\user_guide\\checkpoints.md"
       ],
@@ -2386,6 +2449,7 @@
       "SourceFilePath": "virtualization\\hyperv_on_windows\\user_guide\\export_import.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\user_guide\\export_import.md"
       ],
@@ -2422,6 +2486,7 @@
       "SourceFilePath": "virtualization\\hyperv_on_windows\\user_guide\\migrating_vms.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\user_guide\\migrating_vms.md"
       ],
@@ -2458,6 +2523,7 @@
       "SourceFilePath": "virtualization\\hyperv_on_windows\\user_guide\\remote_host_management.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\user_guide\\remote_host_management.md"
       ],
@@ -2496,6 +2562,7 @@
       "DependencyFrom": [
         "virtualization\\hyperv_on_windows\\user_guide\\remote_host_management.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\user_guide\\media\\HyperVManager-ConnectToHost.png"
       ],
@@ -2534,6 +2601,7 @@
       "DependencyFrom": [
         "virtualization\\hyperv_on_windows\\user_guide\\remote_host_management.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\user_guide\\media\\HyperVManager-ConnectToLocalHost.png"
       ],
@@ -2572,6 +2640,7 @@
       "DependencyFrom": [
         "virtualization\\hyperv_on_windows\\user_guide\\remote_host_management.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\user_guide\\media\\HyperVManager-ConnectToRemoteHost.png"
       ],
@@ -2610,6 +2679,7 @@
       "DependencyFrom": [
         "virtualization\\hyperv_on_windows\\user_guide\\remote_host_management.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\user_guide\\media\\HyperVManager-ConnectToRemoteHostAltCreds.png"
       ],
@@ -2646,6 +2716,7 @@
       "SourceFilePath": "virtualization\\hyperv_on_windows\\user_guide\\troubleshooting.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\user_guide\\troubleshooting.md"
       ],
@@ -2682,6 +2753,7 @@
       "SourceFilePath": "virtualization\\hyperv_on_windows\\user_guide\\user_guide_nav.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\user_guide\\user_guide_nav.md"
       ],
@@ -2718,6 +2790,7 @@
       "SourceFilePath": "virtualization\\hyperv_on_windows\\user_guide\\vmsession.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\user_guide\\vmsession.md"
       ],
@@ -2754,6 +2827,7 @@
       "SourceFilePath": "virtualization\\hyperv_on_windows\\windows_welcome1.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\windows_welcome1.md"
       ],
@@ -2790,6 +2864,7 @@
       "SourceFilePath": "virtualization\\windowscontainers\\about\\about_overview.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\windowscontainers\\about\\about_overview.md"
       ],
@@ -2828,6 +2903,7 @@
       "DependencyFrom": [
         "virtualization\\windowscontainers\\about\\about_overview.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\windowscontainers\\about\\media\\containerfund.png"
       ],
@@ -2864,6 +2940,7 @@
       "SourceFilePath": "virtualization\\windowscontainers\\about\\container_ecosystem.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\windowscontainers\\about\\container_ecosystem.md"
       ],
@@ -2902,6 +2979,7 @@
       "DependencyFrom": [
         "virtualization\\windowscontainers\\about\\container_ecosystem.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\windowscontainers\\about\\media\\containerEcosystem.png"
       ],
@@ -2938,6 +3016,7 @@
       "SourceFilePath": "virtualization\\windowscontainers\\about\\faq.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\windowscontainers\\about\\faq.md"
       ],
@@ -2974,6 +3053,7 @@
       "SourceFilePath": "virtualization\\windowscontainers\\about\\work_in_progress.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\windowscontainers\\about\\work_in_progress.md"
       ],
@@ -3010,6 +3090,7 @@
       "SourceFilePath": "virtualization\\windowscontainers\\containers_welcome.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\windowscontainers\\containers_welcome.md"
       ],
@@ -3046,6 +3127,7 @@
       "SourceFilePath": "virtualization\\windowscontainers\\EULA.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\windowscontainers\\EULA.md"
       ],
@@ -3082,6 +3164,7 @@
       "SourceFilePath": "virtualization\\windowscontainers\\quick_start\\azure_setup.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\windowscontainers\\quick_start\\azure_setup.md"
       ],
@@ -3120,6 +3203,7 @@
       "DependencyFrom": [
         "virtualization\\windowscontainers\\quick_start\\azure_setup.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\windowscontainers\\quick_start\\media\\newazure1.png"
       ],
@@ -3158,6 +3242,7 @@
       "DependencyFrom": [
         "virtualization\\windowscontainers\\quick_start\\azure_setup.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\windowscontainers\\quick_start\\media\\newazure2.png"
       ],
@@ -3196,6 +3281,7 @@
       "DependencyFrom": [
         "virtualization\\windowscontainers\\quick_start\\azure_setup.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\windowscontainers\\quick_start\\media\\newazure3.png"
       ],
@@ -3234,6 +3320,7 @@
       "DependencyFrom": [
         "virtualization\\windowscontainers\\quick_start\\azure_setup.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\windowscontainers\\quick_start\\media\\newazure6.png"
       ],
@@ -3272,6 +3359,7 @@
       "DependencyFrom": [
         "virtualization\\windowscontainers\\quick_start\\azure_setup.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\windowscontainers\\quick_start\\media\\newazure7.png"
       ],
@@ -3308,6 +3396,7 @@
       "SourceFilePath": "virtualization\\windowscontainers\\quick_start\\container_setup.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\windowscontainers\\quick_start\\container_setup.md"
       ],
@@ -3346,6 +3435,7 @@
       "DependencyFrom": [
         "virtualization\\windowscontainers\\quick_start\\container_setup.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\windowscontainers\\quick_start\\media\\containerhost2.png"
       ],
@@ -3382,6 +3472,7 @@
       "SourceFilePath": "virtualization\\windowscontainers\\quick_start\\inplace_setup.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\windowscontainers\\quick_start\\inplace_setup.md"
       ],
@@ -3418,6 +3509,7 @@
       "SourceFilePath": "virtualization\\windowscontainers\\quick_start\\manage_docker.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\windowscontainers\\quick_start\\manage_docker.md"
       ],
@@ -3457,6 +3549,7 @@
         "virtualization\\windowscontainers\\quick_start\\manage_docker.md",
         "virtualization\\windowscontainers\\quick_start\\manage_powershell.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\windowscontainers\\quick_start\\media\\cmd.png"
       ],
@@ -3496,6 +3589,7 @@
         "virtualization\\windowscontainers\\quick_start\\manage_docker.md",
         "virtualization\\windowscontainers\\quick_start\\manage_powershell.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\windowscontainers\\quick_start\\media\\newazure9.png"
       ],
@@ -3534,6 +3628,7 @@
       "DependencyFrom": [
         "virtualization\\windowscontainers\\quick_start\\manage_docker.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\windowscontainers\\quick_start\\media\\docker1.png"
       ],
@@ -3573,6 +3668,7 @@
         "virtualization\\windowscontainers\\quick_start\\manage_docker.md",
         "virtualization\\windowscontainers\\quick_start\\manage_powershell.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\windowscontainers\\quick_start\\media\\nginx.png"
       ],
@@ -3612,6 +3708,7 @@
         "virtualization\\windowscontainers\\quick_start\\manage_docker.md",
         "virtualization\\windowscontainers\\quick_start\\manage_powershell.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\windowscontainers\\quick_start\\media\\hello.png"
       ],
@@ -3648,6 +3745,7 @@
       "SourceFilePath": "virtualization\\windowscontainers\\quick_start\\manage_powershell.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\windowscontainers\\quick_start\\manage_powershell.md"
       ],
@@ -3684,6 +3782,7 @@
       "SourceFilePath": "virtualization\\windowscontainers\\quick_start\\quickstart.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\windowscontainers\\quick_start\\quickstart.md"
       ],
@@ -3720,6 +3819,7 @@
       "SourceFilePath": "virtualization\\windowscontainers\\reference\\app_compat.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\windowscontainers\\reference\\app_compat.md"
       ],
@@ -3756,6 +3856,7 @@
       "SourceFilePath": "virtualization\\windowscontainers\\reference\\powershell_overview.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\windowscontainers\\reference\\powershell_overview.md"
       ],
@@ -3792,6 +3893,7 @@
       "SourceFilePath": "virtualization\\windowscontainers\\reference\\ps_docker_comparison.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\windowscontainers\\reference\\ps_docker_comparison.md"
       ],
@@ -3828,6 +3930,7 @@
       "SourceFilePath": "virtualization\\windowscontainers\\TOC.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\windowscontainers\\TOC.md"
       ],
@@ -3864,6 +3967,7 @@
       "SourceFilePath": "virtualization\\hyperv_on_windows\\windows_welcome1.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\windows_welcome1.md"
       ],
@@ -3892,6 +3996,7 @@
       "SourceFilePath": "virtualization\\hyperv_on_windows\\windows_welcome1.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\windows_welcome1.md"
       ],
@@ -3920,6 +4025,7 @@
       "SourceFilePath": "virtualization\\windowscontainers\\containers_welcome.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\windowscontainers\\containers_welcome.md"
       ],
@@ -3948,6 +4054,7 @@
       "SourceFilePath": "virtualization\\hyperv_on_windows\\windows_welcome1.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\windows_welcome1.md"
       ],
@@ -3976,6 +4083,7 @@
       "SourceFilePath": "virtualization\\hyperv_on_windows\\windows_welcome1.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\windows_welcome1.md"
       ],
@@ -4004,6 +4112,7 @@
       "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_compatibility.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_compatibility.md"
       ],
@@ -4032,6 +4141,7 @@
       "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_create_vm.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_create_vm.md"
       ],
@@ -4060,6 +4170,7 @@
       "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_compatibility.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_compatibility.md"
       ],
@@ -4088,6 +4199,7 @@
       "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_create_vm.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_create_vm.md"
       ],
@@ -4116,6 +4228,7 @@
       "SourceFilePath": "virtualization\\windowscontainers\\quick_start\\manage_powershell.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\windowscontainers\\quick_start\\manage_powershell.md"
       ],
@@ -4144,6 +4257,7 @@
       "SourceFilePath": "virtualization\\windowscontainers\\quick_start\\quickstart.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\windowscontainers\\quick_start\\quickstart.md"
       ],
@@ -4172,6 +4286,7 @@
       "SourceFilePath": "virtualization\\windowscontainers\\quick_start\\quickstart.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\windowscontainers\\quick_start\\quickstart.md"
       ],
@@ -4200,6 +4315,7 @@
       "SourceFilePath": "virtualization\\hyperv_on_windows\\windows_welcome1.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\windows_welcome1.md"
       ],
@@ -4228,6 +4344,7 @@
       "SourceFilePath": "virtualization\\windowscontainers\\containers_welcome.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\windowscontainers\\containers_welcome.md"
       ],
@@ -4256,6 +4373,7 @@
       "SourceFilePath": "virtualization\\hyperv_on_windows\\windows_welcome1.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\windows_welcome1.md"
       ],
@@ -4284,6 +4402,7 @@
       "SourceFilePath": "virtualization\\windowscontainers\\containers_welcome.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\windowscontainers\\containers_welcome.md"
       ],
@@ -4312,6 +4431,7 @@
       "SourceFilePath": "virtualization\\hyperv_on_windows\\windows_welcome1.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\windows_welcome1.md"
       ],
@@ -4340,6 +4460,7 @@
       "SourceFilePath": "virtualization\\hyperv_on_windows\\windows_welcome1.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\windows_welcome1.md"
       ],
@@ -4370,6 +4491,7 @@
       "DependencyFrom": [
         "virtualization\\hyperv_on_windows\\windows_welcome1.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\media\\22222.png"
       ],
@@ -4398,6 +4520,7 @@
       "SourceFilePath": "virtualization\\hyperv_on_windows\\TOC.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\TOC.md"
       ],
@@ -4426,6 +4549,7 @@
       "SourceFilePath": "virtualization\\windowscontainers\\EULA.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\windowscontainers\\EULA.md"
       ],
@@ -4454,6 +4578,7 @@
       "SourceFilePath": "virtualization\\windowscontainers\\EULA.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\windowscontainers\\EULA.md"
       ],
@@ -4482,6 +4607,7 @@
       "SourceFilePath": "virtualization\\hyperv_on_windows\\ECULA.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\ECULA.md",
         "virtualization\\windowscontainers\\EULA.md"
