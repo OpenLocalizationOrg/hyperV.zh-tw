@@ -1,4 +1,10 @@
 {
+  "ed968510a1e72e532a3e4df850bed9a40050619c": [
+    "virtualization\\community\\community_overview.md"
+  ],
+  "d95757903564f8beea62ad4d2977764d431eeeb8": [
+    "virtualization\\community\\TOC.md"
+  ],
   "cbbce5951ccdf4ff1a3a5b98adf62f364c5c9aed": [
     "virtualization\\hyperv_on_windows\\about\\hyperv_on_windows_new.md"
   ],
@@ -255,6 +261,36 @@
   "97b7a61587c66152db853a90d5be37c9132d7db1": [
     "virtualization\\hyperv_on_windows\\windows_welcome1.md"
   ],
+  "c7ff2602aef25add233f1e67bc0e020244895c48": [
+    "virtualization\\windowscontainers\\about\\about_overview.md"
+  ],
+  "b62d8af1f08bc8085945c8aa154d46d2215879cb": [
+    "virtualization\\windowscontainers\\about\\media\\containerfund.png"
+  ],
+  "6c0ebd80ac08763eafebe935b08194a526ad59fa": [
+    "virtualization\\windowscontainers\\about\\container_ecosystem.md"
+  ],
+  "93ee375f9efb3462c5d1e4ba45248fe9dde58566": [
+    "virtualization\\windowscontainers\\about\\media\\containerEcosystem.png"
+  ],
+  "f176f83a5f5bc76e32b5687866d2ced7d0a91d57": [
+    "virtualization\\windowscontainers\\about\\faq.md"
+  ],
+  "090e2dccc937df4c7a80f63b447cb733af5020a3": [
+    "virtualization\\windowscontainers\\about\\work_in_progress.md"
+  ],
+  "aa0f803f7afebd865daf559531ae19c72a5fea16": [
+    "virtualization\\windowscontainers\\containers_welcome.md"
+  ],
+  "ca249ae473cdfa1a833643178216f068e03b7bcc": [
+    "virtualization\\windowscontainers\\containers_welcome.md"
+  ],
+  "36274411771e3a81a3ef3a400d92d3318726a99d": [
+    "virtualization\\windowscontainers\\containers_welcome.md"
+  ],
+  "f7fbf5b58053a266372ccb205942ba9b61446640": [
+    "virtualization\\windowscontainers\\containers_welcome.md"
+  ],
   "a26fcbf2016944cace1f75451c1ad50d55313943": [
     "virtualization\\windowscontainers\\EULA.md",
     "virtualization\\hyperv_on_windows\\ECULA.md"
@@ -268,7 +304,3956 @@
   "7640a837f02d2e4f4bcc6bc9ca66b5a5c37eef32": [
     "virtualization\\windowscontainers\\EULA.md"
   ],
+  "deea6a30461322b6de7138425b7c24f131bca51b": [
+    "virtualization\\windowscontainers\\quick_start\\azure_setup.md"
+  ],
+  "1727f8f50a45ba27cbd0854ad59b26ad639f9e6f": [
+    "virtualization\\windowscontainers\\quick_start\\media\\newazure1.png"
+  ],
+  "763c92da0f923fce31efd828797c46d750a5464b": [
+    "virtualization\\windowscontainers\\quick_start\\media\\newazure2.png"
+  ],
+  "f34159504927f72f5ef7ccfc8e34ff53c0bec230": [
+    "virtualization\\windowscontainers\\quick_start\\media\\newazure3.png"
+  ],
+  "fccb0dc2730588ddf6851ad3189dd6dd4dc06b74": [
+    "virtualization\\windowscontainers\\quick_start\\media\\newazure6.png"
+  ],
+  "ac6168b0f3d4e8b2044dd10d1dba101e2290f1d8": [
+    "virtualization\\windowscontainers\\quick_start\\media\\newazure7.png"
+  ],
+  "bca267ee574504e3cb6d2c42f2aa095a3ace3619": [
+    "virtualization\\windowscontainers\\quick_start\\container_setup.md"
+  ],
+  "439993aa3c0ae15d11beb2046585c1bb19629c87": [
+    "virtualization\\windowscontainers\\quick_start\\media\\containerhost2.png"
+  ],
+  "8ff71abc14066d1fcaf3324d44c3e6be492a93cc": [
+    "virtualization\\windowscontainers\\quick_start\\inplace_setup.md"
+  ],
+  "f33e1b71d387e12b9baf442cdbf79912961da149": [
+    "virtualization\\windowscontainers\\quick_start\\manage_docker.md"
+  ],
+  "381c1908855b7bfb04cda840a0792a563345b1a8": [
+    "virtualization\\windowscontainers\\quick_start\\media\\cmd.png"
+  ],
+  "530bd64d6f6f4ac321bc8a76d9c1b990b2ab338c": [
+    "virtualization\\windowscontainers\\quick_start\\media\\newazure9.png"
+  ],
+  "09f8ea3c577b2683ba069e9b197ef3f5c9681ead": [
+    "virtualization\\windowscontainers\\quick_start\\media\\docker1.png"
+  ],
+  "a9f175f23fed1475c227ec1af2c524c918024bc4": [
+    "virtualization\\windowscontainers\\quick_start\\media\\nginx.png"
+  ],
+  "19c1070cee496d52eba1b2ce80f4f939edccdffd": [
+    "virtualization\\windowscontainers\\quick_start\\media\\hello.png"
+  ],
+  "8072344dba9d8f7a1a59b8444801054d3c59095f": [
+    "virtualization\\windowscontainers\\quick_start\\manage_powershell.md"
+  ],
+  "2f9c7f95a4e72adc022197ab57bc701ad4ba9e4a": [
+    "virtualization\\windowscontainers\\quick_start\\manage_powershell.md"
+  ],
+  "70c133bd362c877067a632568f3f3c495c1212ee": [
+    "virtualization\\windowscontainers\\quick_start\\quickstart.md"
+  ],
+  "924e2e370be9a3c1123f84902e4b26e5bd333d76": [
+    "virtualization\\windowscontainers\\quick_start\\quickstart.md"
+  ],
+  "8c1510a894cbdfdb23c23ecdeeeedb2197e43c63": [
+    "virtualization\\windowscontainers\\quick_start\\quickstart.md"
+  ],
+  "72f87d2e53fca40a971aaf3a64bed0cc84d3de03": [
+    "virtualization\\windowscontainers\\reference\\app_compat.md"
+  ],
+  "041b88830b633f85459d3b5be24b0d68ba8071bd": [
+    "virtualization\\windowscontainers\\reference\\powershell_overview.md"
+  ],
+  "a9225b180b1df05d803b0ba2f23be237d7176f4d": [
+    "virtualization\\windowscontainers\\reference\\ps_docker_comparison.md"
+  ],
+  "c9a613b41195c01471a39d59e0fccdb2e226b08a": [
+    "virtualization\\windowscontainers\\TOC.md"
+  ],
   "f3f1f06ec428a26e56c99689a1c3dfad72ff4460": [
     "virtualization\\hyperv_on_windows\\media\\22222.png"
+  ],
+  "10d97e51ca4c40b768362fb1b9e1194b62d907b8": [
+    "articles\\active-directory\\active-directory-aadconnect.md"
+  ],
+  "8fcd417b7f29d51347d0f20af885d00e8b952181": [
+    "articles\\active-directory\\active-directory-aadconnect-accounts-permissions.md"
+  ],
+  "cb3442e591b070437556194c186c5668fea4c2be": [
+    "articles\\active-directory\\active-directory-aadconnect-design-concepts.md"
+  ],
+  "9459b011f2939d8f3d6eb5b6e32a76ed2a45e931": [
+    "articles\\active-directory\\active-directory-aadconnect-dirsync-upgrade-get-started.md"
+  ],
+  "a4dc40c35ec9b6c19a4227f3cc05e86274152790": [
+    "articles\\active-directory\\active-directory-aadconnect-faq.md"
+  ],
+  "d6aacd164111ff36268c38feaf3f0edcadeba100": [
+    "articles\\active-directory\\active-directory-aadconnect-feature-preview.md"
+  ],
+  "c43819a9407ee16a9fd9acbca98d101c55393ed4": [
+    "articles\\active-directory\\active-directory-aadconnect-get-started-custom.md"
+  ],
+  "5c327bb1cc5fa2aaddfd2da0ace91668bcfa297d": [
+    "articles\\active-directory\\active-directory-aadconnect-get-started-custom-device-writeback.md"
+  ],
+  "8cef4725949001617a0dfd8e4aefc66018302b96": [
+    "articles\\active-directory\\active-directory-aadconnect-get-started-express.md"
+  ],
+  "687c59eed0b8c7ad5b2518ed3d58727fb72b755d": [
+    "articles\\active-directory\\active-directory-aadconnect-get-started-tools-comparison.md"
+  ],
+  "08dc97e5a27edfead81c238de4c3d59e4f547224": [
+    "articles\\active-directory\\active-directory-aadconnect-health.md"
+  ],
+  "e9c21aeaed6a4d94cce934d34476820bf62e47f7": [
+    "articles\\active-directory\\active-directory-aadconnect-health-adfs.md"
+  ],
+  "109c8b90df4d638840c52ed2894871a2a93406c3": [
+    "articles\\active-directory\\active-directory-aadconnect-health-agent-install.md"
+  ],
+  "bb3cde6f47fbacbd673f401c6865bd1e89e5efdc": [
+    "articles\\active-directory\\active-directory-aadconnect-health-faq.md"
+  ],
+  "a435e87b1b588f93c90442d047529a97cbeeb95a": [
+    "articles\\active-directory\\active-directory-aadconnect-health-operations.md"
+  ],
+  "b459c165e2cc32e37577abaffb244e8afaa3b68b": [
+    "articles\\active-directory\\active-directory-aadconnect-health-sync.md"
+  ],
+  "e3ec42dd91b8e5ac27b57c5477b89d53f111989a": [
+    "articles\\active-directory\\active-directory-aadconnect-multiple-domains.md"
+  ],
+  "e35a62fd479f3c4b78257603500b91014211c043": [
+    "articles\\active-directory\\active-directory-aadconnect-o365-certs.md"
+  ],
+  "e05d61c066a26ebaafd5b0c1100478e2704b592c": [
+    "articles\\active-directory\\active-directory-aadconnect-prerequisites.md"
+  ],
+  "35cf1064f188682b7e8f2d98a2aff309c7501b6b": [
+    "articles\\active-directory\\active-directory-aadconnectsync-attributes-synchronized.md"
+  ],
+  "3858134f4d28b188227fae29de01b75b82cb236c": [
+    "articles\\active-directory\\active-directory-aadconnectsync-best-practices-changing-default-configuration.md"
+  ],
+  "daae9383eb6e0c68e9a2ee2b6101b675f0581e66": [
+    "articles\\active-directory\\active-directory-aadconnectsync-configure-filtering.md"
+  ],
+  "f8a982d811c5dea7e3fb677f563decbaf70c4f93": [
+    "articles\\active-directory\\active-directory-aadconnectsync-connector-domino.md"
+  ],
+  "4fcde13f59fe579007808566458aee74fe5bc850": [
+    "articles\\active-directory\\active-directory-aadconnectsync-connector-genericldap.md"
+  ],
+  "b97c5bee7e237d068c4d556ee59023dca242a3da": [
+    "articles\\active-directory\\active-directory-aadconnectsync-connector-genericsql.md"
+  ],
+  "c219d43a285c3edd874fe045f13230655d15d212": [
+    "articles\\active-directory\\active-directory-aadconnectsync-connector-powershell.md"
+  ],
+  "4bf254cc69cda936d716de18c33ad3ce44d3124a": [
+    "articles\\active-directory\\active-directory-aadconnectsync-feature-prevent-accidental-deletes.md"
+  ],
+  "6c0b1e4b5c6896d3f7bb0d7034fb7aba2b7774b5": [
+    "articles\\active-directory\\active-directory-aadconnectsync-functions-reference.md"
+  ],
+  "69ee9767b172c3d64e4944285496a021c9bf5912": [
+    "articles\\active-directory\\active-directory-aadconnectsync-implement-password-synchronization.md"
+  ],
+  "c7efa18d21ad2ecd4953f82f9d0250a936f67383": [
+    "articles\\active-directory\\active-directory-aadconnectsync-operations.md"
+  ],
+  "c27231a1d2561d5b9f302380bbe48eefb8c36529": [
+    "articles\\active-directory\\active-directory-aadconnectsync-technical-concepts.md"
+  ],
+  "950fa93f5dbf28a052602674b50516abb77f7056": [
+    "articles\\active-directory\\active-directory-aadconnectsync-understanding-declarative-provisioning-expressions.md"
+  ],
+  "24dacb1ed8ce6130e74082e1706388842c86ec7f": [
+    "articles\\active-directory\\active-directory-aadconnectsync-understanding-default-configuration.md"
+  ],
+  "5f553d579dc5e56e03316a8fe0229fa8b21f3079": [
+    "articles\\active-directory\\active-directory-aadconnectsync-understanding-users-and-contacts.md"
+  ],
+  "ff1d87e31ff4e6cf53177a6650d8bd7258b2dce7": [
+    "articles\\active-directory\\active-directory-aadconnectsync-whatis.md"
+  ],
+  "79c225daf85f275a75ab63407805d36cca1000f1": [
+    "articles\\active-directory\\active-directory-aadconnect-topologies.md"
+  ],
+  "2bf588f83b9be4642061684de0e1eca87000ba69": [
+    "articles\\active-directory\\active-directory-aadconnect-user-signin.md"
+  ],
+  "ee10e8b06d678d43d03c47b719874eab83d13b57": [
+    "articles\\active-directory\\active-directory-aadconnect-version-history.md"
+  ],
+  "60aa00c869b2d05d7d5babeaf527a53a7ce43003": [
+    "articles\\active-directory\\active-directory-aadconnect-whats-next.md"
+  ],
+  "7ba5dcd6e90cf4f4b9ef89a10a48b1188fbe1769": [
+    "articles\\active-directory\\active-directory-accessmanagement-dedicated-groups.md"
+  ],
+  "ca20461c8fe877c20830bb89d7f340ad5d6fff66": [
+    "articles\\active-directory\\active-directory-accessmanagement-group-saasapps.md"
+  ],
+  "dbcc981fe5fce1bd168aaab87e7c926832d47168": [
+    "articles\\active-directory\\active-directory-accessmanagement-groups-with-advanced-rules.md"
+  ],
+  "6d54a82b5082317d4b7502096be00ca4d0259555": [
+    "articles\\active-directory\\active-directory-accessmanagement-manage-groups.md"
+  ],
+  "ddebe742aec368ad441c4a147a2c4333d2b860ef": [
+    "articles\\active-directory\\active-directory-accessmanagement-managing-group-owners.md"
+  ],
+  "a1ec85c04f3e6b5a32e4080ecd58dd9e756f8c6b": [
+    "articles\\active-directory\\active-directory-accessmanagement-self-service-group-management.md"
+  ],
+  "f907e1ce7fe2f1db81bfa0f50670a175521e1bb6": [
+    "articles\\active-directory\\active-directory-accessmanagement-simplerulegroup.md"
+  ],
+  "43755e86bf2d1596d164035bf7676309fe19366b": [
+    "articles\\active-directory\\active-directory-accessmanagement-troubleshooting.md"
+  ],
+  "ed1642e4cfbc438efb3fb98ef7975b4ae61b8308": [
+    "articles\\active-directory\\active-directory-add-company-branding.md"
+  ],
+  "f41ee10a3541a9e204f621ba20f82430bbed21d0": [
+    "articles\\active-directory\\active-directory-add-domain.md"
+  ],
+  "4b5f1195b5d065d9701f5dc436ec4e7d9b3b878e": [
+    "articles\\active-directory\\active-directory-administer.md"
+  ],
+  "9077c6793f1b0e666bc707fd59dc7ba801e6701d": [
+    "articles\\active-directory\\active-directory-administrative-units-management.md"
+  ],
+  "6158f26498ba049530b27a82c2ffb7f883fde514": [
+    "articles\\active-directory\\active-directory-app-gallery-listing.md"
+  ],
+  "464424d78ec097e8f9d1c9ed5c4402330d6828ff": [
+    "articles\\active-directory\\active-directory-application-manifest.md"
+  ],
+  "af5ca9639124bc75ac692742645cbc40b61ccb21": [
+    "articles\\active-directory\\active-directory-application-objects.md"
+  ],
+  "93553e4c6d48d7bbcf29cfc6281396e8a8845625": [
+    "articles\\active-directory\\active-directory-application-proxy-claims-aware-apps.md"
+  ],
+  "ad4d9b96768f99e0c9918056146b56afe8732409": [
+    "articles\\active-directory\\active-directory-application-proxy-conditional-access.md"
+  ],
+  "619766099da6bdce0853d1d83ffd966ca67f11a6": [
+    "articles\\active-directory\\active-directory-application-proxy-connectors.md"
+  ],
+  "7386cddcf35d452d792680cb0bb15e97bda79bd4": [
+    "articles\\active-directory\\active-directory-application-proxy-custom-domains.md"
+  ],
+  "fd02fbdf5f27c06a995b2e6be8ec1fc494df5449": [
+    "articles\\active-directory\\active-directory-application-proxy-enable.md"
+  ],
+  "743933443617243158f9db8f594f716a0e39cbda": [
+    "articles\\active-directory\\active-directory-application-proxy-get-started.md"
+  ],
+  "d337fa765ebce16567915b9a60575b8e3ebcd5b5": [
+    "articles\\active-directory\\active-directory-application-proxy-native-client.md"
+  ],
+  "76b99b512ddb25768cb2735715a01a11a63ad7e2": [
+    "articles\\active-directory\\active-directory-application-proxy-publish.md"
+  ],
+  "47e0327d4c2999e5644df909798b0a0304ecb63f": [
+    "articles\\active-directory\\active-directory-application-proxy-silent-installation.md"
+  ],
+  "110761e397911fc24b9aeb29e9785070b3b59d27": [
+    "articles\\active-directory\\active-directory-application-proxy-sso-using-kcd.md"
+  ],
+  "1f4569880612dce10b91fcf21b5bd85325888cd6": [
+    "articles\\active-directory\\active-directory-application-proxy-troubleshoot.md"
+  ],
+  "80abdebf9cabe1c7d685e30b3e70e4d99ea17259": [
+    "articles\\active-directory\\active-directory-applications-guiding-developers-assigning-groups.md"
+  ],
+  "4ace7a7bc6778b3ecaac8c31187a6fa7641bbe27": [
+    "articles\\active-directory\\active-directory-applications-guiding-developers-assigning-users.md"
+  ],
+  "809e80a06c5454cb0997e944e6b34528c30de809": [
+    "articles\\active-directory\\active-directory-applications-guiding-developers-for-lob-applications.md"
+  ],
+  "6753458b9d02ea3a57dfce9ea4dcb3fcc04ec184": [
+    "articles\\active-directory\\active-directory-applications-guiding-developers-requiring-user-assignment.md"
+  ],
+  "146b2c45c92ae8b3dfc3fea9ba3ab91834e47276": [
+    "articles\\active-directory\\active-directory-appmodel-v2-overview.md"
+  ],
+  "91f067fdf12addd08caf1e04755de7829f961a7c": [
+    "articles\\active-directory\\active-directory-appssoaccess-enable-hybrid-access.md"
+  ],
+  "b1c5a014cdc74d549bd91591b73edfc663c298aa": [
+    "articles\\active-directory\\active-directory-appssoaccess-whatis.md"
+  ],
+  "67a0ee3e955692bdd17e8c03c83f27e76c7335e6": [
+    "articles\\active-directory\\active-directory-assign-admin-roles.md"
+  ],
+  "0fcbeb693c95e42d7532c2e0862d5249506f81e8": [
+    "articles\\active-directory\\active-directory-authentication-libraries.md"
+  ],
+  "f081505bbbf6c997cd25fbb7179e28ef77d01771": [
+    "articles\\active-directory\\active-directory-authentication-protocols.md"
+  ],
+  "5427574604a364014ea243b45d976ec766349e67": [
+    "articles\\active-directory\\active-directory-authentication-scenarios.md"
+  ],
+  "965a017a8b8e4f9f857e857be421198a3e9d7354": [
+    "articles\\active-directory\\active-directory-azureadjoin-deployment-aadjoindirect.md"
+  ],
+  "025aac5d075baca5ff5930e69c1a2bb70f548d2e": [
+    "articles\\active-directory\\active-directory-azureadjoin-devices-group-policy.md"
+  ],
+  "73ccefba8b319c2769d46b5d18a3dd3616a1fbb0": [
+    "articles\\active-directory\\active-directory-azureadjoin-overview.md"
+  ],
+  "bf49df5e976fd2657566533cfa66bf1b569bd205": [
+    "articles\\active-directory\\active-directory-azureadjoin-passport.md"
+  ],
+  "77f4be01ad7de010008bc24c2fb0f6ceb2172612": [
+    "articles\\active-directory\\active-directory-azureadjoin-passport-deployment.md"
+  ],
+  "24378bfc16aef54ee8d4e9b259daabc059aa4b54": [
+    "articles\\active-directory\\active-directory-azureadjoin-personal-device.md"
+  ],
+  "37beb7c2839971e0d3b5fc0a814dabf617af10ff": [
+    "articles\\active-directory\\active-directory-azureadjoin-setup.md"
+  ],
+  "782440ff1d0f7674c7649ef16461d2a626e390d5": [
+    "articles\\active-directory\\active-directory-azureadjoin-user-frx.md"
+  ],
+  "b583f7c46cdf2be20524ba1a0d00f4ef7597d3de": [
+    "articles\\active-directory\\active-directory-azureadjoin-user-upgrade.md"
+  ],
+  "6fe80369bbba54afaca9b4a9acda8f1eb23aa3cb": [
+    "articles\\active-directory\\active-directory-azureadjoin-windows10-devices.md"
+  ],
+  "2c7b386caf2502210cd98fde36b509e093670187": [
+    "articles\\active-directory\\active-directory-azureadjoin-windows10-devices-overview.md"
+  ],
+  "0f64f4c44e34a7f5503db83e1b53770d701d002d": [
+    "articles\\active-directory\\active-directory-b2b-collaboration-overview.md"
+  ],
+  "0522fa49774bf369616f85849087be3774ee8265": [
+    "articles\\active-directory\\active-directory-b2b-current-preview-limitations.md"
+  ],
+  "3200db661278186cda613d365e8130d49bc10986": [
+    "articles\\active-directory\\active-directory-b2b-detailed-walkthrough.md"
+  ],
+  "5f802fa7f496590a9b02bfc670821a930788f402": [
+    "articles\\active-directory\\active-directory-b2b-how-it-works.md"
+  ],
+  "e8b5d2f4ddc24d8798a6e193705b650df570bdd4": [
+    "articles\\active-directory\\active-directory-b2b-references-csv-file-format.md"
+  ],
+  "936d1e024d73645e198de3e9a5e8f7ec54026c36": [
+    "articles\\active-directory\\active-directory-b2b-references-external-user-object-attribute-changes.md"
+  ],
+  "2c7ddf9744140e9febb12b5af739f1b895ad031c": [
+    "articles\\active-directory\\active-directory-b2b-references-external-user-token-format.md"
+  ],
+  "bca1cc97c2631297e63e0c845c67965588dfa122": [
+    "articles\\active-directory\\active-directory-b2b-what-is-azure-ad-b2b.md"
+  ],
+  "f038623d908338965812a7742f7a449d11ff4a20": [
+    "articles\\active-directory\\active-directory-branding-guidelines.md"
+  ],
+  "4ba1b86b18b5a1e557d40595982c6ebdc3e892f9": [
+    "articles\\active-directory\\active-directory-cloudappdiscovery-registry-settings-for-proxy-services.md"
+  ],
+  "8a4f05efc1788abdda8540d5385d991d7414d024": [
+    "articles\\active-directory\\active-directory-cloudappdiscovery-security-and-privacy-considerations.md"
+  ],
+  "e6de32891f6d782d7ec81f1dd9f4e268817db3fa": [
+    "articles\\active-directory\\active-directory-cloudappdiscovery-whatis.md"
+  ],
+  "03445fdd0ca51da2cde49eee70587ce475e608fb": [
+    "articles\\active-directory\\active-directory-code-samples.md"
+  ],
+  "a6d42902f8fc05657a71b21488a8058c02f5c8e1": [
+    "articles\\active-directory\\active-directory-conditional-access.md"
+  ],
+  "a0006882b9970becbae9f1a91c5a51553bbecced": [
+    "articles\\active-directory\\active-directory-conditional-access-automatic-device-registration.md"
+  ],
+  "c33cf57a41d31ff2504a7198daf6e1bdbd507aba": [
+    "articles\\active-directory\\active-directory-conditional-access-automatic-device-registration-windows7.md"
+  ],
+  "8443340b16766cd17f006ab0e5f4c523de0323b6": [
+    "articles\\active-directory\\active-directory-conditional-access-automatic-device-registration-windows8_1.md"
+  ],
+  "dc6af18f3cee5ffdba3696b5393f4a470f1d502a": [
+    "articles\\active-directory\\active-directory-conditional-access-azuread-connected-apps.md"
+  ],
+  "bdf79d074a6682becd0902484d676eaab044fd6c": [
+    "articles\\active-directory\\active-directory-conditional-access-azure-authenticator-app.md"
+  ],
+  "3e714404ce717fdf959b3757e5a5534f2f9617ff": [
+    "articles\\active-directory\\active-directory-conditional-access-device-policies.md"
+  ],
+  "befd5dd427081c32c739d1238946ca8416d99004": [
+    "articles\\active-directory\\active-directory-conditional-access-device-registration-overview.md"
+  ],
+  "215d0a9264376fd4109ec57a215127e97f97e027": [
+    "articles\\active-directory\\active-directory-conditional-access-on-premises-setup.md"
+  ],
+  "48cf70fade7a01d6cfd31b11eda1c4261647ec26": [
+    "articles\\active-directory\\active-directory-create-users.md"
+  ],
+  "60d25b38784481ede541c56b20230f49a0c2edf4": [
+    "articles\\active-directory\\active-directory-developers-guide.md"
+  ],
+  "6c751c48d23c162b98f0735a810356cee1fdbcb1": [
+    "articles\\active-directory\\active-directory-devquickstarts-android.md"
+  ],
+  "0a755a492cdf024ad26f1423cd1178bdddd6f03d": [
+    "articles\\active-directory\\active-directory-devquickstarts-angular.md"
+  ],
+  "f87390ce6aee991959f2e73a9173f24dada70295": [
+    "articles\\active-directory\\active-directory-devquickstarts-cordova.md"
+  ],
+  "5956823bffc8412fef7e8b3e8180e88f9a6ff26e": [
+    "articles\\active-directory\\active-directory-devquickstarts-dotnet.md"
+  ],
+  "7c8bed43b710a179bd1b56fc564bd7e3f18839ec": [
+    "articles\\active-directory\\active-directory-devquickstarts-headless-java.md"
+  ],
+  "0e17667f2cff3b0c11b78cfbd168232690c81717": [
+    "articles\\active-directory\\active-directory-devquickstarts-ios.md"
+  ],
+  "d6cdfc79ccb148b68dc79de9b0afb5707c33edda": [
+    "articles\\active-directory\\active-directory-devquickstarts-openidconnect-nodejs.md"
+  ],
+  "f80b1c3bfc2e50a6dd1511345297acf6e79c0583": [
+    "articles\\active-directory\\active-directory-devquickstarts-webapi-dotnet.md"
+  ],
+  "d376b9e1344c3dbd055a6beaf137b43f3d5e115a": [
+    "articles\\active-directory\\active-directory-devquickstarts-webapi-nodejs.md"
+  ],
+  "14eb78a8e9810878b6505e961f68fff07bb67229": [
+    "articles\\active-directory\\active-directory-devquickstarts-webapp-dotnet.md"
+  ],
+  "45420da8e185026c8710ac67c38d1f41260759dc": [
+    "articles\\active-directory\\active-directory-devquickstarts-webapp-java.md"
+  ],
+  "c157b2d911ea79c637d450901504b784fc160ca2": [
+    "articles\\active-directory\\active-directory-devquickstarts-windowsphone.md"
+  ],
+  "0e5a69b9d7903cab16755b95365f57eddea37ec8": [
+    "articles\\active-directory\\active-directory-devquickstarts-windowsstore.md"
+  ],
+  "a032aaafcfcbb4b396dfb8b91b9a628dbd605f57": [
+    "articles\\active-directory\\active-directory-devquickstarts-xamarin.md"
+  ],
+  "9e05fb8f1ec7aad78af83c93ffa487918bd25cf9": [
+    "articles\\active-directory\\active-directory-dotnet-how-to-use-access-control.md"
+  ],
+  "d667c52fc417db3103e1b2a8fb8f113dcc05d8d8": [
+    "articles\\active-directory\\active-directory-editions.md"
+  ],
+  "078dbfe8d6bcd42afd15e528cbce9a5acf7cebb2": [
+    "articles\\active-directory\\active-directory-enable-sso-scenario.md"
+  ],
+  "e34550faa474ea8b5202f4a47f48a54120e29387": [
+    "articles\\active-directory\\active-directory-get-started.md"
+  ],
+  "c2f54d7fa76ca73b75867483d2a94a6b8400de6c": [
+    "articles\\active-directory\\active-directory-get-started-premium.md"
+  ],
+  "a30119c3b0fcf48f1baa47d23139d1ba25c7a602": [
+    "articles\\active-directory\\active-directory-graph-api.md"
+  ],
+  "bf968aad57a32bb04d398bde5a2a80b5e9f1c8ec": [
+    "articles\\active-directory\\active-directory-graph-api-quickstart.md"
+  ],
+  "1b5d2d9e3f170f533c2493f2c77ecccdf24f0f1f": [
+    "articles\\active-directory\\active-directory-how-applications-are-added.md"
+  ],
+  "f57ef8f0ff4cb4bc986e77736884ca730927a5bf": [
+    "articles\\active-directory\\active-directory-how-subscriptions-associated-directory.md"
+  ],
+  "e9250b172ff4362394940d16c73a8b0807a14182": [
+    "articles\\active-directory\\active-directory-how-to-integrate.md"
+  ],
+  "5dd867d6b2546c52339f070dbca5aa542541cadb": [
+    "articles\\active-directory\\active-directory-howto-tenant.md"
+  ],
+  "92542a79498968b95aa9f9a8d35ecfaeeb0b5704": [
+    "articles\\active-directory\\active-directory-hybrid-identity-design-considerations-accesscontrol-requirements.md"
+  ],
+  "b093c386f6244d75a023dd1af604d68eb3ad4fb7": [
+    "articles\\active-directory\\active-directory-hybrid-identity-design-considerations-business-needs.md"
+  ],
+  "80def17303a8aa86b57e23e4a26c2b327188b91d": [
+    "articles\\active-directory\\active-directory-hybrid-identity-design-considerations-contentmgt-requirements.md"
+  ],
+  "0bae917b384b667ff24d7c63d8b077424f41b921": [
+    "articles\\active-directory\\active-directory-hybrid-identity-design-considerations-dataprotection-requirements.md"
+  ],
+  "473861e835fecc853671a765093ee75c961d26e9": [
+    "articles\\active-directory\\active-directory-hybrid-identity-design-considerations-data-protection-strategy.md"
+  ],
+  "c02532f5be3b93b3052764d91a5527f122c7883b": [
+    "articles\\active-directory\\active-directory-hybrid-identity-design-considerations-directory-sync-requirements.md"
+  ],
+  "c0073a89c7f519e01fd8b80830f5f1918f1ab804": [
+    "articles\\active-directory\\active-directory-hybrid-identity-design-considerations-hybridId-management-tasks.md"
+  ],
+  "060dd8c2a09855c2518ad88efc31826720e1165a": [
+    "articles\\active-directory\\active-directory-hybrid-identity-design-considerations-identity-adoption-strategy.md"
+  ],
+  "06a8bf2875fdd5714fc5c9ba2fcdc0130470a999": [
+    "articles\\active-directory\\active-directory-hybrid-identity-design-considerations-incident-response-requirements.md"
+  ],
+  "b389b3796ae21f3303090ddbe15194b0ca877d8c": [
+    "articles\\active-directory\\active-directory-hybrid-identity-design-considerations-lifecycle-adoption-strategy.md"
+  ],
+  "aa65595ad263f6b59622a44cba8a5a72106fe6fc": [
+    "articles\\active-directory\\active-directory-hybrid-identity-design-considerations-multifactor-auth-requirements.md"
+  ],
+  "79e99e6f5ffaa016a90fffea8a5a160f6b5f6c35": [
+    "articles\\active-directory\\active-directory-hybrid-identity-design-considerations-nextsteps.md"
+  ],
+  "55a9abbcee35214bc464dc6b1f8e0ba7209305ad": [
+    "articles\\active-directory\\active-directory-hybrid-identity-design-considerations-overview.md"
+  ],
+  "cc98e006baa17ce9df1325d16da4e9e39bb07afe": [
+    "articles\\active-directory\\active-directory-integrating-applications.md"
+  ],
+  "32a914a906d96cef11b056a3172b4a35176dfbfb": [
+    "articles\\active-directory\\active-directory-integrating-applications-getting-started.md"
+  ],
+  "a6dbe78aab3d03828db612528dc3e7e49700dd03": [
+    "articles\\active-directory\\active-directory-java-authenticate-users-access-control-eclipse.md"
+  ],
+  "c4a03c2c820bf1374f92af6eaf2f876a7c182765": [
+    "articles\\active-directory\\active-directory-java-view-saml-returned-by-access-control.md"
+  ],
+  "8e11fe7c0c2f195ffbeefd89c50d61b9aee998b8": [
+    "articles\\active-directory\\active-directory-known-networks.md"
+  ],
+  "3b7227526719c14b136d24af615c0bb6e54c06db": [
+    "articles\\active-directory\\active-directory-learn-map.md"
+  ],
+  "88c8a6a79237998a7f4e4a18a211fda4dd815a9b": [
+    "articles\\active-directory\\active-directory-licensing-directory-independence.md"
+  ],
+  "b9255a773417f33d04930de45c4fd71bc782a27b": [
+    "articles\\active-directory\\active-directory-licensing-what-is.md"
+  ],
+  "b5259abaf6fea30df307c954385e239f69905497": [
+    "articles\\active-directory\\active-directory-manage-groups.md"
+  ],
+  "9b73f579430c4f30e487b84b2f6dd80bd6a36006": [
+    "articles\\active-directory\\active-directory-manage-o365-subscription.md"
+  ],
+  "bd6bf6f6db01eb81fd99715c253d9f2ba64f5d27": [
+    "articles\\active-directory\\active-directory-manage-passwords.md"
+  ],
+  "213fbf0115f41ddcda0e1f26087934ebf68121d1": [
+    "articles\\active-directory\\active-directory-managing-access-to-apps.md"
+  ],
+  "72eb8cd3f715b7ac7e792b37d9ad933d08ed4cce": [
+    "articles\\active-directory\\active-directory-new-forest-virtual-machine.md"
+  ],
+  "73d459ca68e1a05db1140f97a49ac169c93d1457": [
+    "articles\\active-directory\\active-directory-next-steps.md"
+  ],
+  "0f7e84f9549f7edcf92c0c11cad32440167b6462": [
+    "articles\\active-directory\\active-directory-passwords.md"
+  ],
+  "b7f21fad162103f5083415dba8007ca05915a161": [
+    "articles\\active-directory\\active-directory-passwords-best-practices.md"
+  ],
+  "ce6c58ecf03e09662915182044f4d4e031c0669f": [
+    "articles\\active-directory\\active-directory-passwords-customize.md"
+  ],
+  "5bf56cc8944941ff223cb2a55644d4d98402ba2a": [
+    "articles\\active-directory\\active-directory-passwords-faq.md"
+  ],
+  "6e79e5ad1a977a50080ca4e6a0af594754b16dbd": [
+    "articles\\active-directory\\active-directory-passwords-get-insights.md"
+  ],
+  "b1da010ec0a81e093a0f6b62bbd922ea7b5c8931": [
+    "articles\\active-directory\\active-directory-passwords-getting-started.md"
+  ],
+  "c7d8a58c3df86a488980a53beddd610733051c62": [
+    "articles\\active-directory\\active-directory-passwords-how-it-works.md"
+  ],
+  "599f01c8eefd025e96159b6a93abd3c42a1d3ae0": [
+    "articles\\active-directory\\active-directory-passwords-learn-more.md"
+  ],
+  "89c7ed781d20860b9f3a26a27e4bca386c30f10c": [
+    "articles\\active-directory\\active-directory-passwords-policy.md"
+  ],
+  "fdbb253f18cfd5bb1541299cf798135f679b4855": [
+    "articles\\active-directory\\active-directory-passwords-set-expiration-policy.md"
+  ],
+  "aa1ccd86b5799ce965438c26836ffd6016962aae": [
+    "articles\\active-directory\\active-directory-passwords-troubleshoot.md"
+  ],
+  "a3e57a65c61f012d3cacf35d366a0b3cc9850ab7": [
+    "articles\\active-directory\\active-directory-passwords-update-your-own-password.md"
+  ],
+  "b407897d12e9459f4bcbd853cd3c31600622fbad": [
+    "articles\\active-directory\\active-directory-privileged-identity-management-configure.md"
+  ],
+  "daff62802b37454d707fe2f9ad01d19ffa7377a9": [
+    "articles\\active-directory\\active-directory-privileged-identity-management-getting-started.md"
+  ],
+  "f13649c5866c03cfd1c6df82af9bf346c765d2ad": [
+    "articles\\active-directory\\active-directory-privileged-identity-management-how-to-activate-role.md"
+  ],
+  "2a2ffaadcf29588056bbd6369b828a206412097d": [
+    "articles\\active-directory\\active-directory-privileged-identity-management-how-to-add-role-to-user.md"
+  ],
+  "66785a7be22c42927068d204675b3b7088068474": [
+    "articles\\active-directory\\active-directory-privileged-identity-management-how-to-change-default-settings.md"
+  ],
+  "42a69cf0c548bf307fc81c6e6019cfa392693a98": [
+    "articles\\active-directory\\active-directory-privileged-identity-management-how-to-configure-security-alerts.md"
+  ],
+  "3c22f851e75693147c460e250e46dd9306b8a60f": [
+    "articles\\active-directory\\active-directory-privileged-identity-management-how-to-perform-security-review.md"
+  ],
+  "7def09e739f54a871c53a371c269739de1be79db": [
+    "articles\\active-directory\\active-directory-privileged-identity-management-how-to-require-mfa.md"
+  ],
+  "83b50b183f8f4a11726bc54fd5320f6b28962b1d": [
+    "articles\\active-directory\\active-directory-privileged-identity-management-how-to-start-security-review.md"
+  ],
+  "eea92ea67ff36da8dc5e9e2c6655253d890d715b": [
+    "articles\\active-directory\\active-directory-privileged-identity-management-how-to-use-audit-log.md"
+  ],
+  "323fbc7e83c952b6aaf4ee985182018259941e8a": [
+    "articles\\active-directory\\active-directory-privileged-identity-management-roles.md"
+  ],
+  "ad049bfdc9981ab8aa1497a7a90c6e05de3301c9": [
+    "articles\\active-directory\\active-directory-privileged-identity-management-security-wizard.md"
+  ],
+  "39315ac7f8281626d77d3a54799b99b3b6eaa581": [
+    "articles\\active-directory\\active-directory-reporting-all-user-sign-in-activity-report.md"
+  ],
+  "e2fd930d68b2e92028948e8ef34b45dadd83763a": [
+    "articles\\active-directory\\active-directory-reporting-api-getting-started.md"
+  ],
+  "4a0be4238ff834fc241cf20fcf78a4e38e4a65f5": [
+    "articles\\active-directory\\active-directory-reporting-audit-events.md"
+  ],
+  "c7b1085f8d41f7dd54dc4b7b288292499063239b": [
+    "articles\\active-directory\\active-directory-reporting-backfill.md"
+  ],
+  "efa2ffaa00d3d48fde97ed411d2044cda024a62c": [
+    "articles\\active-directory\\active-directory-reporting-getting-started.md"
+  ],
+  "cbaeb69b31546873510d2916159066f05d42fa45": [
+    "articles\\active-directory\\active-directory-reporting-guide.md"
+  ],
+  "bdf59f1052f33fd12b88dc32ed1436fdc0cb9d37": [
+    "articles\\active-directory\\active-directory-reporting-irregular-sign-in-activity.md"
+  ],
+  "bcf60236235268c7bba60b6046dddb14f8e2ab0d": [
+    "articles\\active-directory\\active-directory-reporting-latencies.md"
+  ],
+  "5798f09475a52ed2435776d2882f9f39c3cf33ee": [
+    "articles\\active-directory\\active-directory-reporting-notifications.md"
+  ],
+  "5e1752782f174866f8adcc10c09e4843c8ffde29": [
+    "articles\\active-directory\\active-directory-reporting-previews.md"
+  ],
+  "c154a69e4e0491ca6eec665bd695c890287979a6": [
+    "articles\\active-directory\\active-directory-reporting-retention.md"
+  ],
+  "3ef5af1074674c31d43e9909c2be83011088cfbc": [
+    "articles\\active-directory\\active-directory-reporting-search.md"
+  ],
+  "0182dd51151b0d0b290741fee33f11773de07f76": [
+    "articles\\active-directory\\active-directory-reporting-sign-ins-after-multiple-failures.md"
+  ],
+  "08897e23f44f245a7cd4ee417e1681ef05305fcc": [
+    "articles\\active-directory\\active-directory-reporting-sign-ins-from-ip-addresses-with-suspicious-activity.md"
+  ],
+  "7d65175b09ce52acf1c01ce61cd24b8e187f3026": [
+    "articles\\active-directory\\active-directory-reporting-sign-ins-from-multiple-geographies.md"
+  ],
+  "f0445ca5fbfc77820067c5bf2a3e5637701cbf09": [
+    "articles\\active-directory\\active-directory-reporting-sign-ins-from-possibly-infected-devices.md"
+  ],
+  "08e4c0448c597c818b17495f6b692c0f1faf454a": [
+    "articles\\active-directory\\active-directory-reporting-sign-ins-from-unknown-sources.md"
+  ],
+  "1a11cc816fdb6730ec4b05ee7c824cc49eb01c18": [
+    "articles\\active-directory\\active-directory-reporting-unknown-actor.md"
+  ],
+  "b6577f4633d4a79c5b838a4627d960bf30b11a0e": [
+    "articles\\active-directory\\active-directory-reporting-users-with-anomalous-sign-in-activity.md"
+  ],
+  "ecdbdc390dce7c0f74dd78c1c5392bece63c6fe8": [
+    "articles\\active-directory\\active-directory-saas-15five-tutorial.md"
+  ],
+  "5e89119c72eedeb496d8ae507c3d710d2e957f34": [
+    "articles\\active-directory\\active-directory-saas-23video-tutorial.md"
+  ],
+  "161b3ae57e079120fdcf95c0a82d17abfa854448": [
+    "articles\\active-directory\\active-directory-saas-aba-sainsburys-connect-tutorial.md"
+  ],
+  "deb8a404e4b57ca81f9eaca7dd6f7ba27be5f3f0": [
+    "articles\\active-directory\\active-directory-saas-abintegro-tutorial.md"
+  ],
+  "c5a94a90b3e83121bbfedf8611dfee8361b9e641": [
+    "articles\\active-directory\\active-directory-saas-access-panel-introduction.md"
+  ],
+  "aa760b7b3834791b77af46efe93934c89e715faf": [
+    "articles\\active-directory\\active-directory-saas-account-provisioning-notifications.md"
+  ],
+  "99ad8f8832c1534484b48827fd4bab49b6e3b44f": [
+    "articles\\active-directory\\active-directory-saas-adaptive-suite-tutorial.md"
+  ],
+  "7260832ff1786bb0f3d12b0818bc43a07d98487e": [
+    "articles\\active-directory\\active-directory-saas-adobe-echosign-tutorial.md"
+  ],
+  "16161e21aa2896f9178cee1dbc43a831957db6dd": [
+    "articles\\active-directory\\active-directory-saas-aha-tutorial.md"
+  ],
+  "08b9d24f2a4a5f0213cd2da75aab8416f231a936": [
+    "articles\\active-directory\\active-directory-saas-airwatch-tutorial.md"
+  ],
+  "c0d5bbfdfdaddde5144029d66dbd3ee8e9055163": [
+    "articles\\active-directory\\active-directory-saas-alcumus-info-tutorial.md"
+  ],
+  "8a5c68162bcd2255bff490ea247e1ffa8b87e9d0": [
+    "articles\\active-directory\\active-directory-saas-amazon-web-service.md"
+  ],
+  "41297371cfecad4dd394df8ef64627f326422900": [
+    "articles\\active-directory\\active-directory-saas-answerhub-tutorial.md"
+  ],
+  "1b71f4614567608e598ee46015f6581e79ac8617": [
+    "articles\\active-directory\\active-directory-saas-appblade-tutorial.md"
+  ],
+  "ea0f43e50ef9f6f783c80ae71eb4ac56ee367bc2": [
+    "articles\\active-directory\\active-directory-saas-appdynamics-tutorial.md"
+  ],
+  "b236394abb4cffabc5113eebdf4100deff05792b": [
+    "articles\\active-directory\\active-directory-saas-app-provisioning.md"
+  ],
+  "673e212b20bf78ab6ea547b6e22ce8693543d7f5": [
+    "articles\\active-directory\\active-directory-saas-arcgis-tutorial.md"
+  ],
+  "3e28b49b78b191726e601ac9d8bfc54b223ff58f": [
+    "articles\\active-directory\\active-directory-saas-attask-tutorial.md"
+  ],
+  "dd09fb443d25dafca79b2cf6d43c403142fb1acc": [
+    "articles\\active-directory\\active-directory-saas-bamboo-hr-tutorial.md"
+  ],
+  "4aa430dafc26b07dc847afa0144feb982905cd33": [
+    "articles\\active-directory\\active-directory-saas-benefitsolver-tutorial.md"
+  ],
+  "f5e3996cd6b88fbc9e24d2a18131a21ed10aa584": [
+    "articles\\active-directory\\active-directory-saas-bime-tutorial.md"
+  ],
+  "36614cb774d6d8ef8ecd714a27e6b3268ace200b": [
+    "articles\\active-directory\\active-directory-saas-bluejeans-tutorial.md"
+  ],
+  "7a656064377698f607b5eb43e0dac91b3237fb04": [
+    "articles\\active-directory\\active-directory-saas-bonus-tutorial.md"
+  ],
+  "c59e6bf3695b93db4479a6caeb32fe81e73955d3": [
+    "articles\\active-directory\\active-directory-saas-boomi-tutorial.md"
+  ],
+  "e701ec628a89c4553e1abf0fb9234ca5c1ba88b7": [
+    "articles\\active-directory\\active-directory-saas-box-tutorial.md"
+  ],
+  "e05c184da1e9ecca3f13ecb8afc5e95388ccc661": [
+    "articles\\active-directory\\active-directory-saas-brightspace-desire2learn-tutorial.md"
+  ],
+  "a5911b05b0bd8b22ec1a1b4010a64d8d97769f56": [
+    "articles\\active-directory\\active-directory-saas-canvas-lms-tutorial.md"
+  ],
+  "b4bf959c4f901ffe423e25e9a8ecd8b1ff89b87f": [
+    "articles\\active-directory\\active-directory-saas-capriza-tutorial.md"
+  ],
+  "63609700e6362a4fad2c2ec4134565bfbffb8853": [
+    "articles\\active-directory\\active-directory-saas-central-desktop-tutorial.md"
+  ],
+  "25155833d560ab08c38688698a7b9e522e856b0e": [
+    "articles\\active-directory\\active-directory-saas-cherwell-tutorial.md"
+  ],
+  "4c4928ffb32abe30a88341466dbe82c9beb5791c": [
+    "articles\\active-directory\\active-directory-saas-chromeriver-tutorial.md"
+  ],
+  "efff6faeadb4eb7159e31fcb8bac002c64e36cd8": [
+    "articles\\active-directory\\active-directory-saas-cisco-webex-tutorial.md"
+  ],
+  "795ba2821025afc453cb94187f2f5f11bc55d3c9": [
+    "articles\\active-directory\\active-directory-saas-citrix-gotomeeting-tutorial.md"
+  ],
+  "4d2bbd579f38d25acb03a5ed70948f8db71eab51": [
+    "articles\\active-directory\\active-directory-saas-citrix-sharefile-tutorial.md"
+  ],
+  "596af8f6a5482c24c69c23bb65c8bfe0508fa56d": [
+    "articles\\active-directory\\active-directory-saas-clarizen-tutorial.md"
+  ],
+  "7f2e1e55b04cea3c553810649196b438c5177647": [
+    "articles\\active-directory\\active-directory-saas-clever-tutorial.md"
+  ],
+  "1e0dfe230e29f1d2384de38cfa7790ed0c086142": [
+    "articles\\active-directory\\active-directory-saas-clicktime-tutorial.md"
+  ],
+  "ac876488304f8711ded432f49e12126eb07d9926": [
+    "articles\\active-directory\\active-directory-saas-cloudpassage-tutorial.md"
+  ],
+  "52779ee2f2a58aa3dc2e9b20f8b8497774e18bf8": [
+    "articles\\active-directory\\active-directory-saas-concur-tutorial.md"
+  ],
+  "0d359970821a70b01a4816dbe6b5d0372c3a9011": [
+    "articles\\active-directory\\active-directory-saas-condeco-tutorial.md"
+  ],
+  "6689c02af7cbc94207fa9cd94e6c1eeaee92e2df": [
+    "articles\\active-directory\\active-directory-saas-cornerstone-ondemand-tutorial.md"
+  ],
+  "7eb5211964e5ff5ad652c5c3dc96990a72943cd0": [
+    "articles\\active-directory\\active-directory-saas-coupa-tutorial.md"
+  ],
+  "d7130c24573cb02c46b5dfa02dd7ec490240185e": [
+    "articles\\active-directory\\active-directory-saas-cs-stars-tutorial.md"
+  ],
+  "46bc227d550acc801a2031e10382ce60ffb63c0f": [
+    "articles\\active-directory\\active-directory-saas-custom-apps.md"
+  ],
+  "66ea315415c52665c1f5ef7810296ff462d1f5d6": [
+    "articles\\active-directory\\active-directory-saas-customizing-attribute-mappings.md"
+  ],
+  "cf3be9a6fea2e4da4caedf73c0690f8b111832db": [
+    "articles\\active-directory\\active-directory-saas-directions-microsoft-tutorial.md"
+  ],
+  "dc8fa9be0d2dfc836873cf90031c1d27b040640a": [
+    "articles\\active-directory\\active-directory-saas-docussign-tutorial.md"
+  ],
+  "48fd31ed6b25d158f35653be014e45ef6608416d": [
+    "articles\\active-directory\\active-directory-saas-dropboxforbusiness-tutorial.md"
+  ],
+  "6a66409792871f7619e6cf48c0823a2dd732d97a": [
+    "articles\\active-directory\\active-directory-saas-druva-tutorial.md"
+  ],
+  "7f3e4cb9a5168ef1c0ec0d31e617a10130719021": [
+    "articles\\active-directory\\active-directory-saas-e-builder-tutorial.md"
+  ],
+  "bc621ed2cc92b9b9a160bb8dbd7f219c6001c900": [
+    "articles\\active-directory\\active-directory-saas-egnyte-tutorial.md"
+  ],
+  "cbc06b184dfc1a2205072a5e8f8d3d249678ce2a": [
+    "articles\\active-directory\\active-directory-saas-empcenter-tutorial.md"
+  ],
+  "00fcadcee0be79bf20d8e2165e0319379a8e8041": [
+    "articles\\active-directory\\active-directory-saas-envoy-tutorial.md"
+  ],
+  "322818a198b9945211489c2a908a506496e5a379": [
+    "articles\\active-directory\\active-directory-saas-evidence-tutorial.md"
+  ],
+  "d7ce2967145e4967d1797ae9a14115548a222560": [
+    "articles\\active-directory\\active-directory-saas-facebook-at-work.md"
+  ],
+  "ab7b770e2a300870ddf7bb194795ae799adfdbfc": [
+    "articles\\active-directory\\active-directory-saas-flatter-files-tutorial.md"
+  ],
+  "88db9eb33bfbfc6c3304d62e5589d28369a26ba7": [
+    "articles\\active-directory\\active-directory-saas-fm-systems-tutorial.md"
+  ],
+  "0cbbc2a7d64048c18e49a2c67daa803deedcb4f6": [
+    "articles\\active-directory\\active-directory-saas-freshdesk-tutorial.md"
+  ],
+  "654bf66854aeaa225778123b204cd1343aed638f": [
+    "articles\\active-directory\\active-directory-saas-freshservice-tutorial.md"
+  ],
+  "facbea9e4a7ef6de888afda06372f1187f635988": [
+    "articles\\active-directory\\active-directory-saas-fuse-tutorial.md"
+  ],
+  "6794b9ee4cc3fc825c1f40c9399b57dd96dc9baa": [
+    "articles\\active-directory\\active-directory-saas-gaggleamp-tutorial.md"
+  ],
+  "aabde61c66d3642eb561c520609da2ae11bed327": [
+    "articles\\active-directory\\active-directory-saas-gigya-tutorial.md"
+  ],
+  "faa8af47eaecd37c8905736639ba9931c8509799": [
+    "articles\\active-directory\\active-directory-saas-google-apps-tutorial.md"
+  ],
+  "6d9ce59a0817fe5a383c7ae9225df842729144c7": [
+    "articles\\active-directory\\active-directory-saas-greenhouse-tutorial.md"
+  ],
+  "13c66b27942514f0664e8a336f3320137f9de5dc": [
+    "articles\\active-directory\\active-directory-saas-halogen-software-tutorial.md"
+  ],
+  "73aa50d4d721cf88e0a2d028eef16489d919de36": [
+    "articles\\active-directory\\active-directory-saas-huddle-tutorial.md"
+  ],
+  "20de1582337cbcf9e9dc75fe08e1635fa9efeb2f": [
+    "articles\\active-directory\\active-directory-saas-ideascale-tutorial.md"
+  ],
+  "029f3b0635962f8fcc7f5911be2edf4db44a5cfc": [
+    "articles\\active-directory\\active-directory-saas-ie-group-policy.md"
+  ],
+  "5584a8b4128bd381c2e215f69c06d60650acf0f7": [
+    "articles\\active-directory\\active-directory-saas-ie-troubleshooting.md"
+  ],
+  "83756d9b0631f005f30eeface54cace51f0524e7": [
+    "articles\\active-directory\\active-directory-saas-igloo-software-tutorial.md"
+  ],
+  "86317a3531b47555695ceacc23c8039e126567c1": [
+    "articles\\active-directory\\active-directory-saas-imagerelay-tutorial.md"
+  ],
+  "e372da258ceb2e8cd7c4625c343d106f28320cec": [
+    "articles\\active-directory\\active-directory-saas-inbound-synchronization-tutorial.md"
+  ],
+  "6cff45f74ffc5e52e667aee9177a370aa7777db8": [
+    "articles\\active-directory\\active-directory-saas-innotas-tutorial.md"
+  ],
+  "4ca7607ed9cece851fc6fa0e5fdb5a8dd6cf4fb3": [
+    "articles\\active-directory\\active-directory-saas-insideview-tutorial.md"
+  ],
+  "68df0d34432c2f19cc41e8e4817456b95ab8ca3e": [
+    "articles\\active-directory\\active-directory-saas-intacct-tutorial.md"
+  ],
+  "ea039f850f56dfe06aacd3def6d6817e5ce3d90d": [
+    "articles\\active-directory\\active-directory-saas-itrp-tutorial.md"
+  ],
+  "25acdc9189e285f1f319946d58e80ffe87e6f77d": [
+    "articles\\active-directory\\active-directory-saas-jitbit-helpdesk-tutorial.md"
+  ],
+  "19e6adec538154a51aad18877323c2dd43aecb91": [
+    "articles\\active-directory\\active-directory-saas-jive-tutorial.md"
+  ],
+  "1af86fe5b2020c867998ad11531c5f63dd6552ec": [
+    "articles\\active-directory\\active-directory-saas-jobscience-tutorial.md"
+  ],
+  "a22bc537bc52b27e3698dc304a5b68e89165d274": [
+    "articles\\active-directory\\active-directory-saas-kindling-tutorial.md"
+  ],
+  "56e8777a06f4a20ef62775857f3dceb00377aa90": [
+    "articles\\active-directory\\active-directory-saas-kintone-tutorial.md"
+  ],
+  "bda2b186df9b184894ae46e723c0f0e24be9cd05": [
+    "articles\\active-directory\\active-directory-saas-kiteworks-tutorial.md"
+  ],
+  "6dc22608de80da549c7472db470ce622cc353df1": [
+    "articles\\active-directory\\active-directory-saas-kontiki-tutorial.md"
+  ],
+  "68ffa0a763dc996cd66d1d9880d2e61ac34a1473": [
+    "articles\\active-directory\\active-directory-saas-kudos-tutorial.md"
+  ],
+  "5cf7b2cbc7d1877201dbc40ac7786daadf14891d": [
+    "articles\\active-directory\\active-directory-saas-learningpool-tutorial.md"
+  ],
+  "c8c24affa4be94ac4ca523f0fd88450a64c79e6d": [
+    "articles\\active-directory\\active-directory-saas-litmos-tutorial.md"
+  ],
+  "cb95aba6e15422d51ece5d8c00e2a9a760417b30": [
+    "articles\\active-directory\\active-directory-saas-logicmonitor-tutorial.md"
+  ],
+  "d0109dfddea1fd8ad737f9f3628b1a522600b488": [
+    "articles\\active-directory\\active-directory-saas-lucidchart-tutorial.md"
+  ],
+  "68315a9ca7c11b1f2302285e98599abc77e6d7a9": [
+    "articles\\active-directory\\active-directory-saas-lynda-tutorial.md"
+  ],
+  "69b9bea40fcd3f17f8ab923ff3d1872e6bd25154": [
+    "articles\\active-directory\\active-directory-saas-mimecast-admin-console-tutorial.md"
+  ],
+  "da3de14efae00996af62c25cf823bb975f0f516f": [
+    "articles\\active-directory\\active-directory-saas-mimecast-personal-portal-tutorial.md"
+  ],
+  "3493c2d887483780891d8c4777a8bd57c69f2a77": [
+    "articles\\active-directory\\active-directory-saas-mindflash-tutorial.md"
+  ],
+  "c6f94cdeb65b1d551db37ab055f4311c9745454c": [
+    "articles\\active-directory\\active-directory-saas-mixpanel-tutorial.md"
+  ],
+  "96dd515c4f061f67f36eb0f5243f6ac0179d81c2": [
+    "articles\\active-directory\\active-directory-saas-moxtra-tutorial.md"
+  ],
+  "41bf35f691482bf8c43f4db2f9cced669de9aaa8": [
+    "articles\\active-directory\\active-directory-saas-mozy-enterprise-tutorial.md"
+  ],
+  "7873b041d0f80593f956e4365f75b82271561ab9": [
+    "articles\\active-directory\\active-directory-saas-namely-tutorial.md"
+  ],
+  "514b3c587800b6be4372bf1420ca9af1e6d6c31b": [
+    "articles\\active-directory\\active-directory-saas-netdocuments-tutorial.md"
+  ],
+  "49af8acfbf1423f1791194bafe46b8a17091bfc6": [
+    "articles\\active-directory\\active-directory-saas-netsuite-tutorial.md"
+  ],
+  "4404032eaa013e1c7a66b7147bd53e754d8b2b99": [
+    "articles\\active-directory\\active-directory-saas-new-relic-tutorial.md"
+  ],
+  "f46c59eb3e86e84fe66f6e4236d73ebcc11e1f2b": [
+    "articles\\active-directory\\active-directory-saas-oc-tanner-tutorial.md"
+  ],
+  "3c8c47f9c293d455003bceaf87b3045d65763c86": [
+    "articles\\active-directory\\active-directory-saas-officespace-software-tutorial.md"
+  ],
+  "ce114ff5229675402d15ccf1c9c89dfbae11893a": [
+    "articles\\active-directory\\active-directory-saas-onit-tutorial.md"
+  ],
+  "75abcb1c9d8873a2f51b21bd3fec5fdcb6346df2": [
+    "articles\\active-directory\\active-directory-saas-opsgenie-tutorial.md"
+  ],
+  "5bc12d9978cc39ba94886f99501ed6225ff46860": [
+    "articles\\active-directory\\active-directory-saas-overdrive-books-tutorial.md"
+  ],
+  "722c2dcd0243c846092832e002df1c7aa03166c2": [
+    "articles\\active-directory\\active-directory-saas-pagerduty-tutorial.md"
+  ],
+  "e7c03066a32049c102c9ca896143380bcd0b0d70": [
+    "articles\\active-directory\\active-directory-saas-panopto-tutorial.md"
+  ],
+  "33f23ecef2b1106a058847530df0a697b69d40b2": [
+    "articles\\active-directory\\active-directory-saas-panorama9-tutorial.md"
+  ],
+  "a4dd674657b85309a17f48a52d47359a16f935c3": [
+    "articles\\active-directory\\active-directory-saas-performancecentre-tutorial.md"
+  ],
+  "9f863a91b9c4b383153129cfbcd66de55e187b96": [
+    "articles\\active-directory\\active-directory-saas-picturepark-tutorial.md"
+  ],
+  "ea53dd46539b344ce10a123d40dc4db950af0092": [
+    "articles\\active-directory\\active-directory-saas-policystat-tutorial.md"
+  ],
+  "0a0412727b0c8284398b683f866081be01504693": [
+    "articles\\active-directory\\active-directory-saas-projectplace-tutorial.md"
+  ],
+  "21454b9724528c018e68ac0d55c9cc12669eae82": [
+    "articles\\active-directory\\active-directory-saas-promapp-tutorial.md"
+  ],
+  "79d445c185378f226e89de01ad735afabca1d1fd": [
+    "articles\\active-directory\\active-directory-saas-qualtrics-tutorial.md"
+  ],
+  "cb2b9b50762475717967b4bfbb4deb556ef79ceb": [
+    "articles\\active-directory\\active-directory-saas-questetra-bpm-suite.md"
+  ],
+  "9a15c73b3c0db5796b2d3b1a511688f37a3c47be": [
+    "articles\\active-directory\\active-directory-saas-quickhelp-tutorial.md"
+  ],
+  "724af99ebe6c8bd69c52aac35f29c8cb4f0d7270": [
+    "articles\\active-directory\\active-directory-saas-rally-software-tutorial.md"
+  ],
+  "7aeafedb8c528517c68df16138e59768c5d92ea1": [
+    "articles\\active-directory\\active-directory-saas-replicon-tutorial.md"
+  ],
+  "ffa495481cdbde3fd7dc7068d5a9a7d9f48d4c6f": [
+    "articles\\active-directory\\active-directory-saas-rightanswers-tutorial.md"
+  ],
+  "a78283cb8e9d9bfc355756b619fd9742b2c6376e": [
+    "articles\\active-directory\\active-directory-saas-runmyprocess-tutorial.md"
+  ],
+  "4ae3cb54af278b38a9a892a9fdd4eb7dde96bf34": [
+    "articles\\active-directory\\active-directory-saas-salesforce-sandbox-tutorial.md"
+  ],
+  "d22743440d08fa7b2f43e4dfecc3c9adb9174993": [
+    "articles\\active-directory\\active-directory-saas-salesforce-tutorial.md"
+  ],
+  "462b710b1cbada3574b8ba99b08c9f6d849a378a": [
+    "articles\\active-directory\\active-directory-saas-samanage-tutorial.md"
+  ],
+  "a79fc22dca13835ae1d8ff788f81241b9b0c5a7a": [
+    "articles\\active-directory\\active-directory-saas-sap-hana-cloud-platform-tutorial.md"
+  ],
+  "0a312319ff43a45ad5d380b9ecf92587342352dd": [
+    "articles\\active-directory\\active-directory-saas-scc-lifecycle-tutorial.md"
+  ],
+  "e8b080ea129a080989ca6d1dbec3d0027bb4a9f4": [
+    "articles\\active-directory\\active-directory-saas-sciforma-tutorial.md"
+  ],
+  "21e2dc5d8cdd59fb5374f270ee31bff582c83341": [
+    "articles\\active-directory\\active-directory-saas-sciquest-spend-director.md"
+  ],
+  "b23ba7b0ba135da2b6a977cbf9139e9357e6c769": [
+    "articles\\active-directory\\active-directory-saas-scoping-filters.md"
+  ],
+  "25bb115732f291cba87691726f9f900b41f3dac2": [
+    "articles\\active-directory\\active-directory-saas-screensteps-tutorial.md"
+  ],
+  "a58c69be5a0f08f6e4bd8661e9f6981cf0a9db31": [
+    "articles\\active-directory\\active-directory-saas-servicenow-tutorial.md"
+  ],
+  "768e71d6ca955b32dee3857a66761bc14f903a38": [
+    "articles\\active-directory\\active-directory-saas-shiftplanning-tutorial.md"
+  ],
+  "29ee70ed6e61f3be7c10226d60f4eec0c85f9d52": [
+    "articles\\active-directory\\active-directory-saas-silkroad-life-suite-tutorial.md"
+  ],
+  "abc5caad329a0fd43dc8fddfc4dbe2191c21fc32": [
+    "articles\\active-directory\\active-directory-saas-simplenexus-tutorial.md"
+  ],
+  "e70234bcbcc46ac6fec04eb1fc665fdd9487fcdb": [
+    "articles\\active-directory\\active-directory-saas-skilljar-tutorial.md"
+  ],
+  "a59443ab435559c0f4c98b8eb27232a260811b2b": [
+    "articles\\active-directory\\active-directory-saas-slack-tutorial.md"
+  ],
+  "51428440fa5e704742aa15af194a294b99d7dc7c": [
+    "articles\\active-directory\\active-directory-saas-smallimprovements-tutorial.md"
+  ],
+  "eaa94df53c7178df1b4d4b6a9f0f41baf389ee0f": [
+    "articles\\active-directory\\active-directory-saas-smarteru-tutorial.md"
+  ],
+  "7cbe63526a0744720f76ec6f07125d5b78e25838": [
+    "articles\\active-directory\\active-directory-saas-spring-cm-tutorial.md"
+  ],
+  "efcc414b99a57cc5993bbae8f4ad18966abe24d9": [
+    "articles\\active-directory\\active-directory-saas-sprinklr-tutorial.md"
+  ],
+  "1202d46dc091766e4b322fea43bd4e8b0eb96841": [
+    "articles\\active-directory\\active-directory-saas-statuspage-tutorial.md"
+  ],
+  "fe80540519a421c68967b2f3138a2dc70ac3222b": [
+    "articles\\active-directory\\active-directory-saas-successfactors-tutorial.md"
+  ],
+  "c640190d67ebde7421d2fa4dfc6fe22baca091f5": [
+    "articles\\active-directory\\active-directory-saas-sugarcrm-tutorial.md"
+  ],
+  "d361e9cbf6b6935316e693f949c24fb30c206edc": [
+    "articles\\active-directory\\active-directory-saas-sumologic-tutorial.md"
+  ],
+  "16b2a5b38c6fd768d0412f4c32bca97133a4da83": [
+    "articles\\active-directory\\active-directory-saas-syncplicity-tutorial.md"
+  ],
+  "09293af9db56f9b53d2836224da30c6cae0ca031": [
+    "articles\\active-directory\\active-directory-saas-talentlms-tutorial.md"
+  ],
+  "dc5e91a5e7e27b824588fc7db6c8c7e9cbbb4545": [
+    "articles\\active-directory\\active-directory-saas-target-process-tutorial.md"
+  ],
+  "5ef428abbc0e139d2a86df97cda22942db567f94": [
+    "articles\\active-directory\\active-directory-saas-teamseer-tutorial.md"
+  ],
+  "8d3df7c892a7e356997947d33e137264bd796f2a": [
+    "articles\\active-directory\\active-directory-saas-thirdlight-tutorial.md"
+  ],
+  "bd4df6d17bfd5ecd5d2a60cf37fe64b7fb25c15f": [
+    "articles\\active-directory\\active-directory-saas-thoughtworks-mingle-tutorial.md"
+  ],
+  "f74073f79e37826230d4404d9a815d03f5af5b2f": [
+    "articles\\active-directory\\active-directory-saas-thousandeyes-tutorial.md"
+  ],
+  "e057ed8c51835381483cd763884a0606078f0bf6": [
+    "articles\\active-directory\\active-directory-saas-timeoffmanager-tutorial.md"
+  ],
+  "377b1023eb84ad4de4925aa4fff1072acc428951": [
+    "articles\\active-directory\\active-directory-saas-tinfoil-security-tutorial.md"
+  ],
+  "928e8c275642e0e22edc20e14aea4f5f5eb5bee7": [
+    "articles\\active-directory\\active-directory-saas-topdesk-public-tutorial.md"
+  ],
+  "240970088895370de696e3c8002d65b32060e533": [
+    "articles\\active-directory\\active-directory-saas-topdesk-secure-tutorial.md"
+  ],
+  "1a7ddf6b7e7841861d4ddc778d2bbfddfdcd8ae4": [
+    "articles\\active-directory\\active-directory-saas-tutorial-list.md"
+  ],
+  "5ea42dc8d976e255c9770ac135b94eb60c62cd90": [
+    "articles\\active-directory\\active-directory-saas-userecho-tutorial.md"
+  ],
+  "2c332f31564bb1a5b6b30a6f17bd782f4c7bda42": [
+    "articles\\active-directory\\active-directory-saas-uservoice-tutorial.md"
+  ],
+  "dcfb6b8c85bd94671433dd195ef9b8af68a5838c": [
+    "articles\\active-directory\\active-directory-saas-veracode-tutorial.md"
+  ],
+  "f6e87abd55921a9073c6bea947bb77db240d6298": [
+    "articles\\active-directory\\active-directory-saas-wikispaces-tutorial.md"
+  ],
+  "d0c25f86609ecf00e8989ad755a4c15d39622314": [
+    "articles\\active-directory\\active-directory-saas-work-com-tutorial.md"
+  ],
+  "71bf9a5d3adbbeb91677f55c7465f723172afb6c": [
+    "articles\\active-directory\\active-directory-saas-workday-inbound-tutorial.md"
+  ],
+  "67b4b2184bea5ca5e7bb992250d1ad5c58648a64": [
+    "articles\\active-directory\\active-directory-saas-workday-tutorial.md"
+  ],
+  "129920af538f19101eb958fccd778cdf3d9ecd34": [
+    "articles\\active-directory\\active-directory-saas-workrite-tutorial.md"
+  ],
+  "c0f93aced1458daf7d78bde2ed3f70a46a5935c9": [
+    "articles\\active-directory\\active-directory-saas-writing-expressions-for-attribute-mappings.md"
+  ],
+  "2cebe2ee388a90a164ba95e4b8612550ab1e4805": [
+    "articles\\active-directory\\active-directory-saas-xmatters-ondemand-tutorial.md"
+  ],
+  "7c1d1b5bb9aa16058731e91107751e5d3f6c6cec": [
+    "articles\\active-directory\\active-directory-saas-zendesk-tutorial.md"
+  ],
+  "0d52067ed43675d6fdda7e4d711c79b6964d29c1": [
+    "articles\\active-directory\\active-directory-saas-zoho-mail-tutorial.md"
+  ],
+  "068d6116ef4e217b89d75d26306d18676990f1cb": [
+    "articles\\active-directory\\active-directory-saas-zoom-tutorial.md"
+  ],
+  "599130de80ac47e4bce854a139030e203294e532": [
+    "articles\\active-directory\\active-directory-saas-zscaler-beta-tutorial.md"
+  ],
+  "53e365150f5e0286a83c763bb2626e1287a12f34": [
+    "articles\\active-directory\\active-directory-saas-zscaler-one-tutorial.md"
+  ],
+  "0079d2fd87ffa337bf1b25e25e437d8d5c5a7a6d": [
+    "articles\\active-directory\\active-directory-saas-zscaler-tutorial.md"
+  ],
+  "7efd2af8aaf4057b7c79eae162947eea157d0ae7": [
+    "articles\\active-directory\\active-directory-saas-zscaler-two-tutorial.md"
+  ],
+  "5d2ed1b03768cc0616093fc4bc90948792a567a4": [
+    "articles\\active-directory\\active-directory-saas-zscaler-zscloud-tutorial.md"
+  ],
+  "188835cd0842b7d50837c167cfd447bc0033679b": [
+    "articles\\active-directory\\active-directory-saml-claims-customization.md"
+  ],
+  "ee91d0bd3882e8e6dd8f1ddd8ae1b13d267cd50b": [
+    "articles\\active-directory\\active-directory-saml-debugging.md"
+  ],
+  "0a6d16b53a96cd82d648c4b5903d5b4c0a050265": [
+    "articles\\active-directory\\active-directory-scim-provisioning.md"
+  ],
+  "2c727c56fbe91727650d05596a35d414277b25d6": [
+    "articles\\active-directory\\active-directory-self-service-application-access.md"
+  ],
+  "aa4f5a675e4d595a1fe2c165d97b0455eda768ea": [
+    "articles\\active-directory\\active-directory-self-service-signup.md"
+  ],
+  "1cf2cf8b61ef8d2dda702eb40eddbe2f028f0ad8": [
+    "articles\\active-directory\\active-directory-service-limits-restrictions.md"
+  ],
+  "abb702290ebcaee878cb3f7a61c1f4d30c555b07": [
+    "articles\\active-directory\\active-directory-sharing-accounts.md"
+  ],
+  "832c6b14a767a5b4d4819d662ecba86251bec822": [
+    "articles\\active-directory\\active-directory-sso-certs.md"
+  ],
+  "6236a38d9555bcfd25692e059e9da97bfc85071b": [
+    "articles\\active-directory\\active-directory-sso-integrate-saas-apps.md"
+  ],
+  "7c5acfac02d3f570cdfcbed4576c63edf9f3cc03": [
+    "articles\\active-directory\\active-directory-sso-technical-references.md"
+  ],
+  "fad40ca3880b2e7e0f550426b22535b7d2e49a7e": [
+    "articles\\active-directory\\active-directory-terminology.md"
+  ],
+  "f10737fdae08ca6c7555c2a3eb9a3636610813d0": [
+    "articles\\active-directory\\active-directory-token-and-claims.md"
+  ],
+  "6bc10a8a4f571bf0d937231049c7d84c0f1538ae": [
+    "articles\\active-directory\\active-directory-troubleshooting.md"
+  ],
+  "6cec57b2306fc6a5414a0ef2fad62235618439ad": [
+    "articles\\active-directory\\active-directory-understanding-resource-access.md"
+  ],
+  "727fed9ec3fbdc8f66fe2574fb2e6133ec0c4d12": [
+    "articles\\active-directory\\active-directory-v2-app-registration.md"
+  ],
+  "1729df918b27461abf3998a042d1f00aa82cdfdf": [
+    "articles\\active-directory\\active-directory-v2-compare.md"
+  ],
+  "9e78201be7dc8654eabf9feff240b521fc3070c2": [
+    "articles\\active-directory\\active-directory-v2-devquickstarts-android.md"
+  ],
+  "5334057a133560494f7f3253eb98396dbac18260": [
+    "articles\\active-directory\\active-directory-v2-devquickstarts-angular-dotnet.md"
+  ],
+  "a19e82a9d35af36dc2c4b8e355791200616ed6b4": [
+    "articles\\active-directory\\active-directory-v2-devquickstarts-angular-node.md"
+  ],
+  "d5e904666b7f91c4395f4f4115322be64f6329ee": [
+    "articles\\active-directory\\active-directory-v2-devquickstarts-dotnet-api.md"
+  ],
+  "36b19f6a3eea3eb844320fbdf71dea7c70836bee": [
+    "articles\\active-directory\\active-directory-v2-devquickstarts-dotnet-web.md"
+  ],
+  "6d5c0e4fce6862126a6410c4536d0ebb7781ec1f": [
+    "articles\\active-directory\\active-directory-v2-devquickstarts-ios.md"
+  ],
+  "95aac811da7bc7e3f10b4b68c8c2e4af33fcd29c": [
+    "articles\\active-directory\\active-directory-v2-devquickstarts-java-web.md",
+    "articles\\active-directory\\active-directory-v2-devquickstarts-node-web.md"
+  ],
+  "4cb13e4d6738ca81a3bfcb67681aab4309a48b80": [
+    "articles\\active-directory\\active-directory-v2-devquickstarts-node-api.md"
+  ],
+  "2ed5dd3b4828ffd47770b8ac6d7b3fdecfbdb45a": [
+    "articles\\active-directory\\active-directory-v2-devquickstarts-univ.md"
+  ],
+  "a15bdc5435ab3ea1464fa900dc98377a3f12801c": [
+    "articles\\active-directory\\active-directory-v2-devquickstarts-webapp-webapi-dotnet.md"
+  ],
+  "56fc987ec7e174df920913d579676ac6e9b73fde": [
+    "articles\\active-directory\\active-directory-v2-devquickstarts-wpf.md"
+  ],
+  "c64bddb988649b3ea9f9073a199f39e96a9dc8f8": [
+    "articles\\active-directory\\active-directory-v2-flows.md"
+  ],
+  "530be1ad6cc4abe39467fb53ebc4434f215fa2c2": [
+    "articles\\active-directory\\active-directory-v2-limitations.md"
+  ],
+  "3e124978c305f157d96b58b18886b7df28e9e8d7": [
+    "articles\\active-directory\\active-directory-v2-protocols.md"
+  ],
+  "5a1ccb0c1af3c432fed444b0d756049922dd3936": [
+    "articles\\active-directory\\active-directory-v2-protocols-implicit.md"
+  ],
+  "45e555465c9f5095617c26228362ec361c50c2dc": [
+    "articles\\active-directory\\active-directory-v2-protocols-oauth-code.md"
+  ],
+  "e9ff987c4e2759af0f8dc67fdfc7661c615c10af": [
+    "articles\\active-directory\\active-directory-v2-protocols-oidc.md"
+  ],
+  "94b75f942cfdcf01a62004ac0b9f408d012ef2d9": [
+    "articles\\active-directory\\active-directory-v2-scopes.md"
+  ],
+  "99a378a9e2c3b043c77a1a764cd9a3d34296c135": [
+    "articles\\active-directory\\active-directory-v2-tokens.md"
+  ],
+  "b2da9edf8019c28df1223eb24e9bc26133d758f9": [
+    "articles\\active-directory\\active-directory-view-access-usage-reports.md"
+  ],
+  "669bcbdbf3742b37687db6a031953b276fad8956": [
+    "articles\\active-directory\\active-directory-whatis.md"
+  ],
+  "e53febd9d1a821b2e170c06ec13c19ec9e7f9bae": [
+    "articles\\active-directory\\active-directory-works.md"
+  ],
+  "d7b92d3aef996d959b7df75d0b72617113748193": [
+    "articles\\active-directory\\fundamentals-identity.md"
+  ],
+  "14c5d496f4730b6945d3eb77d00395022934ab72": [
+    "articles\\active-directory\\role-based-access-built-in-roles.md"
+  ],
+  "23e75b21dff15056f3e9c67bfb5d0b2b67bccfef": [
+    "articles\\active-directory\\role-based-access-control-configure.md"
+  ],
+  "b9c9e88682159e05ddc3f45fa5ade46071ad91cc": [
+    "articles\\active-directory\\role-based-access-control-manage-access-azure-cli.md"
+  ],
+  "795d22c72a71e5f4746df360342f416530ad4110": [
+    "articles\\active-directory\\role-based-access-control-manage-access-powershell.md"
+  ],
+  "dd4973d06ea78e01bec325e89a16909520afa377": [
+    "articles\\active-directory\\role-based-access-control-powershell.md"
+  ],
+  "e855ecc5745faf9d8c14a851702f18c406b52ee3": [
+    "articles\\active-directory\\role-based-access-control-troubleshooting.md"
+  ],
+  "7325ae7cdd736602f14850ed86ceff81c6b8768c": [
+    "articles\\active-directory\\role-based-access-control-xplat-cli.md"
+  ],
+  "0a89d953a83b096d2ca07195bb1edce74ba55478": [
+    "articles\\active-directory\\sign-up-organization.md"
+  ],
+  "2acf4c6924afe1566a0f91d94e2b4895caa3d3c5": [
+    "articles\\active-directory\\virtual-networks-windows-server-active-directory-virtual-machines.md"
+  ],
+  "0bfa276448d9153ac61182c54fbdbd8b63b84dfe": [
+    "articles\\active-directory\\vs-active-directory-dotnet-getting-started.md"
+  ],
+  "c84f30b8378b132722d3666e9dde90eb258bf913": [
+    "articles\\active-directory\\vs-active-directory-dotnet-what-happened.md"
+  ],
+  "b1e85ec9cc98f448f9417430dc73635d6638f66e": [
+    "articles\\active-directory\\vs-active-directory-error.md"
+  ],
+  "19985fa7d6c67df136545094c60ffe00ecd81447": [
+    "articles\\active-directory\\vs-active-directory-webapi-getting-started.md"
+  ],
+  "4fc9fdeebd9a1bac3ff59bd2828548cdc1477f43": [
+    "articles\\active-directory\\vs-active-directory-webapi-what-happened.md"
+  ],
+  "34df38bcb60e970175104959232484ffd0f5f5c4": [
+    "articles\\app-service\\app-service-authentication-overview.md"
+  ],
+  "69d0c1a02a5e8961df8947f06a75a4dfe8ac1093": [
+    "articles\\app-service\\app-service-environment-auto-scale.md"
+  ],
+  "06f198e5d5cf6bb8981ffda1d66605ae82d9ce59": [
+    "articles\\app-service\\app-service-release-notes.md"
+  ],
+  "8e20ee3c64df3fd85762162f1ca56200f1b1f7de": [
+    "articles\\app-service\\app-service-scale.md"
+  ],
+  "9eb8114fb7b7f5c49b8a11b2e628b21a522cb22d": [
+    "articles\\app-service\\app-service-value-prop-what-is.md"
+  ],
+  "184891c2c31eaa5fdd0a7477b1dc9a111b79cb39": [
+    "articles\\app-service\\azure-web-sites-web-hosting-plans-in-depth-overview.md"
+  ],
+  "09e92c8516febbbfc178995779ad2123e7ab72ae": [
+    "articles\\app-service-api\\app-service-api-apps-why-best-platform.md"
+  ],
+  "89205ba22e6feb1385483e6a6a244b1f867595b9": [
+    "articles\\app-service-api\\app-service-api-arm-existing-gateway-provision.md"
+  ],
+  "a42452df07f9388a2be4a15185bdeeff3ba05186": [
+    "articles\\app-service-api\\app-service-api-arm-new-gateway-provision.md"
+  ],
+  "cb227730f1820a2e4a0aa9c554e62473658e6e98": [
+    "articles\\app-service-api\\app-service-api-authentication.md"
+  ],
+  "e31c8cc3f85633a2b9809791f2a4af4228ad0532": [
+    "articles\\app-service-api\\app-service-api-authentication-client-flow.md"
+  ],
+  "35671c90cfc1f8bd91972839571f9517d26d82ef": [
+    "articles\\app-service-api\\app-service-api-cli.md"
+  ],
+  "5a9dc53514aec09419826e89eca520600c8c946c": [
+    "articles\\app-service-api\\app-service-api-connnect-your-app-to-saas-connector.md"
+  ],
+  "b5f1ccdc651b2dead6888fe5f3bce5b70378da1a": [
+    "articles\\app-service-api\\app-service-api-cors-consume-javascript.md"
+  ],
+  "e7c071d8377787c21aa7d8603bb3b621c2441ca3": [
+    "articles\\app-service-api\\app-service-api-dotnet-add-authentication.md"
+  ],
+  "1366763ff37e1a811c8d6352241a5731bc5e5ca9": [
+    "articles\\app-service-api\\app-service-api-dotnet-connect-to-saas.md"
+  ],
+  "f400638e55d0d8d5298ec70b9b52fa46f34337ea": [
+    "articles\\app-service-api\\app-service-api-dotnet-consume.md"
+  ],
+  "86c31ffdd20d60bb89a4dd189573933b8730a51a": [
+    "articles\\app-service-api\\app-service-api-dotnet-consume-internal.md"
+  ],
+  "10ec2faf5689365cdef4149a588aa0280e20417c": [
+    "articles\\app-service-api\\app-service-api-dotnet-debug.md"
+  ],
+  "870d737095245a753b8fc6c104021f0978b6e844": [
+    "articles\\app-service-api\\app-service-api-dotnet-get-started.md"
+  ],
+  "f7825f7b22bc210124a2f7f698a844ff3ebdf76d": [
+    "articles\\app-service-api\\app-service-api-dotnet-service-principal-auth.md"
+  ],
+  "7aa8eca89ac8245af8d07cebed4a046a3bd5a1a5": [
+    "articles\\app-service-api\\app-service-api-dotnet-swashbuckle-customize.md"
+  ],
+  "29d09e3f429acf372ae89ef42bfd425d1b75d590": [
+    "articles\\app-service-api\\app-service-api-dotnet-triggers.md"
+  ],
+  "27b6533d3bdd112ad8e8da2f854ba14202a85dc4": [
+    "articles\\app-service-api\\app-service-api-dotnet-user-principal-auth.md"
+  ],
+  "49e5d60495867d074fa1edfc196ef6bc438d5f96": [
+    "articles\\app-service-api\\app-service-api-hybrid-on-premises-sql-server.md"
+  ],
+  "d3a1f424154b6d967a704894bfd6aae8210f8ca2": [
+    "articles\\app-service-api\\app-service-api-java-api-app.md"
+  ],
+  "4fa86fb832ffdbe19432a5da466cb0a4b46a8d2b": [
+    "articles\\app-service-api\\app-service-api-javascript-client.md"
+  ],
+  "64574c41a0824fd623cd6a7923672cbf26d368a1": [
+    "articles\\app-service-api\\app-service-api-manage-in-portal.md"
+  ],
+  "11fc0b331a8d9814828d8fc6c20b241259248d54": [
+    "articles\\app-service-api\\app-service-api-metadata.md"
+  ],
+  "94781e01694f56dded59327f09964de02a4fa916": [
+    "articles\\app-service-api\\app-service-api-nodejs-api-app.md"
+  ],
+  "6a05ac16cdf2c2a059894a5b10b7508da1b9a640": [
+    "articles\\app-service-api\\app-service-api-optimize-for-logic-apps.md"
+  ],
+  "f94054a28bccf14e526a2051e84eb3cb8c1170cb": [
+    "articles\\app-service-api\\app-service-api-whats-changed.md"
+  ],
+  "2bba11fe375cd19a7811284ea2bcb2a4ad73b007": [
+    "articles\\app-service-api\\app-service-create-aspnet-api-app-using-vscode.md"
+  ],
+  "edf1b8c9596fd2025d7dd2d7e8c0c4343c32eba1": [
+    "articles\\app-service-api\\app-service-dotnet-create-api-app.md"
+  ],
+  "39cf606bcf56c1521c365abf83c09a86f1ee7bf7": [
+    "articles\\app-service-api\\app-service-dotnet-create-api-app-visual-studio.md"
+  ],
+  "3e4aa3940c32ef4f5dfc755e90442b7dc956b20e": [
+    "articles\\app-service-api\\app-service-dotnet-create-api-app-vs2015.md"
+  ],
+  "203138b7ead8ffbd327c568d7ca939b17fa9472e": [
+    "articles\\app-service-api\\app-service-dotnet-deploy-api-app.md"
+  ],
+  "19b790ba7f922d7117882c31cc638e151fc7d711": [
+    "articles\\app-service-logic\\app-service-logic-archive-as2-messages.md"
+  ],
+  "e31a1955df40ef0df299027e5a065c4304ffaf79": [
+    "articles\\app-service-logic\\app-service-logic-arm-provision.md"
+  ],
+  "31fbfc1dc7a580f7c336710e50c4579ceed517d5": [
+    "articles\\app-service-logic\\app-service-logic-arm-with-api-app-provision.md"
+  ],
+  "87ad3cf2706b60cd8cb8f2f5c80dfd5fe1817be8": [
+    "articles\\app-service-logic\\app-service-logic-author-definitions.md"
+  ],
+  "618555a1fd5dbe01608635d29a87662618ac05a4": [
+    "articles\\app-service-logic\\app-service-logic-b2b-connectors.md"
+  ],
+  "c836ab33d4073dd66d172c4ee50d77faa88e7759": [
+    "articles\\app-service-logic\\app-service-logic-connector-as2.md"
+  ],
+  "f83b225b0a6cf106df5606217791d95a5e9c7948": [
+    "articles\\app-service-logic\\app-service-logic-connector-azureml.md"
+  ],
+  "c21cf3cbd8c0fcd42de5fc66d922fc18060d0a75": [
+    "articles\\app-service-logic\\app-service-logic-connector-azure-resource.md"
+  ],
+  "9f6dfff746b158ca622b544f81296b50a5217ffa": [
+    "articles\\app-service-logic\\app-service-logic-connector-azureservicebus.md"
+  ],
+  "2c6db8194b5e0f6a50710da5f516221b53d42e22": [
+    "articles\\app-service-logic\\app-service-logic-connector-azurestorageblob.md"
+  ],
+  "8f30d6490ee1e6dcebe1aebe46da79b6c9aaf08e": [
+    "articles\\app-service-logic\\app-service-logic-connector-box.md"
+  ],
+  "7179a7acc16451ec9396f5d596dc3dd9feb1e64c": [
+    "articles\\app-service-logic\\app-service-logic-connector-chatter.md"
+  ],
+  "8da94fff413b48b1869284c03aaeaddb2ea285e4": [
+    "articles\\app-service-logic\\app-service-logic-connector-db2.md"
+  ],
+  "07462acd3a97d0646080254df76b18e685503e9c": [
+    "articles\\app-service-logic\\app-service-logic-connector-dropbox.md"
+  ],
+  "302263c8bae184a95d9e26e5cd2d0ad355fcbb7c": [
+    "articles\\app-service-logic\\app-service-logic-connector-edifact.md"
+  ],
+  "792de0c2a6023ed02be319b82f643751961d2316": [
+    "articles\\app-service-logic\\app-service-logic-connector-facebook.md"
+  ],
+  "dc51538835512a5384b2bc88eabb887426f6c3b0": [
+    "articles\\app-service-logic\\app-service-logic-connector-file.md"
+  ],
+  "06c280ad5efc067a46e98f002a4cb031a054b77f": [
+    "articles\\app-service-logic\\app-service-logic-connector-ftp.md"
+  ],
+  "ad9802d8166b6d8ef35a95be73859090ad310c98": [
+    "articles\\app-service-logic\\app-service-logic-connector-hdinsight.md"
+  ],
+  "63136f0b109b6ed4971a50177f68626bae72b1c7": [
+    "articles\\app-service-logic\\app-service-logic-connector-http.md"
+  ],
+  "6700d26082e0bc6653694339016ade4e13ee072b": [
+    "articles\\app-service-logic\\app-service-logic-connector-informix.md"
+  ],
+  "824416128ada7ecf128cd603e972ea342d7f6201": [
+    "articles\\app-service-logic\\app-service-logic-connector-jsonencoder.md"
+  ],
+  "243eb3907e8187a6026992537adaa7de23589539": [
+    "articles\\app-service-logic\\app-service-logic-connector-office365.md"
+  ],
+  "5f235f0596057555fd27d27cdfb99631cbe12aea": [
+    "articles\\app-service-logic\\app-service-logic-connector-onedrive.md"
+  ],
+  "3f6c295a61fa3c5309993010df43d0ee6b1bd7e0": [
+    "articles\\app-service-logic\\app-service-logic-connector-oracle.md"
+  ],
+  "3454778590efa5c675851431596167bb1f3708d5": [
+    "articles\\app-service-logic\\app-service-logic-connector-pop3.md"
+  ],
+  "a93116e12e0672ee0b4ef71ebcb46a24fcadca79": [
+    "articles\\app-service-logic\\app-service-logic-connector-quickbooks.md"
+  ],
+  "d112c116cf5659b8e8b483e4ca1dbf56070a732b": [
+    "articles\\app-service-logic\\app-service-logic-connector-salesforce.md"
+  ],
+  "9baa34cedeccd9a7c38fa348b45b912508cb84a1": [
+    "articles\\app-service-logic\\app-service-logic-connector-sap.md"
+  ],
+  "cb893814985a234e79b7a05ac7fcf796ccce2a36": [
+    "articles\\app-service-logic\\app-service-logic-connector-sftp.md"
+  ],
+  "45f54c6c5b8d967e718fe3a80e0ffcfe6e2b27b2": [
+    "articles\\app-service-logic\\app-service-logic-connector-sharepoint.md"
+  ],
+  "c19b35e62e8f5355a16a6ac0c60370be55778ada": [
+    "articles\\app-service-logic\\app-service-logic-connector-slack.md"
+  ],
+  "e5ecd091ecc3bb195f1910c9af7522490a00d2d2": [
+    "articles\\app-service-logic\\app-service-logic-connectors-list.md"
+  ],
+  "9e3cf57f5933051b9eaed3e056dbde83b73e83d1": [
+    "articles\\app-service-logic\\app-service-logic-connector-smtp.md"
+  ],
+  "64a4affad719a8f41b0adcd2eb145a40ad16a631": [
+    "articles\\app-service-logic\\app-service-logic-connector-sql.md"
+  ],
+  "7262d763a47f35686a5c137329a8c1fbbeb204cf": [
+    "articles\\app-service-logic\\app-service-logic-connector-sugarcrm.md"
+  ],
+  "2ce544bcf4de9666adb5a454b0cd938b28c19c62": [
+    "articles\\app-service-logic\\app-service-logic-connector-tpm.md"
+  ],
+  "137a071021ab7cdddfd21a63df2f342c3334ae75": [
+    "articles\\app-service-logic\\app-service-logic-connector-twilio.md"
+  ],
+  "62ab64785e2fad4732ad8d82c82debe37db82e06": [
+    "articles\\app-service-logic\\app-service-logic-connector-twitter.md"
+  ],
+  "f299ded3673b75b671663ae7966bc801a2ad788f": [
+    "articles\\app-service-logic\\app-service-logic-connector-wait.md"
+  ],
+  "03d29d989ee37d0211e48e6f0320aa8338d71d80": [
+    "articles\\app-service-logic\\app-service-logic-connector-x12.md"
+  ],
+  "6bd1dca3f4f05d6703efd9a78e6fd36aff5d1c9a": [
+    "articles\\app-service-logic\\app-service-logic-connector-yammer.md"
+  ],
+  "c02ed3743d8e0bf93f99b687e89ff4c932678524": [
+    "articles\\app-service-logic\\app-service-logic-create-a-b2b-process.md"
+  ],
+  "b18f4c5b008efa6943a81157b70d6d4bcc0452a1": [
+    "articles\\app-service-logic\\app-service-logic-create-a-logic-app.md"
+  ],
+  "e64fbddac8ff0043c9125838c86463e953b51558": [
+    "articles\\app-service-logic\\app-service-logic-create-a-trading-partner-agreement.md"
+  ],
+  "acab2da3b68091cce340f1af498ca74a78232239": [
+    "articles\\app-service-logic\\app-service-logic-create-eai-logic-app-using-vetr.md"
+  ],
+  "6c02458d01a82ea749d7c477e8d2bcd7a98d1454": [
+    "articles\\app-service-logic\\app-service-logic-cs-api.md"
+  ],
+  "0b3a1b5158f5826e7eceb1b7a12b62370f8e1ece": [
+    "articles\\app-service-logic\\app-service-logic-custom-hosted-api.md"
+  ],
+  "3221fe1b10e8011b357f852808a9e309d1cd6aa7": [
+    "articles\\app-service-logic\\app-service-logic-deploy-from-vs.md"
+  ],
+  "7f9c8f7cfb30cc2c6644e395d52d9c36e5d8cd27": [
+    "articles\\app-service-logic\\app-service-logic-flatfile-encoder.md"
+  ],
+  "0bb14565fcdcfae082edd4b1f460aa132fcef16c": [
+    "articles\\app-service-logic\\app-service-logic-hybrid-connection-manager.md"
+  ],
+  "e49c8d3376c44a6b7022746cd7870c9e069a99e4": [
+    "articles\\app-service-logic\\app-service-logic-integrate-with-an-on-premise-sap-server.md"
+  ],
+  "695698fc2065b1c0022b49a052723cea100e635a": [
+    "articles\\app-service-logic\\app-service-logic-javascript-api.md"
+  ],
+  "0e51dfede3d8d35a872c47f1bff7074166af4a9c": [
+    "articles\\app-service-logic\\app-service-logic-monitor-your-connectors.md"
+  ],
+  "843a16890e33f8794801c5714c9acc4172d24263": [
+    "articles\\app-service-logic\\app-service-logic-monitor-your-logic-apps.md"
+  ],
+  "917eaf2b766732b93daecdcbc84112481217305e": [
+    "articles\\app-service-logic\\app-service-logic-oauth-security.md"
+  ],
+  "be36e783b208704c829e7e81713f01a1da65f8fa": [
+    "articles\\app-service-logic\\app-service-logic-track-b2b-messages.md"
+  ],
+  "a1b0b2f8c99649de708f62aab8a7ef4c4e237ae6": [
+    "articles\\app-service-logic\\app-service-logic-transform-xml-documents.md"
+  ],
+  "bf84469df48ed3b7786aa9fa927f568fdb791e75": [
+    "articles\\app-service-logic\\app-service-logic-use-biztalk-rules.md"
+  ],
+  "0f284ad277e932c46841923565b2bc5702a6e1a3": [
+    "articles\\app-service-logic\\app-service-logic-use-logic-app-features.md"
+  ],
+  "c5ff2c17602264e22f338783968e633e71999804": [
+    "articles\\app-service-logic\\app-service-logic-use-logic-app-templates.md"
+  ],
+  "a907d7fe936f3a12f46d6fa0a9660489b0171afb": [
+    "articles\\app-service-logic\\app-service-logic-what-are-biztalk-api-apps.md"
+  ],
+  "40479ef03fad259e68f108ea7f79e66031b69c3f": [
+    "articles\\app-service-logic\\app-service-logic-what-are-logic-apps.md"
+  ],
+  "3802d8bc0dd02fdba980b4bd2f21fe88a4af6dfd": [
+    "articles\\app-service-logic\\app-service-logic-xml-validator.md"
+  ],
+  "da8a79f60b2f99f4954468ca24a1ecf79a8520b9": [
+    "articles\\app-service-logic\\app-service-logic-xpath-extract.md"
+  ],
+  "9400d5fe2324f21182bdb8faa49aa8064cc13859": [
+    "articles\\app-service-mobile\\app-service-mobile-android-get-started.md"
+  ],
+  "a0c6503f4379ac93fcc157ac4ab49fe987a5ecd1": [
+    "articles\\app-service-mobile\\app-service-mobile-android-get-started-offline-data.md"
+  ],
+  "c820436e84f0be3ade899fc6ed7ac1b85c11a28d": [
+    "articles\\app-service-mobile\\app-service-mobile-android-get-started-push.md"
+  ],
+  "4b29961c08da2158f43b1f9099a17b9ed1243138": [
+    "articles\\app-service-mobile\\app-service-mobile-android-get-started-users.md"
+  ],
+  "76d4a73459889f2b938c7fef9a7a10d74578291f": [
+    "articles\\app-service-mobile\\app-service-mobile-auth.md"
+  ],
+  "fccef589a5aee6f40ff74641a74c47c30f25bd3c": [
+    "articles\\app-service-mobile\\app-service-mobile-client-and-server-versioning.md"
+  ],
+  "693e9e8920b341f3c938229c578a7474ba3bbb57": [
+    "articles\\app-service-mobile\\app-service-mobile-dotnet-backend-how-to-use-server-sdk.md"
+  ],
+  "227b5e100b776b85102903d62ca3c935f1f7f852": [
+    "articles\\app-service-mobile\\app-service-mobile-dotnet-backend-hybrid-connections-get-started.md"
+  ],
+  "25cd5bf9b27060bd46c37ab7b1749b4da68c9ac2": [
+    "articles\\app-service-mobile\\app-service-mobile-dotnet-how-to-use-client-library.md"
+  ],
+  "89d93b4c3b21d5320d05446f25e354a28fa88b5c": [
+    "articles\\app-service-mobile\\app-service-mobile-how-to-configure-active-directory-authentication.md"
+  ],
+  "fac20aa09d913bcf3ee6b4ec03582af5883c7799": [
+    "articles\\app-service-mobile\\app-service-mobile-how-to-configure-facebook-authentication.md"
+  ],
+  "59bb021069ca82fae2369dd165cfa653a3ce5c5c": [
+    "articles\\app-service-mobile\\app-service-mobile-how-to-configure-google-authentication.md"
+  ],
+  "ebc3a42e969e3722b991d29831bd6e2829523fda": [
+    "articles\\app-service-mobile\\app-service-mobile-how-to-configure-microsoft-authentication.md"
+  ],
+  "1f5f9b1fa15522052f9b87593b6476f1adb30380": [
+    "articles\\app-service-mobile\\app-service-mobile-how-to-configure-twitter-authentication.md"
+  ],
+  "129c630747f94dc2305bbe5f8507aaefec71c417": [
+    "articles\\app-service-mobile\\app-service-mobile-html-get-started.md"
+  ],
+  "5a8f4cee966f29235927f251c7b0e0a071e7c290": [
+    "articles\\app-service-mobile\\app-service-mobile-ios-get-started.md"
+  ],
+  "c1e867a2a96cbdef6db08b549fdaaa9cbbaf8837": [
+    "articles\\app-service-mobile\\app-service-mobile-ios-get-started-offline-data.md"
+  ],
+  "4aff18cd7a201ff958909ed9187d885a9b57a8f6": [
+    "articles\\app-service-mobile\\app-service-mobile-ios-get-started-push.md"
+  ],
+  "dcc97e235f17571bd6ee52769c2edc9db175d9d0": [
+    "articles\\app-service-mobile\\app-service-mobile-ios-get-started-users.md"
+  ],
+  "5940809095a694a4cef9ae0bf83b177f4485ebd5": [
+    "articles\\app-service-mobile\\app-service-mobile-ios-how-to-use-client-library.md"
+  ],
+  "d5b2234b4042cc17fa9544fb0924d12696651a02": [
+    "articles\\app-service-mobile\\app-service-mobile-ios-push-notifications-to-users.md"
+  ],
+  "6bb42f498cb4d3cf96beb741d8a3bbe36413f3b8": [
+    "articles\\app-service-mobile\\app-service-mobile-migrating-from-mobile-services.md"
+  ],
+  "39b958d393c9fb01eb042bf2fbc5c02ee6f6a1ab": [
+    "articles\\app-service-mobile\\app-service-mobile-net-upgrading-from-mobile-services.md"
+  ],
+  "fd2a03feb7a1f419df0f625b6db6886d79236eed": [
+    "articles\\app-service-mobile\\app-service-mobile-node-backend-how-to-use-server-sdk.md"
+  ],
+  "d1d99492dd26745f77d5884fc19902ce06cd2836": [
+    "articles\\app-service-mobile\\app-service-mobile-node-backend-upgrading-from-mobile-services.md"
+  ],
+  "236642a64450d22ba05260f3d3556e2c9dcef9f7": [
+    "articles\\app-service-mobile\\app-service-mobile-offline-data-sync.md"
+  ],
+  "13b633e57e9bb0834e554fef47ee0a0019500844": [
+    "articles\\app-service-mobile\\app-service-mobile-value-prop.md"
+  ],
+  "2f6d4d407fd50ce6628e849f9bcef8bf18d90b68": [
+    "articles\\app-service-mobile\\app-service-mobile-value-prop-migration-from-mobile-services.md"
+  ],
+  "f532c7ef244c13b46ccd6da3c19a15924517c071": [
+    "articles\\app-service-mobile\\app-service-mobile-windows-store-dotnet-get-started.md"
+  ],
+  "800f01a1ec99fcdff9f17be6f4182322ad3d6790": [
+    "articles\\app-service-mobile\\app-service-mobile-windows-store-dotnet-get-started-offline-data.md"
+  ],
+  "bb620fa1fe79a1bd1b8850954ac6405d564f765c": [
+    "articles\\app-service-mobile\\app-service-mobile-windows-store-dotnet-get-started-push.md"
+  ],
+  "56a6f4cf2a1e2bc03082893affc3a2b7fcd2195b": [
+    "articles\\app-service-mobile\\app-service-mobile-windows-store-dotnet-get-started-users.md"
+  ],
+  "a8602df56e878da00532a3756d2cfdbc0c81a1aa": [
+    "articles\\app-service-mobile\\app-service-mobile-xamarin-android-get-started.md"
+  ],
+  "a0d6759028bba119b060d4c6081685e7c8d47ad0": [
+    "articles\\app-service-mobile\\app-service-mobile-xamarin-android-get-started-offline-data.md"
+  ],
+  "af42230c6679a6ea08b01ac78c702e20c228b941": [
+    "articles\\app-service-mobile\\app-service-mobile-xamarin-android-get-started-push.md"
+  ],
+  "484e350b3ba6c73e35a69662d829b35ffef8f07a": [
+    "articles\\app-service-mobile\\app-service-mobile-xamarin-android-get-started-users.md"
+  ],
+  "a79d1dc102cb9dad59d19e4ee76a468d888de5e5": [
+    "articles\\app-service-mobile\\app-service-mobile-xamarin-forms-get-started.md"
+  ],
+  "38702bd98161f2020d734ca325046dbab849d5fe": [
+    "articles\\app-service-mobile\\app-service-mobile-xamarin-forms-get-started-push.md"
+  ],
+  "d20883eedea437a631840b8dc6fa70b6bc1cf15e": [
+    "articles\\app-service-mobile\\app-service-mobile-xamarin-forms-get-started-users.md"
+  ],
+  "18399e6c8dbcf7499e529531ac0a56f7c21f0e1c": [
+    "articles\\app-service-mobile\\app-service-mobile-xamarin-ios-get-started.md"
+  ],
+  "aa9cdf6d984787faa0e4e294fda5ea359faed429": [
+    "articles\\app-service-mobile\\app-service-mobile-xamarin-ios-get-started-offline-data.md"
+  ],
+  "d3efe9c9540d8ef26bd240f8dc323299e38414ec": [
+    "articles\\app-service-mobile\\app-service-mobile-xamarin-ios-get-started-push.md"
+  ],
+  "40524cf0b70a7228288f1609e6b2b70eb37870dc": [
+    "articles\\app-service-mobile\\app-service-mobile-xamarin-ios-get-started-users.md"
+  ],
+  "f7c2808ee16583c8bb2477122b1c45254157d9d1": [
+    "articles\\architecture-overview.md"
+  ],
+  "a23c8040e202feec08cb77aa8c1ce6ac788093f0": [
+    "articles\\azure-api-management-certs.md"
+  ],
+  "ee0a79d71ceff8ef60040de71b92ee402043fab7": [
+    "includes\\active-directory-b2c-devquickstarts-graph-switcher.md",
+    "includes\\active-directory-b2c-devquickstarts-native-switcher.md",
+    "includes\\active-directory-b2c-devquickstarts-web-switcher.md"
+  ],
+  "ab1c73616ef3d1c0e9517c931564b7490bffaa50": [
+    "includes\\active-directory-b2c-devquickstarts-policy.md"
+  ],
+  "1217aec1748ee08e9eb2a4b0aa4c9b6dfc257a8c": [
+    "includes\\active-directory-b2c-devquickstarts-tenant-name.md"
+  ],
+  "1141c1cc47d726c66e21b640d5f8b7ea5d2c7f1f": [
+    "includes\\active-directory-b2c-devquickstarts-v2-apps.md"
+  ],
+  "5122ddb20604aee503ac02dd6e8da36573b4c04d": [
+    "includes\\active-directory-b2c-preview-note.md"
+  ],
+  "5c7ee04e0c7191007a3f15e8b233b1c2f7d4ff73": [
+    "includes\\active-directory-b2c-quickstart-table.md"
+  ],
+  "d16795652d617d5bb1788626056025d65ee49b72": [
+    "includes\\active-directory-devguide.md"
+  ],
+  "e94829433a9b7bd9069f7582772cddd3443763c8": [
+    "includes\\active-directory-devquickstarts-additional-resources.md"
+  ],
+  "57aae5bd75e4ba556e03f81229b48d569fbf5b0d": [
+    "includes\\active-directory-devquickstarts-platforms-selector.md"
+  ],
+  "ee782215c93b44b2cc94b9d0c84b9e7ce837b21e": [
+    "includes\\active-directory-devquickstarts-switcher.md"
+  ],
+  "6530d3a6aeb308a3cef104b1f4577179f6d03625": [
+    "includes\\active-directory-passwords-content-journey-selector.md"
+  ],
+  "c8976fb2550151d6f9b7061f5f8c156db0e138c9": [
+    "includes\\active-directory-privileged-identity-management-toc.md"
+  ],
+  "150b01a0d0bdf4e2c769e0aa6fcf82a0c027e100": [
+    "includes\\active-directory-saas-toc.md"
+  ],
+  "76c429566cd8f0c4ff623007f39a3956db3dda7b": [
+    "includes\\active-directory-service-limits-include.md"
+  ],
+  "45c5224b523d4d64c5d9c601049529fc43a75635": [
+    "includes\\active-directory-sso-use-case-intro.md"
+  ],
+  "53a838794cb4248e098e90c1db8d3e9d2addc499": [
+    "includes\\active-directory-v2-quickstart-table.md"
+  ],
+  "27dd4f65f20034a92fc50e586302f70e298a2e29": [
+    "includes\\add-push-notifications-to-app.md"
+  ],
+  "7df7ca5f946eda251dc9d738cea080560f684438": [
+    "includes\\antares-iaas-signup.md"
+  ],
+  "7fca4f6447a87cad491fb606ac734a936ba573fe": [
+    "includes\\antares-iaas-signup-iaas.md"
+  ],
+  "ef179cd30395174b80d6b7297362be09e1bb5743": [
+    "includes\\api-management-service-limits.md"
+  ],
+  "3d8e6c501c3906ee8d942a5247bdf3b171550599": [
+    "includes\\app-insights-selector-dependencies.md"
+  ],
+  "5ccc883cafc12e21a097b13b51cc81ca56c850a2": [
+    "includes\\app-insights-selector-get-started.md"
+  ],
+  "9fd0dcd99c8fbf22a9f567ce5dd9b7b85ccfb9e1": [
+    "includes\\app-insights-selector-get-started-dotnet.md"
+  ],
+  "40d574068c4c03ee07b0a738018b174697acdc7c": [
+    "includes\\application-insights-limits.md"
+  ],
+  "16a223542077f837762e00cb9b99b356a5a9e561": [
+    "includes\\application-model.md"
+  ],
+  "b5bb71942a2a807508058ae683dd3783f7ae12ed": [
+    "includes\\app-service-api-config-auth.md"
+  ],
+  "4345d1ef1fd3876d4c4cc73590fcdcb83a9f3fb9": [
+    "includes\\app-service-api-create.md"
+  ],
+  "244fec3fec2ab467fb8f7897401b7c1b7993e888": [
+    "includes\\app-service-api-create-dropbox-app.md"
+  ],
+  "fa3b3c58f212451a9aef8ed14b569db4e8f16e74": [
+    "includes\\app-service-api-define-api-app.md"
+  ],
+  "64fcc8f2db7ba55381e42acf2da1533ab14039ff": [
+    "includes\\app-service-api-deploy-parameters.md"
+  ],
+  "239fd41e62dc21673c93fb19d43351e6091865a3": [
+    "includes\\app-service-api-direct-deploy-metadata.md"
+  ],
+  "f9223d3b85e3f8877c7777c038bdbbd8e902a64a": [
+    "includes\\app-service-api-dotnet-add-generated-client.md"
+  ],
+  "9e6e384f893cf174f82928209ed5610372e033bd": [
+    "includes\\app-service-api-exchange-dropbox-settings.md"
+  ],
+  "551bb0645c16028f20e8059b425a0e1fe7707cab": [
+    "includes\\app-service-api-gateway-config-auth.md"
+  ],
+  "fe6304609ad1ba57b5d0d547051e0d4e1f644e81": [
+    "includes\\app-service-api-get-started-selector.md"
+  ],
+  "48fe6d937fc1539f7898715cfb1c647d430ef53d": [
+    "includes\\app-service-api-pub-web-create.md"
+  ],
+  "41cd2b1427fe530a6bcb4879a474eca2320b380a": [
+    "includes\\app-service-api-pub-web-deploy.md"
+  ],
+  "96a6bb96b3080cc169c2a691f0d53e60fd8d917a": [
+    "includes\\app-service-api-review-metadata.md"
+  ],
+  "d50bff0ac6fa132509604c0c4c0df7d4971a7022": [
+    "includes\\app-service-api-v2-note.md"
+  ],
+  "0ce8da631233ab884d06fd6d802e9caf15aff9d3": [
+    "includes\\app-service-choose-me-content.md"
+  ],
+  "bf6e28976b8db3625cb2f14a75419c1198e800bf": [
+    "includes\\app-service-deploy-commands.md"
+  ],
+  "51ff898827b7a7046cef84893b5622d2dd996714": [
+    "includes\\app-service-disqus-feedback-slug.md"
+  ],
+  "81bbf61e2a3a117d83ce30a231c35e0c9f3275c2": [
+    "includes\\app-service-dotnet-debug-api-app-gen-api-client.md"
+  ],
+  "9e654f7e7dd1af2709bf3c2d2f556bc25a97597f": [
+    "includes\\app-service-hybrid-connections-manager-install.md"
+  ],
+  "934051573218fff06f3652aefb38951fdcf671d5": [
+    "includes\\app-service-logic-deploy-parameters.md"
+  ],
+  "87cc6b8f18d7aa73ed6f58b33eef42124edd7d3d": [
+    "includes\\app-service-mobile-adal-register-app.md"
+  ],
+  "d650fcccb73cdce18c536e4b09be03ebfbb5cb07": [
+    "includes\\app-service-mobile-add-google-play-services.md"
+  ],
+  "3103bd530f7818137d6333a169a095c6504c5346": [
+    "includes\\app-service-mobile-add-push-notifications-to-ios-app.md"
+  ],
+  "4e71ea75cccef5e200c37c5d59ca211bb3d7c465": [
+    "includes\\app-service-mobile-android-configure-push.md"
+  ],
+  "362d342362525e12897e5ed90a2ba79668b977bc": [
+    "includes\\app-service-mobile-android-getting-started-with-push.md"
+  ],
+  "57ae3bf3abf06ecc1350ce9a3b5f54640acf5079": [
+    "includes\\app-service-mobile-android-run-app.md"
+  ],
+  "56428dfa12aec110c29659715184c48a100268af": [
+    "includes\\app-service-mobile-apns-configure-push.md"
+  ],
+  "8d691e1e09072f339fd7426c900e9d1abda0f816": [
+    "includes\\app-service-mobile-configure-new-backend.md"
+  ],
+  "f42cd71636af51b50381a6b8bb660f10564345ab": [
+    "includes\\app-service-mobile-configure-wns.md"
+  ],
+  "4b8b34280cc1d55b3933db1ac0674b52171c909c": [
+    "includes\\app-service-mobile-create-notification-hub.md"
+  ],
+  "f9e15231eded4809f8665094416e8659a339112e": [
+    "includes\\app-service-mobile-dotnet-adal-install-nuget.md"
+  ],
+  "794dee7a314ad3647806a072079ef73fc11728cb": [
+    "includes\\app-service-mobile-dotnet-backend-configure-push-apns.md"
+  ],
+  "0fc88bc9e22ac620d22546bd17bc178de1aed191": [
+    "includes\\app-service-mobile-dotnet-backend-configure-push-google.md"
+  ],
+  "68ac8f1276369e19667ae78f781265e78136b1f8": [
+    "includes\\app-service-mobile-dotnet-backend-create-new-service.md"
+  ],
+  "2227a7251d59ab4fdb5ddc1342913ed234bbe7f6": [
+    "includes\\app-service-mobile-dotnet-backend-enable-auth.md"
+  ],
+  "704288ccb777ae7504bb264ded1ab54d2600b955": [
+    "includes\\app-service-mobile-dotnet-backend-enable-offline.md"
+  ],
+  "ed5c48edb51703b48d55b8086f75964c08b030bd": [
+    "includes\\app-service-mobile-dotnet-backend-enable-push.md"
+  ],
+  "0ec69239f783da61d34bd6e37a5dba04bd32976e": [
+    "includes\\app-service-mobile-dotnet-backend-publish-service.md"
+  ],
+  "1f7887cf2ec7d78ae905d8c74f507e6baa86f62d": [
+    "includes\\app-service-mobile-dotnet-backend-test-local-service.md"
+  ],
+  "ab0e6837a5e1b5098044d5d06a234a5d46329807": [
+    "includes\\app-service-mobile-dotnet-backend-web-and-mobile.md"
+  ],
+  "366b05dddb6250dc38d16de31c284ac8d1f834d0": [
+    "includes\\app-service-mobile-enable-google-cloud-messaging.md"
+  ],
+  "aabfea2da8dcf7853d55a4f9dcf07d1640997aa5": [
+    "includes\\app-service-mobile-hero-clarification.md"
+  ],
+  "c6c095662a9b40410ae1c3a4d1e8bc49cbe54952": [
+    "includes\\app-service-mobile-hero-slug.md"
+  ],
+  "697e234885b8c5564f5f1191123085e0b7ace7a8": [
+    "includes\\app-service-mobile-ios-authenticate-app.md"
+  ],
+  "02743d2f800386fc08573883d59462fad47c8cfb": [
+    "includes\\app-service-mobile-ios-authenticate-app-with-token.md",
+    "includes\\mobile-services-ios-authenticate-app-with-token.md"
+  ],
+  "5b4e492cb68c2d34038f4cd5e56ca0f2e8c50954": [
+    "includes\\app-service-mobile-ios-run-app.md"
+  ],
+  "e227492d80b1386b3146cbf0144a9d757c106578": [
+    "includes\\app-service-mobile-migrate-vs-upgrade.md"
+  ],
+  "53cb5e37f1f28a2e6fbd455112b96f291083657d": [
+    "includes\\app-service-mobile-note-mobile-services.md"
+  ],
+  "a99734197871cea5100f7173d11da12fd37f40f8": [
+    "includes\\app-service-mobile-push-notifications-to-users.md"
+  ],
+  "c927e457b1451c117cde1e461cb4d2beb24a1528": [
+    "includes\\app-service-mobile-register-authentication.md"
+  ],
+  "9d93b425fa3678b343253106ca422c41d75b4373": [
+    "includes\\app-service-mobile-register-wns.md"
+  ],
+  "86a3cb81db94632c9250c2332f415bd9d0d378f3": [
+    "includes\\app-service-mobile-related-content-get-started-users.md"
+  ],
+  "3a9e031526cfece88c091f92cf7485af6f48bb24": [
+    "includes\\app-service-mobile-restrict-permissions-dotnet-backend.md"
+  ],
+  "b722aae73b1d4dbb924fb736a7bc113838518207": [
+    "includes\\app-service-mobile-selector-authentication.md"
+  ],
+  "2a3e6d929e9ca05060af760f2dcd4590c547d5c8": [
+    "includes\\app-service-mobile-selector-client-library.md"
+  ],
+  "ea7a3526e2aa0b9b9592d4f1ba5ea29ac39ec4a1": [
+    "includes\\app-service-mobile-selector-get-started.md"
+  ],
+  "29edd5a63b520e979abe48c63d03787b5c8339ff": [
+    "includes\\app-service-mobile-selector-get-started-push.md"
+  ],
+  "b922502d1f2ea49ad54f6430bd582c477df3ff2b": [
+    "includes\\app-service-mobile-selector-get-started-users.md"
+  ],
+  "10f51f52561683ac98f2c079b4230e303f4fb7af": [
+    "includes\\app-service-mobile-selector-offline.md"
+  ],
+  "97ccdc3e991752393778929a5cee9df6327c06f3": [
+    "includes\\app-service-mobile-selector-push-users.md"
+  ],
+  "51bff419f4fc9cb16bf44f8d248b2389c06fdf79": [
+    "includes\\app-service-mobile-selector-server-sdk.md"
+  ],
+  "391759623391ed43559bce7db01e3bd826181eac": [
+    "includes\\app-service-mobile-to-web-and-api.md"
+  ],
+  "6ef4a82471695228eceba5f140dbccd2ba5d9ac1": [
+    "includes\\app-service-mobile-update-server-project-for-push-template.md"
+  ],
+  "c8ab678ba08114c674c459238cff9cf18c6e342f": [
+    "includes\\app-service-mobile-verify-android-sdk-version.md"
+  ],
+  "8f48900f18659212e07af3d97095a2fccfee097c": [
+    "includes\\app-service-mobile-windows-universal-get-started.md"
+  ],
+  "8aeb6e9520ed9e1a9c486a71e07f11b0a8025efb": [
+    "includes\\app-service-mobile-windows-universal-test-app.md"
+  ],
+  "d573fec636312782a500fbc5d7509fbbb2de3ed0": [
+    "includes\\app-service-mobile-windows-universal-test-push.md"
+  ],
+  "70149448a4c257753ee05b5ca3eef60e7bd80067": [
+    "includes\\app-service-mobile-xamarin-android-push-add-to-app.md"
+  ],
+  "93efe5aed476276544ccea4c95704b1929c3f73e": [
+    "includes\\app-service-mobile-xamarin-ios-configure-project.md"
+  ],
+  "bb2ee1f15670e5f7fb55d5cb27d61cc297f072df": [
+    "includes\\app-service-web-deploy-web-host.md"
+  ],
+  "2012edabc20a7e79f77cc01ace27d87f3e6cc81a": [
+    "includes\\app-service-web-deploy-web-parameters.md"
+  ],
+  "ab742e6d0e71770f1a470ac1464b4a9ce0d548a2": [
+    "includes\\app-service-web-to-api-and-mobile.md"
+  ],
+  "199fa900068899ed0c0739030c477b7302ab2bc4": [
+    "includes\\app-service-web-try-app-service.md"
+  ],
+  "933928c431fdd21bf52e11f1ce6306f24aaab5f5": [
+    "includes\\app-service-web-whats-changed.md"
+  ],
+  "5acc978e4534e6326641142d5f2979a560f67041": [
+    "includes\\arm-getting-setup-powershell.md"
+  ],
+  "70d35e93aa06e5e3d55e61a1a28da1a8447ea464": [
+    "includes\\arm-understand-templates.md"
+  ],
+  "47937466e4142468e65ad0885444415c4ae857b0": [
+    "includes\\attach-data-disk-centos-vm-in-portal.md"
+  ],
+  "4c251eebdc99f868e3c1bba3796206a9ced4643b": [
+    "includes\\automation-note-authentication.md"
+  ],
+  "60480e98e1befba481928cfc003c7d5724730cb7": [
+    "includes\\azure-arm-classic-important-include.md"
+  ],
+  "d2f2587aa722821eb6e525fbbb45d1a9bd3bafd5": [
+    "includes\\azure-backup-limits.md"
+  ],
+  "b8923bf214db3269efc870d9b85f0f8d7d147cca": [
+    "includes\\azure-batch-limits.md"
+  ],
+  "4a7fbcb432cde7abc94aee9d2d0d901890f13a1f": [
+    "includes\\azure-cli-prerequisites-include.md"
+  ],
+  "9b7b592f0fc080c24d7f1e123efa4974cf01972c": [
+    "includes\\azure-cloud-services-limits.md"
+  ],
+  "76d3c9def41894a20b4ea594fdb75b58be30ac36": [
+    "includes\\azure-data-factory-limits.md"
+  ],
+  "e1f03b03fa38e1f4b4c967b236a3a405156c7b35": [
+    "includes\\azure-documentdb-limits.md"
+  ],
+  "bef21cf01126fe37d9854e2049e0748b0f224538": [
+    "includes\\azure-mediaservices-limits.md"
+  ],
+  "581624a532f8c60ddf20a637bfe4041473605e59": [
+    "includes\\azure-mfa-service-limits.md"
+  ],
+  "22f57007854d273c1f021d789ce62239c5889cc8": [
+    "includes\\azure-mobile-engagement-limits.md"
+  ],
+  "d0c0fe2a6f3a9e2158b19ab155c74f1ec3f15e13": [
+    "includes\\azure-ps-prerequisites-include.md"
+  ],
+  "9548e4a480878a87556940eba7d663d7290f8b68": [
+    "includes\\azure-remoteapp-limits.md"
+  ],
+  "4422b29c0f92cf88662d761176317a3cc9745835": [
+    "includes\\azure-resource-groups-limits.md"
+  ],
+  "a57708646ced2a89d6cb99e70371396fe0fe0d4f": [
+    "includes\\azure-search-limits-free.md"
+  ],
+  "647de33a9428eea1e644e6d3416f9ec9b7552050": [
+    "includes\\azure-search-limits-standard.md"
+  ],
+  "a0697c398d8d205550ee9d3bf11ae5fb5138259e": [
+    "includes\\azure-storage-limits.md"
+  ],
+  "c98b99febf358fd1179aebdb6ba29e20d71fa001": [
+    "includes\\azure-storage-limits-azure-resource-manager.md"
+  ],
+  "966a1cd3081788203b6c2a0bf7029f88a00153af": [
+    "includes\\azure-storage-limits-vm-disks.md"
+  ],
+  "be92135798a562f4982dbdbcb350e57460588923": [
+    "includes\\azure-storage-limits-vm-disks-premium.md"
+  ],
+  "231f652c488a014bb8da73fcb585ff0de3275a12": [
+    "includes\\azure-storage-limits-vm-disks-standard.md"
+  ],
+  "0215558806032afd7c3aeb8882dbf2a7af2a6bae": [
+    "includes\\azure-subscription-limits.md"
+  ],
+  "3e5c9c0f9e1c9205f93d5542a11fec4cc10b351b": [
+    "includes\\azure-subscription-limits-azure-resource-manager.md"
+  ],
+  "2ef520d658212f21b87c671f626a959111524862": [
+    "includes\\azure-toolkit-for-eclipse-prerequisites.md"
+  ],
+  "a9cba190d66cdac67b30752c8f083c2200b761a9": [
+    "includes\\azure-virtual-machines-limits.md"
+  ],
+  "8e03ec0bbff94e92a98aae8dd59a312cd3a7bf79": [
+    "includes\\azure-virtual-machines-limits-azure-resource-manager.md"
+  ],
+  "7efacb798e4306a76bced8e6e2d321fa22dcd5a9": [
+    "includes\\azure-virtual-network-limits.md"
+  ],
+  "633b498f27c781c1ecfc13c7e0d9f6956b83aaf4": [
+    "includes\\azure-virtual-network-limits-azure-resource-manager.md"
+  ],
+  "5003b13d0f1abd2394a3720308d192294775fecf": [
+    "includes\\azure-websites-limits.md"
+  ],
+  "5f70336862edaca8950b360e60b7cb8afb0aa7a1": [
+    "includes\\backup-create-vault.md"
+  ],
+  "26768206ccb0ce055557d66e1aef8b4a1c0a4a1c": [
+    "includes\\backup-create-vault-wgif.md"
+  ],
+  "8c53e942f63990c5e3232fbcf3c473703637c7ee": [
+    "includes\\backup-download-credentials.md"
+  ],
+  "7c34614d57e2e03b74c1ae2f6af550cb01804a40": [
+    "includes\\backup-install-agent.md"
+  ],
+  "d736de69cb7cf84e6b76aab740f204fff621d303": [
+    "includes\\biztalk-services-service-limits.md"
+  ],
+  "9c54c262e323c37660142098403370e84d8898a2": [
+    "includes\\blitline-signup.md"
+  ],
+  "afcbf375a62a35d35965ea20e6855b1e28e7e478": [
+    "includes\\cache-deploy-parameters.md"
+  ],
+  "9c2bc9e3d13c279ef221c59775443c318caa5cf8": [
+    "includes\\cap-create-features-selector.md"
+  ],
+  "872e05696b1261768f53c60f7a4f73e633c5b37f": [
+    "includes\\cap-explore-data-selector.md"
+  ],
+  "c98db47261dcab51cbbc4c1d41d974835af8f975": [
+    "includes\\cap-ingest-data-selector.md"
+  ],
+  "dda8654a4707b3f8938b6136329c7bef7c3e32c7": [
+    "includes\\cap-sample-data-selector.md"
+  ],
+  "e0b183c1fff22882bec672574732f63e1a8e1f8c": [
+    "includes\\cap-setup-environments.md"
+  ],
+  "b6928443e9fe504731d4a9d82e9baeac9e792d8e": [
+    "includes\\cap-vehicle-telemetry-playbook-selector.md"
+  ],
+  "feb43ef94c6b5ae75860eaca48d3b606e20b445f": [
+    "includes\\cdn.md"
+  ],
+  "b06548077871918ea525dad9aeee4a71fe2252fa": [
+    "includes\\cdn-limits.md"
+  ],
+  "29217edc3f0d11ca0d6c2672190564c3dd0af119": [
+    "includes\\cloud-services-choose-me-content.md"
+  ],
+  "b4050731dc2f49abbbac12b68277afcc0641578b": [
+    "includes\\cloud-storage.md"
+  ],
+  "d7a80dad04c2c1ebcd8eb97fb128b805a37f0532": [
+    "includes\\configure-ssl-web-site.md"
+  ],
+  "fb58fde7ec3c8a1b5fb313d4bd2d531bf4baf19a": [
+    "includes\\create-account-and-vms-note.md"
+  ],
+  "95ce31fe08b7da3057fd0a20071b3b550b92880e": [
+    "includes\\create-account-and-websites-and-vms-note.md"
+  ],
+  "0cdc372d8f3125bed1cc63ab6a3d5567d6860f82": [
+    "includes\\create-account-and-websites-note.md"
+  ],
+  "4480fa1878894dcae9a8cc71033aeebb14a7dd7b": [
+    "includes\\create-account-note.md"
+  ],
+  "d77caf49d1c93121776fe449f577b1bc65424828": [
+    "includes\\create-an-azure-account.md"
+  ],
+  "5c59a9386334c2dd46cd7b226ef39d2f9e3dae75": [
+    "includes\\create-and-configure-opensuse-vm-in-portal.md"
+  ],
+  "21c125bedde55ddbaa00e5f73282ee5d79214d07": [
+    "includes\\create-azure-account.md"
+  ],
+  "1cf1d160d4392d973198adeb49fa02cfe234e1d3": [
+    "includes\\create-mysql-db.md"
+  ],
+  "1e1608f13e2c21bb8da43859c9448ba32893df3c": [
+    "includes\\crossplat-cmd-tools.md"
+  ],
+  "cb070049453853d761c755d8786a98052bcb5628": [
+    "includes\\custom-dns-web-site.md"
+  ],
+  "9178048fdf718e437eff1fec3a360fc5ee92c7b7": [
+    "includes\\custom-dns-web-site-buydomains-web-app.md"
+  ],
+  "154bd54583ee1119df54a18aa7a84d3f9138365d": [
+    "includes\\custom-dns-web-site-enable-on-traffic-manager.md"
+  ],
+  "dd81652f03fe289b7716979afd08011d519b23ee": [
+    "includes\\custom-dns-web-site-enable-on-web-site.md"
+  ],
+  "199402d89ccc7bace0a0159daf742f4d2b6e2068": [
+    "includes\\custom-dns-web-site-intro.md"
+  ],
+  "c66a378befa1836b581ab72acc5372169af233fc": [
+    "includes\\custom-dns-web-site-intro-notes.md"
+  ],
+  "8e40f98e8fedd8b22710b6b438821830e0b0d99e": [
+    "includes\\custom-dns-web-site-intro-traffic-manager.md"
+  ],
+  "dee7651e00fbfe420f3c9b66ca9e4529d3389c20": [
+    "includes\\custom-dns-web-site-modes.md"
+  ],
+  "84d2c2b24ac27df5a48efe2a05fd234ef22a381c": [
+    "includes\\custom-dns-web-site-modes-traffic-manager.md"
+  ],
+  "367b2725fe84df6c2b0dd9e415601098864015f1": [
+    "includes\\custom-dns-web-site-traffic-manager-notes.md"
+  ],
+  "5df9feda85f185b8e82ea04344ffabd4fe06dd53": [
+    "includes\\custom-dns-web-site-understanding-dns-raw.md"
+  ],
+  "748b840ab3f4ad2b069f30b8fdd86708c13b4589": [
+    "includes\\custom-dns-web-site-understanding-dns-traffic-manager.md"
+  ],
+  "8028e9e3a659e5abaada83e988d5ac19570738a8": [
+    "includes\\data-factory-column-mapping.md"
+  ],
+  "df09c7ee12e879f56d4e0e83976be3aac278929a": [
+    "includes\\data-factory-compression.md"
+  ],
+  "a40792e45ff266e5f1fef8bd76dd9b39eaefac8d": [
+    "includes\\data-factory-sql-invoke-stored-procedure.md"
+  ],
+  "28da3492b6a31c57f9874ec422b4b17fc9f52e80": [
+    "includes\\data-factory-structure-for-rectangualr-datasets.md"
+  ],
+  "688e81a5acf3b7a66cbf1a3efdd32e3c3534d495": [
+    "includes\\data-factory-type-conversion-sample.md"
+  ],
+  "4505ace0650074b292021e29bf9cb6ace59b2f1b": [
+    "includes\\data-factory-type-repeatability-for-relational-sources.md"
+  ],
+  "d0ae88ab58fac25a692ee14979ff93da6f8ae4c4": [
+    "includes\\data-factory-type-repeatability-for-sql-sources.md"
+  ],
+  "77cc5195241628721fda8034ae5f41340f025910": [
+    "includes\\data-lake-analytics-selector-get-started.md"
+  ],
+  "269cb7b2fc7ee4eb14f85eb8f24ff6e1209fdfcd": [
+    "includes\\data-lake-analytics-selector-manage.md"
+  ],
+  "639fa14fae846ae4682009e97d0ef004af739bad": [
+    "includes\\disclaimer.md"
+  ],
+  "f449fb53a93fcf1ab9a7e93ecf2bc0e682b5f47f": [
+    "includes\\dns-limits.md"
+  ],
+  "778190209c72f96ae77b2ada6c452826fadcc6c0": [
+    "includes\\documentdb-create-dbaccount.md"
+  ],
+  "a2a68527382c5ec91ddb710268341357b8f1caac": [
+    "includes\\documentdb-keys.md"
+  ],
+  "6edba0a2572b0c09b5aa57c3c5066b0a09bd365f": [
+    "includes\\documentdb-sdk-faq.md"
+  ],
+  "da6ca3ea4428aee7f2d7adcf0af4dde0625eaafb": [
+    "includes\\download_eclipse.md"
+  ],
+  "7022da94e4741f51120cdba9c454d838171e044c": [
+    "includes\\download_libraries.md"
+  ],
+  "f447a32a2a4bb7d5db7668f53928c7c9bfd8594a": [
+    "includes\\download-android-sample-code.md"
+  ],
+  "f74722ff2ffbf38b69f22893f78ca2895d3332cd": [
+    "includes\\elastic-scale-include.md"
+  ],
+  "3b94bfdc64ec994c1ba3e9a14a6c2804e4fbf294": [
+    "includes\\enable-apple-push-notifications.md"
+  ],
+  "33b48495284a7eb6ba2caf0e7793ffb25db8a753": [
+    "includes\\expressroute-limits.md"
+  ],
+  "76e41921398bf680306ca9d443ee4b5a9bbbd10a": [
+    "includes\\free-trial-note.md"
+  ],
+  "b20250e048199749a75f28d77176c860f9d67334": [
+    "includes\\free-trial-note2.md"
+  ],
+  "c9afd8d1de1e3a5be53d29c1ed76faafe4f2bb8a": [
+    "includes\\get-client-libraries.md"
+  ],
+  "5e257f92b12d4d03b5e9fef2aad1bc4903f5604c": [
+    "includes\\hdinsight-ambari-selector.md"
+  ],
+  "ab31017a737c72266e99a867f4a74d2a4ddf6b89": [
+    "includes\\hdinsight-azure-portal.md"
+  ],
+  "9c3f754c46b9aa41872c18b19ed5b3566616d4d3": [
+    "includes\\hdinsight-azure-preview-portal.md"
+  ],
+  "8adab77cca60eb386e638235bffc994ed7e1cdb8": [
+    "includes\\hdinsight-azure-preview-portal-nolink.md"
+  ],
+  "a86761e70c3c56d0fea253a43e66ced2bf0f793c": [
+    "includes\\hdinsight-create-linux-cluster-selector.md"
+  ],
+  "e11b5b8ac9638c537f2c324bf7004189901035ab": [
+    "includes\\hdinsight-hbase-selector.md"
+  ],
+  "8100e74feb8ad822e0987095ad24e82a52e3b879": [
+    "includes\\hdinsight-linux-vnet-v1.md"
+  ],
+  "9b04e5bf7952308a0b7ec004911463ddae32957f": [
+    "includes\\hdinsight-maven-mapreduce-selector.md"
+  ],
+  "86d5a0e79de3b62c2fcd8f9211d11d527d0805f4": [
+    "includes\\hdinsight-oozie-selector.md"
+  ],
+  "3bf96de1e7ed9c759b5de6db021211addaba2efa": [
+    "includes\\hdinsight-portal-management-selector.md"
+  ],
+  "da50dfd946a59cbeee3be90916c48d9b77d8981a": [
+    "includes\\hdinsight-pricing-data-centers-clusters.md"
+  ],
+  "56001ec6ec91a3ed804733f38828ce38c31b85bd": [
+    "includes\\hdinsight-provisioning.md"
+  ],
+  "b46ba6c2b5ed2aa84ea003782033c030d75f14be": [
+    "includes\\hdinsight-run-samples-selector.md"
+  ],
+  "82acb045ae4c13b2faaa3b56993685d59ed51502": [
+    "includes\\hdinsight-selector-heap-dump.md"
+  ],
+  "82c5b6794e26f41cf92b92246b98b1676343fe35": [
+    "includes\\hdinsight-selector-mahout.md"
+  ],
+  "1ad9375ffb2e39c38ca2d81fb68e315e815e3e8b": [
+    "includes\\hdinsight-selector-odbc-jdbc.md"
+  ],
+  "3557919240bb36cd78ac1d12cacf7e8bdd7fc16f": [
+    "includes\\hdinsight-selector-use-hive.md"
+  ],
+  "32a66c0fe61150f2936f5029ac0852f7a66ee490": [
+    "includes\\hdinsight-selector-use-mapreduce.md"
+  ],
+  "0633ef401621ef2e78b628a8f8beb9e90a1d0dcc": [
+    "includes\\hdinsight-selector-use-pig.md"
+  ],
+  "8f810c5ba2bb53f3f23608c1e929a78cfd571877": [
+    "includes\\hdinsight-selector-use-script-action.md"
+  ],
+  "8694bb00bf47fc66dd6ebb331dc436ece3414d79": [
+    "includes\\hdinsight-selector-use-sqoop.md"
+  ],
+  "11717c9f14cf5b83f95ad7fb016b4da281886eb1": [
+    "includes\\hdinsight-windows-only.md"
+  ],
+  "3fa359169e4356415195a9b6acc673aef69d2e93": [
+    "includes\\howto-access-mongolab-ui.md"
+  ],
+  "f46f5037bfa47394c595a29c1eda33f14ee0e0a0": [
+    "includes\\howto-attach-disk-linux.md"
+  ],
+  "58d163b5a7d0bd76947a4654eaf30ab0026a6b20": [
+    "includes\\howto-attach-disk-windows-linux.md"
+  ],
+  "537c10287b609a487658703798b7107f89d555a9": [
+    "includes\\howto-custom-create-vm.md"
+  ],
+  "a6aaffb3083692f052fdcd608259fbd079358424": [
+    "includes\\howto-detach-disk-linux.md"
+  ],
+  "8789913603216a0316b89ce4a6109fe9c0d0d7b3": [
+    "includes\\howto-detach-disk-windows-linux.md"
+  ],
+  "038056e63468d87cb0d5cf6bdee0b957b6fe2f95": [
+    "includes\\howto-get-connectioninfo-mongolab.md"
+  ],
+  "4d029f050dff962a0312b7e8f19a724c5779ff3d": [
+    "includes\\howto-provision-mongolab.md"
+  ],
+  "4ce60a85f85ceac6ad97939badbe64d5099ccd35": [
+    "includes\\howto-save-connectioninfo-mongolab.md"
+  ],
+  "8ef5425736e5cb8ef4e6d6021381ea34542cbc9a": [
+    "includes\\howto-service-bus-queues.md"
+  ],
+  "68b507fe6761bac9b4e50266dc759ce24d4935f9": [
+    "includes\\howto-service-bus-topics.md"
+  ],
+  "a16ad28b1315b52f5fbd7a54b95535c1f9e219c8": [
+    "includes\\hybrid-connections-create-new.md"
+  ],
+  "1f32648fc44c4eea90b273a58c6a786fa3218038": [
+    "includes\\hybrid-connections-create-on-premises-database.md"
+  ],
+  "a059b49f49b17419f43684c0c9c99ced543a6979": [
+    "includes\\hybrid-connections-install-connection-manager.md"
+  ],
+  "0cc4b32a2e0d12f1a07dd64e84b303ad6a0eb629": [
+    "includes\\hybrid-connections-prerequisites.md"
+  ],
+  "cb6d58bd7f2a020a91a1430cc07976e6c8b8bedc": [
+    "includes\\hybrid-solutions.md"
+  ],
+  "ec783e015c697a7ac39fc1e13a9fb250374c79e5": [
+    "includes\\identity.md"
+  ],
+  "783a0a14ff18732db14aa64578993b7ffe6a773f": [
+    "includes\\install-and-run-mongo-on-centos-vm.md"
+  ],
+  "8b99ef7faf159cb0f39375f1d9831b09301be780": [
+    "includes\\install-and-run-mongo-on-win2k8-vm.md"
+  ],
+  "092d573bfcf3611c3aae310828632a88a671760d": [
+    "includes\\install-and-run-mysql-on-opensuse-vm.md"
+  ],
+  "eb58419bf04a2cf722d2071959f427c8258e5861": [
+    "includes\\install-dev-tools.md"
+  ],
+  "3af04587d5bb33acd1242b12422041a61c512911": [
+    "includes\\install-sdk-2012-only.md"
+  ],
+  "3af7d8bd1ce7e1bf7e1b32814bdb2f96f901f662": [
+    "includes\\install-sdk-2013-only.md"
+  ],
+  "66d91501a0fcc5de8948ae8841713d11bb72bfd6": [
+    "includes\\install-sdk-2015-2013.md"
+  ],
+  "c8225339a2aa7821078f9054c844a43f84470b29": [
+    "includes\\install-sdk-2015-only.md"
+  ],
+  "dc2553f75e27d4f2f3ffdb34ed76d6191b4b128b": [
+    "includes\\iot-azure-and-iot.md"
+  ],
+  "21e15b7f9b227bd87982483aa4bc03f2d19c75d5": [
+    "includes\\iot-hub-c2d-cloud-csharp.md"
+  ],
+  "d3008c9d64aaf0d747bba6e60ebfb068f2be15e9": [
+    "includes\\iot-hub-c2d-device-csharp.md"
+  ],
+  "7bacf3defe55487e0a20eea3b694813b71076f81": [
+    "includes\\iot-hub-file-upload-cloud-csharp.md"
+  ],
+  "459ac0f7e144b92141b25783a98d335725555577": [
+    "includes\\iot-hub-file-upload-device-csharp.md"
+  ],
+  "3334d3355992b213155de111b69c71a2b07c67f5": [
+    "includes\\iot-hub-get-access-token.md"
+  ],
+  "91763b6550df984e2d38d521ccc128b66cf3b137": [
+    "includes\\iot-hub-get-started-cloud-csharp.md"
+  ],
+  "3f0baf4a40670d07621dffaacfe3da04f8b89de0": [
+    "includes\\iot-hub-get-started-device-csharp.md"
+  ],
+  "acf92ef3c687bb69fd7a439c12f79f3439406a9c": [
+    "includes\\iot-hub-limits.md"
+  ],
+  "baf4c02f9e7b4f84d49e9172bbce7b59ed829d38": [
+    "includes\\iot-hub-prepare-resource-manager.md"
+  ],
+  "3ec41895a9c6791092fdaac3d66de1dd9d6946a5": [
+    "includes\\iot-hub-process-d2c-cloud-csharp.md"
+  ],
+  "283acca0ac978266477cd89a563a7e2369641b96": [
+    "includes\\iot-hub-process-d2c-device-csharp.md"
+  ],
+  "98496fc5859617f3d3d8e99073b3d33bd53b98d2": [
+    "includes\\iot-hub-resource-manager-selector.md"
+  ],
+  "8d00f09309fee067720d805a009b4f471d32b7e5": [
+    "includes\\iot-hub-retrieve-keys.md"
+  ],
+  "0176b840c351d45034a5b0aaa0ab3a001cefb824": [
+    "includes\\iot-hub-selector-c2d.md"
+  ],
+  "fd4e85ac0359e64b7e84c1d0ac171a57351f5cc1": [
+    "includes\\iot-hub-selector-get-started.md"
+  ],
+  "a21aeb401495562c8ddcd7d316b5949575ce9472": [
+    "includes\\iot-suite-selector-connecting.md"
+  ],
+  "ed8a8b2318e27c9a45306222bc1513f39ff16933": [
+    "includes\\iot-suite-visualize-connecting.md"
+  ],
+  "5d958d67be0992bd2381139a389797b81a567359": [
+    "includes\\key-vault-limits.md"
+  ],
+  "e1bc34922dafd0466d6da06de0d3400c320f12b0": [
+    "includes\\learn-about-deployment-models-both-include.md"
+  ],
+  "cb963102fece144acd367cb0addebd489b3ebf78": [
+    "includes\\learn-about-deployment-models-classic-include.md"
+  ],
+  "36f6b9007e6c54ef6cc068f2a48621d529bb7870": [
+    "includes\\learn-about-deployment-models-include.md"
+  ],
+  "4637a8c3688abfe4c7824e6ae47f42c88227cfdd": [
+    "includes\\learn-about-deployment-models-rm-include.md"
+  ],
+  "96973e52cf53c6cebd285e18d09b4770a78f5303": [
+    "includes\\load-balancer-get-started-ilb-arm-selectors-include.md"
+  ],
+  "7de9a7269a6acc172f7a21c59d5ab88caf05a292": [
+    "includes\\load-balancer-get-started-ilb-classic-selectors-include.md"
+  ],
+  "c53410b11b680d127399fde6f3e345c1557db83f": [
+    "includes\\load-balancer-get-started-ilb-intro-include.md"
+  ],
+  "862fa9706e7dfae5ae04750b5ac5e4d92b6fb127": [
+    "includes\\load-balancer-get-started-ilb-scenario-include.md"
+  ],
+  "9415ce35e0bd5d2a43bf2cd9a3bc0b41b6a30d4c": [
+    "includes\\load-balancer-get-started-internet-arm-selectors-include.md"
+  ],
+  "35a01a53bbf6abf5936e148cfd431f9116d9c439": [
+    "includes\\load-balancer-get-started-internet-classic-selectors-include.md"
+  ],
+  "cfdf3b6a3e43a7bf309f6ceb7ce99d27d64ed9ab": [
+    "includes\\load-balancer-get-started-internet-intro-include.md"
+  ],
+  "5a0d8a8f17140ecdf249e44147d3c07dcba2d017": [
+    "includes\\load-balancer-get-started-internet-scenario-include.md"
+  ],
+  "10fcb1fa37bbaa87d404f098690c7b4228d0a568": [
+    "includes\\load-balancing-vms.md"
+  ],
+  "4ed2f2207258a63f9877feb2fbd8aef8cdd80dc4": [
+    "includes\\machine-learning-blob-storage-tool-selector.md"
+  ],
+  "cc15a0db7b04f4b589dcdda5c5f33db99390d6e3": [
+    "includes\\machine-learning-free-trial.md"
+  ],
+  "a5eb3a7367279cd61353cd28269c1d1b06fe3504": [
+    "includes\\machine-learning-import-data-into-aml-studio.md"
+  ],
+  "d3b518d262326f46d96b1876ca6b88a5d61afced": [
+    "includes\\machine-learning-sample-dataset-adult-census-income.md"
+  ],
+  "77e4696c7fa7f003b1c4838523affcee9a3b86fc": [
+    "includes\\machine-learning-sample-dataset-airport-codes.md"
+  ],
+  "b6872a99228e866e2e413bc2593523d0388fc8a1": [
+    "includes\\machine-learning-sample-dataset-automobile-mpg.md"
+  ],
+  "d905dce14c721779a920027fd2de105f1c0e0ff1": [
+    "includes\\machine-learning-sample-dataset-automobile-price.md"
+  ],
+  "5c9e06dd58101bc3dd6da7c09afd3551a617d385": [
+    "includes\\machine-learning-sample-dataset-bike-rental-uci-dataset.md"
+  ],
+  "8cfea6c38e4f06092e5cbfd1858c9a4fd3d16a48": [
+    "includes\\machine-learning-sample-dataset-bill-gates-rgb-image.md"
+  ],
+  "1ead5726f37ac2a4dd414648f3c3412e30f27e8d": [
+    "includes\\machine-learning-sample-dataset-blood-donation.md"
+  ],
+  "57fbda312b065f9f37820395f807cdcd029ec0db": [
+    "includes\\machine-learning-sample-dataset-book-reviews-from-amazon.md"
+  ],
+  "66ef4212c39c09a6fca55f7168b6f8837d3a4dac": [
+    "includes\\machine-learning-sample-dataset-breast-cancer-data.md"
+  ],
+  "c1e73bb8731d343d9627d58fd013c1929b418bee": [
+    "includes\\machine-learning-sample-dataset-breast-cancer-features.md"
+  ],
+  "38e342fb563434add4e2266dee40d76987a4943a": [
+    "includes\\machine-learning-sample-dataset-breast-cancer-info.md"
+  ],
+  "4a0517f3e41c037ac62ce7b45a74674f2361373d": [
+    "includes\\machine-learning-sample-dataset-crm-appetency-labels-shared.md"
+  ],
+  "42ac38da37d31c1feee2f0bf024897a6a9b10e36": [
+    "includes\\machine-learning-sample-dataset-crm-churn-labels-shared.md"
+  ],
+  "4ac86afe0e4621bac7a48e9d8a00c439c0bf22eb": [
+    "includes\\machine-learning-sample-dataset-crm-dataset-shared.md"
+  ],
+  "22e5545132ec96de02780badb2ac1dd3256fa02e": [
+    "includes\\machine-learning-sample-dataset-crm-upselling-labels-shared.md"
+  ],
+  "be705ab07c9ac0fc8a68befa80b706e4646b225b": [
+    "includes\\machine-learning-sample-dataset-direct-marketing.md"
+  ],
+  "e16fbba6bc12483c60dd199cff4c1606e1cdb9a8": [
+    "includes\\machine-learning-sample-dataset-energy-efficiency-regression.md"
+  ],
+  "9872aac72a836087490a76e84f1e457811315419": [
+    "includes\\machine-learning-sample-dataset-flight-delays-data.md"
+  ],
+  "9a5cd263af7cc6d39df98b79a059b0025015ba72": [
+    "includes\\machine-learning-sample-dataset-flight-on-time-performance.md"
+  ],
+  "0bd247e7304829486bd74c47d14f9fb9de954ac2": [
+    "includes\\machine-learning-sample-dataset-forest-fires.md"
+  ],
+  "9011848e3a9d6b790e9d5329cfdb70fa053947ce": [
+    "includes\\machine-learning-sample-dataset-german-credit-card-uci-dataset.md"
+  ],
+  "ba6e8f80c6d1f570d126622415203f46c586225d": [
+    "includes\\machine-learning-sample-dataset-imdb-movie-ratings.md"
+  ],
+  "8a06b93db0d5eb513f27ed19c1e9ea2645b3cab3": [
+    "includes\\machine-learning-sample-dataset-imdb-movie-titles.md"
+  ],
+  "c060059d982c104d8cf7dc275ae8e2091fb4a7ab": [
+    "includes\\machine-learning-sample-dataset-iris-two-class.md"
+  ],
+  "e5e9f31d7fbbd58e9b80b64695c5dae3139c6c8e": [
+    "includes\\machine-learning-sample-dataset-lyrl2004-tokens-test.md"
+  ],
+  "4069f4693adcbeab46991e0998876ce8a7d62df4": [
+    "includes\\machine-learning-sample-dataset-lyrl2004-tokens-train.md"
+  ],
+  "5784bcecd5a23b235112a4bf612eec3fe3c3327f": [
+    "includes\\machine-learning-sample-dataset-movie-tweets.md"
+  ],
+  "a7a6860dd0f127cddef0ec6f29066055bb578e31": [
+    "includes\\machine-learning-sample-dataset-network-intrusion.md"
+  ],
+  "1344f175c0f5375e953ba678f3ecc71505900f17": [
+    "includes\\machine-learning-sample-dataset-pima-indians-diabetes.md"
+  ],
+  "6759b564f54b81c930fc93a8db51fc4ec25deeae": [
+    "includes\\machine-learning-sample-dataset-rcv1-v2-topics.md"
+  ],
+  "cf55a92c93397102f6e4865afceabee7b809f50b": [
+    "includes\\machine-learning-sample-dataset-restaurant-customer-data.md"
+  ],
+  "f26172d224487239b7209999034d8fce11c26d7f": [
+    "includes\\machine-learning-sample-dataset-restaurant-feature-data.md"
+  ],
+  "de49a8c8c823fd81bc38c027a9e37581f33b0bc6": [
+    "includes\\machine-learning-sample-dataset-restaurant-ratings.md"
+  ],
+  "0f5edcbc32dba340977e707dde3bcb3992a03180": [
+    "includes\\machine-learning-sample-dataset-steel-annealing.md"
+  ],
+  "f74fe3ba5dd448e9f1f1f42921da82358454da32": [
+    "includes\\machine-learning-sample-dataset-student-performance.md"
+  ],
+  "6d0d8218820fb46a38075cf893c8ab285801b46e": [
+    "includes\\machine-learning-sample-dataset-telescope-data.md"
+  ],
+  "807f23f61e3351a374d8693ad91eb60983deedb9": [
+    "includes\\machine-learning-sample-dataset-weather-dataset.md"
+  ],
+  "f00df0afc5104fce20fdf0b874d2b68c26a56c33": [
+    "includes\\machine-learning-sample-dataset-wikipedia-sp-500.md"
+  ],
+  "86cad5d3b89b339dd2af112560a9669530dde44a": [
+    "includes\\media-services-learning-paths-include.md"
+  ],
+  "1bc6f3e9f225e1b744f3979afb2dbf1326de07c0": [
+    "includes\\media-services-selector-advanced-encoding.md"
+  ],
+  "cc3cb954c44368dbd7f14753776e64027dd3dbf3": [
+    "includes\\media-services-selector-asset-delivery-policy.md"
+  ],
+  "4e4523e53e48b76ed193a5370e0177ad8336771d": [
+    "includes\\media-services-selector-connect.md"
+  ],
+  "4e22a9629a87f943d2091e0c65fcc25c3f335976": [
+    "includes\\media-services-selector-content-key-auth-policy.md"
+  ],
+  "e516f5af8610c5b01606549cf9be24647007ab67": [
+    "includes\\media-services-selector-create-contentkey.md"
+  ],
+  "c2b291955724df3e512e0798d71a6c5211540006": [
+    "includes\\media-services-selector-encode.md"
+  ],
+  "9b4be7a14efe7a2b952a3b216cea6bc53502331a": [
+    "includes\\media-services-selector-get-media-processor.md"
+  ],
+  "94fafa56d988d3a92b1402346b52f6f6e6a505a3": [
+    "includes\\media-services-selector-get-started.md"
+  ],
+  "4884e3266fed5a0460e4e87eefba1cb086a16dad": [
+    "includes\\media-services-selector-index-content.md"
+  ],
+  "d91d6d5f40f22af3fbc591359845657575a87c1f": [
+    "includes\\media-services-selector-job-progress.md"
+  ],
+  "bf6026f28f56b06870a36997eefdb7ad5b0e3c95": [
+    "includes\\media-services-selector-manage-channels.md"
+  ],
+  "4dd73bef5bbb696e61fc5dfe9d104fc08c92f610": [
+    "includes\\media-services-selector-publish.md"
+  ],
+  "4db19331dedd08f7a5f91e39a42e65d15fee91d2": [
+    "includes\\media-services-selector-scale-encoding-units.md"
+  ],
+  "d502ce924d78c299acb8bda0fe7b18cde49bd067": [
+    "includes\\media-services-selector-setup.md"
+  ],
+  "60ff5fe92935edaf979009e6c5b856e7daa41d43": [
+    "includes\\media-services-selector-upload-files.md"
+  ],
+  "66623b41c676a34b84defc1b0331416682d164a8": [
+    "includes\\media-services-user-voice-include.md"
+  ],
+  "b5cae43786a58f63136f4a6f5b9c0ffd660637b9": [
+    "includes\\mobile-android-authenticate-app.md"
+  ],
+  "e268b8072703e15baae6e8afbd0a10b2661872f0": [
+    "includes\\mobile-android-authenticate-app-refresh-token.md"
+  ],
+  "5dbf2827bc9dddcd1a48c7d74e941d1c4f529ca1": [
+    "includes\\mobile-android-authenticate-app-with-token.md"
+  ],
+  "5bdf33f987f56e1dea4b11944d8e6e4971e121e7": [
+    "includes\\mobile-engagement-connect-app-with-monitor.md"
+  ],
+  "f284e2858e5de429e499a7c4146ae6613a07d4d5": [
+    "includes\\mobile-engagement-create-app-in-portal.md"
+  ],
+  "66ce930a3e568489bacf3df05f87c01c0df50b23": [
+    "includes\\mobile-engagement-create-new-ios-app.md"
+  ],
+  "e495d088fb177aea61e6396cb00821cd2ccad816": [
+    "includes\\mobile-engagement-enable-google-cloud-messaging.md"
+  ],
+  "c30b8bbcb2a483a03d5cfc28da3599067aae78a4": [
+    "includes\\mobile-engagement-ios-send-push.md"
+  ],
+  "b92cd00b1abea3d392874572ecfcbdc7248632ca": [
+    "includes\\mobile-engagement-ios-silent-push.md"
+  ],
+  "4cf9adff29d6ca07292008a8e999a0f597bdfea0": [
+    "includes\\mobile-engagement-windows-push-campaign.md"
+  ],
+  "54761af4c4bb3a2e16f12e63c7042e5d0481d26a": [
+    "includes\\mobile-services-aad-graph-info-test-app.md"
+  ],
+  "4c204e2b4057a5ce669dba3a0dfb3da0bbc2938a": [
+    "includes\\mobile-services-aad-graph-info-update-app.md"
+  ],
+  "5daccfa1a0a3eec5922114c7d219c761bad45e6e": [
+    "includes\\mobile-services-aad-rbac-create-sales-group.md"
+  ],
+  "5c4932a0f01754f8535c4e87909758f6107f076a": [
+    "includes\\mobile-services-aad-rbac-test-app.md"
+  ],
+  "ce3aeed83465dd0cacb3965ebbb4f3f94b8486bb": [
+    "includes\\mobile-services-add-google-play-services.md"
+  ],
+  "865192d6f22646842725739ae7bc78c84c4ab067": [
+    "includes\\mobile-services-android-call-custom-api.md"
+  ],
+  "7502f71ca7c43b89e103d1d922d459b5208e7455": [
+    "includes\\mobile-services-android-configure-push.md"
+  ],
+  "49093801f4a4970e9aaf42283051ac4ea73bcf28": [
+    "includes\\mobile-services-android-get-started.md"
+  ],
+  "0fa2b11e8886409b8db324e4d3d6f4d85ac45631": [
+    "includes\\mobile-services-android-getting-started-with-data.md"
+  ],
+  "743ca7715961e2237c11b223e45009b96da5e681": [
+    "includes\\mobile-services-android-getting-started-with-push.md"
+  ],
+  "2f3593be724844c754b6044d42c8ae973ef33327": [
+    "includes\\mobile-services-android-prerequisites.md"
+  ],
+  "d28abe0eeb62c81ebcc07eb344ee23a84fcbef2f": [
+    "includes\\mobile-services-android-push-notifications-app-users.md"
+  ],
+  "bd7a6bbd73dd959cb32815eda31c0c7e7261fd61": [
+    "includes\\mobile-services-android-push-notifications-test.md"
+  ],
+  "d3f6d51dbf011d14f3c86b95a268f914abc8aef2": [
+    "includes\\mobile-services-android-run-sample-code.md"
+  ],
+  "458e0755120410b7d609dc68227bc0ba4950ee78": [
+    "includes\\mobile-services-android-test-push-users.md"
+  ],
+  "a700ed8e5bcee2dfead50421b7313c7c96ce3a1e": [
+    "includes\\mobile-services-android-test-starting-with-data.md"
+  ],
+  "a508c51451de4660b7314d63b7f5173dbc480257": [
+    "includes\\mobile-services-apns-configure-push.md"
+  ],
+  "47c344484696b7c3862d84238a7d54fe0efe545a": [
+    "includes\\mobile-services-concepts.md"
+  ],
+  "748643ab4f345d4408f1c54a2f40263f8203ee37": [
+    "includes\\mobile-services-configure-blob-storage.md"
+  ],
+  "ea0b7a2e7515f1b0d68fc508aa267e00b1e95f41": [
+    "includes\\mobile-services-content-not-ready.md"
+  ],
+  "28ffadfe2916b1b93fadad176672aed07265f780": [
+    "includes\\mobile-services-create-custom-api.md"
+  ],
+  "2d3e9b875a9d1bc9a07a74dabaa94fd06f46b663": [
+    "includes\\mobile-services-create-new-push-table.md"
+  ],
+  "3496b51cf1059ca0c5b6163a7bda07d454aa0f10": [
+    "includes\\mobile-services-create-new-push-vs2013.md"
+  ],
+  "1d4c68ed36a422eeb41eba74889ba05db414a800": [
+    "includes\\mobile-services-create-new-push-vs2013-2.md"
+  ],
+  "9e1d847e913bdf55fba201e63759a7491239af91": [
+    "includes\\mobile-services-create-new-service.md"
+  ],
+  "4adff576efb33038f3ca196c4b5730d0e91fc0ce": [
+    "includes\\mobile-services-create-new-service-data.md"
+  ],
+  "6c7485d9527c0b1fd891c2bf0bf3c0a3ae316fbb": [
+    "includes\\mobile-services-create-new-service-data-2.md"
+  ],
+  "98b785acabd8d325bc4b14760ca2b7cd0a1a4907": [
+    "includes\\mobile-services-create-new-service-vs2013.md"
+  ],
+  "f6f80f833f4d6c1f049a350d22db7908f92ddee3": [
+    "includes\\mobile-services-create-new-table-vs2013.md"
+  ],
+  "8c04217dfe99150e1192b7a6f8535b1ec0d1537a": [
+    "includes\\mobile-services-dotnet-adal-install-nuget.md"
+  ],
+  "0f3a7863324765c323b10fc0fe74d7e1fe45c479": [
+    "includes\\mobile-services-dotnet-adal-register-client.md"
+  ],
+  "c31db215fb56060206fefbb8cadb35801b132ff1": [
+    "includes\\mobile-services-dotnet-adal-register-service.md"
+  ],
+  "2d3b2763a35b0670b3fb669ed1cb279328030db2": [
+    "includes\\mobile-services-dotnet-backend-aad-server-extension.md"
+  ],
+  "ca4b1db15df056f0b4dc0fb0dbd4ac7e335240b3": [
+    "includes\\mobile-services-dotnet-backend-add-completedate.md"
+  ],
+  "0f32f583b0a69d178c38759230e02955d15e0d5e": [
+    "includes\\mobile-services-dotnet-backend-add-validation.md"
+  ],
+  "dcbb90f0e61f43fe47f6c675a1c60fab5f9499ee": [
+    "includes\\mobile-services-dotnet-backend-android-push-update-service.md"
+  ],
+  "bc2492b7769268836c4985cd345a1d506c4be941": [
+    "includes\\mobile-services-dotnet-backend-configure-blob-storage.md"
+  ],
+  "f4d22cd240cfcf3b942a72e8a025a477eb953d7e": [
+    "includes\\mobile-services-dotnet-backend-configure-local-push.md"
+  ],
+  "487b16f404b9d07b5ffee1b409c431e15438cb0f": [
+    "includes\\mobile-services-dotnet-backend-configure-local-push-vs2013.md"
+  ],
+  "303cddb56faa21748758fbb3a7e5033a38be17ce": [
+    "includes\\mobile-services-dotnet-backend-create-custom-api.md"
+  ],
+  "e6be99a72772860c7e6742cb5a9f9ec074d17a87": [
+    "includes\\mobile-services-dotnet-backend-create-new-service.md"
+  ],
+  "1694bc36bcc514c3e303fd1a144ed23d04c2763a": [
+    "includes\\mobile-services-dotnet-backend-create-new-service-vs2013.md"
+  ],
+  "e4f0dd7551ef828198ae18a2df505ddbd2286d07": [
+    "includes\\mobile-services-dotnet-backend-notification-hubs-register-windows-store-app.md"
+  ],
+  "b3b7af6703c44cf33860513b37498056dead1d10": [
+    "includes\\mobile-services-dotnet-backend-publish-service.md"
+  ],
+  "bff4cd7c256850c25636a5a236811d41a4ae30c2": [
+    "includes\\mobile-services-dotnet-backend-push-notifications-app-users.md"
+  ],
+  "12ec04ae0ab072311abbb1351c57cc97ee1b0069": [
+    "includes\\mobile-services-dotnet-backend-test-local-service.md"
+  ],
+  "61a6b2f77477da1105033e19506a49d4b242d4dd": [
+    "includes\\mobile-services-dotnet-backend-test-local-service-api-documentation.md"
+  ],
+  "19a999d1ea7c8bda2c3cc727c6aa12fdc9320af6": [
+    "includes\\mobile-services-dotnet-backend-test-local-service-data.md"
+  ],
+  "032fba46dbc445f5bac4d6981c31fa5787d09cf9": [
+    "includes\\mobile-services-dotnet-backend-test-local-service-dotnet.md"
+  ],
+  "7f9ac432c586c26d8b49b36639b8c1f215897e60": [
+    "includes\\mobile-services-dotnet-backend-update-server-push.md"
+  ],
+  "1e5cbbe6a4abb12ed027690dff9853ca5c2ab615": [
+    "includes\\mobile-services-dotnet-backend-update-server-push-vs2013.md"
+  ],
+  "0256fb6426eafaadb9f1c4d3612122ca5055679e": [
+    "includes\\mobile-services-dotnet-backend-view-sql-data.md"
+  ],
+  "8a6158dd5f3f8e548ba84fb4b39b610649b1a127": [
+    "includes\\mobile-services-dotnet-backend-windows-universal-test-push.md"
+  ],
+  "97ae17f76476efa873e1ff69251f94287fc98673": [
+    "includes\\mobile-services-download-service-locally.md"
+  ],
+  "145e26975e36e7da9768813af6323a6ff69b2d28": [
+    "includes\\mobile-services-enable-google-cloud-messaging.md"
+  ],
+  "84767953e447a89ae1aea5f94f1d1dd45b7d6c1f": [
+    "includes\\mobile-services-enable-source-control.md"
+  ],
+  "e23b4a11136827c72944b3960e74ba0fe2f21909": [
+    "includes\\mobile-services-generate-aad-app-registration-access-key.md"
+  ],
+  "dfd5941f156d0fc79afe2e885ca361db150cb875": [
+    "includes\\mobile-services-generate-aad-app-registration-access-key-rbac.md"
+  ],
+  "3beaf84ab3427ff293b960979b0ab10e0d81485b": [
+    "includes\\mobile-services-hero-slug.md"
+  ],
+  "791fcf4b627cadaffa0cd17015c1634d8a7fede8": [
+    "includes\\mobile-services-how-to-configure-iis-express.md"
+  ],
+  "2ad6e17f82a77a7a63e2e6b0d5ed4b939ae9cf6a": [
+    "includes\\mobile-services-ios-authenticate-app.md"
+  ],
+  "8644a796e4843cd24fc0ce3251b0d832b2b3a8bd": [
+    "includes\\mobile-services-ios-call-custom-api.md"
+  ],
+  "0c18a174fc648d4301867f8a71135eaa498c9e2f": [
+    "includes\\mobile-services-ios-download-service-locally.md"
+  ],
+  "45d1c082f667d105eb1767eb3647a7a8b27817ae": [
+    "includes\\mobile-services-ios-enable-mobile-service-access.md"
+  ],
+  "f76c8ce4a3679a318b39e83b51e0394c4ef4b36c": [
+    "includes\\mobile-services-ios-push-notifications-app-users-login.md"
+  ],
+  "5eee24b26823d1fc15fd9a7a61eeb155e3bb98a2": [
+    "includes\\mobile-services-ios-push-notifications-app-users-test-app.md"
+  ],
+  "88f3631320a89ddb24ecae548668dc2ac73221bf": [
+    "includes\\mobile-services-ios-run-app.md"
+  ],
+  "5b7d742f67683da802aa2d1b49ae0aeb3d91052a": [
+    "includes\\mobile-services-javascript-backend-android-push-insert-script.md"
+  ],
+  "c6cd226f67c621f80ab734db143b935e5cff706f": [
+    "includes\\mobile-services-javascript-backend-push-notifications-app-users.md"
+  ],
+  "586dc6d886c0fc0c9645573f33c6ea56e15bcb85": [
+    "includes\\mobile-services-javascript-backend-run-app.md"
+  ],
+  "71853c6197a6a7f222db0f1978c7cb232b87c5ee": [
+    "includes\\mobile-services-javascript-backend-view-portal-data.md"
+  ],
+  "dabbe10aa4290819c429bd9f588634c1c3d8ea61": [
+    "includes\\mobile-services-javascript-backend-windows-universal-test-push.md"
+  ],
+  "e599fea524ce2873b047a4f8f276dbda9b5b58ca": [
+    "includes\\mobile-services-javascript-paging.md"
+  ],
+  "176d6b2cdd71eb9acc01adc1fb7c124ea6c014d2": [
+    "includes\\mobile-services-javascript-update-script-notification-hubs.md"
+  ],
+  "a84b3823cd6617373d5221bdda305765e9227701": [
+    "includes\\mobile-services-limits.md"
+  ],
+  "2d4520cf46ca42f19a9298683b122f467c7520c6": [
+    "includes\\mobile-services-note-mobile-apps.md"
+  ],
+  "036ceaef41ed607cfac1a184532977020f8f4afc": [
+    "includes\\mobile-services-notification-hubs-register-windows-store-app.md"
+  ],
+  "4be643564cb2e3c3160d84f9b67368748ee30db6": [
+    "includes\\mobile-services-offline-summary-csharp.md"
+  ],
+  "1865c7997c422c3f877e2969e0cd6ee9a8d71477": [
+    "includes\\mobile-services-register-authentication.md"
+  ],
+  "1073f0de8432216921e7eaf3da77c3e56e07306d": [
+    "includes\\mobile-services-register-twitter-access.md"
+  ],
+  "caad766a624709f1fc84314a381e621363eeb995": [
+    "includes\\mobile-services-register-windows-store-app.md"
+  ],
+  "c49ed4f49c9d36171eaefe64f882ff5286971c2e": [
+    "includes\\mobile-services-restrict-permissions-dotnet-backend.md"
+  ],
+  "69192604b394c3bb620ba8921b130429301d4620": [
+    "includes\\mobile-services-restrict-permissions-javascript-backend.md"
+  ],
+  "bf09d93a2355f0b113e284d355c6ad291968a848": [
+    "includes\\mobile-services-restrict-permissions-windows.md"
+  ],
+  "21ed7b2c2fa7ea3ff208d867ae85dc1ac85e8698": [
+    "includes\\mobile-services-selector-adal-sso.md"
+  ],
+  "6d830f177ca17dbc960cadada809eacfb6183ce4": [
+    "includes\\mobile-services-selector-add-paging-data.md"
+  ],
+  "f8701f7a20e0fdc3040c2b463a1dfce61a009338": [
+    "includes\\mobile-services-selector-client-library.md"
+  ],
+  "db751ede5db5884be6c98bdd564c495644e2f621": [
+    "includes\\mobile-services-selector-get-started.md"
+  ],
+  "44cd463e822060b9b75c6d9be0bc95f71d3ddf11": [
+    "includes\\mobile-services-selector-get-started-data.md"
+  ],
+  "ae62bcc3d5b0a27f3a7329443797a0daca50f59a": [
+    "includes\\mobile-services-selector-get-started-push.md"
+  ],
+  "d5810347ffd9c60f0cd03c92a02c671ed1a9750a": [
+    "includes\\mobile-services-selector-get-started-push-legacy.md"
+  ],
+  "1e04829db7cb5946adb6a47a0e177cd51badfc10": [
+    "includes\\mobile-services-selector-get-started-push-xamarin.md"
+  ],
+  "6086d4dff2bf61d17c63d7170f03c30664f1d767": [
+    "includes\\mobile-services-selector-get-started-users.md"
+  ],
+  "8cbf4313570f5747b6740dcdd54d50ea1f8a2b36": [
+    "includes\\mobile-services-selector-get-started-users-legacy.md"
+  ],
+  "420edb7aee8bb4267ceab31fa2b619e661d874dd": [
+    "includes\\mobile-services-selector-offline.md"
+  ],
+  "7d54806e5131916ed517449fd5dc52c90f15af74": [
+    "includes\\mobile-services-selector-offline-conflicts.md"
+  ],
+  "3f8e7a9e6d5c4caad74aa6f00b5b21af015871f3": [
+    "includes\\mobile-services-selector-push-users.md"
+  ],
+  "ff2c9d0c95c3933ea463fefdf1759250107b64b6": [
+    "includes\\mobile-services-selector-rbac.md"
+  ],
+  "8ea2acc7a9372e0237fe6cbe8ff4b951b8c9e7c5": [
+    "includes\\mobile-services-selector-register-identity-provider.md"
+  ],
+  "609563723d1c37a4cda1e137830833f93c86b633": [
+    "includes\\mobile-services-selector-schedule-recurring-tasks.md"
+  ],
+  "1707bdb663fe6f5ed6790b4878450a729c3f5b7e": [
+    "includes\\mobile-services-selector-service-auth-users.md"
+  ],
+  "baeb44f2849f94be97a4098235694d6f2c06697b": [
+    "includes\\mobile-services-selector-upload-data-blob-storage.md"
+  ],
+  "86a4b9ebaca4b1cca7bc8edd03145e1a5df56771": [
+    "includes\\mobile-services-update-registrations-script.md"
+  ],
+  "69070ec82df9cfce63c0f978438f2715e837f1af": [
+    "includes\\mobile-services-verify-android-sdk-version.md"
+  ],
+  "3d8c4959f8e3ffc31ebd4fcc68cbf5ab60d63353": [
+    "includes\\mobile-services-windows-dotnet-authenticate-app.md"
+  ],
+  "a859d5942571d58caebb29b704af4705396c1fe1": [
+    "includes\\mobile-services-windows-dotnet-paging.md"
+  ],
+  "69812944248797d1a18e018837d69ce4659990bb": [
+    "includes\\mobile-services-windows-dotnet-update-data-app.md"
+  ],
+  "702d518df476679deb2d133d6b4cac5358f9c225": [
+    "includes\\mobile-services-windows-javascript-update-data-app.md"
+  ],
+  "f910c930ada6a797f2def2b6fbcc5c6d8636cfb2": [
+    "includes\\mobile-services-windows-phone-authenticate-app.md"
+  ],
+  "57c0bae0ae9cc9d8e4d404eeef13e3960f6b21e8": [
+    "includes\\mobile-services-windows-phone-authenticate-app-with-token.md"
+  ],
+  "fa5f4d15ac25feb19aa8e86b39e5f63bcf2b4879": [
+    "includes\\mobile-services-windows-phone-call-custom-api.md"
+  ],
+  "a5084534b60bc87a89c6f069ddb84a201eb98c68": [
+    "includes\\mobile-services-windows-phone-push-notifications-app-users.md"
+  ],
+  "8123f86f4bba966d82967f0428ecde9ceada0299": [
+    "includes\\mobile-services-windows-phone-upload-to-blob-storage.md"
+  ],
+  "8c486809afcfe047dc27feac18260f134a91a8ca": [
+    "includes\\mobile-services-windows-store-dotnet-call-custom-api.md"
+  ],
+  "d0f085f4c480b65333d4b47469e9625077536fa1": [
+    "includes\\mobile-services-windows-store-dotnet-push-notifications-app-users.md"
+  ],
+  "9d1ea0d4439cb97b6cfb0dc54af66025243724bf": [
+    "includes\\mobile-services-windows-store-dotnet-upload-to-blob-storage.md"
+  ],
+  "c8a6e6d5e3a9b299ab54ba8edae57eacfe3136d0": [
+    "includes\\mobile-services-windows-store-javascript-authenticate-app.md"
+  ],
+  "b644d6fe09bc44024908ec0b6c7ea5686ea3350f": [
+    "includes\\mobile-services-windows-store-javascript-authenticate-app-with-token.md"
+  ],
+  "8c2a1f780f626a64afec21a67e69b9068a8402ec": [
+    "includes\\mobile-services-windows-store-javascript-call-custom-api.md"
+  ],
+  "d333a414be247a049e96add0c44821ea2ac8970e": [
+    "includes\\mobile-services-windows-store-javascript-push-notifications-app-users.md"
+  ],
+  "911f46bb5c5b76c6ba17497126aeb62423df0a9b": [
+    "includes\\mobile-services-windows-store-test-push.md"
+  ],
+  "a99531cd7724839c48e51f4a49aab91daa0e823a": [
+    "includes\\mobile-services-windows-test-push-users.md"
+  ],
+  "ddb9c91ee141e0568701ee4cbe77210716d2ee2c": [
+    "includes\\mobile-services-windows-universal-dotnet-download-project.md"
+  ],
+  "0e88b44b1a5e8052f7d7fc26675fe621baf26957": [
+    "includes\\mobile-services-windows-universal-dotnet-upload-to-blob-storage.md"
+  ],
+  "124afc07542c8a6eba947f6bf5ccc16498caca50": [
+    "includes\\mobile-services-windows-universal-get-started.md"
+  ],
+  "29e5301c90ea8e7a53bf614ee2574074dede2755": [
+    "includes\\mobile-services-windows-universal-javascript-authenticate-app.md"
+  ],
+  "613f8514ac242d820dcbf519a9d46d00b931b275": [
+    "includes\\mobile-services-windows-universal-javascript-download-project.md"
+  ],
+  "e36e806bc87edeb7495568695ccc25edc28ab8d5": [
+    "includes\\mobile-services-windows-universal-test-app.md"
+  ],
+  "40b0c956ff58370bfea44390c1ed0d90e73d5439": [
+    "includes\\mobile-services-xamarin-android-push-add-to-app.md"
+  ],
+  "be7425af738fef473de73bccf86c6c644d82ef0e": [
+    "includes\\mobile-services-xamarin-android-push-configure-project.md"
+  ],
+  "dae2827d8a3875be413dfa56097e2ecc967526ee": [
+    "includes\\mobile-windows-universal-dotnet-authenticate-app.md"
+  ],
+  "f089d29dbabf1b223bc5053f9d13ad0e337754e7": [
+    "includes\\mobile-windows-universal-dotnet-authenticate-app-with-token.md"
+  ],
+  "dbf91059957c0506cbba8aa16c03e1e61be1a50e": [
+    "includes\\notification-hub-limits.md"
+  ],
+  "1cef124d7525be62985dd0abc8e126b6ae57b057": [
+    "includes\\notification-hubs-android-get-started.md"
+  ],
+  "e61b7ecede036717f2892a4fe295056a30580369": [
+    "includes\\notification-hubs-android-studio-add-google-play-services.md"
+  ],
+  "ced34e90134fac8c730fccd78d1bfeff82a5a506": [
+    "includes\\notification-hubs-aspnet-backend-notifyusers.md"
+  ],
+  "772bd321ab0e5db8517ad6d8ef9dcd9f9f4e5ebd": [
+    "includes\\notification-hubs-aspnet-backend-securepush.md"
+  ],
+  "20895abbf19490f6b3e403312ff7b42a66b52b68": [
+    "includes\\notification-hubs-back-end.md"
+  ],
+  "d5722f234edde3fcc4f439ef525ff2dbdd564d97": [
+    "includes\\notification-hubs-backend-how-to-selector.md"
+  ],
+  "2a2676d229855e3317ecf570ba498a25d91ba8de": [
+    "includes\\notification-hubs-enable-apple-push-notifications.md"
+  ],
+  "850baa3e02e1655fba06c06ca9499c6721f19caf": [
+    "includes\\notification-hubs-hero-slug.md"
+  ],
+  "e7171ddcccf205408ae54a3f557027410268817a": [
+    "includes\\notification-hubs-localized-back-end.md"
+  ],
+  "a59326e8af607f0e94f94d0d84cd8c5f5e90f9fe": [
+    "includes\\notification-hubs-portal-create-new-hub.md"
+  ],
+  "9c202c37f90a3423ef80a5bd623fa313a9c1e536": [
+    "includes\\notification-hubs-selector-aspnet-backend-notify-users.md"
+  ],
+  "d54ab8ede1e2d953c908030008e2ba8a7606cafa": [
+    "includes\\notification-hubs-selector-breaking-news.md"
+  ],
+  "bce744caf31547f01b8be4de78671f3fe078daca": [
+    "includes\\notification-hubs-selector-get-started.md"
+  ],
+  "6a99e9bde80fe578685cb96ec952451e3c6cb568": [
+    "includes\\notification-hubs-send-categories-template.md"
+  ],
+  "8ed988554c4e4340bc6daeb670873d20e0c1db4c": [
+    "includes\\notification-hubs-sending-notifications-from-the-portal.md"
+  ],
+  "a94d1d30464847a8d4d6cd1b1a1b049aa3d3ad3c": [
+    "includes\\notification-hubs-xamarin-enable-apple-push-notifications.md"
+  ],
+  "6ce8e701e79f62708c2db2da386f12ddad7a1964": [
+    "includes\\operational-insights-limits.md"
+  ],
+  "6ae5434197f854be2c203360c966a04940988da7": [
+    "includes\\powershell-preview-include.md"
+  ],
+  "d8e8e5c63234952bfbd2120e8a6565e958c8f85e": [
+    "includes\\powershell-preview-inline-include.md"
+  ],
+  "c225f81ca47d732b56ac6faa4c938d5bcf0b978c": [
+    "includes\\powershell-setup.md"
+  ],
+  "869130b32f39bbd02ea630c401d1323cf36db30e": [
+    "includes\\preview-portal-note.md"
+  ],
+  "0a7c19626f344ca92666d9a87119e2ad579615f1": [
+    "includes\\publishing-with-git.md"
+  ],
+  "aa577378411d76f3697397b844f5add26e4c42b3": [
+    "includes\\publishsettingsfilewarningchunk.md"
+  ],
+  "696d57dd8392eb67fc09d01b1fc1051510941cb1": [
+    "includes\\pusher-sign-up.md"
+  ],
+  "4deffb3743cfe2966d4bb1debd6cce8d772806f8": [
+    "includes\\redis-cache-service-limits.md"
+  ],
+  "814d59e77db6c1b07fda74aa30be2bc6caa51033": [
+    "includes\\resource-group-deploy-powershell.md"
+  ],
+  "3741f49dd647c93663b7a91d0557595b8cc53b98": [
+    "includes\\resource-group-deploy-xplat.md"
+  ],
+  "208a714ae88198b1486cbedc974aad8ea0562cf6": [
+    "includes\\resource-manager-pointer-to-service-management.md"
+  ],
+  "043fbf305b93672ce0388b0f741b795fddc54fc5": [
+    "includes\\role-based-access-control-toc.md"
+  ],
+  "d299ff47291a07f4001efc632a5c140ae08f242e": [
+    "includes\\scheduler-limits-table.md"
+  ],
+  "2b333921afccdd9e6f331d2d6d931160f6221b9d": [
+    "includes\\securityrx.md"
+  ],
+  "168f41742443cac287aab529a9ba1d78584b91e7": [
+    "includes\\sendgrid-sign-up.md"
+  ],
+  "131de12247795b6eabeac75754e37af85616c059": [
+    "includes\\service-bus-event-hubs-get-started-receive-ephcs.md"
+  ],
+  "cae93978c3f7cd63f28cf73d5318616a9e1a3de5": [
+    "includes\\service-bus-event-hubs-get-started-receive-storm.md"
+  ],
+  "c5190399a6d9eb56846f0d397fc0ac2457bc17b0": [
+    "includes\\service-bus-event-hubs-get-started-send-c.md"
+  ],
+  "3110b412f9972d9ebc20dc8c71f3970d4f0f9d2f": [
+    "includes\\service-bus-event-hubs-get-started-send-csharp.md"
+  ],
+  "a61d140cd106d107e737931c9ade347968ebb595": [
+    "includes\\service-bus-event-hubs-get-started-send-java.md"
+  ],
+  "d5b38a950dfcf7316ebd157d08ac0a223e27e7fd": [
+    "includes\\service-bus-java-how-to-create-queue.md"
+  ],
+  "f25e8ea990093d6797d563ed9e95d07e517407aa": [
+    "includes\\service-bus-java-how-to-create-topic.md"
+  ],
+  "ac48a246235c298227aab919529793150bdb3a91": [
+    "includes\\service-bus-quotas-table.md"
+  ],
+  "77fdb5d372cd13e3169e2f743f9b607c1309bc1b": [
+    "includes\\service-bus-selector-amqp.md"
+  ],
+  "1f00acba5934e4d910dcde409e750d31b549186a": [
+    "includes\\service-bus-selector-get-started.md"
+  ],
+  "dd6eec6dfdf32b412f9bcb644b60da05330795ca": [
+    "includes\\service-bus-selector-queues.md"
+  ],
+  "f5c46a979f33077694599953a72dedcae5ab1cad": [
+    "includes\\service-bus-selector-topics.md"
+  ],
+  "3d51383c39b9d9adc05405466a18d0d67b9756e4": [
+    "includes\\service-management-pointer-to-resource-manager.md"
+  ],
+  "7fd3cfbe8e98ecb0e4403b0f6ea3dec026f50b04": [
+    "includes\\site-recovery-limits.md"
+  ],
+  "34f5150c686dbf72ea8ff44f4c96cd930c485956": [
+    "includes\\sql-azure-management.md"
+  ],
+  "5430e916eefb277538250fd39c2d5eb95a8e92e6": [
+    "includes\\sql-database-configure-includes-selector-method.md"
+  ],
+  "835fb049a78498dac3f1694633fa26739b78bc71": [
+    "includes\\sql-database-develop-includes-prerequisites-php-windows.md"
+  ],
+  "60b5add31121f6da84447b9b09422e938ee2f4f8": [
+    "includes\\sql-database-develop-includes-selector-language-platform-depth.md"
+  ],
+  "709a93606154edc5e6e8c92d3716f9729c187dd2": [
+    "includes\\sql-database-include-connection-string-20-portalshots.md"
+  ],
+  "634dee0cac41852f4b13c099bbac4de70ca7159e": [
+    "includes\\sql-database-include-connection-string-30-compare.md"
+  ],
+  "5d59ec3096fd9947619b544304961a9cc826320a": [
+    "includes\\sql-database-include-connection-string-40-config.md"
+  ],
+  "9f2c5f739211d1d9def2c48714f33e524216276e": [
+    "includes\\sql-database-include-connection-string-details-20-portalshots.md"
+  ],
+  "27a62a7cad9170beea8465117e44880f0c8d73a1": [
+    "includes\\sql-database-include-connection-string-dotnet-20-portalshots.md"
+  ],
+  "282f3c90757901fd4413503e663ac230bdf149ef": [
+    "includes\\sql-database-include-connection-string-jdbc-20-portalshots.md"
+  ],
+  "0ae5ba3838c0ad420af62713435b67c4088c2250": [
+    "includes\\sql-database-include-connection-string-odbc-20-portalshots.md"
+  ],
+  "1273e7cbf241c3940f324ba8d505e6ee5c0de655": [
+    "includes\\sql-database-include-connection-string-php-20-portalshots.md"
+  ],
+  "6d9b01701d27afc6e9cd388e2a25f923c16da919": [
+    "includes\\sql-database-include-ip-address-22-v12portal.md"
+  ],
+  "bb73116fab3c869edc9ecc574f23d8f06498c552": [
+    "includes\\sql-database-service-tiers-table.md"
+  ],
+  "d30bc35f477640e02f1f5e51fe4b2baf2d24cd9d": [
+    "includes\\sql-database-service-tiers-table-elastic-db-pools.md"
+  ],
+  "1fac67891a6e5ddcba94ff4d8ed1bf0a636dc1d7": [
+    "includes\\sql-database-understanding-dtus.md"
+  ],
+  "c61739fe4e6b5a4316e6f8d34d65fc873670ff4e": [
+    "includes\\storage-blob-concepts-include.md"
+  ],
+  "5fa5a34bc94547694849a474290e15974ecc3dce": [
+    "includes\\storage-configure-connection-string-include.md"
+  ],
+  "80ac680a22ee67d34df1235c48529f2b83bd498b": [
+    "includes\\storage-container-naming-rules-include.md"
+  ],
+  "fb7078d9bf393dc0d6c893257959dce144ee09e7": [
+    "includes\\storage-create-account-include.md"
+  ],
+  "82b61be226759a4401671d00a266327ab5a63490": [
+    "includes\\storage-dotnet-client-library-version-include.md"
+  ],
+  "5f05e7f1430d13fd0ff776e1c457b99b5ee197d8": [
+    "includes\\storage-dotnet-obtain-assembly.md"
+  ],
+  "d5eb8831343d83d7746cff02060e0113fb7900a6": [
+    "includes\\storage-dotnet-odatalib-dependencies.md"
+  ],
+  "17fa55ff8d8faf81fad24f53baad35edfa42574f": [
+    "includes\\storage-dotnet-retrieve-conn-string.md"
+  ],
+  "a70f72df9df924b067d4f32dd35fb07ce2bbfb34": [
+    "includes\\storage-emulator-connection-string-include.md"
+  ],
+  "730cf2fdad8f44cde53c5bc9b839b4d1f8741af2": [
+    "includes\\storage-file-concepts-include.md"
+  ],
+  "50743a9e6defa04d1a6f49809fdb573b98123378": [
+    "includes\\storage-queue-concepts-include.md"
+  ],
+  "94871ed1563d92bf4069545a03e4a776f2631ca1": [
+    "includes\\storage-replication-options-include.md"
+  ],
+  "7be3434934d2daadcd3c9739c67ad103d9f16957": [
+    "includes\\storage-selector-blob-include.md"
+  ],
+  "aca205d8a395b0237b47d2af2e945d6f32940478": [
+    "includes\\storage-selector-client-side-encryption-include.md"
+  ],
+  "98ddcbbacbba631bef59f756039b5bcf429910d2": [
+    "includes\\storage-selector-file-include.md"
+  ],
+  "cce32c534e7767ae762e63bf852c202bcb113c88": [
+    "includes\\storage-selector-portal-create-storage-account.md"
+  ],
+  "f5ea4502f37ecc99146bb71f337add0378e58156": [
+    "includes\\storage-selector-portal-e2e-troubleshooting.md"
+  ],
+  "cdc936e3bde4df011d8001eddedd00814c779488": [
+    "includes\\storage-selector-portal-enable-and-view-metrics.md"
+  ],
+  "29abda47383217db3500e4daa9b1ad0a5cc5d303": [
+    "includes\\storage-selector-portal-import-export-service.md"
+  ],
+  "a5685194193ac02bd7d106d7f9a1b47dde2f9d55": [
+    "includes\\storage-selector-portal-monitoring-diagnosing-troubleshooting.md"
+  ],
+  "53ec36e856896f252674687bbc53e1f5437779cc": [
+    "includes\\storage-selector-queue-include.md"
+  ],
+  "30a2b211ac82102999e4968f0fdb3b34156ad29c": [
+    "includes\\storage-selector-table-include.md"
+  ],
+  "4082dbcdc08661ca08c59e82a71e290043373380": [
+    "includes\\storage-table-concepts-include.md"
+  ],
+  "365e8507be979ac097c9e00ec14068260d715337": [
+    "includes\\storage-versions-include.md"
+  ],
+  "bd84d542470947948603a880257d1b2500b07ea4": [
+    "includes\\storsimple-add-backup-policy.md"
+  ],
+  "48ccde59066a75dc4695bdcdfcd8c3724ddb7750": [
+    "includes\\storsimple-add-backup-policy-u2.md"
+  ],
+  "41afdbb849bbdb8bd07dfcbcf555dd4f47af2a13": [
+    "includes\\storsimple-add-modify-backup-schedule.md"
+  ],
+  "ad1c2feb660dd30dd02d214183db1b5d124a1f0f": [
+    "includes\\storsimple-add-modify-backup-schedule-u2.md"
+  ],
+  "3314e0a76efd637fec344e8c15cbb6b803b44646": [
+    "includes\\storsimple-add-volume-container.md"
+  ],
+  "3bb95aa0f4a543ed26d6b7a0799bdd5549444c57": [
+    "includes\\storsimple-cable-8100-for-power.md"
+  ],
+  "149770eeaec9f0555dc4526192af540b0cbbf88c": [
+    "includes\\storsimple-cable-8600-for-power.md"
+  ],
+  "946af3df8eac44606ce7b27b7f21d892268b5b1e": [
+    "includes\\storsimple-change-data-encryption-key.md"
+  ],
+  "c07c774ca9cb955b3b671ed22047975d63cc8e1c": [
+    "includes\\storsimple-complete-minimum-device-setup.md"
+  ],
+  "bbcb712b716865f568cbf949ec413c114bfa16e1": [
+    "includes\\storsimple-complete-minimum-device-setup-u1.md"
+  ],
+  "cda149e988dedd22eb17f1b94892cd80ef4f2441": [
+    "includes\\storsimple-configure-and-register-device.md"
+  ],
+  "cfaefddd403a214e1163432ce0245c9bc0e750d4": [
+    "includes\\storsimple-configure-and-register-device-gov.md"
+  ],
+  "f7b027cd975d1de14825b5983e57136afe741f50": [
+    "includes\\storsimple-configure-and-register-device-gov-u2.md"
+  ],
+  "23d2d606e0e379c455a4976a8ae18e7f4a821e6c": [
+    "includes\\storsimple-configure-and-register-device-u1.md"
+  ],
+  "f14062cc2aca2054fa6d6ed84bbf6b3ccd61a450": [
+    "includes\\storsimple-configure-auto-update.md"
+  ],
+  "397f852d51f12dd83b478bef12e848bd90e9520e": [
+    "includes\\storsimple-configure-new-storage-account.md"
+  ],
+  "8dd7a6b66333d13bbc9c040e6fae72ce5816bad9": [
+    "includes\\storsimple-configure-new-storage-account-u1.md"
+  ],
+  "3b542783c88d6a6911622d82f4d5407b985786ef": [
+    "includes\\storsimple-configure-register-virtual-device.md"
+  ],
+  "529cbc769fdd213b55a3a3fbb5463b456436a6b2": [
+    "includes\\storsimple-configure-remote-management-http-device.md"
+  ],
+  "55f8f498e716a6b381ba75750fe21594527c8910": [
+    "includes\\storsimple-create-custom-backup-policy.md"
+  ],
+  "913adb85445ece60ae68c2ddf3d0bd219f0a14c1": [
+    "includes\\storsimple-create-custom-backup-policy-u2.md"
+  ],
+  "65b22b21bcdc5e651fe4771061a2f440a14989bf": [
+    "includes\\storsimple-create-manual-backup.md"
+  ],
+  "9d25e8bcff367b872a86fb6f98e3ad8b6d5c43ba": [
+    "includes\\storsimple-create-manual-backup-gov.md"
+  ],
+  "e4bcb0d630ea55661126111fa15a260907a7c1bf": [
+    "includes\\storsimple-create-new-service.md"
+  ],
+  "d22c9fb09d9b1d7d57c777e0d238893ba231fb28": [
+    "includes\\storsimple-create-new-service-gov.md"
+  ],
+  "0285d7c43825ca13ae8b67cef9abe11da0ad4c6b": [
+    "includes\\storsimple-create-public-endpoints-virtual-device.md"
+  ],
+  "ac246a0025469838a543626dd878dcc15160e708": [
+    "includes\\storsimple-create-virtual-device-u2.md"
+  ],
+  "0f838dc5a96e9a8cc6b4f00d503fee768d2712cd": [
+    "includes\\storsimple-create-volume.md"
+  ],
+  "aac34593bfae9f00381cb4eedf039f6b58e6f7f6": [
+    "includes\\storsimple-create-volume-container.md"
+  ],
+  "15465b1cf45b1af58382cb65cf6aa0d55199faff": [
+    "includes\\storsimple-create-volume-u2.md"
+  ],
+  "2972143df0654986c1979d6bc422b9d580c9da19": [
+    "includes\\storsimple-delete-backup-policy.md"
+  ],
+  "17d5c21ffbacf5a3aad42186193fb61f48c0ccb0": [
+    "includes\\storsimple-delete-virtual-device.md"
+  ],
+  "70779f20bfeb8bb0b33bd5ef18857bb624864a4c": [
+    "includes\\storsimple-delete-volume-container.md"
+  ],
+  "e19025c5557070c4424d4c72dfceb4d1856f2e8b": [
+    "includes\\storsimple-enter-maintenance-mode.md"
+  ],
+  "17a6b37d4beab03ca9550f10c2b2005e7871d6e8": [
+    "includes\\storsimple-exit-maintenance-mode.md"
+  ],
+  "b86546038998fa01965c1b31b66e9e0f2376d415": [
+    "includes\\storsimple-failover-to-virtual-device.md"
+  ],
+  "ec450e270ccb3093735cd7f229fe277b41614824": [
+    "includes\\storsimple-get-iqn.md"
+  ],
+  "add1afefcdfdf49185056b06a090d3aaf858df23": [
+    "includes\\storsimple-get-service-registration-key.md"
+  ],
+  "51e9feeb948de54e88b0a6570a7d86204d633f10": [
+    "includes\\storsimple-get-service-registration-key-gov.md"
+  ],
+  "896db8ee230166f5eae6660e270334bf27da8714": [
+    "includes\\storsimple-install-maintenance-mode-hotfixes.md"
+  ],
+  "f2ba4d48ee6f883e831dc50a108c92080601af1f": [
+    "includes\\storsimple-install-maintenance-mode-updates.md"
+  ],
+  "7ff7212b8df933be3fe3840fcd119b84be78ca5a": [
+    "includes\\storsimple-install-regular-hotfixes.md"
+  ],
+  "9cc2227cd367bd40548408432487c42c9af7120a": [
+    "includes\\storsimple-install-regular-updates-powershell.md"
+  ],
+  "728f3029fc87071fb8534d0ee7d2f14798909707": [
+    "includes\\storsimple-install-sharepoint-adapter.md"
+  ],
+  "72ee17bdc5fd3ad21af2fa718c218428cb87d003": [
+    "includes\\storsimple-install-update-option1.md"
+  ],
+  "35f186a99edb0f94a86935f13e0b4540a63e3d86": [
+    "includes\\storsimple-install-update-option2.md"
+  ],
+  "ea00a86cddaf2298d57f0b1b1c5ae5445e121cf6": [
+    "includes\\storsimple-install-updates-manually.md"
+  ],
+  "9310f29a564efe544767dfc4e0aa2e0be5925e13": [
+    "includes\\storsimple-install-update-via-portal.md"
+  ],
+  "37f2e13eb5438bf5b917045b576b5c63e5b00772": [
+    "includes\\storsimple-limits-table.md"
+  ],
+  "059af816de1579d2574029012ea64313f44c773d": [
+    "includes\\storsimple-modify-volume-container.md"
+  ],
+  "bbe06848245aa2e224e520b143038c093a179153": [
+    "includes\\storsimple-mount-initialize-format-volume.md"
+  ],
+  "acbb33fc9757707d2a11b9926a6aabc30aa6fc1f": [
+    "includes\\storsimple-sas-cable-8600.md"
+  ],
+  "334f89a17316d04668a08c9ba3aacb819b20e5cc": [
+    "includes\\storsimple-sharepoint-adapter-configure-rbs.md"
+  ],
+  "b44405f19b974dc929f6ddb65113678d6e0bbf1b": [
+    "includes\\storsimple-sharepoint-adapter-garbage-collection.md"
+  ],
+  "6d7fdc79707f55a47b63d3edd2816e93aa6caa1a": [
+    "includes\\storsimple-shutdown-virtual-device.md"
+  ],
+  "3f003cc2fb9f6b40b9e7a11a0985f0ee9489fb16": [
+    "includes\\storsimple-stop-restart-virtual-device.md"
+  ],
+  "39dd730998ee82f5506192a6f448e76ca551933a": [
+    "includes\\storsimple-take-backup.md"
+  ],
+  "4de590bf6dbd73d5f43245baec4aae5e50efe9fc": [
+    "includes\\storsimple-upgrade-sharepoint-adapter.md"
+  ],
+  "c896b3861406b730eb3e7bb71780c0bc23210b05": [
+    "includes\\storsimple-use-putty.md"
+  ],
+  "3abab6ec34db7883a9b22f101bc7452ac763f931": [
+    "includes\\storsimple-version-selector.md"
+  ],
+  "d4031c022f3045e904735e9b4c6b1038aff0c032": [
+    "includes\\storsimple-version-selector-clone-volume.md"
+  ],
+  "28c1ad731fa6b4dc8000152f7726360d76aea7b6": [
+    "includes\\storsimple-version-selector-deploy-gov.md"
+  ],
+  "150f9d99514e6d8fa48381fde37973525a616be9": [
+    "includes\\storsimple-version-selector-manage-backup-policies.md"
+  ],
+  "7837b4dc538dc51b9d5931da3a4ae539c2f2c345": [
+    "includes\\storsimple-version-selector-manage-jobs.md"
+  ],
+  "87424876b1a54f48ab87da288b074bf0eee40b64": [
+    "includes\\storsimple-version-selector-manage-volumes.md"
+  ],
+  "201ec6bedb159e261774cffabea918a74521c907": [
+    "includes\\storsimple-version-selector-restore-from-backup.md"
+  ],
+  "17e86a3a7caff7b8e3c3ce543e194d5b66996959": [
+    "includes\\storsimple-version-selector-sva.md"
+  ],
+  "c29c1634d5109c867482e5c31904f2995435837b": [
+    "includes\\storsimple-virtual-device-security.md"
+  ],
+  "0f31755f934762cf0070bfd458e92a1e62eb4a89": [
+    "includes\\stream-analytics-limits-table.md"
+  ],
+  "14e935fe6e28ea367cf4cf35c297710e8b6731d1": [
+    "includes\\test-push-notifications-in-app.md"
+  ],
+  "5c497e4e0ded73142c4cec209fc1a6868b968094": [
+    "includes\\traffic-manager-limits.md"
+  ],
+  "3edf31c123249d7714439ee4754c10854811d37b": [
+    "includes\\training-kit.md"
+  ],
+  "c1e4f405bc9b3e423eea7ad50c3ac24a9e3a772f": [
+    "includes\\twilio_additional_services_and_next_steps.md"
+  ],
+  "b665e28884c2f0fea7ac6a2cebba51ed8b738f5c": [
+    "includes\\virtual-machines-ag-listener-bring-online.md"
+  ],
+  "ef121957073c4127ad5d0cd12a04215848d5dcd8": [
+    "includes\\virtual-machines-ag-listener-create-listener.md"
+  ],
+  "a63c4c40496c373c4b2c912f527a943293442d9e": [
+    "includes\\virtual-machines-ag-listener-determine-accessibility.md"
+  ],
+  "4450848ea52f254d42a51a3bfa9720837953ff2a": [
+    "includes\\virtual-machines-ag-listener-follow-up.md"
+  ],
+  "0f3e2884a9cd250c8be9334c868dcc74d5cb2692": [
+    "includes\\virtual-machines-ag-listener-kb2854082.md"
+  ],
+  "596b7c084d8307816aa566ec606aea783fdfa68e": [
+    "includes\\virtual-machines-ag-listener-load-balanced-endpoints.md"
+  ],
+  "457d1218d8f2de0ce232be448417584805c01259": [
+    "includes\\virtual-machines-ag-listener-next-steps.md"
+  ],
+  "601df48c3b864c82464afe2d19999e7612f1264a": [
+    "includes\\virtual-machines-ag-listener-open-firewall.md"
+  ],
+  "878318d3b2d213c9c4561718a72c3f9b83496e45": [
+    "includes\\virtual-machines-ag-listener-test.md"
+  ],
+  "fa449959ef5872b13fb58ee573ab14a6e3580d9d": [
+    "includes\\virtual-machines-choose-me-content.md"
+  ],
+  "8096fd8a219edb89e16b1db6435a17ad8481f3ac": [
+    "includes\\virtual-machines-create-linuxvm.md"
+  ],
+  "cff675fdbdb7b3d8c12a6a3b3ce70dd13c33215b": [
+    "includes\\virtual-machines-create-windowsvm.md"
+  ],
+  "cf14b8ed7dfe7fdd2ccec3e5f951621517055d2c": [
+    "includes\\virtual-machines-log-on-win-server.md"
+  ],
+  "d9c152af21ad22b839aa077917331d9d3222ac05": [
+    "includes\\virtual-machines-sql-server-connection-steps.md"
+  ],
+  "4b5feb004bcb7aa2593fae510765501eaff29735": [
+    "includes\\virtual-machines-vmss-preview-include.md"
+  ],
+  "25c0d085583561916ad5e0e353c0f88aaba2046d": [
+    "includes\\virtual-network-create-udr-arm-selectors-include.md"
+  ],
+  "e26f06afb30d615bebd82c7991bdd4998069a4cb": [
+    "includes\\virtual-network-create-udr-classic-selectors-include.md"
+  ],
+  "67052b2991f6eedad466fcc743fd335dc3acbfca": [
+    "includes\\virtual-network-create-udr-intro-include.md"
+  ],
+  "84b90afddf54b191f3b7962c66b8a08acd6a82cb": [
+    "includes\\virtual-network-create-udr-scenario-include.md"
+  ],
+  "10e00a30eb0f913b7ed3a51aedccad221879434d": [
+    "includes\\virtual-network-deploy-multinic-arm-selectors-include.md"
+  ],
+  "80fda0393ce527617ffab61b2c4bc348e324a4d9": [
+    "includes\\virtual-network-deploy-multinic-classic-selectors-include.md"
+  ],
+  "ac8cc37144fafd798e3458515c1574823e1d9708": [
+    "includes\\virtual-network-deploy-multinic-intro-include.md"
+  ],
+  "ab0dc560ae30facb9e670f09047ec78586a8ed66": [
+    "includes\\virtual-network-deploy-multinic-scenario-include.md"
+  ],
+  "d247959ff60a60862119bc5ad915bb3d251f5d73": [
+    "includes\\virtual-networks-create-nsg-intro-include.md"
+  ],
+  "b02624339d5897842768d18fe1ec0967efab8460": [
+    "includes\\virtual-networks-create-nsg-scenario-include.md"
+  ],
+  "1b97f5b33f7b7e9d125bd2442fd9d88ba237c615": [
+    "includes\\virtual-networks-create-nsg-selectors-arm-include.md"
+  ],
+  "0b596759c818642313e1ec66ed39fe4cc4152bde": [
+    "includes\\virtual-networks-create-nsg-selectors-classic-include.md"
+  ],
+  "99db3e7fda59fc332bb0398fa0cd806313a50c70": [
+    "includes\\virtual-networks-create-vnet-arm-cli-include.md"
+  ],
+  "2580b1d4768c416d996f10dff6f8f3054f1e7e4e": [
+    "includes\\virtual-networks-create-vnet-arm-pportal-include.md"
+  ],
+  "60e45c4b15d994aa4da0161bef8a344a7d549adb": [
+    "includes\\virtual-networks-create-vnet-arm-ps-include.md"
+  ],
+  "22eb14e0465651e1abda4888bd217b7c1536c484": [
+    "includes\\virtual-networks-create-vnet-arm-template-click-include.md"
+  ],
+  "4c17b29a4838d2ce7b57c1ebc7d78e3ea38b70be": [
+    "includes\\virtual-networks-create-vnet-arm-template-cli-include.md"
+  ],
+  "1cac18566ebb52f9b7487b13efc2b9ae97df9c1c": [
+    "includes\\virtual-networks-create-vnet-arm-template-include.md"
+  ],
+  "132718887ecf888cea2169973db10d04273cb20c": [
+    "includes\\virtual-networks-create-vnet-arm-template-ps-include.md"
+  ],
+  "0468eed746df4005a117834d4547152051bb0dd5": [
+    "includes\\virtual-networks-create-vnet-classic-cli-include.md"
+  ],
+  "023faa73151893a84f58e309615de3a4e2844057": [
+    "includes\\virtual-networks-create-vnet-classic-netcfg-portal-include.md"
+  ],
+  "24869e088a3928626c6c889c197862a2b06cf2c5": [
+    "includes\\virtual-networks-create-vnet-classic-netcfg-ps-include.md"
+  ],
+  "2a27b894abefd7b5c8f54cbcef21e4626d0eaa5e": [
+    "includes\\virtual-networks-create-vnet-classic-portal-include.md"
+  ],
+  "978f0c7f92c3f451fb13f9ea3dcce4e12848d2c8": [
+    "includes\\virtual-networks-create-vnet-classic-pportal-include.md"
+  ],
+  "d2c9b259f4f2a38dbf0b32b9b1e9d9f165ad43ee": [
+    "includes\\virtual-networks-create-vnet-intro-include.md"
+  ],
+  "28da83241cb72ca29c22ad43c98c5965d1866c62": [
+    "includes\\virtual-networks-create-vnet-scenario-include.md"
+  ],
+  "5d422f96670e58751d70815bf64672e1516228e4": [
+    "includes\\virtual-networks-create-vnet-selectors-arm-include.md"
+  ],
+  "889c220528008fe4f52ea4a2c8c8b1142b1cf292": [
+    "includes\\virtual-networks-create-vnet-selectors-classic-include.md"
+  ],
+  "9343cd39ff4f621285c66d515a60af76b010492d": [
+    "includes\\virtual-networks-nrp-appgw-include.md"
+  ],
+  "df92982e0477a696b7df2a6f29d5f9927f830427": [
+    "includes\\virtual-networks-nrp-dns-include.md"
+  ],
+  "226fac0744827c5557d4d21644d7a983fd010b5b": [
+    "includes\\virtual-networks-nrp-lb-include.md"
+  ],
+  "30329035adf0efbfa9d779c52ae746ebb78d57c1": [
+    "includes\\virtual-networks-nrp-nic-include.md"
+  ],
+  "dce9fc02d9c960fdef2e6759a9e63fc77ce5763e": [
+    "includes\\virtual-networks-nrp-nsg-include.md"
+  ],
+  "c0b57d5f8a924473ec8db55caf5343b237d1b2ad": [
+    "includes\\virtual-networks-nrp-pip-include.md"
+  ],
+  "e0d07315ffb88847f29eb38e2f0aee2da8eef946": [
+    "includes\\virtual-networks-nrp-tm-include.md"
+  ],
+  "ed51c4671a980c3f3bdf95671e0d158309eb6108": [
+    "includes\\virtual-networks-nrp-udr-include.md"
+  ],
+  "365e621aa809cbe2daff7f3341e7f0302819383b": [
+    "includes\\virtual-networks-nrp-vnet-include.md"
+  ],
+  "7f1fef0bc1044b90dab3db9b98a9f102fbe896f2": [
+    "includes\\virtual-networks-nrp-vpn-include.md"
+  ],
+  "c177b17958a345094c08d72c185148fc684a66d9": [
+    "includes\\virtual-networks-static-ip-scenario-include.md"
+  ],
+  "d57231f522742451093c882eb73d23e3cc91461a": [
+    "includes\\virtual-networks-static-private-ip-intro-include.md"
+  ],
+  "8eef83098592eddbf0846f358adc7f1f3d64a6d6": [
+    "includes\\virtual-networks-static-private-ip-selectors-arm-include.md"
+  ],
+  "d5ba76e74483fbca055a3162b7fc8c7869f83205": [
+    "includes\\virtual-networks-static-private-ip-selectors-classic-include.md"
+  ],
+  "d79f5add28920b37505b2bab5501b9df5ca36674": [
+    "includes\\virtual-networks-vnet-faq-include.md"
+  ],
+  "e11629ec35f2c6cd0896792968ef2262f8a29008": [
+    "includes\\vpn-gateway-classic-rm-include.md"
+  ],
+  "ffbbfd14df08c2aea101f97cbad8f2e1bd734e21": [
+    "includes\\vpn-gateway-no-nsg-include.md"
+  ],
+  "58746a304d0c6ff85681132bb8fa7727cecc3704": [
+    "includes\\vpn-gateway-ps-rm-howto-include.md"
+  ],
+  "7bf465ccb3f83e2f40a2f3bd1bafe303bc07126c": [
+    "includes\\vpn-gateway-sm-rm-include.md"
+  ],
+  "72e05345a1e5b853551a4f62a4c84e988b9e25a7": [
+    "includes\\vs-connect.md"
+  ],
+  "120a9eebd5f42361111dcb754a1e6fb4f4696999": [
+    "includes\\vs-connect-ws-publish.md"
+  ],
+  "a2ce4c08ea3532642a8dfae100c332f25a5b3aac": [
+    "includes\\vs-create-blob-container-in-server-explorer.md"
+  ],
+  "3be4c92731c0899548f99381dc18bf0f487902e7": [
+    "includes\\vs-create-queue-in-server-explorer.md"
+  ],
+  "13a05e434b267f9ebfba6f78e5fa1eaf71c2f6a7": [
+    "includes\\vs-create-table-in-server-explorer.md"
+  ],
+  "c7cb779a2f1b247dea25ea3c57c0f81113909e62": [
+    "includes\\vs-storage-dotnet-blobs-next-steps.md"
+  ],
+  "50993df6aa81b80f82621353a99122943b49c86e": [
+    "includes\\vs-storage-dotnet-queues-next-steps.md"
+  ],
+  "231d9976bd84bc363d0042945b9b2f1c348e511e": [
+    "includes\\vs-storage-dotnet-tables-next-steps.md"
+  ],
+  "3e7706fc85061ec3f4244aa068d08bab8bf8968a": [
+    "includes\\website-from-gallery.md"
+  ],
+  "855742c88c0023541a0059309025436f516eea09": [
+    "includes\\websites-cloud-services-css-guided-walkthrough.md"
+  ],
+  "968cf3f16cdb631f20c456c52accd62f6d95369a": [
+    "includes\\websites-custom-domain-selector.md"
+  ],
+  "74849f8f099b3ef290d4635503b3ee046fe49614": [
+    "includes\\web-sites-python-customizing-deployment.md"
+  ],
+  "68ba04675b5ab06350040843cefc7bee03eb1700": [
+    "includes\\web-sites-python-customizing-runtime.md"
+  ],
+  "77fc7f156518d0fc4b370218ff275476a8dfd705": [
+    "includes\\web-sites-python-troubleshooting-deployment.md"
+  ],
+  "26fa339c1b73c0047d3a8e1b685bc09f42cb3d2d": [
+    "includes\\web-sites-python-troubleshooting-package-installation.md"
+  ],
+  "ebd6c3b813d71e8128b1181a640d6c733defe946": [
+    "includes\\web-sites-python-troubleshooting-virtual-environment.md"
+  ],
+  "a39c886f373ecaa2320f5344325ee254ffb96856": [
+    "includes\\xplat-getting-set-up.md"
+  ],
+  "2d5448f222a5604f652d54b79afe25f0af03bd2a": [
+    "includes\\xplat-getting-set-up-arm.md"
+  ],
+  "00a716125fd77ede83e6d09813bd30f6228c5b55": [
+    "README.md"
   ]
 }
