@@ -640,6 +640,9 @@
   "2c7b386caf2502210cd98fde36b509e093670187": [
     "articles\\active-directory\\active-directory-azureadjoin-windows10-devices-overview.md"
   ],
+  "af20c45eddf101a27bd69301922977e88032859c": [
+    "articles\\active-directory\\active-directory-b2b-collaboration-overview.md"
+  ],
   "0f64f4c44e34a7f5503db83e1b53770d701d002d": [
     "articles\\active-directory\\active-directory-b2b-collaboration-overview.md"
   ],
@@ -651,6 +654,9 @@
   ],
   "5f802fa7f496590a9b02bfc670821a930788f402": [
     "articles\\active-directory\\active-directory-b2b-how-it-works.md"
+  ],
+  "ff9d39e92c923de96c7aa3eb580ce0d45a2851a9": [
+    "articles\\active-directory\\active-directory-b2b-references-csv-file-format.md"
   ],
   "e8b5d2f4ddc24d8798a6e193705b650df570bdd4": [
     "articles\\active-directory\\active-directory-b2b-references-csv-file-format.md"
@@ -826,6 +832,9 @@
   "55a9abbcee35214bc464dc6b1f8e0ba7209305ad": [
     "articles\\active-directory\\active-directory-hybrid-identity-design-considerations-overview.md"
   ],
+  "94eb12f4b7d5061176a35ed6a15021be852e10c7": [
+    "articles\\active-directory\\active-directory-integrating-applications.md"
+  ],
   "cc98e006baa17ce9df1325d16da4e9e39bb07afe": [
     "articles\\active-directory\\active-directory-integrating-applications.md"
   ],
@@ -996,6 +1005,9 @@
   ],
   "b6577f4633d4a79c5b838a4627d960bf30b11a0e": [
     "articles\\active-directory\\active-directory-reporting-users-with-anomalous-sign-in-activity.md"
+  ],
+  "6ec1f8ce0e60197a72748b763c1f64466db1067d": [
+    "articles\\active-directory\\active-directory-saas-15five-tutorial.md"
   ],
   "ecdbdc390dce7c0f74dd78c1c5392bece63c6fe8": [
     "articles\\active-directory\\active-directory-saas-15five-tutorial.md"
