@@ -5,13 +5,13 @@
  -------- | ----- 
  Total Files | 1566
 [ Handoff Failed Files ](#handoff-failed-list)| 0
-[ Handoff Success Files ](#handoff-success-list)| 1297
+[ Handoff Success Files ](#handoff-success-list)| 1293
 [ Archive Failed Files ](#archive-failed-list)| 0
 [ Archive Success Files ](#archive-success-list)| 0
 [ Handback Failed Files ](#handback-failed-list)| 0
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 7
 [ In Sync Handback Files ](#insync-handback-success-list)| 97
-[ Ignored Files ](#ignored-list)| 165
+[ Ignored Files ](#ignored-list)| 169
 
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
 
@@ -105,11 +105,9 @@
  [articles\active-directory\active-directory-azureadjoin-user-upgrade.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-azureadjoin-user-upgrade.md) | HandedOffSuccess | [Details](#b583f7c46cdf2be20524ba1a0d00f4ef7597d3de86)
  [articles\active-directory\active-directory-azureadjoin-windows10-devices.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-azureadjoin-windows10-devices.md) | HandedOffSuccess | [Details](#6fe80369bbba54afaca9b4a9acda8f1eb23aa3cb88)
  [articles\active-directory\active-directory-azureadjoin-windows10-devices-overview.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-azureadjoin-windows10-devices-overview.md) | HandedOffSuccess | [Details](#2c7b386caf2502210cd98fde36b509e09367018787)
- [articles\active-directory\active-directory-b2b-collaboration-overview.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-b2b-collaboration-overview.md) | HandedOffSuccess | [Details](#0f64f4c44e34a7f5503db83e1b53770d701d002d89)
  [articles\active-directory\active-directory-b2b-current-preview-limitations.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-b2b-current-preview-limitations.md) | HandedOffSuccess | [Details](#0522fa49774bf369616f85849087be3774ee826590)
  [articles\active-directory\active-directory-b2b-detailed-walkthrough.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-b2b-detailed-walkthrough.md) | HandedOffSuccess | [Details](#3200db661278186cda613d365e8130d49bc1098691)
  [articles\active-directory\active-directory-b2b-how-it-works.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-b2b-how-it-works.md) | HandedOffSuccess | [Details](#5f802fa7f496590a9b02bfc670821a930788f40292)
- [articles\active-directory\active-directory-b2b-references-csv-file-format.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-b2b-references-csv-file-format.md) | HandedOffSuccess | [Details](#e8b5d2f4ddc24d8798a6e193705b650df570bdd493)
  [articles\active-directory\active-directory-b2b-references-external-user-object-attribute-changes.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-b2b-references-external-user-object-attribute-changes.md) | HandedOffSuccess | [Details](#936d1e024d73645e198de3e9a5e8f7ec54026c3694)
  [articles\active-directory\active-directory-b2b-references-external-user-token-format.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-b2b-references-external-user-token-format.md) | HandedOffSuccess | [Details](#2c7ddf9744140e9febb12b5af739f1b895ad031c95)
  [articles\active-directory\active-directory-b2b-what-is-azure-ad-b2b.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-b2b-what-is-azure-ad-b2b.md) | HandedOffSuccess | [Details](#bca1cc97c2631297e63e0c845c67965588dfa12296)
@@ -167,7 +165,6 @@
  [articles\active-directory\active-directory-hybrid-identity-design-considerations-multifactor-auth-requirements.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-hybrid-identity-design-considerations-multifactor-auth-requirements.md) | HandedOffSuccess | [Details](#aa65595ad263f6b59622a44cba8a5a72106fe6fc148)
  [articles\active-directory\active-directory-hybrid-identity-design-considerations-nextsteps.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-hybrid-identity-design-considerations-nextsteps.md) | HandedOffSuccess | [Details](#79e99e6f5ffaa016a90fffea8a5a160f6b5f6c35149)
  [articles\active-directory\active-directory-hybrid-identity-design-considerations-overview.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-hybrid-identity-design-considerations-overview.md) | HandedOffSuccess | [Details](#55a9abbcee35214bc464dc6b1f8e0ba7209305ad150)
- [articles\active-directory\active-directory-integrating-applications.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-integrating-applications.md) | HandedOffSuccess | [Details](#cc98e006baa17ce9df1325d16da4e9e39bb07afe152)
  [articles\active-directory\active-directory-integrating-applications-getting-started.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-integrating-applications-getting-started.md) | HandedOffSuccess | [Details](#32a914a906d96cef11b056a3172b4a35176dfbfb151)
  [articles\active-directory\active-directory-java-authenticate-users-access-control-eclipse.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-java-authenticate-users-access-control-eclipse.md) | HandedOffSuccess | [Details](#a6dbe78aab3d03828db612528dc3e7e49700dd03153)
  [articles\active-directory\active-directory-java-view-saml-returned-by-access-control.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-java-view-saml-returned-by-access-control.md) | HandedOffSuccess | [Details](#c4a03c2c820bf1374f92af6eaf2f876a7c182765154)
@@ -224,7 +221,6 @@
  [articles\active-directory\active-directory-reporting-sign-ins-from-unknown-sources.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-reporting-sign-ins-from-unknown-sources.md) | HandedOffSuccess | [Details](#08e4c0448c597c818b17495f6b692c0f1faf454a205)
  [articles\active-directory\active-directory-reporting-unknown-actor.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-reporting-unknown-actor.md) | HandedOffSuccess | [Details](#1a11cc816fdb6730ec4b05ee7c824cc49eb01c18206)
  [articles\active-directory\active-directory-reporting-users-with-anomalous-sign-in-activity.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-reporting-users-with-anomalous-sign-in-activity.md) | HandedOffSuccess | [Details](#b6577f4633d4a79c5b838a4627d960bf30b11a0e207)
- [articles\active-directory\active-directory-saas-15five-tutorial.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-saas-15five-tutorial.md) | HandedOffSuccess | [Details](#ecdbdc390dce7c0f74dd78c1c5392bece63c6fe8208)
  [articles\active-directory\active-directory-saas-23video-tutorial.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-saas-23video-tutorial.md) | HandedOffSuccess | [Details](#5e89119c72eedeb496d8ae507c3d710d2e957f34209)
  [articles\active-directory\active-directory-saas-aba-sainsburys-connect-tutorial.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-saas-aba-sainsburys-connect-tutorial.md) | HandedOffSuccess | [Details](#161b3ae57e079120fdcf95c0a82d17abfa854448210)
  [articles\active-directory\active-directory-saas-abintegro-tutorial.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-saas-abintegro-tutorial.md) | HandedOffSuccess | [Details](#deb8a404e4b57ca81f9eaca7dd6f7ba27be5f3f0211)
@@ -1439,6 +1435,10 @@
  ----------- | ------ | ------- 
  [.gitignore](https://github.com/OpenLocalizationOrg/hyperV/blob/c994d4dabe3d444f03eb90c40a2af48073833122/.gitignore) | Ignored | [Details](#53dc443a626b71dd55acef1eb425626a2e091fc60)
  [.localization-config](https://github.com/OpenLocalizationOrg/hyperV/blob/c994d4dabe3d444f03eb90c40a2af48073833122/.localization-config) | Ignored | [Details](#433ce51e51da0138a4e87bd3858e71dea8b709021)
+ [articles\active-directory\active-directory-b2b-collaboration-overview.md](https://github.com/OpenLocalizationOrg/hyperV/blob/c994d4dabe3d444f03eb90c40a2af48073833122/articles/active-directory/active-directory-b2b-collaboration-overview.md) | Ignored | [Details](#af20c45eddf101a27bd69301922977e88032859c89)
+ [articles\active-directory\active-directory-b2b-references-csv-file-format.md](https://github.com/OpenLocalizationOrg/hyperV/blob/c994d4dabe3d444f03eb90c40a2af48073833122/articles/active-directory/active-directory-b2b-references-csv-file-format.md) | Ignored | [Details](#ff9d39e92c923de96c7aa3eb580ce0d45a2851a993)
+ [articles\active-directory\active-directory-integrating-applications.md](https://github.com/OpenLocalizationOrg/hyperV/blob/c994d4dabe3d444f03eb90c40a2af48073833122/articles/active-directory/active-directory-integrating-applications.md) | Ignored | [Details](#94eb12f4b7d5061176a35ed6a15021be852e10c7152)
+ [articles\active-directory\active-directory-saas-15five-tutorial.md](https://github.com/OpenLocalizationOrg/hyperV/blob/c994d4dabe3d444f03eb90c40a2af48073833122/articles/active-directory/active-directory-saas-15five-tutorial.md) | Ignored | [Details](#6ec1f8ce0e60197a72748b763c1f64466db1067d208)
  [localization.json](https://github.com/OpenLocalizationOrg/hyperV/blob/c994d4dabe3d444f03eb90c40a2af48073833122/localization.json) | Ignored | [Details](#1c75f714b30e6a61579231eb84beb9c7df76552a1296)
  [media\drawing.svg](https://github.com/OpenLocalizationOrg/hyperV/blob/c994d4dabe3d444f03eb90c40a2af48073833122/media/drawing.svg) | Ignored | [Details](#79cd9853b89adbd61a5c5f4292ace595edd7daab1297)
  [media\SVG-with-Hotspot.jpg](https://github.com/OpenLocalizationOrg/hyperV/blob/c994d4dabe3d444f03eb90c40a2af48073833122/media/SVG-with-Hotspot.jpg) | Ignored | [Details](#3176573c49dfd02925d59556f177497ccb341ed61298)
@@ -2672,12 +2672,12 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='0f64f4c44e34a7f5503db83e1b53770d701d002d89'></a> Source: [articles\active-directory\active-directory-b2b-collaboration-overview.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-b2b-collaboration-overview.md)
-* Status: HandedOffSuccess
+##### <a name='af20c45eddf101a27bd69301922977e88032859c89'></a> Source: [articles\active-directory\active-directory-b2b-collaboration-overview.md](https://github.com/OpenLocalizationOrg/hyperV/blob/c994d4dabe3d444f03eb90c40a2af48073833122/articles/active-directory/active-directory-b2b-collaboration-overview.md)
+* Status: Ignored
 * Target File: 
-* Handoff File: [active-directory-b2b-collaboration-overview.aa2264f5288f6622c160129b5d64c331bcee7bb2.zh-tw.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/b1798a90560a2055d143c38b23df91c78082ee89/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/acomdc_nonhi/active-directory-b2b-collaboration-overview.aa2264f5288f6622c160129b5d64c331bcee7bb2.zh-tw.xlf)
-* Handoff Datetime: 2016-03-28 17:39:27
-* Handoff Reason: Include
+* Handoff File: 
+* Handoff Datetime: 0001-01-01 00:00:00
+* Handoff Reason: Ignored
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
@@ -2720,12 +2720,12 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='e8b5d2f4ddc24d8798a6e193705b650df570bdd493'></a> Source: [articles\active-directory\active-directory-b2b-references-csv-file-format.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-b2b-references-csv-file-format.md)
-* Status: HandedOffSuccess
+##### <a name='ff9d39e92c923de96c7aa3eb580ce0d45a2851a993'></a> Source: [articles\active-directory\active-directory-b2b-references-csv-file-format.md](https://github.com/OpenLocalizationOrg/hyperV/blob/c994d4dabe3d444f03eb90c40a2af48073833122/articles/active-directory/active-directory-b2b-references-csv-file-format.md)
+* Status: Ignored
 * Target File: 
-* Handoff File: [active-directory-b2b-references-csv-file-format.f203c9325a94228c516157f34dbe3392aec429c5.zh-tw.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/b1798a90560a2055d143c38b23df91c78082ee89/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/acomdc_nonhi/active-directory-b2b-references-csv-file-format.f203c9325a94228c516157f34dbe3392aec429c5.zh-tw.xlf)
-* Handoff Datetime: 2016-03-28 17:39:27
-* Handoff Reason: Include
+* Handoff File: 
+* Handoff Datetime: 0001-01-01 00:00:00
+* Handoff Reason: Ignored
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
@@ -3416,12 +3416,12 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='cc98e006baa17ce9df1325d16da4e9e39bb07afe152'></a> Source: [articles\active-directory\active-directory-integrating-applications.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-integrating-applications.md)
-* Status: HandedOffSuccess
+##### <a name='94eb12f4b7d5061176a35ed6a15021be852e10c7152'></a> Source: [articles\active-directory\active-directory-integrating-applications.md](https://github.com/OpenLocalizationOrg/hyperV/blob/c994d4dabe3d444f03eb90c40a2af48073833122/articles/active-directory/active-directory-integrating-applications.md)
+* Status: Ignored
 * Target File: 
-* Handoff File: [active-directory-integrating-applications.2c2026950e19491f171dbb4b34b5e56626c183bf.zh-tw.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/b1798a90560a2055d143c38b23df91c78082ee89/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/acomdc_nonhi/active-directory-integrating-applications.2c2026950e19491f171dbb4b34b5e56626c183bf.zh-tw.xlf)
-* Handoff Datetime: 2016-03-28 17:39:27
-* Handoff Reason: Include
+* Handoff File: 
+* Handoff Datetime: 0001-01-01 00:00:00
+* Handoff Reason: Ignored
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
@@ -4100,12 +4100,12 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='ecdbdc390dce7c0f74dd78c1c5392bece63c6fe8208'></a> Source: [articles\active-directory\active-directory-saas-15five-tutorial.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-saas-15five-tutorial.md)
-* Status: HandedOffSuccess
+##### <a name='6ec1f8ce0e60197a72748b763c1f64466db1067d208'></a> Source: [articles\active-directory\active-directory-saas-15five-tutorial.md](https://github.com/OpenLocalizationOrg/hyperV/blob/c994d4dabe3d444f03eb90c40a2af48073833122/articles/active-directory/active-directory-saas-15five-tutorial.md)
+* Status: Ignored
 * Target File: 
-* Handoff File: [active-directory-saas-15five-tutorial.98b4d3b8d7fbcb230308ce29f1cc62ad5facc911.zh-tw.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/b1798a90560a2055d143c38b23df91c78082ee89/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/acomdc_nonhi/active-directory-saas-15five-tutorial.98b4d3b8d7fbcb230308ce29f1cc62ad5facc911.zh-tw.xlf)
-* Handoff Datetime: 2016-03-28 17:39:27
-* Handoff Reason: Include
+* Handoff File: 
+* Handoff Datetime: 0001-01-01 00:00:00
+* Handoff Reason: Ignored
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
