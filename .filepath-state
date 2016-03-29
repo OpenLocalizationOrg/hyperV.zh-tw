@@ -4294,5 +4294,11 @@
   ],
   "92b98c1b94b63cb201bbf29a5cb99dff4ec02aa2": [
     "articles\\app-service-logic\\app-service-logic-schema-2015-08-01.md"
+  ],
+  "a6ace9ea2c977266a32e8c7adbebb935c9b8cc0d": [
+    "articles\\app-service\\test-exclude1.md"
+  ],
+  "274be36536dcc3e78fb284fec076961536eb7998": [
+    "articles\\app-service-logic\\test-exclude2.md"
   ]
 }
