@@ -1688,24 +1688,6 @@
   "4fc9fdeebd9a1bac3ff59bd2828548cdc1477f43": [
     "articles\\active-directory\\vs-active-directory-webapi-what-happened.md"
   ],
-  "34df38bcb60e970175104959232484ffd0f5f5c4": [
-    "articles\\app-service\\app-service-authentication-overview.md"
-  ],
-  "69d0c1a02a5e8961df8947f06a75a4dfe8ac1093": [
-    "articles\\app-service\\app-service-environment-auto-scale.md"
-  ],
-  "06f198e5d5cf6bb8981ffda1d66605ae82d9ce59": [
-    "articles\\app-service\\app-service-release-notes.md"
-  ],
-  "8e20ee3c64df3fd85762162f1ca56200f1b1f7de": [
-    "articles\\app-service\\app-service-scale.md"
-  ],
-  "9eb8114fb7b7f5c49b8a11b2e628b21a522cb22d": [
-    "articles\\app-service\\app-service-value-prop-what-is.md"
-  ],
-  "184891c2c31eaa5fdd0a7477b1dc9a111b79cb39": [
-    "articles\\app-service\\azure-web-sites-web-hosting-plans-in-depth-overview.md"
-  ],
   "09e92c8516febbbfc178995779ad2123e7ab72ae": [
     "articles\\app-service-api\\app-service-api-apps-why-best-platform.md"
   ],
@@ -4271,26 +4253,8 @@
   "00a716125fd77ede83e6d09813bd30f6228c5b55": [
     "README.md"
   ],
-  "9298667d8fb79a6c4291a6d2a29ae33226084ac3": [
-    "articles\\app-service\\app-service-app-service-environments-readme.md"
-  ],
-  "c9883d73b1c5989834e83ba7a2ca793cfd4ef042": [
-    "articles\\app-service\\app-service-deployment-readme.md"
-  ],
   "7baf00cc3cd5f8c78686d7b20f502935e85c85eb": [
     "articles\\app-service\\app-service-how-works-readme.md"
-  ],
-  "21a18a6b32e445929885e6db10c04945abaae257": [
-    "articles\\app-service\\app-service-local-cache.md"
-  ],
-  "f3280ab1b881262635ce6b561df186bd48c5a41b": [
-    "articles\\app-service\\app-service-scale-readme.md"
-  ],
-  "de2ec0be5d153075a45bd4f7881c5bb387fb1551": [
-    "articles\\app-service\\app-service-security-readme.md"
-  ],
-  "8004437ca93e7f6a22ad26c8d68a60889c8bd417": [
-    "articles\\app-service\\app-service-webjobs-readme.md"
   ],
   "d11f30426f7843d73e64c81e731710ae02c639d1": [
     "articles\\app-service-logic\\app-service-logic-http-endpoint.md"
@@ -4298,8 +4262,8 @@
   "92b98c1b94b63cb201bbf29a5cb99dff4ec02aa2": [
     "articles\\app-service-logic\\app-service-logic-schema-2015-08-01.md"
   ],
-  "a6ace9ea2c977266a32e8c7adbebb935c9b8cc0d": [
-    "articles\\app-service\\test-exclude1.md"
+  "20210dd0f65cb688d5ec307f61f25b2013625dcf": [
+    "articles\\app-service-logic\\test-exclude2.md"
   ],
   "274be36536dcc3e78fb284fec076961536eb7998": [
     "articles\\app-service-logic\\test-exclude2.md"
