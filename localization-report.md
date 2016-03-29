@@ -5,13 +5,13 @@
  -------- | ----- 
  Total Files | 1577
 [ Handoff Failed Files ](#handoff-failed-list)| 0
-[ Handoff Success Files ](#handoff-success-list)| 1307
+[ Handoff Success Files ](#handoff-success-list)| 1306
 [ Archive Failed Files ](#archive-failed-list)| 0
 [ Archive Success Files ](#archive-success-list)| 0
 [ Handback Failed Files ](#handback-failed-list)| 0
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 7
 [ In Sync Handback Files ](#insync-handback-success-list)| 98
-[ Ignored Files ](#ignored-list)| 165
+[ Ignored Files ](#ignored-list)| 166
 
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
 
@@ -28,7 +28,6 @@
  [articles\active-directory\active-directory-aadconnect-get-started-express.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-aadconnect-get-started-express.md) | HandedOffSuccess | [Details](#8cef4725949001617a0dfd8e4aefc66018302b969)
  [articles\active-directory\active-directory-aadconnect-get-started-tools-comparison.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-aadconnect-get-started-tools-comparison.md) | HandedOffSuccess | [Details](#687c59eed0b8c7ad5b2518ed3d58727fb72b755d10)
  [articles\active-directory\active-directory-aadconnect-health.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-aadconnect-health.md) | HandedOffSuccess | [Details](#08dc97e5a27edfead81c238de4c3d59e4f54722416)
- [articles\active-directory\active-directory-aadconnect-health-adfs.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-aadconnect-health-adfs.md) | HandedOffSuccess | [Details](#e9c21aeaed6a4d94cce934d34476820bf62e47f711)
  [articles\active-directory\active-directory-aadconnect-health-agent-install.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-aadconnect-health-agent-install.md) | HandedOffSuccess | [Details](#109c8b90df4d638840c52ed2894871a2a93406c312)
  [articles\active-directory\active-directory-aadconnect-health-faq.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-aadconnect-health-faq.md) | HandedOffSuccess | [Details](#bb3cde6f47fbacbd673f401c6865bd1e89e5efdc13)
  [articles\active-directory\active-directory-aadconnect-health-operations.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-aadconnect-health-operations.md) | HandedOffSuccess | [Details](#a435e87b1b588f93c90442d047529a97cbeeb95a14)
@@ -1450,6 +1449,7 @@
  ----------- | ------ | ------- 
  [.gitignore](https://github.com/OpenLocalizationOrg/hyperV/blob/4f07654ea50042245526bfe837c82d85ecd2eaa1/.gitignore) | Ignored | [Details](#53dc443a626b71dd55acef1eb425626a2e091fc60)
  [.localization-config](https://github.com/OpenLocalizationOrg/hyperV/blob/4f07654ea50042245526bfe837c82d85ecd2eaa1/.localization-config) | Ignored | [Details](#97b0eb003d61b4daf3b752fd86cfcbacfdafc45f1)
+ [articles\active-directory\active-directory-aadconnect-health-adfs.md](https://github.com/OpenLocalizationOrg/hyperV/blob/4f07654ea50042245526bfe837c82d85ecd2eaa1/articles/active-directory/active-directory-aadconnect-health-adfs.md) | Ignored | [Details](#19024c1db3ac6b5533958496853e6ebd5d49eab211)
  [localization.json](https://github.com/OpenLocalizationOrg/hyperV/blob/4f07654ea50042245526bfe837c82d85ecd2eaa1/localization.json) | Ignored | [Details](#1c75f714b30e6a61579231eb84beb9c7df76552a1307)
  [media\drawing.svg](https://github.com/OpenLocalizationOrg/hyperV/blob/4f07654ea50042245526bfe837c82d85ecd2eaa1/media/drawing.svg) | Ignored | [Details](#79cd9853b89adbd61a5c5f4292ace595edd7daab1308)
  [media\SVG-with-Hotspot.jpg](https://github.com/OpenLocalizationOrg/hyperV/blob/4f07654ea50042245526bfe837c82d85ecd2eaa1/media/SVG-with-Hotspot.jpg) | Ignored | [Details](#3176573c49dfd02925d59556f177497ccb341ed61309)
@@ -1771,12 +1771,12 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='e9c21aeaed6a4d94cce934d34476820bf62e47f711'></a> Source: [articles\active-directory\active-directory-aadconnect-health-adfs.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-aadconnect-health-adfs.md)
-* Status: HandedOffSuccess
+##### <a name='19024c1db3ac6b5533958496853e6ebd5d49eab211'></a> Source: [articles\active-directory\active-directory-aadconnect-health-adfs.md](https://github.com/OpenLocalizationOrg/hyperV/blob/4f07654ea50042245526bfe837c82d85ecd2eaa1/articles/active-directory/active-directory-aadconnect-health-adfs.md)
+* Status: Ignored
 * Target File: 
-* Handoff File: [active-directory-aadconnect-health-adfs.a1c1552f5202530ca6f8a9c938a9e9e36ad5da7e.zh-tw.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/b1798a90560a2055d143c38b23df91c78082ee89/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/acomdc_nonhi/active-directory-aadconnect-health-adfs.a1c1552f5202530ca6f8a9c938a9e9e36ad5da7e.zh-tw.xlf)
-* Handoff Datetime: 2016-03-28 17:39:27
-* Handoff Reason: Include
+* Handoff File: 
+* Handoff Datetime: 0001-01-01 00:00:00
+* Handoff Reason: Ignored
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
