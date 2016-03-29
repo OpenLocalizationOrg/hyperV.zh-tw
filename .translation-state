@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "ddff53af82629da70bc7ab65d7c082dbc101768e",
-  "LastTranslatedCommit": "f828545f2c837435a3fd881016def1404b1f3866",
+  "LastTranslatedCommit": "9743f81235a9d9dc327b639fd73efedc5779ad0d",
   "Items": {
     "ed968510a1e72e532a3e4df850bed9a40050619c": {
       "FileHash": "ed968510a1e72e532a3e4df850bed9a40050619c",
@@ -4647,14 +4647,14 @@
       "HandoffPriority": "acomdc_hi",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "HandbackFilePath": null,
-      "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
+      "TargetFileCommit": "9743f81235a9d9dc327b639fd73efedc5779ad0d",
+      "TargetFilePath": "articles\\active-directory\\active-directory-aadconnect.md",
+      "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\hyperV.zh-tw\\master\\acomdc_hi\\active-directory-aadconnect.8446e70ee9abffa2ced64b3bd510a9d01a62f20c.zh-tw.xlf",
+      "HandbackFileCommit": "9bee808327ada9fbc7804dd034cf0a6c5ae86c04",
+      "HandbackDateTime": "2016-03-29T02:28:54.5622549Z",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "UpdatedDateTime": "2016-03-29T02:28:54.5622549Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",

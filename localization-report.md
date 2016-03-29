@@ -5,12 +5,12 @@
  -------- | ----- 
  Total Files | 1566
 [ Handoff Failed Files ](#handoff-failed-list)| 0
-[ Handoff Success Files ](#handoff-success-list)| 1297
+[ Handoff Success Files ](#handoff-success-list)| 1296
 [ Archive Failed Files ](#archive-failed-list)| 0
 [ Archive Success Files ](#archive-success-list)| 0
 [ Handback Failed Files ](#handback-failed-list)| 0
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 7
-[ In Sync Handback Files ](#insync-handback-success-list)| 97
+[ In Sync Handback Files ](#insync-handback-success-list)| 98
 [ Ignored Files ](#ignored-list)| 165
 
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
@@ -18,7 +18,6 @@
 ## <a name='handoff-success-list'></a> Handoff Success File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [articles\active-directory\active-directory-aadconnect.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-aadconnect.md) | HandedOffSuccess | [Details](#10d97e51ca4c40b768362fb1b9e1194b62d907b824)
  [articles\active-directory\active-directory-aadconnect-accounts-permissions.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-aadconnect-accounts-permissions.md) | HandedOffSuccess | [Details](#8fcd417b7f29d51347d0f20af885d00e8b9521812)
  [articles\active-directory\active-directory-aadconnect-design-concepts.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-aadconnect-design-concepts.md) | HandedOffSuccess | [Details](#cb3442e591b070437556194c186c5668fea4c2be3)
  [articles\active-directory\active-directory-aadconnect-dirsync-upgrade-get-started.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-aadconnect-dirsync-upgrade-get-started.md) | HandedOffSuccess | [Details](#9459b011f2939d8f3d6eb5b6e32a76ed2a45e9314)
@@ -1336,6 +1335,7 @@
 ## <a name='insync-handback-success-list'></a> In Sync Handback File Success List
  Source File | Status | Details 
  ----------- | ------ | ------- 
+ [articles\active-directory\active-directory-aadconnect.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-aadconnect.md) | InSyncHandedBackSuccess | [Details](#10d97e51ca4c40b768362fb1b9e1194b62d907b824)
  [virtualization\community\community_overview.md](https://github.com/OpenLocalizationOrg/hyperV/blob/c2a703077ad70c2cac21e0e39c6fc49b6f04ab8a/virtualization/community/community_overview.md) | InSyncHandedBackSuccess | [Details](#ed968510a1e72e532a3e4df850bed9a40050619c1387)
  [virtualization\community\TOC.md](https://github.com/OpenLocalizationOrg/hyperV/blob/c2a703077ad70c2cac21e0e39c6fc49b6f04ab8a/virtualization/community/TOC.md) | InSyncHandedBackSuccess | [Details](#d95757903564f8beea62ad4d2977764d431eeeb81389)
  [virtualization\hyperv_on_windows\about\hyperv_on_windows_new.md](https://github.com/OpenLocalizationOrg/hyperV/blob/c2a703077ad70c2cac21e0e39c6fc49b6f04ab8a/virtualization/hyperv_on_windows/about/hyperv_on_windows_new.md) | InSyncHandedBackSuccess | [Details](#cbbce5951ccdf4ff1a3a5b98adf62f364c5c9aed1392)
@@ -1629,15 +1629,15 @@
 * [Back to Top](#report-top)
 
 ##### <a name='10d97e51ca4c40b768362fb1b9e1194b62d907b824'></a> Source: [articles\active-directory\active-directory-aadconnect.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-aadconnect.md)
-* Status: HandedOffSuccess
-* Target File: 
+* Status: InSyncHandedBackSuccess
+* Target File: [articles\active-directory\active-directory-aadconnect.md](https://github.com/OpenLocalizationOrg/hyperV.zh-tw/blob/9743f81235a9d9dc327b639fd73efedc5779ad0d/articles/active-directory/active-directory-aadconnect.md)
 * Handoff File: [active-directory-aadconnect.8446e70ee9abffa2ced64b3bd510a9d01a62f20c.zh-tw.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/b1798a90560a2055d143c38b23df91c78082ee89/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/acomdc_hi/active-directory-aadconnect.8446e70ee9abffa2ced64b3bd510a9d01a62f20c.zh-tw.xlf)
 * Handoff Datetime: 2016-03-28 17:39:27
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
+* Handback File: [active-directory-aadconnect.8446e70ee9abffa2ced64b3bd510a9d01a62f20c.zh-tw.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/9bee808327ada9fbc7804dd034cf0a6c5ae86c04/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/acomdc_hi/active-directory-aadconnect.8446e70ee9abffa2ced64b3bd510a9d01a62f20c.zh-tw.xlf)
+* Handback Datetime: 2016-03-29 02:28:54
 * [Back to Top](#report-top)
 
 ##### <a name='8fcd417b7f29d51347d0f20af885d00e8b9521812'></a> Source: [articles\active-directory\active-directory-aadconnect-accounts-permissions.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-aadconnect-accounts-permissions.md)
