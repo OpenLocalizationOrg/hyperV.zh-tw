@@ -4267,5 +4267,32 @@
   ],
   "00a716125fd77ede83e6d09813bd30f6228c5b55": [
     "README.md"
+  ],
+  "9298667d8fb79a6c4291a6d2a29ae33226084ac3": [
+    "articles\\app-service\\app-service-app-service-environments-readme.md"
+  ],
+  "c9883d73b1c5989834e83ba7a2ca793cfd4ef042": [
+    "articles\\app-service\\app-service-deployment-readme.md"
+  ],
+  "7baf00cc3cd5f8c78686d7b20f502935e85c85eb": [
+    "articles\\app-service\\app-service-how-works-readme.md"
+  ],
+  "21a18a6b32e445929885e6db10c04945abaae257": [
+    "articles\\app-service\\app-service-local-cache.md"
+  ],
+  "f3280ab1b881262635ce6b561df186bd48c5a41b": [
+    "articles\\app-service\\app-service-scale-readme.md"
+  ],
+  "de2ec0be5d153075a45bd4f7881c5bb387fb1551": [
+    "articles\\app-service\\app-service-security-readme.md"
+  ],
+  "8004437ca93e7f6a22ad26c8d68a60889c8bd417": [
+    "articles\\app-service\\app-service-webjobs-readme.md"
+  ],
+  "d11f30426f7843d73e64c81e731710ae02c639d1": [
+    "articles\\app-service-logic\\app-service-logic-http-endpoint.md"
+  ],
+  "92b98c1b94b63cb201bbf29a5cb99dff4ec02aa2": [
+    "articles\\app-service-logic\\app-service-logic-schema-2015-08-01.md"
   ]
 }
