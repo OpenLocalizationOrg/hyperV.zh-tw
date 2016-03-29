@@ -1,32 +1,19 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 2
+ Total Files | 1
 
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [articles\app-service\test-exclude1.md](https://github.com/OpenLocalizationOrg/hyperV/blob/4f07654ea50042245526bfe837c82d85ecd2eaa1/articles/app-service/test-exclude1.md) | HandedOffSuccess | [Details](#a6ace9ea2c977266a32e8c7adbebb935c9b8cc0d589)
- [articles\app-service-logic\test-exclude2.md](https://github.com/OpenLocalizationOrg/hyperV/blob/4f07654ea50042245526bfe837c82d85ecd2eaa1/articles/app-service-logic/test-exclude2.md) | HandedOffSuccess | [Details](#274be36536dcc3e78fb284fec076961536eb7998532)
+ [articles\active-directory\active-directory-aadconnect-health-adfs.md](https://github.com/OpenLocalizationOrg/hyperV/blob/6df404751c349292fcf3d87bf9d26cf1ae7ef3cf/articles/active-directory/active-directory-aadconnect-health-adfs.md) | HandedOffSuccess | [Details](#19024c1db3ac6b5533958496853e6ebd5d49eab211)
 
 ## Item Details
-##### <a name='a6ace9ea2c977266a32e8c7adbebb935c9b8cc0d589'></a> Source: [articles\app-service\test-exclude1.md](https://github.com/OpenLocalizationOrg/hyperV/blob/4f07654ea50042245526bfe837c82d85ecd2eaa1/articles/app-service/test-exclude1.md)
+##### <a name='19024c1db3ac6b5533958496853e6ebd5d49eab211'></a> Source: [articles\active-directory\active-directory-aadconnect-health-adfs.md](https://github.com/OpenLocalizationOrg/hyperV/blob/6df404751c349292fcf3d87bf9d26cf1ae7ef3cf/articles/active-directory/active-directory-aadconnect-health-adfs.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [test-exclude1.9263ad3f65f1afaa761ed3a6a43cecf921fbfd1a.zh-tw.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/dca8acec85b56c2f4da6d0cdde89bb21665373b3/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/acomdc_nonhi/test-exclude1.9263ad3f65f1afaa761ed3a6a43cecf921fbfd1a.zh-tw.xlf)
-* Handoff Datetime: 2016-03-29 06:42:41
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='274be36536dcc3e78fb284fec076961536eb7998532'></a> Source: [articles\app-service-logic\test-exclude2.md](https://github.com/OpenLocalizationOrg/hyperV/blob/4f07654ea50042245526bfe837c82d85ecd2eaa1/articles/app-service-logic/test-exclude2.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [test-exclude2.d5d44b60b1cd962bd074952d3d736e66a2743f9b.zh-tw.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/dca8acec85b56c2f4da6d0cdde89bb21665373b3/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/acomdc_nonhi/test-exclude2.d5d44b60b1cd962bd074952d3d736e66a2743f9b.zh-tw.xlf)
-* Handoff Datetime: 2016-03-29 06:42:41
+* Handoff File: [active-directory-aadconnect-health-adfs.a1c1552f5202530ca6f8a9c938a9e9e36ad5da7e.zh-tw.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/a28462f89cc1a5defdf91b1706e31164ef5d1c94/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/acomdc_hi/active-directory-aadconnect-health-adfs.a1c1552f5202530ca6f8a9c938a9e9e36ad5da7e.zh-tw.xlf)
+* Handoff Datetime: 2016-03-29 09:45:39
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
