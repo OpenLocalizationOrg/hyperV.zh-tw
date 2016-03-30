@@ -4277,6 +4277,9 @@
   "7baf00cc3cd5f8c78686d7b20f502935e85c85eb": [
     "articles\\app-service\\app-service-how-works-readme.md"
   ],
+  "b6b54380855fbabc1bef35399f7d1623ac7bcb85": [
+    "articles\\app-service\\app-service-local-cache.md"
+  ],
   "21a18a6b32e445929885e6db10c04945abaae257": [
     "articles\\app-service\\app-service-local-cache.md"
   ],
@@ -4292,6 +4295,9 @@
   "92b98c1b94b63cb201bbf29a5cb99dff4ec02aa2": [
     "articles\\app-service-logic\\app-service-logic-schema-2015-08-01.md"
   ],
+  "d806969f84c9f0307115a9f90c37df067a9de280": [
+    "articles\\app-service\\test-exclude1.md"
+  ],
   "e3dce7811b66d328d1092664b0410605f9a88d1f": [
     "articles\\app-service\\test-exclude1.md"
   ],
@@ -4303,5 +4309,8 @@
   ],
   "274be36536dcc3e78fb284fec076961536eb7998": [
     "articles\\app-service-logic\\test-exclude2.md"
+  ],
+  "afe10e26b5201d92d21ae591d8df816635ca90b7": [
+    "articles\\app-service\\app-service-include-scale.md"
   ]
 }
