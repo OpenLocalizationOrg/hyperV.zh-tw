@@ -1,11 +1,26 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 0
+ Total Files | 1
 
 ## File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [articles\app-service\test-exclude1.md](https://github.com/OpenLocalizationOrg/hyperV/blob/832fe5429e3ee60871f7f8f25c0617d2d504fb3f/articles/app-service/test-exclude1.md) | HandedOffSuccess | [Details](#e3dce7811b66d328d1092664b0410605f9a88d1f589)
 
 ## Item Details
+##### <a name='e3dce7811b66d328d1092664b0410605f9a88d1f589'></a> Source: [articles\app-service\test-exclude1.md](https://github.com/OpenLocalizationOrg/hyperV/blob/832fe5429e3ee60871f7f8f25c0617d2d504fb3f/articles/app-service/test-exclude1.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [test-exclude1.9263ad3f65f1afaa761ed3a6a43cecf921fbfd1a.zh-tw.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/faaae3b27a99aa7389d7d3341ee97039316eb22f/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/acomdc_nonhi/test-exclude1.9263ad3f65f1afaa761ed3a6a43cecf921fbfd1a.zh-tw.xlf)
+* Handoff Datetime: 2016-03-30 02:07:18
+* Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* [Back to Top](#report-top)
+
 
 ## Error Details
 
