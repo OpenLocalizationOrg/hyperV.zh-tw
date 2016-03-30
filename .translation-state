@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "b64035b939521fdcb27f0c09dcff292732ab660e",
+  "LastProcessedCommit": "ac3d9de1a87b664ce513a97036d508fabdb75d0f",
   "LastTranslatedCommit": "9743f81235a9d9dc327b639fd73efedc5779ad0d",
   "Items": {
     "ed968510a1e72e532a3e4df850bed9a40050619c": {
@@ -43477,6 +43477,35 @@
       "HandoffFileCommit": "1ad098caa94a043132032664dfd32ea73c5706c0",
       "HandoffDateTime": "2016-03-30T03:24:33.5159698Z",
       "HandoffPriority": "acomdc_hi",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "e9503795ad42cf3a631af363a255564c6f365497": {
+      "FileHash": "e9503795ad42cf3a631af363a255564c6f365497",
+      "SourceFileCommit": "ac3d9de1a87b664ce513a97036d508fabdb75d0f",
+      "SourceFilePath": "articles\\active-directory\\active-directory-aadconnect-health-adfs.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "TokenReference": null,
+      "FilePathList": [
+        "articles\\active-directory\\active-directory-aadconnect-health-adfs.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.zh-tw\\master\\acomdc_nonhi\\active-directory-aadconnect-health-adfs.a1c1552f5202530ca6f8a9c938a9e9e36ad5da7e.zh-tw.xlf",
+      "HandoffFileCommit": "168b3cf067a3881bda59c6f30a24753ae8991d27",
+      "HandoffDateTime": "2016-03-30T03:59:53.5935093Z",
+      "HandoffPriority": "acomdc_nonhi",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
