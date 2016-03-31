@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "ac3d9de1a87b664ce513a97036d508fabdb75d0f",
-  "LastTranslatedCommit": "9743f81235a9d9dc327b639fd73efedc5779ad0d",
+  "LastTranslatedCommit": "985248de574cc2510c9f7e8fe34f1225e168cd14",
   "Items": {
     "ed968510a1e72e532a3e4df850bed9a40050619c": {
       "FileHash": "ed968510a1e72e532a3e4df850bed9a40050619c",
@@ -5227,14 +5227,14 @@
       "HandoffPriority": "acomdc_nonhi",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "HandbackFilePath": null,
-      "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
+      "TargetFileCommit": "985248de574cc2510c9f7e8fe34f1225e168cd14",
+      "TargetFilePath": "articles\\active-directory\\active-directory-aadconnectsync-best-practices-changing-default-configuration.md",
+      "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\hyperV.zh-tw\\master\\acomdc_nonhi\\active-directory-aadconnectsync-best-practices-changing-default-c.76e5a18fbd5ec4708c7889a0dbdb07a78444b772.zh-tw.xlf",
+      "HandbackFileCommit": "73854bbaeb223104ebe3f5bf5c44d8eb8ddfef93",
+      "HandbackDateTime": "2016-03-31T05:42:19.724657Z",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "UpdatedDateTime": "2016-03-31T05:42:19.724657Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",

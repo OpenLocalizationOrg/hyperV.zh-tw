@@ -5,12 +5,12 @@
  -------- | ----- 
  Total Files | 1579
 [ Handoff Failed Files ](#handoff-failed-list)| 0
-[ Handoff Success Files ](#handoff-success-list)| 1306
+[ Handoff Success Files ](#handoff-success-list)| 1305
 [ Archive Failed Files ](#archive-failed-list)| 0
 [ Archive Success Files ](#archive-success-list)| 0
 [ Handback Failed Files ](#handback-failed-list)| 0
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 7
-[ In Sync Handback Files ](#insync-handback-success-list)| 98
+[ In Sync Handback Files ](#insync-handback-success-list)| 99
 [ Ignored Files ](#ignored-list)| 168
 
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
@@ -37,7 +37,6 @@
  [articles\active-directory\active-directory-aadconnect-o365-certs.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-aadconnect-o365-certs.md) | HandedOffSuccess | [Details](#e35a62fd479f3c4b78257603500b91014211c04318)
  [articles\active-directory\active-directory-aadconnect-prerequisites.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-aadconnect-prerequisites.md) | HandedOffSuccess | [Details](#e05d61c066a26ebaafd5b0c1100478e2704b592c19)
  [articles\active-directory\active-directory-aadconnectsync-attributes-synchronized.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-aadconnectsync-attributes-synchronized.md) | HandedOffSuccess | [Details](#35cf1064f188682b7e8f2d98a2aff309c7501b6b25)
- [articles\active-directory\active-directory-aadconnectsync-best-practices-changing-default-configuration.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-aadconnectsync-best-practices-changing-default-configuration.md) | HandedOffSuccess | [Details](#3858134f4d28b188227fae29de01b75b82cb236c26)
  [articles\active-directory\active-directory-aadconnectsync-configure-filtering.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-aadconnectsync-configure-filtering.md) | HandedOffSuccess | [Details](#daae9383eb6e0c68e9a2ee2b6101b675f0581e6627)
  [articles\active-directory\active-directory-aadconnectsync-connector-domino.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-aadconnectsync-connector-domino.md) | HandedOffSuccess | [Details](#f8a982d811c5dea7e3fb677f563decbaf70c4f9328)
  [articles\active-directory\active-directory-aadconnectsync-connector-genericldap.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-aadconnectsync-connector-genericldap.md) | HandedOffSuccess | [Details](#4fcde13f59fe579007808566458aee74fe5bc85029)
@@ -1346,6 +1345,7 @@
  Source File | Status | Details 
  ----------- | ------ | ------- 
  [articles\active-directory\active-directory-aadconnect.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-aadconnect.md) | InSyncHandedBackSuccess | [Details](#10d97e51ca4c40b768362fb1b9e1194b62d907b824)
+ [articles\active-directory\active-directory-aadconnectsync-best-practices-changing-default-configuration.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-aadconnectsync-best-practices-changing-default-configuration.md) | InSyncHandedBackSuccess | [Details](#3858134f4d28b188227fae29de01b75b82cb236c26)
  [virtualization\community\community_overview.md](https://github.com/OpenLocalizationOrg/hyperV/blob/c2a703077ad70c2cac21e0e39c6fc49b6f04ab8a/virtualization/community/community_overview.md) | InSyncHandedBackSuccess | [Details](#ed968510a1e72e532a3e4df850bed9a40050619c1400)
  [virtualization\community\TOC.md](https://github.com/OpenLocalizationOrg/hyperV/blob/c2a703077ad70c2cac21e0e39c6fc49b6f04ab8a/virtualization/community/TOC.md) | InSyncHandedBackSuccess | [Details](#d95757903564f8beea62ad4d2977764d431eeeb81402)
  [virtualization\hyperv_on_windows\about\hyperv_on_windows_new.md](https://github.com/OpenLocalizationOrg/hyperV/blob/c2a703077ad70c2cac21e0e39c6fc49b6f04ab8a/virtualization/hyperv_on_windows/about/hyperv_on_windows_new.md) | InSyncHandedBackSuccess | [Details](#cbbce5951ccdf4ff1a3a5b98adf62f364c5c9aed1405)
@@ -1882,15 +1882,15 @@
 * [Back to Top](#report-top)
 
 ##### <a name='3858134f4d28b188227fae29de01b75b82cb236c26'></a> Source: [articles\active-directory\active-directory-aadconnectsync-best-practices-changing-default-configuration.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-aadconnectsync-best-practices-changing-default-configuration.md)
-* Status: HandedOffSuccess
-* Target File: 
+* Status: InSyncHandedBackSuccess
+* Target File: [articles\active-directory\active-directory-aadconnectsync-best-practices-changing-default-configuration.md](https://github.com/OpenLocalizationOrg/hyperV.zh-tw/blob/985248de574cc2510c9f7e8fe34f1225e168cd14/articles/active-directory/active-directory-aadconnectsync-best-practices-changing-default-configuration.md)
 * Handoff File: [active-directory-aadconnectsync-best-practices-changing-default-c.76e5a18fbd5ec4708c7889a0dbdb07a78444b772.zh-tw.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/b1798a90560a2055d143c38b23df91c78082ee89/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/acomdc_nonhi/active-directory-aadconnectsync-best-practices-changing-default-c.76e5a18fbd5ec4708c7889a0dbdb07a78444b772.zh-tw.xlf)
 * Handoff Datetime: 2016-03-28 17:39:27
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
+* Handback File: [active-directory-aadconnectsync-best-practices-changing-default-c.76e5a18fbd5ec4708c7889a0dbdb07a78444b772.zh-tw.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/73854bbaeb223104ebe3f5bf5c44d8eb8ddfef93/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/acomdc_nonhi/active-directory-aadconnectsync-best-practices-changing-default-c.76e5a18fbd5ec4708c7889a0dbdb07a78444b772.zh-tw.xlf)
+* Handback Datetime: 2016-03-31 05:42:19
 * [Back to Top](#report-top)
 
 ##### <a name='daae9383eb6e0c68e9a2ee2b6101b675f0581e6627'></a> Source: [articles\active-directory\active-directory-aadconnectsync-configure-filtering.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-aadconnectsync-configure-filtering.md)
