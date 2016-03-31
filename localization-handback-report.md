@@ -1,26 +1,11 @@
 # <a name='report-top'></a> Localization Handback Report
 
 ## Summary
- Total Files | 1
+ Total Files | 0
 
 ## File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [articles\active-directory\active-directory-aadconnectsync-best-practices-changing-default-configuration.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-aadconnectsync-best-practices-changing-default-configuration.md) | InSyncHandedBackSuccess | [Details](#3858134f4d28b188227fae29de01b75b82cb236c26)
 
 ## Item Details
-##### <a name='3858134f4d28b188227fae29de01b75b82cb236c26'></a> Source: [articles\active-directory\active-directory-aadconnectsync-best-practices-changing-default-configuration.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-aadconnectsync-best-practices-changing-default-configuration.md)
-* Status: InSyncHandedBackSuccess
-* Target File: [articles\active-directory\active-directory-aadconnectsync-best-practices-changing-default-configuration.md](https://github.com/OpenLocalizationOrg/hyperV.zh-tw/blob/985248de574cc2510c9f7e8fe34f1225e168cd14/articles/active-directory/active-directory-aadconnectsync-best-practices-changing-default-configuration.md)
-* Handoff File: [active-directory-aadconnectsync-best-practices-changing-default-c.76e5a18fbd5ec4708c7889a0dbdb07a78444b772.zh-tw.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/b1798a90560a2055d143c38b23df91c78082ee89/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/acomdc_nonhi/active-directory-aadconnectsync-best-practices-changing-default-c.76e5a18fbd5ec4708c7889a0dbdb07a78444b772.zh-tw.xlf)
-* Handoff Datetime: 2016-03-28 17:39:27
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: [active-directory-aadconnectsync-best-practices-changing-default-c.76e5a18fbd5ec4708c7889a0dbdb07a78444b772.zh-tw.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/73854bbaeb223104ebe3f5bf5c44d8eb8ddfef93/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/acomdc_nonhi/active-directory-aadconnectsync-best-practices-changing-default-c.76e5a18fbd5ec4708c7889a0dbdb07a78444b772.zh-tw.xlf)
-* Handback Datetime: 2016-03-31 05:42:19
-* [Back to Top](#report-top)
-
 
 ## Error Details
 
