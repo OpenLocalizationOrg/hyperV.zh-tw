@@ -5,12 +5,12 @@
  -------- | ----- 
  Total Files | 1579
 [ Handoff Failed Files ](#handoff-failed-list)| 0
-[ Handoff Success Files ](#handoff-success-list)| 1305
+[ Handoff Success Files ](#handoff-success-list)| 1302
 [ Archive Failed Files ](#archive-failed-list)| 0
 [ Archive Success Files ](#archive-success-list)| 0
 [ Handback Failed Files ](#handback-failed-list)| 0
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 7
-[ In Sync Handback Files ](#insync-handback-success-list)| 99
+[ In Sync Handback Files ](#insync-handback-success-list)| 102
 [ Ignored Files ](#ignored-list)| 168
 
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
@@ -117,9 +117,6 @@
  [articles\active-directory\active-directory-cloudappdiscovery-whatis.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-cloudappdiscovery-whatis.md) | HandedOffSuccess | [Details](#e6de32891f6d782d7ec81f1dd9f4e268817db3fa100)
  [articles\active-directory\active-directory-code-samples.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-code-samples.md) | HandedOffSuccess | [Details](#03445fdd0ca51da2cde49eee70587ce475e608fb101)
  [articles\active-directory\active-directory-conditional-access.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-conditional-access.md) | HandedOffSuccess | [Details](#a6d42902f8fc05657a71b21488a8058c02f5c8e1110)
- [articles\active-directory\active-directory-conditional-access-automatic-device-registration.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-conditional-access-automatic-device-registration.md) | HandedOffSuccess | [Details](#a0006882b9970becbae9f1a91c5a51553bbecced104)
- [articles\active-directory\active-directory-conditional-access-automatic-device-registration-windows7.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-conditional-access-automatic-device-registration-windows7.md) | HandedOffSuccess | [Details](#c33cf57a41d31ff2504a7198daf6e1bdbd507aba102)
- [articles\active-directory\active-directory-conditional-access-automatic-device-registration-windows8_1.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-conditional-access-automatic-device-registration-windows8_1.md) | HandedOffSuccess | [Details](#8443340b16766cd17f006ab0e5f4c523de0323b6103)
  [articles\active-directory\active-directory-conditional-access-azuread-connected-apps.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-conditional-access-azuread-connected-apps.md) | HandedOffSuccess | [Details](#dc6af18f3cee5ffdba3696b5393f4a470f1d502a106)
  [articles\active-directory\active-directory-conditional-access-azure-authenticator-app.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-conditional-access-azure-authenticator-app.md) | HandedOffSuccess | [Details](#bdf79d074a6682becd0902484d676eaab044fd6c105)
  [articles\active-directory\active-directory-conditional-access-device-policies.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-conditional-access-device-policies.md) | HandedOffSuccess | [Details](#3e714404ce717fdf959b3757e5a5534f2f9617ff107)
@@ -1346,6 +1343,9 @@
  ----------- | ------ | ------- 
  [articles\active-directory\active-directory-aadconnect.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-aadconnect.md) | InSyncHandedBackSuccess | [Details](#10d97e51ca4c40b768362fb1b9e1194b62d907b824)
  [articles\active-directory\active-directory-aadconnectsync-best-practices-changing-default-configuration.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-aadconnectsync-best-practices-changing-default-configuration.md) | InSyncHandedBackSuccess | [Details](#3858134f4d28b188227fae29de01b75b82cb236c26)
+ [articles\active-directory\active-directory-conditional-access-automatic-device-registration.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-conditional-access-automatic-device-registration.md) | InSyncHandedBackSuccess | [Details](#a0006882b9970becbae9f1a91c5a51553bbecced104)
+ [articles\active-directory\active-directory-conditional-access-automatic-device-registration-windows7.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-conditional-access-automatic-device-registration-windows7.md) | InSyncHandedBackSuccess | [Details](#c33cf57a41d31ff2504a7198daf6e1bdbd507aba102)
+ [articles\active-directory\active-directory-conditional-access-automatic-device-registration-windows8_1.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-conditional-access-automatic-device-registration-windows8_1.md) | InSyncHandedBackSuccess | [Details](#8443340b16766cd17f006ab0e5f4c523de0323b6103)
  [virtualization\community\community_overview.md](https://github.com/OpenLocalizationOrg/hyperV/blob/c2a703077ad70c2cac21e0e39c6fc49b6f04ab8a/virtualization/community/community_overview.md) | InSyncHandedBackSuccess | [Details](#ed968510a1e72e532a3e4df850bed9a40050619c1400)
  [virtualization\community\TOC.md](https://github.com/OpenLocalizationOrg/hyperV/blob/c2a703077ad70c2cac21e0e39c6fc49b6f04ab8a/virtualization/community/TOC.md) | InSyncHandedBackSuccess | [Details](#d95757903564f8beea62ad4d2977764d431eeeb81402)
  [virtualization\hyperv_on_windows\about\hyperv_on_windows_new.md](https://github.com/OpenLocalizationOrg/hyperV/blob/c2a703077ad70c2cac21e0e39c6fc49b6f04ab8a/virtualization/hyperv_on_windows/about/hyperv_on_windows_new.md) | InSyncHandedBackSuccess | [Details](#cbbce5951ccdf4ff1a3a5b98adf62f364c5c9aed1405)
@@ -2854,39 +2854,39 @@
 * [Back to Top](#report-top)
 
 ##### <a name='a0006882b9970becbae9f1a91c5a51553bbecced104'></a> Source: [articles\active-directory\active-directory-conditional-access-automatic-device-registration.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-conditional-access-automatic-device-registration.md)
-* Status: HandedOffSuccess
-* Target File: 
+* Status: InSyncHandedBackSuccess
+* Target File: [articles\active-directory\active-directory-conditional-access-automatic-device-registration.md](https://github.com/OpenLocalizationOrg/hyperV.zh-tw/blob/31618ac473210039f914ba83c7346ca41edb42a3/articles/active-directory/active-directory-conditional-access-automatic-device-registration.md)
 * Handoff File: [active-directory-conditional-access-automatic-device-registration.48bc182f8032cfe981849fdeaf5f14f6c4d75ad5.zh-tw.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/b1798a90560a2055d143c38b23df91c78082ee89/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/acomdc_nonhi/active-directory-conditional-access-automatic-device-registration.48bc182f8032cfe981849fdeaf5f14f6c4d75ad5.zh-tw.xlf)
 * Handoff Datetime: 2016-03-28 17:39:27
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
+* Handback File: [active-directory-conditional-access-automatic-device-registration.48bc182f8032cfe981849fdeaf5f14f6c4d75ad5.zh-tw.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/5a687b5feccc07a22a14151e71dafd34afa82eb8/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/acomdc_nonhi/active-directory-conditional-access-automatic-device-registration.48bc182f8032cfe981849fdeaf5f14f6c4d75ad5.zh-tw.xlf)
+* Handback Datetime: 2016-03-31 16:04:01
 * [Back to Top](#report-top)
 
 ##### <a name='c33cf57a41d31ff2504a7198daf6e1bdbd507aba102'></a> Source: [articles\active-directory\active-directory-conditional-access-automatic-device-registration-windows7.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-conditional-access-automatic-device-registration-windows7.md)
-* Status: HandedOffSuccess
-* Target File: 
+* Status: InSyncHandedBackSuccess
+* Target File: [articles\active-directory\active-directory-conditional-access-automatic-device-registration-windows7.md](https://github.com/OpenLocalizationOrg/hyperV.zh-tw/blob/31618ac473210039f914ba83c7346ca41edb42a3/articles/active-directory/active-directory-conditional-access-automatic-device-registration-windows7.md)
 * Handoff File: [active-directory-conditional-access-automatic-device-registration.3a2702a21a289648c1a66c1b5a9bba3ec492386a.zh-tw.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/b1798a90560a2055d143c38b23df91c78082ee89/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/acomdc_nonhi/active-directory-conditional-access-automatic-device-registration.3a2702a21a289648c1a66c1b5a9bba3ec492386a.zh-tw.xlf)
 * Handoff Datetime: 2016-03-28 17:39:27
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
+* Handback File: [active-directory-conditional-access-automatic-device-registration.3a2702a21a289648c1a66c1b5a9bba3ec492386a.zh-tw.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/5a687b5feccc07a22a14151e71dafd34afa82eb8/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/acomdc_nonhi/active-directory-conditional-access-automatic-device-registration.3a2702a21a289648c1a66c1b5a9bba3ec492386a.zh-tw.xlf)
+* Handback Datetime: 2016-03-31 16:04:01
 * [Back to Top](#report-top)
 
 ##### <a name='8443340b16766cd17f006ab0e5f4c523de0323b6103'></a> Source: [articles\active-directory\active-directory-conditional-access-automatic-device-registration-windows8_1.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-conditional-access-automatic-device-registration-windows8_1.md)
-* Status: HandedOffSuccess
-* Target File: 
+* Status: InSyncHandedBackSuccess
+* Target File: [articles\active-directory\active-directory-conditional-access-automatic-device-registration-windows8_1.md](https://github.com/OpenLocalizationOrg/hyperV.zh-tw/blob/31618ac473210039f914ba83c7346ca41edb42a3/articles/active-directory/active-directory-conditional-access-automatic-device-registration-windows8_1.md)
 * Handoff File: [active-directory-conditional-access-automatic-device-registration.ee780f8ec6e7d7c63854729d90abd4407231b15a.zh-tw.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/b1798a90560a2055d143c38b23df91c78082ee89/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/acomdc_nonhi/active-directory-conditional-access-automatic-device-registration.ee780f8ec6e7d7c63854729d90abd4407231b15a.zh-tw.xlf)
 * Handoff Datetime: 2016-03-28 17:39:27
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
+* Handback File: [active-directory-conditional-access-automatic-device-registration.ee780f8ec6e7d7c63854729d90abd4407231b15a.zh-tw.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/5a687b5feccc07a22a14151e71dafd34afa82eb8/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/acomdc_nonhi/active-directory-conditional-access-automatic-device-registration.ee780f8ec6e7d7c63854729d90abd4407231b15a.zh-tw.xlf)
+* Handback Datetime: 2016-03-31 16:04:01
 * [Back to Top](#report-top)
 
 ##### <a name='dc6af18f3cee5ffdba3696b5393f4a470f1d502a106'></a> Source: [articles\active-directory\active-directory-conditional-access-azuread-connected-apps.md](https://github.com/OpenLocalizationOrg/hyperV/blob/aaf6dddc174d95e4f7796619a3940490069460a2/articles/active-directory/active-directory-conditional-access-azuread-connected-apps.md)
