@@ -5,7 +5,7 @@ title: Containers Welcome
 
 # Windows Containers
 
-[!INCLUDE [include-short-name] (../token/include-file-name.md)]
+[!INCLUDE [include-short-name] (include-file-name.md)]
 
 Windows containers provide operating system level virtualization that allow you to run multiple isolated applications on one container host.
 
