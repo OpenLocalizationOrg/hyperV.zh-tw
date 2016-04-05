@@ -1,0 +1,10 @@
+## Additional Resources
+
+- [The Azure AD Developer's Guide](active-directory-developers-guide.md)
+- [AzureADSamples on GitHub](https://github.com/AzureAdSamples)
+- [CloudIdentity.com](http://cloudidentity.com)
+
+
+<!--HONumber=Apr16_HO1-->
+
+
