@@ -1718,9 +1718,6 @@
   "45dd889f17c7e84749c3c049cf64b65dbec5e88e": [
     "articles\\app-service\\app-service-value-prop-what-is.md"
   ],
-  "9eb8114fb7b7f5c49b8a11b2e628b21a522cb22d": [
-    "articles\\app-service\\app-service-value-prop-what-is.md"
-  ],
   "c05aa60fefa8a1acba69dc9eb19cb31b747b8225": [
     "articles\\app-service\\azure-web-sites-web-hosting-plans-in-depth-overview.md"
   ],
@@ -2018,9 +2015,6 @@
   "136155b43ef934085618490dbdfd3265c3fd23ff": [
     "articles\\app-service-mobile\\app-service-mobile-android-get-started.md"
   ],
-  "9400d5fe2324f21182bdb8faa49aa8064cc13859": [
-    "articles\\app-service-mobile\\app-service-mobile-android-get-started.md"
-  ],
   "4d0918836e0602f59cf21cfa8f53c14e58352a74": [
     "articles\\app-service-mobile\\app-service-mobile-android-get-started-offline-data.md"
   ],
@@ -2096,9 +2090,6 @@
   "52ddbfe4150a933dc0f15a17040b73632af08ad7": [
     "articles\\app-service-mobile\\app-service-mobile-ios-get-started.md"
   ],
-  "5a8f4cee966f29235927f251c7b0e0a071e7c290": [
-    "articles\\app-service-mobile\\app-service-mobile-ios-get-started.md"
-  ],
   "f94d546eff6177961df480bdd22c13cbe1f11de0": [
     "articles\\app-service-mobile\\app-service-mobile-ios-get-started-offline-data.md"
   ],
@@ -2156,19 +2147,10 @@
   "24eb7a610dfb73e939e22a058860c83fc58887e3": [
     "articles\\app-service-mobile\\app-service-mobile-value-prop.md"
   ],
-  "13b633e57e9bb0834e554fef47ee0a0019500844": [
-    "articles\\app-service-mobile\\app-service-mobile-value-prop.md"
-  ],
   "2e3dca67216a45178abadaaf09ab6500c2295c78": [
     "articles\\app-service-mobile\\app-service-mobile-value-prop-migration-from-mobile-services.md"
   ],
-  "2f6d4d407fd50ce6628e849f9bcef8bf18d90b68": [
-    "articles\\app-service-mobile\\app-service-mobile-value-prop-migration-from-mobile-services.md"
-  ],
   "da4967c211209d7f6baf7f4f54c1b50a8c362c50": [
-    "articles\\app-service-mobile\\app-service-mobile-windows-store-dotnet-get-started.md"
-  ],
-  "f532c7ef244c13b46ccd6da3c19a15924517c071": [
     "articles\\app-service-mobile\\app-service-mobile-windows-store-dotnet-get-started.md"
   ],
   "db0f8df0970d95c9315aa6a01002a666e3066dac": [
@@ -2192,9 +2174,6 @@
   "971d9ca36d252c2ad888587871df21bba7730ecd": [
     "articles\\app-service-mobile\\app-service-mobile-xamarin-android-get-started.md"
   ],
-  "a8602df56e878da00532a3756d2cfdbc0c81a1aa": [
-    "articles\\app-service-mobile\\app-service-mobile-xamarin-android-get-started.md"
-  ],
   "59e533ca5260628dc705da6e1509103dfdd6adc7": [
     "articles\\app-service-mobile\\app-service-mobile-xamarin-android-get-started-offline-data.md"
   ],
@@ -2216,9 +2195,6 @@
   "6f23e4a61a7edc73818c84ac828ee97cb95b5b7b": [
     "articles\\app-service-mobile\\app-service-mobile-xamarin-forms-get-started.md"
   ],
-  "a79d1dc102cb9dad59d19e4ee76a468d888de5e5": [
-    "articles\\app-service-mobile\\app-service-mobile-xamarin-forms-get-started.md"
-  ],
   "cc25169174fb793026c8943710b37243e27a71bc": [
     "articles\\app-service-mobile\\app-service-mobile-xamarin-forms-get-started-push.md"
   ],
@@ -2232,9 +2208,6 @@
     "articles\\app-service-mobile\\app-service-mobile-xamarin-forms-get-started-users.md"
   ],
   "d09444c49e735d5c3e9a3574462ed5df7f71bea2": [
-    "articles\\app-service-mobile\\app-service-mobile-xamarin-ios-get-started.md"
-  ],
-  "18399e6c8dbcf7499e529531ac0a56f7c21f0e1c": [
     "articles\\app-service-mobile\\app-service-mobile-xamarin-ios-get-started.md"
   ],
   "667a5c174b40dcfb713c58586d682fa55e888048": [
@@ -6429,9 +6402,6 @@
     "articles\\app-service\\app-service-deployment-readme.md"
   ],
   "72b23ffe44e686f46e36cd5c5565ff472a6337d4": [
-    "articles\\app-service\\app-service-how-works-readme.md"
-  ],
-  "7baf00cc3cd5f8c78686d7b20f502935e85c85eb": [
     "articles\\app-service\\app-service-how-works-readme.md"
   ],
   "5a7aee52959bf739c22aed3819b6dddd4e355638": [
