@@ -1697,17 +1697,32 @@
   "4fc9fdeebd9a1bac3ff59bd2828548cdc1477f43": [
     "articles\\active-directory\\vs-active-directory-webapi-what-happened.md"
   ],
+  "cee5e845ad5e52f597e312c2dff1bee3785cc35f": [
+    "articles\\app-service\\app-service-authentication-overview.md"
+  ],
   "34df38bcb60e970175104959232484ffd0f5f5c4": [
     "articles\\app-service\\app-service-authentication-overview.md"
+  ],
+  "d8b23c07df578aa5d7ed5ff470b540b5ed2c5a29": [
+    "articles\\app-service\\app-service-environment-auto-scale.md"
   ],
   "69d0c1a02a5e8961df8947f06a75a4dfe8ac1093": [
     "articles\\app-service\\app-service-environment-auto-scale.md"
   ],
+  "0ad01baab3ab0a5017e4431c3d5e5e685c1a2d63": [
+    "articles\\app-service\\app-service-release-notes.md"
+  ],
   "06f198e5d5cf6bb8981ffda1d66605ae82d9ce59": [
     "articles\\app-service\\app-service-release-notes.md"
   ],
+  "45dd889f17c7e84749c3c049cf64b65dbec5e88e": [
+    "articles\\app-service\\app-service-value-prop-what-is.md"
+  ],
   "9eb8114fb7b7f5c49b8a11b2e628b21a522cb22d": [
     "articles\\app-service\\app-service-value-prop-what-is.md"
+  ],
+  "c05aa60fefa8a1acba69dc9eb19cb31b747b8225": [
+    "articles\\app-service\\azure-web-sites-web-hosting-plans-in-depth-overview.md"
   ],
   "184891c2c31eaa5fdd0a7477b1dc9a111b79cb39": [
     "articles\\app-service\\azure-web-sites-web-hosting-plans-in-depth-overview.md"
@@ -2000,131 +2015,242 @@
   "da8a79f60b2f99f4954468ca24a1ecf79a8520b9": [
     "articles\\app-service-logic\\app-service-logic-xpath-extract.md"
   ],
+  "136155b43ef934085618490dbdfd3265c3fd23ff": [
+    "articles\\app-service-mobile\\app-service-mobile-android-get-started.md"
+  ],
   "9400d5fe2324f21182bdb8faa49aa8064cc13859": [
     "articles\\app-service-mobile\\app-service-mobile-android-get-started.md"
+  ],
+  "4d0918836e0602f59cf21cfa8f53c14e58352a74": [
+    "articles\\app-service-mobile\\app-service-mobile-android-get-started-offline-data.md"
   ],
   "a0c6503f4379ac93fcc157ac4ab49fe987a5ecd1": [
     "articles\\app-service-mobile\\app-service-mobile-android-get-started-offline-data.md"
   ],
+  "05160cd0386dc20c89a66c74cbde5b8f58cb5c06": [
+    "articles\\app-service-mobile\\app-service-mobile-android-get-started-push.md"
+  ],
   "c820436e84f0be3ade899fc6ed7ac1b85c11a28d": [
     "articles\\app-service-mobile\\app-service-mobile-android-get-started-push.md"
+  ],
+  "7eabed9c465865f1b0a31650b9ce1f96ede936af": [
+    "articles\\app-service-mobile\\app-service-mobile-android-get-started-users.md"
   ],
   "4b29961c08da2158f43b1f9099a17b9ed1243138": [
     "articles\\app-service-mobile\\app-service-mobile-android-get-started-users.md"
   ],
+  "affabae9c06ccc05f130db877da8dabbc97df0d7": [
+    "articles\\app-service-mobile\\app-service-mobile-auth.md"
+  ],
   "76d4a73459889f2b938c7fef9a7a10d74578291f": [
     "articles\\app-service-mobile\\app-service-mobile-auth.md"
+  ],
+  "1d4298a6cbcd9d28df163b685064870995990342": [
+    "articles\\app-service-mobile\\app-service-mobile-client-and-server-versioning.md"
   ],
   "fccef589a5aee6f40ff74641a74c47c30f25bd3c": [
     "articles\\app-service-mobile\\app-service-mobile-client-and-server-versioning.md"
   ],
+  "d320a784addfd9558cc1f14418e95f306a92327f": [
+    "articles\\app-service-mobile\\app-service-mobile-dotnet-backend-how-to-use-server-sdk.md"
+  ],
   "693e9e8920b341f3c938229c578a7474ba3bbb57": [
     "articles\\app-service-mobile\\app-service-mobile-dotnet-backend-how-to-use-server-sdk.md"
   ],
-  "227b5e100b776b85102903d62ca3c935f1f7f852": [
-    "articles\\app-service-mobile\\app-service-mobile-dotnet-backend-hybrid-connections-get-started.md"
+  "3801895c1aca2be8f7b7fd425de2a0698752ef4b": [
+    "articles\\app-service-mobile\\app-service-mobile-dotnet-how-to-use-client-library.md"
   ],
   "25cd5bf9b27060bd46c37ab7b1749b4da68c9ac2": [
     "articles\\app-service-mobile\\app-service-mobile-dotnet-how-to-use-client-library.md"
   ],
+  "01134beb2f8dddf857ac25550662d13b44a32f42": [
+    "articles\\app-service-mobile\\app-service-mobile-how-to-configure-active-directory-authentication.md"
+  ],
   "89d93b4c3b21d5320d05446f25e354a28fa88b5c": [
     "articles\\app-service-mobile\\app-service-mobile-how-to-configure-active-directory-authentication.md"
+  ],
+  "c24fc9905499a2ab55028c8e6ddc335a1636ba16": [
+    "articles\\app-service-mobile\\app-service-mobile-how-to-configure-facebook-authentication.md"
   ],
   "fac20aa09d913bcf3ee6b4ec03582af5883c7799": [
     "articles\\app-service-mobile\\app-service-mobile-how-to-configure-facebook-authentication.md"
   ],
+  "670f22e7aa5ee90efc2e15f65c1560fc2410c032": [
+    "articles\\app-service-mobile\\app-service-mobile-how-to-configure-google-authentication.md"
+  ],
   "59bb021069ca82fae2369dd165cfa653a3ce5c5c": [
     "articles\\app-service-mobile\\app-service-mobile-how-to-configure-google-authentication.md"
+  ],
+  "86f09dd3ed3d6d53929fce9284ab35008370491a": [
+    "articles\\app-service-mobile\\app-service-mobile-how-to-configure-microsoft-authentication.md"
   ],
   "ebc3a42e969e3722b991d29831bd6e2829523fda": [
     "articles\\app-service-mobile\\app-service-mobile-how-to-configure-microsoft-authentication.md"
   ],
+  "d9898b6e096f71a2a17a924f607714c14f0ae6ac": [
+    "articles\\app-service-mobile\\app-service-mobile-how-to-configure-twitter-authentication.md"
+  ],
   "1f5f9b1fa15522052f9b87593b6476f1adb30380": [
     "articles\\app-service-mobile\\app-service-mobile-how-to-configure-twitter-authentication.md"
   ],
-  "129c630747f94dc2305bbe5f8507aaefec71c417": [
-    "articles\\app-service-mobile\\app-service-mobile-html-get-started.md"
+  "52ddbfe4150a933dc0f15a17040b73632af08ad7": [
+    "articles\\app-service-mobile\\app-service-mobile-ios-get-started.md"
   ],
   "5a8f4cee966f29235927f251c7b0e0a071e7c290": [
     "articles\\app-service-mobile\\app-service-mobile-ios-get-started.md"
   ],
+  "f94d546eff6177961df480bdd22c13cbe1f11de0": [
+    "articles\\app-service-mobile\\app-service-mobile-ios-get-started-offline-data.md"
+  ],
   "c1e867a2a96cbdef6db08b549fdaaa9cbbaf8837": [
     "articles\\app-service-mobile\\app-service-mobile-ios-get-started-offline-data.md"
+  ],
+  "9b5107246bf0cc8f0d3379ba485f5ad300efd48f": [
+    "articles\\app-service-mobile\\app-service-mobile-ios-get-started-push.md"
   ],
   "4aff18cd7a201ff958909ed9187d885a9b57a8f6": [
     "articles\\app-service-mobile\\app-service-mobile-ios-get-started-push.md"
   ],
+  "557a4a128fc5659a36fa4047eadf5e3245b8f86b": [
+    "articles\\app-service-mobile\\app-service-mobile-ios-get-started-users.md"
+  ],
   "dcc97e235f17571bd6ee52769c2edc9db175d9d0": [
     "articles\\app-service-mobile\\app-service-mobile-ios-get-started-users.md"
+  ],
+  "08cc31f5e42a97c49422acb3573bfd3fc221cf78": [
+    "articles\\app-service-mobile\\app-service-mobile-ios-how-to-use-client-library.md"
   ],
   "5940809095a694a4cef9ae0bf83b177f4485ebd5": [
     "articles\\app-service-mobile\\app-service-mobile-ios-how-to-use-client-library.md"
   ],
-  "d5b2234b4042cc17fa9544fb0924d12696651a02": [
-    "articles\\app-service-mobile\\app-service-mobile-ios-push-notifications-to-users.md"
+  "b0fecf5e7a04863e1a12f97f1f5a0bd80c13d5a2": [
+    "articles\\app-service-mobile\\app-service-mobile-migrating-from-mobile-services.md"
   ],
   "6bb42f498cb4d3cf96beb741d8a3bbe36413f3b8": [
     "articles\\app-service-mobile\\app-service-mobile-migrating-from-mobile-services.md"
   ],
+  "367706bdce53a4a30c8541914444b8ca41459433": [
+    "articles\\app-service-mobile\\app-service-mobile-net-upgrading-from-mobile-services.md"
+  ],
   "39b958d393c9fb01eb042bf2fbc5c02ee6f6a1ab": [
     "articles\\app-service-mobile\\app-service-mobile-net-upgrading-from-mobile-services.md"
+  ],
+  "7466cf4e8f5d626f17462637e7987a9ec1a08fa2": [
+    "articles\\app-service-mobile\\app-service-mobile-node-backend-how-to-use-server-sdk.md"
   ],
   "fd2a03feb7a1f419df0f625b6db6886d79236eed": [
     "articles\\app-service-mobile\\app-service-mobile-node-backend-how-to-use-server-sdk.md"
   ],
+  "0bb6f4efb0b0cf3a11dff8ddf178a46f9484e94f": [
+    "articles\\app-service-mobile\\app-service-mobile-node-backend-upgrading-from-mobile-services.md"
+  ],
   "d1d99492dd26745f77d5884fc19902ce06cd2836": [
     "articles\\app-service-mobile\\app-service-mobile-node-backend-upgrading-from-mobile-services.md"
+  ],
+  "47686f58092fb856f1f287b54b0919f713b3e1cb": [
+    "articles\\app-service-mobile\\app-service-mobile-offline-data-sync.md"
   ],
   "236642a64450d22ba05260f3d3556e2c9dcef9f7": [
     "articles\\app-service-mobile\\app-service-mobile-offline-data-sync.md"
   ],
+  "24eb7a610dfb73e939e22a058860c83fc58887e3": [
+    "articles\\app-service-mobile\\app-service-mobile-value-prop.md"
+  ],
   "13b633e57e9bb0834e554fef47ee0a0019500844": [
     "articles\\app-service-mobile\\app-service-mobile-value-prop.md"
+  ],
+  "2e3dca67216a45178abadaaf09ab6500c2295c78": [
+    "articles\\app-service-mobile\\app-service-mobile-value-prop-migration-from-mobile-services.md"
   ],
   "2f6d4d407fd50ce6628e849f9bcef8bf18d90b68": [
     "articles\\app-service-mobile\\app-service-mobile-value-prop-migration-from-mobile-services.md"
   ],
+  "da4967c211209d7f6baf7f4f54c1b50a8c362c50": [
+    "articles\\app-service-mobile\\app-service-mobile-windows-store-dotnet-get-started.md"
+  ],
   "f532c7ef244c13b46ccd6da3c19a15924517c071": [
     "articles\\app-service-mobile\\app-service-mobile-windows-store-dotnet-get-started.md"
+  ],
+  "db0f8df0970d95c9315aa6a01002a666e3066dac": [
+    "articles\\app-service-mobile\\app-service-mobile-windows-store-dotnet-get-started-offline-data.md"
   ],
   "800f01a1ec99fcdff9f17be6f4182322ad3d6790": [
     "articles\\app-service-mobile\\app-service-mobile-windows-store-dotnet-get-started-offline-data.md"
   ],
+  "8d2283d8fbbb0a760130a66040af49a940428ea9": [
+    "articles\\app-service-mobile\\app-service-mobile-windows-store-dotnet-get-started-push.md"
+  ],
   "bb620fa1fe79a1bd1b8850954ac6405d564f765c": [
     "articles\\app-service-mobile\\app-service-mobile-windows-store-dotnet-get-started-push.md"
+  ],
+  "f14afab882274976e99b6652354846424b8b49b5": [
+    "articles\\app-service-mobile\\app-service-mobile-windows-store-dotnet-get-started-users.md"
   ],
   "56a6f4cf2a1e2bc03082893affc3a2b7fcd2195b": [
     "articles\\app-service-mobile\\app-service-mobile-windows-store-dotnet-get-started-users.md"
   ],
+  "971d9ca36d252c2ad888587871df21bba7730ecd": [
+    "articles\\app-service-mobile\\app-service-mobile-xamarin-android-get-started.md"
+  ],
   "a8602df56e878da00532a3756d2cfdbc0c81a1aa": [
     "articles\\app-service-mobile\\app-service-mobile-xamarin-android-get-started.md"
+  ],
+  "59e533ca5260628dc705da6e1509103dfdd6adc7": [
+    "articles\\app-service-mobile\\app-service-mobile-xamarin-android-get-started-offline-data.md"
   ],
   "a0d6759028bba119b060d4c6081685e7c8d47ad0": [
     "articles\\app-service-mobile\\app-service-mobile-xamarin-android-get-started-offline-data.md"
   ],
+  "0a47319fdfc72da3ddf5858dc16aceec0b394320": [
+    "articles\\app-service-mobile\\app-service-mobile-xamarin-android-get-started-push.md"
+  ],
   "af42230c6679a6ea08b01ac78c702e20c228b941": [
     "articles\\app-service-mobile\\app-service-mobile-xamarin-android-get-started-push.md"
+  ],
+  "ce205ea01a32e44e999e25ee7486ffa4da99024b": [
+    "articles\\app-service-mobile\\app-service-mobile-xamarin-android-get-started-users.md"
   ],
   "484e350b3ba6c73e35a69662d829b35ffef8f07a": [
     "articles\\app-service-mobile\\app-service-mobile-xamarin-android-get-started-users.md"
   ],
+  "6f23e4a61a7edc73818c84ac828ee97cb95b5b7b": [
+    "articles\\app-service-mobile\\app-service-mobile-xamarin-forms-get-started.md"
+  ],
   "a79d1dc102cb9dad59d19e4ee76a468d888de5e5": [
     "articles\\app-service-mobile\\app-service-mobile-xamarin-forms-get-started.md"
+  ],
+  "cc25169174fb793026c8943710b37243e27a71bc": [
+    "articles\\app-service-mobile\\app-service-mobile-xamarin-forms-get-started-push.md"
   ],
   "38702bd98161f2020d734ca325046dbab849d5fe": [
     "articles\\app-service-mobile\\app-service-mobile-xamarin-forms-get-started-push.md"
   ],
+  "5b4e39e3a9d7ed2115b8b9761f7ad54beeafbf6b": [
+    "articles\\app-service-mobile\\app-service-mobile-xamarin-forms-get-started-users.md"
+  ],
   "d20883eedea437a631840b8dc6fa70b6bc1cf15e": [
     "articles\\app-service-mobile\\app-service-mobile-xamarin-forms-get-started-users.md"
+  ],
+  "d09444c49e735d5c3e9a3574462ed5df7f71bea2": [
+    "articles\\app-service-mobile\\app-service-mobile-xamarin-ios-get-started.md"
   ],
   "18399e6c8dbcf7499e529531ac0a56f7c21f0e1c": [
     "articles\\app-service-mobile\\app-service-mobile-xamarin-ios-get-started.md"
   ],
+  "667a5c174b40dcfb713c58586d682fa55e888048": [
+    "articles\\app-service-mobile\\app-service-mobile-xamarin-ios-get-started-offline-data.md"
+  ],
   "aa9cdf6d984787faa0e4e294fda5ea359faed429": [
     "articles\\app-service-mobile\\app-service-mobile-xamarin-ios-get-started-offline-data.md"
   ],
+  "7ecc6a9455f675650dbd2f14d7efce069369bc1c": [
+    "articles\\app-service-mobile\\app-service-mobile-xamarin-ios-get-started-push.md"
+  ],
   "d3efe9c9540d8ef26bd240f8dc323299e38414ec": [
     "articles\\app-service-mobile\\app-service-mobile-xamarin-ios-get-started-push.md"
+  ],
+  "aa4d5e0b00826f8e58365de47c35fa184b326160": [
+    "articles\\app-service-mobile\\app-service-mobile-xamarin-ios-get-started-users.md"
   ],
   "40524cf0b70a7228288f1609e6b2b70eb37870dc": [
     "articles\\app-service-mobile\\app-service-mobile-xamarin-ios-get-started-users.md"
@@ -2141,2141 +2267,4160 @@
   "a23c8040e202feec08cb77aa8c1ce6ac788093f0": [
     "articles\\azure-api-management-certs.md"
   ],
+  "49b509a7de8df6a846fd9d4e3b2e3fd7d7949290": [
+    "includes\\active-directory-b2c-devquickstarts-graph-switcher.md",
+    "includes\\active-directory-b2c-devquickstarts-native-switcher.md",
+    "includes\\active-directory-b2c-devquickstarts-web-switcher.md"
+  ],
   "ee0a79d71ceff8ef60040de71b92ee402043fab7": [
     "includes\\active-directory-b2c-devquickstarts-graph-switcher.md",
     "includes\\active-directory-b2c-devquickstarts-native-switcher.md",
     "includes\\active-directory-b2c-devquickstarts-web-switcher.md"
   ],
+  "cfe73c36e046edf9f903f0000398a221f44e4246": [
+    "includes\\active-directory-b2c-devquickstarts-policy.md"
+  ],
   "ab1c73616ef3d1c0e9517c931564b7490bffaa50": [
     "includes\\active-directory-b2c-devquickstarts-policy.md"
+  ],
+  "7ab2a8d8f5c168182f1ba3a93a8c8fd3164e4c35": [
+    "includes\\active-directory-b2c-devquickstarts-tenant-name.md"
   ],
   "1217aec1748ee08e9eb2a4b0aa4c9b6dfc257a8c": [
     "includes\\active-directory-b2c-devquickstarts-tenant-name.md"
   ],
+  "2faa4b022b03e35d032e8be391394d35621244b5": [
+    "includes\\active-directory-b2c-devquickstarts-v2-apps.md"
+  ],
   "1141c1cc47d726c66e21b640d5f8b7ea5d2c7f1f": [
     "includes\\active-directory-b2c-devquickstarts-v2-apps.md"
+  ],
+  "ea8bf1bf5921875960bd412fea86289b7329d02d": [
+    "includes\\active-directory-b2c-preview-note.md"
   ],
   "5122ddb20604aee503ac02dd6e8da36573b4c04d": [
     "includes\\active-directory-b2c-preview-note.md"
   ],
+  "87aa70f97e105fcb142d2c2e9e3d056b120214b5": [
+    "includes\\active-directory-b2c-quickstart-table.md"
+  ],
   "5c7ee04e0c7191007a3f15e8b233b1c2f7d4ff73": [
     "includes\\active-directory-b2c-quickstart-table.md"
+  ],
+  "889dff6722c0ed887f28c0a236ca358e2bba6909": [
+    "includes\\active-directory-devguide.md"
   ],
   "d16795652d617d5bb1788626056025d65ee49b72": [
     "includes\\active-directory-devguide.md"
   ],
+  "9ac9d773f0c4616be367e4cc856467cb1e6e98ab": [
+    "includes\\active-directory-devquickstarts-additional-resources.md"
+  ],
   "e94829433a9b7bd9069f7582772cddd3443763c8": [
     "includes\\active-directory-devquickstarts-additional-resources.md"
+  ],
+  "a0c6bdb18bfbc002a691c5d875eea072cc867c5e": [
+    "includes\\active-directory-devquickstarts-platforms-selector.md"
   ],
   "57aae5bd75e4ba556e03f81229b48d569fbf5b0d": [
     "includes\\active-directory-devquickstarts-platforms-selector.md"
   ],
+  "3659fd7895f85a0b5259c0245507e45fb7a55065": [
+    "includes\\active-directory-devquickstarts-switcher.md"
+  ],
   "ee782215c93b44b2cc94b9d0c84b9e7ce837b21e": [
     "includes\\active-directory-devquickstarts-switcher.md"
+  ],
+  "9f4b288cf8c5bcaa6c40601d12511c5d4598b4fd": [
+    "includes\\active-directory-passwords-content-journey-selector.md"
   ],
   "6530d3a6aeb308a3cef104b1f4577179f6d03625": [
     "includes\\active-directory-passwords-content-journey-selector.md"
   ],
+  "471401269944d748e64febca8f1948c011794bea": [
+    "includes\\active-directory-privileged-identity-management-toc.md"
+  ],
   "c8976fb2550151d6f9b7061f5f8c156db0e138c9": [
     "includes\\active-directory-privileged-identity-management-toc.md"
   ],
-  "150b01a0d0bdf4e2c769e0aa6fcf82a0c027e100": [
-    "includes\\active-directory-saas-toc.md"
+  "d470c7ce88b80382b2621b7ec9b877b78c2af433": [
+    "includes\\active-directory-service-limits-include.md"
   ],
   "76c429566cd8f0c4ff623007f39a3956db3dda7b": [
     "includes\\active-directory-service-limits-include.md"
   ],
+  "a03b537cf36ea6f6b2ddc5295d2e6966608b7cf5": [
+    "includes\\active-directory-sso-use-case-intro.md"
+  ],
   "45c5224b523d4d64c5d9c601049529fc43a75635": [
     "includes\\active-directory-sso-use-case-intro.md"
+  ],
+  "121a9c6f9cfe5893bfbb6f0c9b92456a3ad45a65": [
+    "includes\\active-directory-v2-quickstart-table.md"
   ],
   "53a838794cb4248e098e90c1db8d3e9d2addc499": [
     "includes\\active-directory-v2-quickstart-table.md"
   ],
+  "d1e74700d1e1962a90a23d9b1ec4c4f766145831": [
+    "includes\\add-push-notifications-to-app.md"
+  ],
   "27dd4f65f20034a92fc50e586302f70e298a2e29": [
     "includes\\add-push-notifications-to-app.md"
+  ],
+  "50600714dad7a6fb66e822c5a822a37513dfd56b": [
+    "includes\\antares-iaas-signup.md"
   ],
   "7df7ca5f946eda251dc9d738cea080560f684438": [
     "includes\\antares-iaas-signup.md"
   ],
+  "a8bda88b66121bf19c4251ceb0d2c4ad469996d9": [
+    "includes\\antares-iaas-signup-iaas.md"
+  ],
   "7fca4f6447a87cad491fb606ac734a936ba573fe": [
     "includes\\antares-iaas-signup-iaas.md"
+  ],
+  "6f510f0dab29fcb8036fe3f045024d5d0ba27162": [
+    "includes\\api-management-service-limits.md"
   ],
   "ef179cd30395174b80d6b7297362be09e1bb5743": [
     "includes\\api-management-service-limits.md"
   ],
+  "b23d5afdd2cc630a9f6523be59a42fd3c1282a72": [
+    "includes\\app-insights-selector-dependencies.md"
+  ],
   "3d8e6c501c3906ee8d942a5247bdf3b171550599": [
     "includes\\app-insights-selector-dependencies.md"
+  ],
+  "d0cdb9ec1d4837d73c152097e7a6380372904a05": [
+    "includes\\app-insights-selector-get-started.md"
   ],
   "5ccc883cafc12e21a097b13b51cc81ca56c850a2": [
     "includes\\app-insights-selector-get-started.md"
   ],
+  "375b67890f73ed4d2546ae9e4f5ac94716c44129": [
+    "includes\\app-insights-selector-get-started-dotnet.md"
+  ],
   "9fd0dcd99c8fbf22a9f567ce5dd9b7b85ccfb9e1": [
     "includes\\app-insights-selector-get-started-dotnet.md"
+  ],
+  "7be3b0a11df53aa926f4acb9aa8d97555a5cd6d9": [
+    "includes\\application-insights-limits.md"
   ],
   "40d574068c4c03ee07b0a738018b174697acdc7c": [
     "includes\\application-insights-limits.md"
   ],
+  "6abd510524027dae69f50734400441a1baf7f326": [
+    "includes\\application-model.md"
+  ],
   "16a223542077f837762e00cb9b99b356a5a9e561": [
     "includes\\application-model.md"
   ],
-  "b5bb71942a2a807508058ae683dd3783f7ae12ed": [
-    "includes\\app-service-api-config-auth.md"
-  ],
-  "4345d1ef1fd3876d4c4cc73590fcdcb83a9f3fb9": [
-    "includes\\app-service-api-create.md"
-  ],
-  "244fec3fec2ab467fb8f7897401b7c1b7993e888": [
-    "includes\\app-service-api-create-dropbox-app.md"
-  ],
-  "fa3b3c58f212451a9aef8ed14b569db4e8f16e74": [
-    "includes\\app-service-api-define-api-app.md"
-  ],
-  "64fcc8f2db7ba55381e42acf2da1533ab14039ff": [
-    "includes\\app-service-api-deploy-parameters.md"
-  ],
-  "239fd41e62dc21673c93fb19d43351e6091865a3": [
-    "includes\\app-service-api-direct-deploy-metadata.md"
-  ],
-  "f9223d3b85e3f8877c7777c038bdbbd8e902a64a": [
-    "includes\\app-service-api-dotnet-add-generated-client.md"
-  ],
-  "9e6e384f893cf174f82928209ed5610372e033bd": [
-    "includes\\app-service-api-exchange-dropbox-settings.md"
-  ],
-  "551bb0645c16028f20e8059b425a0e1fe7707cab": [
-    "includes\\app-service-api-gateway-config-auth.md"
+  "58ee62d9b909c8280e5712c69d8c1099dd3bb931": [
+    "includes\\app-service-api-get-started-selector.md"
   ],
   "fe6304609ad1ba57b5d0d547051e0d4e1f644e81": [
     "includes\\app-service-api-get-started-selector.md"
   ],
-  "48fe6d937fc1539f7898715cfb1c647d430ef53d": [
-    "includes\\app-service-api-pub-web-create.md"
-  ],
-  "41cd2b1427fe530a6bcb4879a474eca2320b380a": [
-    "includes\\app-service-api-pub-web-deploy.md"
-  ],
-  "96a6bb96b3080cc169c2a691f0d53e60fd8d917a": [
-    "includes\\app-service-api-review-metadata.md"
+  "576aecc2dc8fde3d0da831dcced96066fdd40bf4": [
+    "includes\\app-service-api-v2-note.md"
   ],
   "d50bff0ac6fa132509604c0c4c0df7d4971a7022": [
     "includes\\app-service-api-v2-note.md"
   ],
+  "6841e2623426c00e2fc427c78d66d97891e1fa2b": [
+    "includes\\app-service-choose-me-content.md"
+  ],
   "0ce8da631233ab884d06fd6d802e9caf15aff9d3": [
     "includes\\app-service-choose-me-content.md"
+  ],
+  "7a53f1c226b2d9dcfd48a1ab01cacaa0fd0fb2be": [
+    "includes\\app-service-deploy-commands.md"
   ],
   "bf6e28976b8db3625cb2f14a75419c1198e800bf": [
     "includes\\app-service-deploy-commands.md"
   ],
+  "1aaf0933101cb9df1cd139e1bddd6399927140ca": [
+    "includes\\app-service-disqus-feedback-slug.md"
+  ],
   "51ff898827b7a7046cef84893b5622d2dd996714": [
     "includes\\app-service-disqus-feedback-slug.md"
+  ],
+  "d1eb58208ce43b67709eebf817d3129ce02b490f": [
+    "includes\\app-service-dotnet-debug-api-app-gen-api-client.md"
   ],
   "81bbf61e2a3a117d83ce30a231c35e0c9f3275c2": [
     "includes\\app-service-dotnet-debug-api-app-gen-api-client.md"
   ],
+  "610e180f1c0259c50af9a546f707059230ff2e96": [
+    "includes\\app-service-hybrid-connections-manager-install.md"
+  ],
   "9e654f7e7dd1af2709bf3c2d2f556bc25a97597f": [
     "includes\\app-service-hybrid-connections-manager-install.md"
+  ],
+  "c3aba310b2db3740ed5dd536230dc2e08339db31": [
+    "includes\\app-service-logic-deploy-parameters.md"
   ],
   "934051573218fff06f3652aefb38951fdcf671d5": [
     "includes\\app-service-logic-deploy-parameters.md"
   ],
+  "311ad2553e2be53f96e156a8d582b783d35723f8": [
+    "includes\\app-service-mobile-adal-register-app.md"
+  ],
   "87cc6b8f18d7aa73ed6f58b33eef42124edd7d3d": [
     "includes\\app-service-mobile-adal-register-app.md"
+  ],
+  "d79a569dd2fae33e060a427607ea494b666d2e06": [
+    "includes\\app-service-mobile-add-google-play-services.md"
   ],
   "d650fcccb73cdce18c536e4b09be03ebfbb5cb07": [
     "includes\\app-service-mobile-add-google-play-services.md"
   ],
+  "9fd08cef4fe23af014afdb61f9a195b5ce570de9": [
+    "includes\\app-service-mobile-add-push-notifications-to-ios-app.md"
+  ],
   "3103bd530f7818137d6333a169a095c6504c5346": [
     "includes\\app-service-mobile-add-push-notifications-to-ios-app.md"
+  ],
+  "cf589fbe6b6e4e4cc28e1e1636df1b08ce4b0823": [
+    "includes\\app-service-mobile-android-configure-push.md"
   ],
   "4e71ea75cccef5e200c37c5d59ca211bb3d7c465": [
     "includes\\app-service-mobile-android-configure-push.md"
   ],
+  "30427c800031b20cb114ebd77123765c35e170cb": [
+    "includes\\app-service-mobile-android-getting-started-with-push.md"
+  ],
   "362d342362525e12897e5ed90a2ba79668b977bc": [
     "includes\\app-service-mobile-android-getting-started-with-push.md"
+  ],
+  "28abab3aa7ad63af83fcc6a455cc8843933a500e": [
+    "includes\\app-service-mobile-android-run-app.md"
   ],
   "57ae3bf3abf06ecc1350ce9a3b5f54640acf5079": [
     "includes\\app-service-mobile-android-run-app.md"
   ],
+  "977c1d6c1878761bc5cfacaf556932c83ac3233b": [
+    "includes\\app-service-mobile-apns-configure-push.md"
+  ],
   "56428dfa12aec110c29659715184c48a100268af": [
     "includes\\app-service-mobile-apns-configure-push.md"
+  ],
+  "18be862afd177785f2fb4f7d3d33979e6d94ad9c": [
+    "includes\\app-service-mobile-configure-new-backend.md"
   ],
   "8d691e1e09072f339fd7426c900e9d1abda0f816": [
     "includes\\app-service-mobile-configure-new-backend.md"
   ],
+  "09fdd626a50a8a4592d5d97c03c76ffdcc6c0a40": [
+    "includes\\app-service-mobile-configure-wns.md"
+  ],
   "f42cd71636af51b50381a6b8bb660f10564345ab": [
     "includes\\app-service-mobile-configure-wns.md"
+  ],
+  "99e0195c98bcdb998819edf34b280975e87de7bb": [
+    "includes\\app-service-mobile-create-notification-hub.md"
   ],
   "4b8b34280cc1d55b3933db1ac0674b52171c909c": [
     "includes\\app-service-mobile-create-notification-hub.md"
   ],
+  "396d36e5be8c1333addda2a562488508059112d3": [
+    "includes\\app-service-mobile-dotnet-adal-install-nuget.md"
+  ],
   "f9e15231eded4809f8665094416e8659a339112e": [
     "includes\\app-service-mobile-dotnet-adal-install-nuget.md"
+  ],
+  "97cad87272fa2c4b0cf5cd505f406f6fc73d60f8": [
+    "includes\\app-service-mobile-dotnet-backend-configure-push-apns.md"
   ],
   "794dee7a314ad3647806a072079ef73fc11728cb": [
     "includes\\app-service-mobile-dotnet-backend-configure-push-apns.md"
   ],
+  "88c858202447c2e8f099865b10e810549db33189": [
+    "includes\\app-service-mobile-dotnet-backend-configure-push-google.md"
+  ],
   "0fc88bc9e22ac620d22546bd17bc178de1aed191": [
     "includes\\app-service-mobile-dotnet-backend-configure-push-google.md"
+  ],
+  "66f20cb0bc43399f4f940bc2b65c62d261620d68": [
+    "includes\\app-service-mobile-dotnet-backend-create-new-service.md"
   ],
   "68ac8f1276369e19667ae78f781265e78136b1f8": [
     "includes\\app-service-mobile-dotnet-backend-create-new-service.md"
   ],
+  "b73bac18b8c26265c7f153b6f6288c827dc5fd64": [
+    "includes\\app-service-mobile-dotnet-backend-enable-auth.md"
+  ],
   "2227a7251d59ab4fdb5ddc1342913ed234bbe7f6": [
     "includes\\app-service-mobile-dotnet-backend-enable-auth.md"
+  ],
+  "fa22ee7fc0a0eb556a3ac9ad3d684305ded83d92": [
+    "includes\\app-service-mobile-dotnet-backend-enable-offline.md"
   ],
   "704288ccb777ae7504bb264ded1ab54d2600b955": [
     "includes\\app-service-mobile-dotnet-backend-enable-offline.md"
   ],
+  "30cb29ee26ceeaf5012464a1f1b33f73d5d6324d": [
+    "includes\\app-service-mobile-dotnet-backend-enable-push.md"
+  ],
   "ed5c48edb51703b48d55b8086f75964c08b030bd": [
     "includes\\app-service-mobile-dotnet-backend-enable-push.md"
+  ],
+  "5d81d34b6172e46132070fd6aeb0f24a85e3e7f3": [
+    "includes\\app-service-mobile-dotnet-backend-publish-service.md"
   ],
   "0ec69239f783da61d34bd6e37a5dba04bd32976e": [
     "includes\\app-service-mobile-dotnet-backend-publish-service.md"
   ],
+  "edb0dac1370981623fbda79ee7b489e54b8b0610": [
+    "includes\\app-service-mobile-dotnet-backend-test-local-service.md"
+  ],
   "1f7887cf2ec7d78ae905d8c74f507e6baa86f62d": [
     "includes\\app-service-mobile-dotnet-backend-test-local-service.md"
+  ],
+  "e0c46d8dae64b09e8259b1ac0f450004ea7948e5": [
+    "includes\\app-service-mobile-dotnet-backend-web-and-mobile.md"
   ],
   "ab0e6837a5e1b5098044d5d06a234a5d46329807": [
     "includes\\app-service-mobile-dotnet-backend-web-and-mobile.md"
   ],
-  "366b05dddb6250dc38d16de31c284ac8d1f834d0": [
-    "includes\\app-service-mobile-enable-google-cloud-messaging.md"
+  "c6fb12bfd77feead000289e6b968faef732ba515": [
+    "includes\\app-service-mobile-hero-clarification.md"
   ],
   "aabfea2da8dcf7853d55a4f9dcf07d1640997aa5": [
     "includes\\app-service-mobile-hero-clarification.md"
   ],
+  "72e71c51918ef21953943db92651f83db94c54dc": [
+    "includes\\app-service-mobile-hero-slug.md"
+  ],
   "c6c095662a9b40410ae1c3a4d1e8bc49cbe54952": [
     "includes\\app-service-mobile-hero-slug.md"
   ],
+  "a4a0b474d53e498317071c1115057af46015dd94": [
+    "includes\\app-service-mobile-ios-authenticate-app.md"
+  ],
   "697e234885b8c5564f5f1191123085e0b7ace7a8": [
     "includes\\app-service-mobile-ios-authenticate-app.md"
+  ],
+  "3e5c8f8209e15e88cfcca929b33d7dc0f8298890": [
+    "includes\\app-service-mobile-ios-authenticate-app-with-token.md",
+    "includes\\mobile-services-ios-authenticate-app-with-token.md"
   ],
   "02743d2f800386fc08573883d59462fad47c8cfb": [
     "includes\\app-service-mobile-ios-authenticate-app-with-token.md",
     "includes\\mobile-services-ios-authenticate-app-with-token.md"
   ],
+  "1d04f7c95d0be9b140b3b058451923783c9dd126": [
+    "includes\\app-service-mobile-ios-run-app.md"
+  ],
   "5b4e492cb68c2d34038f4cd5e56ca0f2e8c50954": [
     "includes\\app-service-mobile-ios-run-app.md"
+  ],
+  "67442f5b4a752a2c3413bc645f44387206cab671": [
+    "includes\\app-service-mobile-migrate-vs-upgrade.md"
   ],
   "e227492d80b1386b3146cbf0144a9d757c106578": [
     "includes\\app-service-mobile-migrate-vs-upgrade.md"
   ],
+  "7b0025b1c9723b5ef1b88eead734a2ae359385f7": [
+    "includes\\app-service-mobile-note-mobile-services.md"
+  ],
   "53cb5e37f1f28a2e6fbd455112b96f291083657d": [
     "includes\\app-service-mobile-note-mobile-services.md"
+  ],
+  "91f3b7847fa479da26359611fd8e5a7383b19bb5": [
+    "includes\\app-service-mobile-push-notifications-to-users.md"
   ],
   "a99734197871cea5100f7173d11da12fd37f40f8": [
     "includes\\app-service-mobile-push-notifications-to-users.md"
   ],
+  "d5a3326ffa6fefed0772bc63d5e6ad4ecc0b03ff": [
+    "includes\\app-service-mobile-register-authentication.md"
+  ],
   "c927e457b1451c117cde1e461cb4d2beb24a1528": [
     "includes\\app-service-mobile-register-authentication.md"
+  ],
+  "7b60b9171593db326a1887fdbbdcb0e4fef08a92": [
+    "includes\\app-service-mobile-register-wns.md"
   ],
   "9d93b425fa3678b343253106ca422c41d75b4373": [
     "includes\\app-service-mobile-register-wns.md"
   ],
+  "435193d5980b1c8bf3cb8cb824fcefd2615180d9": [
+    "includes\\app-service-mobile-related-content-get-started-users.md"
+  ],
   "86a3cb81db94632c9250c2332f415bd9d0d378f3": [
     "includes\\app-service-mobile-related-content-get-started-users.md"
+  ],
+  "a8f696ac13bf8032860e9be46d8765fe88c33b64": [
+    "includes\\app-service-mobile-restrict-permissions-dotnet-backend.md"
   ],
   "3a9e031526cfece88c091f92cf7485af6f48bb24": [
     "includes\\app-service-mobile-restrict-permissions-dotnet-backend.md"
   ],
+  "233bca1471b4dcb9e1ecb5aedfb27be95613c357": [
+    "includes\\app-service-mobile-selector-authentication.md"
+  ],
   "b722aae73b1d4dbb924fb736a7bc113838518207": [
     "includes\\app-service-mobile-selector-authentication.md"
+  ],
+  "2c9784744f29ba8d4b5ab641c22d7dcae8a863c4": [
+    "includes\\app-service-mobile-selector-client-library.md"
   ],
   "2a3e6d929e9ca05060af760f2dcd4590c547d5c8": [
     "includes\\app-service-mobile-selector-client-library.md"
   ],
+  "ccecab514271e00f61c72617174907c2ef8a1dac": [
+    "includes\\app-service-mobile-selector-get-started.md"
+  ],
   "ea7a3526e2aa0b9b9592d4f1ba5ea29ac39ec4a1": [
     "includes\\app-service-mobile-selector-get-started.md"
+  ],
+  "b2103ea85b48a2caeb6ec233105274a6a5b775d8": [
+    "includes\\app-service-mobile-selector-get-started-push.md"
   ],
   "29edd5a63b520e979abe48c63d03787b5c8339ff": [
     "includes\\app-service-mobile-selector-get-started-push.md"
   ],
+  "aa475f51b8ee2203f6cb13e13ff38aebb6f2dd63": [
+    "includes\\app-service-mobile-selector-get-started-users.md"
+  ],
   "b922502d1f2ea49ad54f6430bd582c477df3ff2b": [
     "includes\\app-service-mobile-selector-get-started-users.md"
+  ],
+  "8f046558d7b833f37885ea3fae1c53e18a3120b9": [
+    "includes\\app-service-mobile-selector-offline.md"
   ],
   "10f51f52561683ac98f2c079b4230e303f4fb7af": [
     "includes\\app-service-mobile-selector-offline.md"
   ],
+  "f94129fc0d86274dab3471a9228eb082572a3048": [
+    "includes\\app-service-mobile-selector-push-users.md"
+  ],
   "97ccdc3e991752393778929a5cee9df6327c06f3": [
     "includes\\app-service-mobile-selector-push-users.md"
+  ],
+  "e1caaf7fdd14da2c36e0fe6a0b2afc0a0d501912": [
+    "includes\\app-service-mobile-selector-server-sdk.md"
   ],
   "51bff419f4fc9cb16bf44f8d248b2389c06fdf79": [
     "includes\\app-service-mobile-selector-server-sdk.md"
   ],
+  "9035d08b4fdbb06345d3ac3f70267a3a6a136180": [
+    "includes\\app-service-mobile-to-web-and-api.md"
+  ],
   "391759623391ed43559bce7db01e3bd826181eac": [
     "includes\\app-service-mobile-to-web-and-api.md"
+  ],
+  "bfdd02b015d4c1c0950e6843997b4b5bf1b7fc97": [
+    "includes\\app-service-mobile-update-server-project-for-push-template.md"
   ],
   "6ef4a82471695228eceba5f140dbccd2ba5d9ac1": [
     "includes\\app-service-mobile-update-server-project-for-push-template.md"
   ],
+  "22f82937a34938043836a2333a3474e9296918f7": [
+    "includes\\app-service-mobile-verify-android-sdk-version.md"
+  ],
   "c8ab678ba08114c674c459238cff9cf18c6e342f": [
     "includes\\app-service-mobile-verify-android-sdk-version.md"
+  ],
+  "5cb60fb58ab68b984ef6eca50977a192bffeb9c1": [
+    "includes\\app-service-mobile-windows-universal-get-started.md"
   ],
   "8f48900f18659212e07af3d97095a2fccfee097c": [
     "includes\\app-service-mobile-windows-universal-get-started.md"
   ],
+  "517dd44768ff09a772e8ed67052bfbc93d1f36ed": [
+    "includes\\app-service-mobile-windows-universal-test-app.md"
+  ],
   "8aeb6e9520ed9e1a9c486a71e07f11b0a8025efb": [
     "includes\\app-service-mobile-windows-universal-test-app.md"
+  ],
+  "d0c8d96c1f36082e7c39ff88b645ccc6f7a0dbb4": [
+    "includes\\app-service-mobile-windows-universal-test-push.md"
   ],
   "d573fec636312782a500fbc5d7509fbbb2de3ed0": [
     "includes\\app-service-mobile-windows-universal-test-push.md"
   ],
+  "dc159116ad4608a1cb4491d878d0525b27e72cfa": [
+    "includes\\app-service-mobile-xamarin-android-push-add-to-app.md"
+  ],
   "70149448a4c257753ee05b5ca3eef60e7bd80067": [
     "includes\\app-service-mobile-xamarin-android-push-add-to-app.md"
+  ],
+  "5eaac4cacc756c500f025d424c2e0d4561bf8c8a": [
+    "includes\\app-service-mobile-xamarin-ios-configure-project.md"
   ],
   "93efe5aed476276544ccea4c95704b1929c3f73e": [
     "includes\\app-service-mobile-xamarin-ios-configure-project.md"
   ],
+  "b31e76dda6cd4f815d809e03dbacb8f287b4b23a": [
+    "includes\\app-service-web-deploy-web-host.md"
+  ],
   "bb2ee1f15670e5f7fb55d5cb27d61cc297f072df": [
     "includes\\app-service-web-deploy-web-host.md"
+  ],
+  "85335d25cd1983a8946d8aa7e3ce7a981dcb124b": [
+    "includes\\app-service-web-deploy-web-parameters.md"
   ],
   "2012edabc20a7e79f77cc01ace27d87f3e6cc81a": [
     "includes\\app-service-web-deploy-web-parameters.md"
   ],
+  "4f7ad6998d7f5b0507125deef2f694d2f837cdd7": [
+    "includes\\app-service-web-to-api-and-mobile.md"
+  ],
   "ab742e6d0e71770f1a470ac1464b4a9ce0d548a2": [
     "includes\\app-service-web-to-api-and-mobile.md"
+  ],
+  "a6f292dd86c28734ae8f79505fa08b1b734d89aa": [
+    "includes\\app-service-web-try-app-service.md"
   ],
   "199fa900068899ed0c0739030c477b7302ab2bc4": [
     "includes\\app-service-web-try-app-service.md"
   ],
+  "3b1fa9e92ebe5f343b31f401185f38e297fd7134": [
+    "includes\\app-service-web-whats-changed.md"
+  ],
   "933928c431fdd21bf52e11f1ce6306f24aaab5f5": [
     "includes\\app-service-web-whats-changed.md"
+  ],
+  "5cb86233e15dea6d23d7bad5cf910a203c5222b8": [
+    "includes\\arm-getting-setup-powershell.md"
   ],
   "5acc978e4534e6326641142d5f2979a560f67041": [
     "includes\\arm-getting-setup-powershell.md"
   ],
+  "4b5cee445432d4879532d3d83ea2a100edd21fb1": [
+    "includes\\arm-understand-templates.md"
+  ],
   "70d35e93aa06e5e3d55e61a1a28da1a8447ea464": [
     "includes\\arm-understand-templates.md"
+  ],
+  "27fa9b317e1ec8a76d1485fdb8912c6c7414c2d9": [
+    "includes\\attach-data-disk-centos-vm-in-portal.md"
   ],
   "47937466e4142468e65ad0885444415c4ae857b0": [
     "includes\\attach-data-disk-centos-vm-in-portal.md"
   ],
+  "ab99b68b03a918e8fb7881f3490ede0e684c81ca": [
+    "includes\\automation-note-authentication.md"
+  ],
   "4c251eebdc99f868e3c1bba3796206a9ced4643b": [
     "includes\\automation-note-authentication.md"
+  ],
+  "a3426b685e371fe01b485b4d5f31c3087e92e441": [
+    "includes\\azure-arm-classic-important-include.md"
   ],
   "60480e98e1befba481928cfc003c7d5724730cb7": [
     "includes\\azure-arm-classic-important-include.md"
   ],
+  "e0fba0516ed6b8c3c118b527274393c00e5f9a79": [
+    "includes\\azure-backup-limits.md"
+  ],
   "d2f2587aa722821eb6e525fbbb45d1a9bd3bafd5": [
     "includes\\azure-backup-limits.md"
+  ],
+  "30270e521516b70b88787fc64d1a1f725681f025": [
+    "includes\\azure-batch-limits.md"
   ],
   "b8923bf214db3269efc870d9b85f0f8d7d147cca": [
     "includes\\azure-batch-limits.md"
   ],
+  "3e99d3019233eb702637bdad143c6ba431c49a38": [
+    "includes\\azure-cli-prerequisites-include.md"
+  ],
   "4a7fbcb432cde7abc94aee9d2d0d901890f13a1f": [
     "includes\\azure-cli-prerequisites-include.md"
+  ],
+  "3dd51ca59d7116be86d284b211f5ad8b6ea4840b": [
+    "includes\\azure-cloud-services-limits.md"
   ],
   "9b7b592f0fc080c24d7f1e123efa4974cf01972c": [
     "includes\\azure-cloud-services-limits.md"
   ],
+  "b372df9fb8b325eb3829d85c2097b5674dff1d44": [
+    "includes\\azure-data-factory-limits.md"
+  ],
   "76d3c9def41894a20b4ea594fdb75b58be30ac36": [
     "includes\\azure-data-factory-limits.md"
+  ],
+  "4aa3001a5f5d8b17dffb9e6a80c3deb40d4e4409": [
+    "includes\\azure-documentdb-limits.md"
   ],
   "e1f03b03fa38e1f4b4c967b236a3a405156c7b35": [
     "includes\\azure-documentdb-limits.md"
   ],
+  "f53c93e718d21e5db5b7c1a0dc18680e516ab58e": [
+    "includes\\azure-mediaservices-limits.md"
+  ],
   "bef21cf01126fe37d9854e2049e0748b0f224538": [
     "includes\\azure-mediaservices-limits.md"
+  ],
+  "7ec2ca6025abee8135547cf3b51055b0595ba2d9": [
+    "includes\\azure-mfa-service-limits.md"
   ],
   "581624a532f8c60ddf20a637bfe4041473605e59": [
     "includes\\azure-mfa-service-limits.md"
   ],
+  "e9296e78286b644056c89a6760f561f59090fab5": [
+    "includes\\azure-mobile-engagement-limits.md"
+  ],
   "22f57007854d273c1f021d789ce62239c5889cc8": [
     "includes\\azure-mobile-engagement-limits.md"
+  ],
+  "0f2d14b797d362ea9abbb0fe9dec88da6a07da04": [
+    "includes\\azure-ps-prerequisites-include.md"
   ],
   "d0c0fe2a6f3a9e2158b19ab155c74f1ec3f15e13": [
     "includes\\azure-ps-prerequisites-include.md"
   ],
+  "99797eba5027eaebcda005f576a4108870e45fe1": [
+    "includes\\azure-remoteapp-limits.md"
+  ],
   "9548e4a480878a87556940eba7d663d7290f8b68": [
     "includes\\azure-remoteapp-limits.md"
+  ],
+  "bc92f86b2f1dceae4e7a49fdc6f152a57fbb2968": [
+    "includes\\azure-resource-groups-limits.md"
   ],
   "4422b29c0f92cf88662d761176317a3cc9745835": [
     "includes\\azure-resource-groups-limits.md"
   ],
-  "a57708646ced2a89d6cb99e70371396fe0fe0d4f": [
-    "includes\\azure-search-limits-free.md"
-  ],
-  "647de33a9428eea1e644e6d3416f9ec9b7552050": [
-    "includes\\azure-search-limits-standard.md"
+  "8fa1aa6cef59c737881d8720c3bae1f87edd90c5": [
+    "includes\\azure-storage-limits.md"
   ],
   "a0697c398d8d205550ee9d3bf11ae5fb5138259e": [
     "includes\\azure-storage-limits.md"
   ],
+  "e88d50db8fd7c671fb695c3e0efd425d8723967e": [
+    "includes\\azure-storage-limits-azure-resource-manager.md"
+  ],
   "c98b99febf358fd1179aebdb6ba29e20d71fa001": [
     "includes\\azure-storage-limits-azure-resource-manager.md"
+  ],
+  "acecf246e87e49933e55ca5478ea00ecbf346b48": [
+    "includes\\azure-storage-limits-vm-disks.md"
   ],
   "966a1cd3081788203b6c2a0bf7029f88a00153af": [
     "includes\\azure-storage-limits-vm-disks.md"
   ],
+  "dda4f22894b35dcd8a2b9d4e8e256b3fde826bf3": [
+    "includes\\azure-storage-limits-vm-disks-premium.md"
+  ],
   "be92135798a562f4982dbdbcb350e57460588923": [
     "includes\\azure-storage-limits-vm-disks-premium.md"
+  ],
+  "504401dced2729cea82433c15277fc0ecffee86b": [
+    "includes\\azure-storage-limits-vm-disks-standard.md"
   ],
   "231f652c488a014bb8da73fcb585ff0de3275a12": [
     "includes\\azure-storage-limits-vm-disks-standard.md"
   ],
+  "aaacbcb387ce5e3b94fe90bda9430fc693e8c81e": [
+    "includes\\azure-subscription-limits.md"
+  ],
   "0215558806032afd7c3aeb8882dbf2a7af2a6bae": [
     "includes\\azure-subscription-limits.md"
+  ],
+  "743bfcf987080e908438bd9396f7c5801f57fc5e": [
+    "includes\\azure-subscription-limits-azure-resource-manager.md"
   ],
   "3e5c9c0f9e1c9205f93d5542a11fec4cc10b351b": [
     "includes\\azure-subscription-limits-azure-resource-manager.md"
   ],
+  "ac1f1a2d27d5a98d001eadc7f4bac70eb32402b8": [
+    "includes\\azure-toolkit-for-eclipse-prerequisites.md"
+  ],
   "2ef520d658212f21b87c671f626a959111524862": [
     "includes\\azure-toolkit-for-eclipse-prerequisites.md"
+  ],
+  "7aa0062f9cff30b48e8be3adfbc49ff254fe7304": [
+    "includes\\azure-virtual-machines-limits.md"
   ],
   "a9cba190d66cdac67b30752c8f083c2200b761a9": [
     "includes\\azure-virtual-machines-limits.md"
   ],
+  "e92fe6445bb5ca91ef1f577d2abd94dd5363983d": [
+    "includes\\azure-virtual-machines-limits-azure-resource-manager.md"
+  ],
   "8e03ec0bbff94e92a98aae8dd59a312cd3a7bf79": [
     "includes\\azure-virtual-machines-limits-azure-resource-manager.md"
+  ],
+  "881eda269d9cf3302a169de5c74d87c6fc1a0f30": [
+    "includes\\azure-virtual-network-limits.md"
   ],
   "7efacb798e4306a76bced8e6e2d321fa22dcd5a9": [
     "includes\\azure-virtual-network-limits.md"
   ],
+  "188f02682cbe3e17408c646feaf6fcc0522ee3d8": [
+    "includes\\azure-virtual-network-limits-azure-resource-manager.md"
+  ],
   "633b498f27c781c1ecfc13c7e0d9f6956b83aaf4": [
     "includes\\azure-virtual-network-limits-azure-resource-manager.md"
+  ],
+  "5dd60c07b9615703c95aad5f34efe4ea8402b725": [
+    "includes\\azure-websites-limits.md"
   ],
   "5003b13d0f1abd2394a3720308d192294775fecf": [
     "includes\\azure-websites-limits.md"
   ],
+  "41983cc6e2722dbe0366de4197d90dfe42b3df15": [
+    "includes\\backup-create-vault.md"
+  ],
   "5f70336862edaca8950b360e60b7cb8afb0aa7a1": [
     "includes\\backup-create-vault.md"
+  ],
+  "c4c330566336ba94b4678ca7dbc15fcc52b584ca": [
+    "includes\\backup-create-vault-wgif.md"
   ],
   "26768206ccb0ce055557d66e1aef8b4a1c0a4a1c": [
     "includes\\backup-create-vault-wgif.md"
   ],
+  "60aa4c099ed4fd15b213a5c6c02cc2484cea4807": [
+    "includes\\backup-download-credentials.md"
+  ],
   "8c53e942f63990c5e3232fbcf3c473703637c7ee": [
     "includes\\backup-download-credentials.md"
+  ],
+  "d06872075ac9ad220ef31c444dc2256153005290": [
+    "includes\\backup-install-agent.md"
   ],
   "7c34614d57e2e03b74c1ae2f6af550cb01804a40": [
     "includes\\backup-install-agent.md"
   ],
+  "69140cdfa531acee7da297b6958a4bf82ac8a6be": [
+    "includes\\biztalk-services-service-limits.md"
+  ],
   "d736de69cb7cf84e6b76aab740f204fff621d303": [
     "includes\\biztalk-services-service-limits.md"
+  ],
+  "818db53c8ae7a3f182818c026b8b054b0589db62": [
+    "includes\\blitline-signup.md"
   ],
   "9c54c262e323c37660142098403370e84d8898a2": [
     "includes\\blitline-signup.md"
   ],
+  "2b7a28db137f800ddfa369f45200c1992e00f434": [
+    "includes\\cache-deploy-parameters.md"
+  ],
   "afcbf375a62a35d35965ea20e6855b1e28e7e478": [
     "includes\\cache-deploy-parameters.md"
+  ],
+  "d101088cd435d74519a7e1c1dcef0d880daafde1": [
+    "includes\\cap-create-features-selector.md"
   ],
   "9c2bc9e3d13c279ef221c59775443c318caa5cf8": [
     "includes\\cap-create-features-selector.md"
   ],
+  "6e1a7aced21f821df8f12908a0282a27feb50e25": [
+    "includes\\cap-explore-data-selector.md"
+  ],
   "872e05696b1261768f53c60f7a4f73e633c5b37f": [
     "includes\\cap-explore-data-selector.md"
+  ],
+  "1434c9898dd8f4bb3ec4f9d55da9a9865c0ea810": [
+    "includes\\cap-ingest-data-selector.md"
   ],
   "c98db47261dcab51cbbc4c1d41d974835af8f975": [
     "includes\\cap-ingest-data-selector.md"
   ],
+  "f7b1a574326c37cc4ea199adaa4996b37f0eaa57": [
+    "includes\\cap-sample-data-selector.md"
+  ],
   "dda8654a4707b3f8938b6136329c7bef7c3e32c7": [
     "includes\\cap-sample-data-selector.md"
+  ],
+  "1eb4e668ba40e0adf108b6125af14e89a35eea9a": [
+    "includes\\cap-setup-environments.md"
   ],
   "e0b183c1fff22882bec672574732f63e1a8e1f8c": [
     "includes\\cap-setup-environments.md"
   ],
+  "d0ad5cf7aa5bf3eca07081dfa6412bad961ac60e": [
+    "includes\\cap-vehicle-telemetry-playbook-selector.md"
+  ],
   "b6928443e9fe504731d4a9d82e9baeac9e792d8e": [
     "includes\\cap-vehicle-telemetry-playbook-selector.md"
+  ],
+  "80423a6b12cd9ff5b7aeef78970eed3749c3d8a9": [
+    "includes\\cdn.md"
   ],
   "feb43ef94c6b5ae75860eaca48d3b606e20b445f": [
     "includes\\cdn.md"
   ],
+  "d156bb92602901b19bf6fce64d21a7c69fc43f14": [
+    "includes\\cdn-limits.md"
+  ],
   "b06548077871918ea525dad9aeee4a71fe2252fa": [
     "includes\\cdn-limits.md"
+  ],
+  "c7c81eff66b685a6db672ada3de9fde7ec6b1a0b": [
+    "includes\\cloud-services-choose-me-content.md"
   ],
   "29217edc3f0d11ca0d6c2672190564c3dd0af119": [
     "includes\\cloud-services-choose-me-content.md"
   ],
+  "854d0b7ceaa84e1535150376aa34e7dbb8162cc2": [
+    "includes\\cloud-storage.md"
+  ],
   "b4050731dc2f49abbbac12b68277afcc0641578b": [
     "includes\\cloud-storage.md"
+  ],
+  "cbfd533f9260393a963811ba0e2c9992877e1a8c": [
+    "includes\\configure-ssl-web-site.md"
   ],
   "d7a80dad04c2c1ebcd8eb97fb128b805a37f0532": [
     "includes\\configure-ssl-web-site.md"
   ],
+  "5abaccb8df1edc17517d1d948639d0c051e95b09": [
+    "includes\\create-account-and-vms-note.md"
+  ],
   "fb58fde7ec3c8a1b5fb313d4bd2d531bf4baf19a": [
     "includes\\create-account-and-vms-note.md"
+  ],
+  "da317366e901774563d184751162aa884434fbd6": [
+    "includes\\create-account-and-websites-and-vms-note.md"
   ],
   "95ce31fe08b7da3057fd0a20071b3b550b92880e": [
     "includes\\create-account-and-websites-and-vms-note.md"
   ],
+  "e049a1d4aca6ebfd33e45db920fd483195f6cc4e": [
+    "includes\\create-account-and-websites-note.md"
+  ],
   "0cdc372d8f3125bed1cc63ab6a3d5567d6860f82": [
     "includes\\create-account-and-websites-note.md"
+  ],
+  "963fee185c60df0fa3dfcfa05df54f708c231799": [
+    "includes\\create-account-note.md"
   ],
   "4480fa1878894dcae9a8cc71033aeebb14a7dd7b": [
     "includes\\create-account-note.md"
   ],
+  "8570d17d062632b8be1960cff90e6d916dccbc6a": [
+    "includes\\create-an-azure-account.md"
+  ],
   "d77caf49d1c93121776fe449f577b1bc65424828": [
     "includes\\create-an-azure-account.md"
+  ],
+  "0416ef93e15a85e1e7517defa564fbb35a24f96f": [
+    "includes\\create-and-configure-opensuse-vm-in-portal.md"
   ],
   "5c59a9386334c2dd46cd7b226ef39d2f9e3dae75": [
     "includes\\create-and-configure-opensuse-vm-in-portal.md"
   ],
+  "5cb209c552feb40601f6623600a14c340381e617": [
+    "includes\\create-azure-account.md"
+  ],
   "21c125bedde55ddbaa00e5f73282ee5d79214d07": [
     "includes\\create-azure-account.md"
+  ],
+  "1b958417ea3c789558f4568222ea2df71db7fa60": [
+    "includes\\create-mysql-db.md"
   ],
   "1cf1d160d4392d973198adeb49fa02cfe234e1d3": [
     "includes\\create-mysql-db.md"
   ],
+  "87a547a9c105c461fdbf2697d66fde7f8194fc96": [
+    "includes\\crossplat-cmd-tools.md"
+  ],
   "1e1608f13e2c21bb8da43859c9448ba32893df3c": [
     "includes\\crossplat-cmd-tools.md"
+  ],
+  "6e3ab2732aeec75603c91ce5dd96d1e9e2b0f221": [
+    "includes\\custom-dns-web-site.md"
   ],
   "cb070049453853d761c755d8786a98052bcb5628": [
     "includes\\custom-dns-web-site.md"
   ],
+  "c32c11c36b1c7e892fb2e16c71de4b034c17521b": [
+    "includes\\custom-dns-web-site-buydomains-web-app.md"
+  ],
   "9178048fdf718e437eff1fec3a360fc5ee92c7b7": [
     "includes\\custom-dns-web-site-buydomains-web-app.md"
+  ],
+  "c32c5e4f549c713090f927c4af0c716b3a2138ed": [
+    "includes\\custom-dns-web-site-enable-on-traffic-manager.md"
   ],
   "154bd54583ee1119df54a18aa7a84d3f9138365d": [
     "includes\\custom-dns-web-site-enable-on-traffic-manager.md"
   ],
+  "b54c8b4b30ecbe090494629cb431c5ee65cae419": [
+    "includes\\custom-dns-web-site-enable-on-web-site.md"
+  ],
   "dd81652f03fe289b7716979afd08011d519b23ee": [
     "includes\\custom-dns-web-site-enable-on-web-site.md"
+  ],
+  "2e5cd67e150be2889a9ab49cb8ce3e5f25cf82fc": [
+    "includes\\custom-dns-web-site-intro.md"
   ],
   "199402d89ccc7bace0a0159daf742f4d2b6e2068": [
     "includes\\custom-dns-web-site-intro.md"
   ],
+  "eff808b1c32871ed6a59a48bb46dea04df528412": [
+    "includes\\custom-dns-web-site-intro-notes.md"
+  ],
   "c66a378befa1836b581ab72acc5372169af233fc": [
     "includes\\custom-dns-web-site-intro-notes.md"
+  ],
+  "07aca8e4657dc9b2ca57e8daa6fe11d24b871ff2": [
+    "includes\\custom-dns-web-site-intro-traffic-manager.md"
   ],
   "8e40f98e8fedd8b22710b6b438821830e0b0d99e": [
     "includes\\custom-dns-web-site-intro-traffic-manager.md"
   ],
+  "93ceda2bc4d88499b8e6d513f9b90cc6d4d228d1": [
+    "includes\\custom-dns-web-site-modes.md"
+  ],
   "dee7651e00fbfe420f3c9b66ca9e4529d3389c20": [
     "includes\\custom-dns-web-site-modes.md"
+  ],
+  "59f317763e63cb7ea5b85ddb09aa89a6a34e8ec2": [
+    "includes\\custom-dns-web-site-modes-traffic-manager.md"
   ],
   "84d2c2b24ac27df5a48efe2a05fd234ef22a381c": [
     "includes\\custom-dns-web-site-modes-traffic-manager.md"
   ],
+  "f52201751ac0da5ae09b20fe8d490295d9a15f24": [
+    "includes\\custom-dns-web-site-traffic-manager-notes.md"
+  ],
   "367b2725fe84df6c2b0dd9e415601098864015f1": [
     "includes\\custom-dns-web-site-traffic-manager-notes.md"
+  ],
+  "9b5fab3f8df6c6e7b18853ac089d55dfb1e2fea3": [
+    "includes\\custom-dns-web-site-understanding-dns-raw.md"
   ],
   "5df9feda85f185b8e82ea04344ffabd4fe06dd53": [
     "includes\\custom-dns-web-site-understanding-dns-raw.md"
   ],
+  "c6fa5af9bbaaee76d46e32b6c319d6036a225783": [
+    "includes\\custom-dns-web-site-understanding-dns-traffic-manager.md"
+  ],
   "748b840ab3f4ad2b069f30b8fdd86708c13b4589": [
     "includes\\custom-dns-web-site-understanding-dns-traffic-manager.md"
+  ],
+  "e08ae32b6ea4fb0a36fc4cb3a171f4d20056cf65": [
+    "includes\\data-factory-column-mapping.md"
   ],
   "8028e9e3a659e5abaada83e988d5ac19570738a8": [
     "includes\\data-factory-column-mapping.md"
   ],
+  "07e0dff9ea95b45c7cbdecde5aed7bbe1f0e16a8": [
+    "includes\\data-factory-compression.md"
+  ],
   "df09c7ee12e879f56d4e0e83976be3aac278929a": [
     "includes\\data-factory-compression.md"
+  ],
+  "621389fc3e59841e79ece5df589beac7a0a4f40c": [
+    "includes\\data-factory-sql-invoke-stored-procedure.md"
   ],
   "a40792e45ff266e5f1fef8bd76dd9b39eaefac8d": [
     "includes\\data-factory-sql-invoke-stored-procedure.md"
   ],
+  "39f498d2b2ec6e1843666fe2675eeae3f55cba0b": [
+    "includes\\data-factory-structure-for-rectangualr-datasets.md"
+  ],
   "28da3492b6a31c57f9874ec422b4b17fc9f52e80": [
     "includes\\data-factory-structure-for-rectangualr-datasets.md"
+  ],
+  "2c0c3ac3dc395591d29c474809b2a1d752409277": [
+    "includes\\data-factory-type-conversion-sample.md"
   ],
   "688e81a5acf3b7a66cbf1a3efdd32e3c3534d495": [
     "includes\\data-factory-type-conversion-sample.md"
   ],
+  "a07e628bc9144b22dfd1c4b8cb4065a3c47a3753": [
+    "includes\\data-factory-type-repeatability-for-relational-sources.md"
+  ],
   "4505ace0650074b292021e29bf9cb6ace59b2f1b": [
     "includes\\data-factory-type-repeatability-for-relational-sources.md"
+  ],
+  "cbbb0e8b5d85dc09208c05245f58ac4b212f2df3": [
+    "includes\\data-factory-type-repeatability-for-sql-sources.md"
   ],
   "d0ae88ab58fac25a692ee14979ff93da6f8ae4c4": [
     "includes\\data-factory-type-repeatability-for-sql-sources.md"
   ],
+  "f099cdb8283e198d0eb76b699a696153fd245313": [
+    "includes\\data-lake-analytics-selector-get-started.md"
+  ],
   "77cc5195241628721fda8034ae5f41340f025910": [
     "includes\\data-lake-analytics-selector-get-started.md"
+  ],
+  "4ee4e0d8785391fb8a8bd1a49aef1bfef1da6a8f": [
+    "includes\\data-lake-analytics-selector-manage.md"
   ],
   "269cb7b2fc7ee4eb14f85eb8f24ff6e1209fdfcd": [
     "includes\\data-lake-analytics-selector-manage.md"
   ],
+  "d224804e40a2225149af1dbdad02c33807ce91a6": [
+    "includes\\disclaimer.md"
+  ],
   "639fa14fae846ae4682009e97d0ef004af739bad": [
     "includes\\disclaimer.md"
+  ],
+  "034e363a49181527dcccf897333348ca5eca70ff": [
+    "includes\\dns-limits.md"
   ],
   "f449fb53a93fcf1ab9a7e93ecf2bc0e682b5f47f": [
     "includes\\dns-limits.md"
   ],
+  "d1b06dc4665789a47f990d40239d0606f16fd4ea": [
+    "includes\\documentdb-create-dbaccount.md"
+  ],
   "778190209c72f96ae77b2ada6c452826fadcc6c0": [
     "includes\\documentdb-create-dbaccount.md"
+  ],
+  "b0cbce998bf70179f746eaaba3b70973824af2d2": [
+    "includes\\documentdb-keys.md"
   ],
   "a2a68527382c5ec91ddb710268341357b8f1caac": [
     "includes\\documentdb-keys.md"
   ],
+  "1cf8427b8d1b72b94ace82f04a42e027f5d5849a": [
+    "includes\\documentdb-sdk-faq.md"
+  ],
   "6edba0a2572b0c09b5aa57c3c5066b0a09bd365f": [
     "includes\\documentdb-sdk-faq.md"
+  ],
+  "fa23be377083bc7abd3db705ed714e80536ba547": [
+    "includes\\download_eclipse.md"
   ],
   "da6ca3ea4428aee7f2d7adcf0af4dde0625eaafb": [
     "includes\\download_eclipse.md"
   ],
-  "7022da94e4741f51120cdba9c454d838171e044c": [
-    "includes\\download_libraries.md"
+  "612ba4c7ede7a801429ccaec210d9095e6825ad1": [
+    "includes\\download-android-sample-code.md"
   ],
   "f447a32a2a4bb7d5db7668f53928c7c9bfd8594a": [
     "includes\\download-android-sample-code.md"
   ],
+  "264243d73303a38a529158b2dc31ca28f70cd0d8": [
+    "includes\\elastic-scale-include.md"
+  ],
   "f74722ff2ffbf38b69f22893f78ca2895d3332cd": [
     "includes\\elastic-scale-include.md"
+  ],
+  "9bc0ca09f4713aa9a19f56ef25229aeddd9fbeab": [
+    "includes\\enable-apple-push-notifications.md"
   ],
   "3b94bfdc64ec994c1ba3e9a14a6c2804e4fbf294": [
     "includes\\enable-apple-push-notifications.md"
   ],
+  "0c18da978ec581027404b8e392965fc82a394877": [
+    "includes\\expressroute-limits.md"
+  ],
   "33b48495284a7eb6ba2caf0e7793ffb25db8a753": [
     "includes\\expressroute-limits.md"
+  ],
+  "930ebc5c732bb3a112f5ffe304eda8661fe1c3e3": [
+    "includes\\free-trial-note.md"
   ],
   "76e41921398bf680306ca9d443ee4b5a9bbbd10a": [
     "includes\\free-trial-note.md"
   ],
+  "2255b33f513b130389d8bdbf92c6544a828debec": [
+    "includes\\free-trial-note2.md"
+  ],
   "b20250e048199749a75f28d77176c860f9d67334": [
     "includes\\free-trial-note2.md"
+  ],
+  "93ef807a6e4aa4e5fbc645c4d78b5b65d69b8657": [
+    "includes\\get-client-libraries.md"
   ],
   "c9afd8d1de1e3a5be53d29c1ed76faafe4f2bb8a": [
     "includes\\get-client-libraries.md"
   ],
+  "70678e65eff10387c2b583386a952d6bd46915f4": [
+    "includes\\hdinsight-ambari-selector.md"
+  ],
   "5e257f92b12d4d03b5e9fef2aad1bc4903f5604c": [
     "includes\\hdinsight-ambari-selector.md"
+  ],
+  "71a7ed4b7060e2bb48a9c8f7ca560a9dd3213222": [
+    "includes\\hdinsight-azure-portal.md"
   ],
   "ab31017a737c72266e99a867f4a74d2a4ddf6b89": [
     "includes\\hdinsight-azure-portal.md"
   ],
+  "4d82c9c2c7bebbce0c6a0937f4d3dfa21d92a5fe": [
+    "includes\\hdinsight-azure-preview-portal.md"
+  ],
   "9c3f754c46b9aa41872c18b19ed5b3566616d4d3": [
     "includes\\hdinsight-azure-preview-portal.md"
+  ],
+  "61a8a4b5da2db1c8e7263cca80ee052f9c1ac076": [
+    "includes\\hdinsight-azure-preview-portal-nolink.md"
   ],
   "8adab77cca60eb386e638235bffc994ed7e1cdb8": [
     "includes\\hdinsight-azure-preview-portal-nolink.md"
   ],
+  "0aedd84d8699ff966019e3b1e011d8b800e3a792": [
+    "includes\\hdinsight-create-linux-cluster-selector.md"
+  ],
   "a86761e70c3c56d0fea253a43e66ced2bf0f793c": [
     "includes\\hdinsight-create-linux-cluster-selector.md"
+  ],
+  "9e79734d3cee79af543b877f45d5f1c0d317ae23": [
+    "includes\\hdinsight-hbase-selector.md"
   ],
   "e11b5b8ac9638c537f2c324bf7004189901035ab": [
     "includes\\hdinsight-hbase-selector.md"
   ],
+  "cefbe932c631976b35d3ec2aa35f3a890a410e31": [
+    "includes\\hdinsight-linux-vnet-v1.md"
+  ],
   "8100e74feb8ad822e0987095ad24e82a52e3b879": [
     "includes\\hdinsight-linux-vnet-v1.md"
+  ],
+  "85127849c25c39915f29dee122a9677f518003b2": [
+    "includes\\hdinsight-maven-mapreduce-selector.md"
   ],
   "9b04e5bf7952308a0b7ec004911463ddae32957f": [
     "includes\\hdinsight-maven-mapreduce-selector.md"
   ],
+  "bd077a0781f85829acac50fbad5e13f7dc99fd73": [
+    "includes\\hdinsight-oozie-selector.md"
+  ],
   "86d5a0e79de3b62c2fcd8f9211d11d527d0805f4": [
     "includes\\hdinsight-oozie-selector.md"
+  ],
+  "517f0f5fd739b57e6b5143b59c20700060056dbe": [
+    "includes\\hdinsight-portal-management-selector.md"
   ],
   "3bf96de1e7ed9c759b5de6db021211addaba2efa": [
     "includes\\hdinsight-portal-management-selector.md"
   ],
+  "60863755ec2d08797814c1caaa13ff564a0a4f17": [
+    "includes\\hdinsight-pricing-data-centers-clusters.md"
+  ],
   "da50dfd946a59cbeee3be90916c48d9b77d8981a": [
     "includes\\hdinsight-pricing-data-centers-clusters.md"
+  ],
+  "fcfb1b311a71a90178c3ff1dc97f287aed27c8fd": [
+    "includes\\hdinsight-provisioning.md"
   ],
   "56001ec6ec91a3ed804733f38828ce38c31b85bd": [
     "includes\\hdinsight-provisioning.md"
   ],
+  "4c3c5da5a2fe733dcf895341de7c19c351846b9b": [
+    "includes\\hdinsight-run-samples-selector.md"
+  ],
   "b46ba6c2b5ed2aa84ea003782033c030d75f14be": [
     "includes\\hdinsight-run-samples-selector.md"
+  ],
+  "3b37c2cda3138c7d575e2d9194d08b907041bbee": [
+    "includes\\hdinsight-selector-heap-dump.md"
   ],
   "82acb045ae4c13b2faaa3b56993685d59ed51502": [
     "includes\\hdinsight-selector-heap-dump.md"
   ],
+  "4fd346eb2c2af8ddd9207cd7bf95363410687f75": [
+    "includes\\hdinsight-selector-mahout.md"
+  ],
   "82c5b6794e26f41cf92b92246b98b1676343fe35": [
     "includes\\hdinsight-selector-mahout.md"
+  ],
+  "f73368f66e284e36ebbc0d964bbba5a892c6ae60": [
+    "includes\\hdinsight-selector-odbc-jdbc.md"
   ],
   "1ad9375ffb2e39c38ca2d81fb68e315e815e3e8b": [
     "includes\\hdinsight-selector-odbc-jdbc.md"
   ],
+  "e1215633a3ddbb541a218140d22da2f6d237d94e": [
+    "includes\\hdinsight-selector-use-hive.md"
+  ],
   "3557919240bb36cd78ac1d12cacf7e8bdd7fc16f": [
     "includes\\hdinsight-selector-use-hive.md"
+  ],
+  "95355cc42ab1ca6f2cea96d77da356d1a655a483": [
+    "includes\\hdinsight-selector-use-mapreduce.md"
   ],
   "32a66c0fe61150f2936f5029ac0852f7a66ee490": [
     "includes\\hdinsight-selector-use-mapreduce.md"
   ],
+  "c3f90f66f41126c3b2bd8a530bf7970731c5aa9c": [
+    "includes\\hdinsight-selector-use-pig.md"
+  ],
   "0633ef401621ef2e78b628a8f8beb9e90a1d0dcc": [
     "includes\\hdinsight-selector-use-pig.md"
+  ],
+  "6031d13b407da4a027f394fd973c6c66d104a512": [
+    "includes\\hdinsight-selector-use-script-action.md"
   ],
   "8f810c5ba2bb53f3f23608c1e929a78cfd571877": [
     "includes\\hdinsight-selector-use-script-action.md"
   ],
+  "08a3a75f2b595171edcc9ddb4d437abc5c0c7ae0": [
+    "includes\\hdinsight-selector-use-sqoop.md"
+  ],
   "8694bb00bf47fc66dd6ebb331dc436ece3414d79": [
     "includes\\hdinsight-selector-use-sqoop.md"
+  ],
+  "516c2029d4e0b262c8f0fdc62452338b687a3497": [
+    "includes\\hdinsight-windows-only.md"
   ],
   "11717c9f14cf5b83f95ad7fb016b4da281886eb1": [
     "includes\\hdinsight-windows-only.md"
   ],
+  "82c85016c76c6aedb685bb8ba192be71faed3b95": [
+    "includes\\howto-access-mongolab-ui.md"
+  ],
   "3fa359169e4356415195a9b6acc673aef69d2e93": [
     "includes\\howto-access-mongolab-ui.md"
+  ],
+  "41f307b7e61a22d154f9cdfe7c5147d324f5275e": [
+    "includes\\howto-attach-disk-linux.md"
   ],
   "f46f5037bfa47394c595a29c1eda33f14ee0e0a0": [
     "includes\\howto-attach-disk-linux.md"
   ],
+  "6e293812f9e05f5c058fc44df3e0b278bd5e35cb": [
+    "includes\\howto-attach-disk-windows-linux.md"
+  ],
   "58d163b5a7d0bd76947a4654eaf30ab0026a6b20": [
     "includes\\howto-attach-disk-windows-linux.md"
+  ],
+  "1d6c4852e8a30c46c3057afcc22516f808527d82": [
+    "includes\\howto-custom-create-vm.md"
   ],
   "537c10287b609a487658703798b7107f89d555a9": [
     "includes\\howto-custom-create-vm.md"
   ],
+  "7b0de4c06adb7d578a7445e13bb0a4de178b3c29": [
+    "includes\\howto-detach-disk-linux.md"
+  ],
   "a6aaffb3083692f052fdcd608259fbd079358424": [
     "includes\\howto-detach-disk-linux.md"
+  ],
+  "6475507666720877cf08c33eabd9edd46fcc07a0": [
+    "includes\\howto-detach-disk-windows-linux.md"
   ],
   "8789913603216a0316b89ce4a6109fe9c0d0d7b3": [
     "includes\\howto-detach-disk-windows-linux.md"
   ],
+  "583c740367952a83c5b6d5f72554730ef945bc2e": [
+    "includes\\howto-get-connectioninfo-mongolab.md"
+  ],
   "038056e63468d87cb0d5cf6bdee0b957b6fe2f95": [
     "includes\\howto-get-connectioninfo-mongolab.md"
+  ],
+  "4439917f1fce562705df9185fe9ce4b07240a8ec": [
+    "includes\\howto-provision-mongolab.md"
   ],
   "4d029f050dff962a0312b7e8f19a724c5779ff3d": [
     "includes\\howto-provision-mongolab.md"
   ],
+  "7b048133bd4fa9e9e2c04545892a3c6da4ff711f": [
+    "includes\\howto-save-connectioninfo-mongolab.md"
+  ],
   "4ce60a85f85ceac6ad97939badbe64d5099ccd35": [
     "includes\\howto-save-connectioninfo-mongolab.md"
+  ],
+  "d7cc9cc9b0ae9365f816fe56c46ec0e8bf7b8406": [
+    "includes\\howto-service-bus-queues.md"
   ],
   "8ef5425736e5cb8ef4e6d6021381ea34542cbc9a": [
     "includes\\howto-service-bus-queues.md"
   ],
+  "d7a92afa983f0b85f8329f1f1e58dc4b05b90fb2": [
+    "includes\\howto-service-bus-topics.md"
+  ],
   "68b507fe6761bac9b4e50266dc759ce24d4935f9": [
     "includes\\howto-service-bus-topics.md"
+  ],
+  "ee3a87d9a8227aa3d94fd6cada0b224ea9e3431e": [
+    "includes\\hybrid-connections-create-new.md"
   ],
   "a16ad28b1315b52f5fbd7a54b95535c1f9e219c8": [
     "includes\\hybrid-connections-create-new.md"
   ],
+  "ccb97882cd6e6c009ec634ddae8dbaa0267ae380": [
+    "includes\\hybrid-connections-create-on-premises-database.md"
+  ],
   "1f32648fc44c4eea90b273a58c6a786fa3218038": [
     "includes\\hybrid-connections-create-on-premises-database.md"
+  ],
+  "4a25932fbdcb9f9ba28806b91fa6abe07fec6359": [
+    "includes\\hybrid-connections-install-connection-manager.md"
   ],
   "a059b49f49b17419f43684c0c9c99ced543a6979": [
     "includes\\hybrid-connections-install-connection-manager.md"
   ],
+  "169fe562febb86655b19b089019dc6149319aecd": [
+    "includes\\hybrid-connections-prerequisites.md"
+  ],
   "0cc4b32a2e0d12f1a07dd64e84b303ad6a0eb629": [
     "includes\\hybrid-connections-prerequisites.md"
+  ],
+  "b2dbbde69069bcbab4d343af65e0a685d677dd07": [
+    "includes\\hybrid-solutions.md"
   ],
   "cb6d58bd7f2a020a91a1430cc07976e6c8b8bedc": [
     "includes\\hybrid-solutions.md"
   ],
+  "dcac74ab078cef5c953958195265d6af96a83db0": [
+    "includes\\identity.md"
+  ],
   "ec783e015c697a7ac39fc1e13a9fb250374c79e5": [
     "includes\\identity.md"
+  ],
+  "5b405c61a24d79c1f12553ed6bcc4dad7ae14f9b": [
+    "includes\\install-and-run-mongo-on-centos-vm.md"
   ],
   "783a0a14ff18732db14aa64578993b7ffe6a773f": [
     "includes\\install-and-run-mongo-on-centos-vm.md"
   ],
+  "f3e26007ce7b030fecd13d6139249e0ea7291f68": [
+    "includes\\install-and-run-mongo-on-win2k8-vm.md"
+  ],
   "8b99ef7faf159cb0f39375f1d9831b09301be780": [
     "includes\\install-and-run-mongo-on-win2k8-vm.md"
+  ],
+  "ad4c9596ef324787559b6f3466a4cc91e0b8318c": [
+    "includes\\install-and-run-mysql-on-opensuse-vm.md"
   ],
   "092d573bfcf3611c3aae310828632a88a671760d": [
     "includes\\install-and-run-mysql-on-opensuse-vm.md"
   ],
+  "d8858d24142d3e80adc25916c03f7bac1be18c7e": [
+    "includes\\install-dev-tools.md"
+  ],
   "eb58419bf04a2cf722d2071959f427c8258e5861": [
     "includes\\install-dev-tools.md"
+  ],
+  "2d96214dcc9e025e50ec3cffa8c8ef9a65bbb5c5": [
+    "includes\\install-sdk-2012-only.md"
   ],
   "3af04587d5bb33acd1242b12422041a61c512911": [
     "includes\\install-sdk-2012-only.md"
   ],
+  "4c078651500ccafabc129d8bbd5490bdedf482de": [
+    "includes\\install-sdk-2013-only.md"
+  ],
   "3af7d8bd1ce7e1bf7e1b32814bdb2f96f901f662": [
     "includes\\install-sdk-2013-only.md"
+  ],
+  "7b0f8e75b637a9d7122c1a798f454ebe0465db1a": [
+    "includes\\install-sdk-2015-2013.md"
   ],
   "66d91501a0fcc5de8948ae8841713d11bb72bfd6": [
     "includes\\install-sdk-2015-2013.md"
   ],
+  "bfdc5980811184ee50a7ed130fb3844847ac5320": [
+    "includes\\install-sdk-2015-only.md"
+  ],
   "c8225339a2aa7821078f9054c844a43f84470b29": [
     "includes\\install-sdk-2015-only.md"
+  ],
+  "ffd26114c6ad39971c24ea2c6d2225fc15e365ef": [
+    "includes\\iot-azure-and-iot.md"
   ],
   "dc2553f75e27d4f2f3ffdb34ed76d6191b4b128b": [
     "includes\\iot-azure-and-iot.md"
   ],
+  "722796c21a9267ef8bd51e78bec73245d6ef570b": [
+    "includes\\iot-hub-c2d-cloud-csharp.md"
+  ],
   "21e15b7f9b227bd87982483aa4bc03f2d19c75d5": [
     "includes\\iot-hub-c2d-cloud-csharp.md"
+  ],
+  "23230ebbc633ab6003ed24cd1d02718c8e69f331": [
+    "includes\\iot-hub-c2d-device-csharp.md"
   ],
   "d3008c9d64aaf0d747bba6e60ebfb068f2be15e9": [
     "includes\\iot-hub-c2d-device-csharp.md"
   ],
+  "11b0ab8a2714cf8db0918df15343bf38bd00c67a": [
+    "includes\\iot-hub-file-upload-cloud-csharp.md"
+  ],
   "7bacf3defe55487e0a20eea3b694813b71076f81": [
     "includes\\iot-hub-file-upload-cloud-csharp.md"
+  ],
+  "03ff955abe70c642c5eba28bcd71f76a3c4f92f0": [
+    "includes\\iot-hub-file-upload-device-csharp.md"
   ],
   "459ac0f7e144b92141b25783a98d335725555577": [
     "includes\\iot-hub-file-upload-device-csharp.md"
   ],
+  "e0269b6ad270fb4517e4716184b172006555f7f1": [
+    "includes\\iot-hub-get-access-token.md"
+  ],
   "3334d3355992b213155de111b69c71a2b07c67f5": [
     "includes\\iot-hub-get-access-token.md"
+  ],
+  "148768d552bbfc7274ed0b5bf6dd8821187df8fb": [
+    "includes\\iot-hub-get-started-cloud-csharp.md"
   ],
   "91763b6550df984e2d38d521ccc128b66cf3b137": [
     "includes\\iot-hub-get-started-cloud-csharp.md"
   ],
+  "82ed068ef84e1e8fb616456889520bc575e0365d": [
+    "includes\\iot-hub-get-started-device-csharp.md"
+  ],
   "3f0baf4a40670d07621dffaacfe3da04f8b89de0": [
     "includes\\iot-hub-get-started-device-csharp.md"
+  ],
+  "3fb007f37ccd7f7e6cd59c4825173dabcd0761f4": [
+    "includes\\iot-hub-limits.md"
   ],
   "acf92ef3c687bb69fd7a439c12f79f3439406a9c": [
     "includes\\iot-hub-limits.md"
   ],
+  "56a9531c89f3e9524c57d9ddde8f6eeb472c80d6": [
+    "includes\\iot-hub-prepare-resource-manager.md"
+  ],
   "baf4c02f9e7b4f84d49e9172bbce7b59ed829d38": [
     "includes\\iot-hub-prepare-resource-manager.md"
+  ],
+  "e0b8498991a1910b701fe00857a9ba37e56cf247": [
+    "includes\\iot-hub-process-d2c-cloud-csharp.md"
   ],
   "3ec41895a9c6791092fdaac3d66de1dd9d6946a5": [
     "includes\\iot-hub-process-d2c-cloud-csharp.md"
   ],
+  "eb9e702d2a7476715308d993d3e88016890569a2": [
+    "includes\\iot-hub-process-d2c-device-csharp.md"
+  ],
   "283acca0ac978266477cd89a563a7e2369641b96": [
     "includes\\iot-hub-process-d2c-device-csharp.md"
+  ],
+  "7ed39a8d52857230346f3d37f4ccac39c6eb335a": [
+    "includes\\iot-hub-resource-manager-selector.md"
   ],
   "98496fc5859617f3d3d8e99073b3d33bd53b98d2": [
     "includes\\iot-hub-resource-manager-selector.md"
   ],
-  "8d00f09309fee067720d805a009b4f471d32b7e5": [
-    "includes\\iot-hub-retrieve-keys.md"
+  "bbddb48aaba2c4a04320096eea2c459c5fc0515c": [
+    "includes\\iot-hub-selector-c2d.md"
   ],
   "0176b840c351d45034a5b0aaa0ab3a001cefb824": [
     "includes\\iot-hub-selector-c2d.md"
   ],
+  "dbd94529e0775540985c59f5c58f40232c2063ab": [
+    "includes\\iot-hub-selector-get-started.md"
+  ],
   "fd4e85ac0359e64b7e84c1d0ac171a57351f5cc1": [
     "includes\\iot-hub-selector-get-started.md"
+  ],
+  "2f77f667ccbdbea19772d3185484591da6104acc": [
+    "includes\\iot-suite-selector-connecting.md"
   ],
   "a21aeb401495562c8ddcd7d316b5949575ce9472": [
     "includes\\iot-suite-selector-connecting.md"
   ],
+  "52a991c6f530ec702e6baae48deae86f4ed69431": [
+    "includes\\iot-suite-visualize-connecting.md"
+  ],
   "ed8a8b2318e27c9a45306222bc1513f39ff16933": [
     "includes\\iot-suite-visualize-connecting.md"
+  ],
+  "e0a92fa5ff366b722b5b83c66f1c233ae3b6ca84": [
+    "includes\\key-vault-limits.md"
   ],
   "5d958d67be0992bd2381139a389797b81a567359": [
     "includes\\key-vault-limits.md"
   ],
+  "d2c9f1a73424611a1c3b5158780c4f85bb74d1cc": [
+    "includes\\learn-about-deployment-models-both-include.md"
+  ],
   "e1bc34922dafd0466d6da06de0d3400c320f12b0": [
     "includes\\learn-about-deployment-models-both-include.md"
+  ],
+  "e6aa74c8d41ebcff6c22630822bd48d96bf8e1d7": [
+    "includes\\learn-about-deployment-models-classic-include.md"
   ],
   "cb963102fece144acd367cb0addebd489b3ebf78": [
     "includes\\learn-about-deployment-models-classic-include.md"
   ],
+  "868cf92953c3dc72877a137d89acb7306c702551": [
+    "includes\\learn-about-deployment-models-include.md"
+  ],
   "36f6b9007e6c54ef6cc068f2a48621d529bb7870": [
     "includes\\learn-about-deployment-models-include.md"
+  ],
+  "03038329f499402f91af32d0c6e8c7222bb01b5b": [
+    "includes\\learn-about-deployment-models-rm-include.md"
   ],
   "4637a8c3688abfe4c7824e6ae47f42c88227cfdd": [
     "includes\\learn-about-deployment-models-rm-include.md"
   ],
+  "6f30be1c1e24694276aab6c464dc51fd3c938e7c": [
+    "includes\\load-balancer-get-started-ilb-arm-selectors-include.md"
+  ],
   "96973e52cf53c6cebd285e18d09b4770a78f5303": [
     "includes\\load-balancer-get-started-ilb-arm-selectors-include.md"
+  ],
+  "cd01eef1c2fa54697ce9111e3d31cdb90eaa2268": [
+    "includes\\load-balancer-get-started-ilb-classic-selectors-include.md"
   ],
   "7de9a7269a6acc172f7a21c59d5ab88caf05a292": [
     "includes\\load-balancer-get-started-ilb-classic-selectors-include.md"
   ],
+  "a393423f8420a879ec4db6aa10c7885beff7610e": [
+    "includes\\load-balancer-get-started-ilb-intro-include.md"
+  ],
   "c53410b11b680d127399fde6f3e345c1557db83f": [
     "includes\\load-balancer-get-started-ilb-intro-include.md"
+  ],
+  "ce2724082fcb31bf4454851844e48ac085ac3c0f": [
+    "includes\\load-balancer-get-started-ilb-scenario-include.md"
   ],
   "862fa9706e7dfae5ae04750b5ac5e4d92b6fb127": [
     "includes\\load-balancer-get-started-ilb-scenario-include.md"
   ],
+  "725583b4ce18f18735f1991619ac5be62853ae31": [
+    "includes\\load-balancer-get-started-internet-arm-selectors-include.md"
+  ],
   "9415ce35e0bd5d2a43bf2cd9a3bc0b41b6a30d4c": [
     "includes\\load-balancer-get-started-internet-arm-selectors-include.md"
+  ],
+  "6db70982baeb18868260a4e16db6d736f6c797be": [
+    "includes\\load-balancer-get-started-internet-classic-selectors-include.md"
   ],
   "35a01a53bbf6abf5936e148cfd431f9116d9c439": [
     "includes\\load-balancer-get-started-internet-classic-selectors-include.md"
   ],
+  "0936844f91a08479123c40e1fe51706a665a2498": [
+    "includes\\load-balancer-get-started-internet-intro-include.md"
+  ],
   "cfdf3b6a3e43a7bf309f6ceb7ce99d27d64ed9ab": [
     "includes\\load-balancer-get-started-internet-intro-include.md"
+  ],
+  "a66f242f56dcb0b1509c16c5c04e1ca132b82876": [
+    "includes\\load-balancer-get-started-internet-scenario-include.md"
   ],
   "5a0d8a8f17140ecdf249e44147d3c07dcba2d017": [
     "includes\\load-balancer-get-started-internet-scenario-include.md"
   ],
+  "041df4db14c199a99ffcd96c442b01bf3e9d462d": [
+    "includes\\load-balancing-vms.md"
+  ],
   "10fcb1fa37bbaa87d404f098690c7b4228d0a568": [
     "includes\\load-balancing-vms.md"
+  ],
+  "c2340fba8f0c296bb1da10c5641a5f81fe893684": [
+    "includes\\machine-learning-blob-storage-tool-selector.md"
   ],
   "4ed2f2207258a63f9877feb2fbd8aef8cdd80dc4": [
     "includes\\machine-learning-blob-storage-tool-selector.md"
   ],
+  "8f822dff486f3a71708f68f518d7c45cb00ddd2a": [
+    "includes\\machine-learning-free-trial.md"
+  ],
   "cc15a0db7b04f4b589dcdda5c5f33db99390d6e3": [
     "includes\\machine-learning-free-trial.md"
+  ],
+  "0363fe35f39ed46f31706731d9ec8d40bc76e553": [
+    "includes\\machine-learning-import-data-into-aml-studio.md"
   ],
   "a5eb3a7367279cd61353cd28269c1d1b06fe3504": [
     "includes\\machine-learning-import-data-into-aml-studio.md"
   ],
+  "72a2d58b99efd761ec34007a0b36c8178afabba5": [
+    "includes\\machine-learning-sample-dataset-adult-census-income.md"
+  ],
   "d3b518d262326f46d96b1876ca6b88a5d61afced": [
     "includes\\machine-learning-sample-dataset-adult-census-income.md"
+  ],
+  "5bafaf2f72fd2ae8647aeec1d7d3f4ea1479327f": [
+    "includes\\machine-learning-sample-dataset-airport-codes.md"
   ],
   "77e4696c7fa7f003b1c4838523affcee9a3b86fc": [
     "includes\\machine-learning-sample-dataset-airport-codes.md"
   ],
+  "a76c0c70caca5b7ca831c8f58c4bef7bf57b4dce": [
+    "includes\\machine-learning-sample-dataset-automobile-mpg.md"
+  ],
   "b6872a99228e866e2e413bc2593523d0388fc8a1": [
     "includes\\machine-learning-sample-dataset-automobile-mpg.md"
+  ],
+  "177a0cacae8362fe3c6cdb25a52e188798c39139": [
+    "includes\\machine-learning-sample-dataset-automobile-price.md"
   ],
   "d905dce14c721779a920027fd2de105f1c0e0ff1": [
     "includes\\machine-learning-sample-dataset-automobile-price.md"
   ],
+  "da9cdfbaa9d170caf0524baed7bf1d00442e7be4": [
+    "includes\\machine-learning-sample-dataset-bike-rental-uci-dataset.md"
+  ],
   "5c9e06dd58101bc3dd6da7c09afd3551a617d385": [
     "includes\\machine-learning-sample-dataset-bike-rental-uci-dataset.md"
+  ],
+  "46493ece22d8fe8861209af4b87ae92be8f3488f": [
+    "includes\\machine-learning-sample-dataset-bill-gates-rgb-image.md"
   ],
   "8cfea6c38e4f06092e5cbfd1858c9a4fd3d16a48": [
     "includes\\machine-learning-sample-dataset-bill-gates-rgb-image.md"
   ],
+  "ff4bfa837a78b1131612d1a68a11151dd186bb1b": [
+    "includes\\machine-learning-sample-dataset-blood-donation.md"
+  ],
   "1ead5726f37ac2a4dd414648f3c3412e30f27e8d": [
     "includes\\machine-learning-sample-dataset-blood-donation.md"
+  ],
+  "64354162562ffff7426933575b6f42d1cfcc293b": [
+    "includes\\machine-learning-sample-dataset-book-reviews-from-amazon.md"
   ],
   "57fbda312b065f9f37820395f807cdcd029ec0db": [
     "includes\\machine-learning-sample-dataset-book-reviews-from-amazon.md"
   ],
+  "96f314981ea4893c434bcade7f18c7aa91481fe1": [
+    "includes\\machine-learning-sample-dataset-breast-cancer-data.md"
+  ],
   "66ef4212c39c09a6fca55f7168b6f8837d3a4dac": [
     "includes\\machine-learning-sample-dataset-breast-cancer-data.md"
+  ],
+  "9adcceccf78529f714dfd4b3401b72a892a3fae8": [
+    "includes\\machine-learning-sample-dataset-breast-cancer-features.md"
   ],
   "c1e73bb8731d343d9627d58fd013c1929b418bee": [
     "includes\\machine-learning-sample-dataset-breast-cancer-features.md"
   ],
+  "0def2475b5c1d186661d1f3f4dc99ae894c73396": [
+    "includes\\machine-learning-sample-dataset-breast-cancer-info.md"
+  ],
   "38e342fb563434add4e2266dee40d76987a4943a": [
     "includes\\machine-learning-sample-dataset-breast-cancer-info.md"
+  ],
+  "217add0f2d5d69d258264f9ad8016baf574adcb0": [
+    "includes\\machine-learning-sample-dataset-crm-appetency-labels-shared.md"
   ],
   "4a0517f3e41c037ac62ce7b45a74674f2361373d": [
     "includes\\machine-learning-sample-dataset-crm-appetency-labels-shared.md"
   ],
+  "b83499371e3d7dad065743224dff4fcd34366d23": [
+    "includes\\machine-learning-sample-dataset-crm-churn-labels-shared.md"
+  ],
   "42ac38da37d31c1feee2f0bf024897a6a9b10e36": [
     "includes\\machine-learning-sample-dataset-crm-churn-labels-shared.md"
+  ],
+  "728ae2a0f0a63d98858922c892b6a0676fc5d75c": [
+    "includes\\machine-learning-sample-dataset-crm-dataset-shared.md"
   ],
   "4ac86afe0e4621bac7a48e9d8a00c439c0bf22eb": [
     "includes\\machine-learning-sample-dataset-crm-dataset-shared.md"
   ],
+  "f62c6f004d36ae3e33b9a55280e3411a56222967": [
+    "includes\\machine-learning-sample-dataset-crm-upselling-labels-shared.md"
+  ],
   "22e5545132ec96de02780badb2ac1dd3256fa02e": [
     "includes\\machine-learning-sample-dataset-crm-upselling-labels-shared.md"
+  ],
+  "36d7a55ffd7936e080efea7cd12f49f61ebc39c6": [
+    "includes\\machine-learning-sample-dataset-direct-marketing.md"
   ],
   "be705ab07c9ac0fc8a68befa80b706e4646b225b": [
     "includes\\machine-learning-sample-dataset-direct-marketing.md"
   ],
+  "5fc27c9eaed39e3eab8643684b8c46ca9197ac9b": [
+    "includes\\machine-learning-sample-dataset-energy-efficiency-regression.md"
+  ],
   "e16fbba6bc12483c60dd199cff4c1606e1cdb9a8": [
     "includes\\machine-learning-sample-dataset-energy-efficiency-regression.md"
+  ],
+  "7806f168b685bf944429e4905fa467c2c5a673ff": [
+    "includes\\machine-learning-sample-dataset-flight-delays-data.md"
   ],
   "9872aac72a836087490a76e84f1e457811315419": [
     "includes\\machine-learning-sample-dataset-flight-delays-data.md"
   ],
+  "aab2c5322d052a3e510e0c1209e5944ff045c5b0": [
+    "includes\\machine-learning-sample-dataset-flight-on-time-performance.md"
+  ],
   "9a5cd263af7cc6d39df98b79a059b0025015ba72": [
     "includes\\machine-learning-sample-dataset-flight-on-time-performance.md"
+  ],
+  "312d394a7f9afed7766e0a0eea5f5a1736ef920d": [
+    "includes\\machine-learning-sample-dataset-forest-fires.md"
   ],
   "0bd247e7304829486bd74c47d14f9fb9de954ac2": [
     "includes\\machine-learning-sample-dataset-forest-fires.md"
   ],
+  "1ef31661e1284c20c9a561cee6ca11c9dbbc3aac": [
+    "includes\\machine-learning-sample-dataset-german-credit-card-uci-dataset.md"
+  ],
   "9011848e3a9d6b790e9d5329cfdb70fa053947ce": [
     "includes\\machine-learning-sample-dataset-german-credit-card-uci-dataset.md"
+  ],
+  "55ce044518c663eebcc8a35c8e01bf1113238dbe": [
+    "includes\\machine-learning-sample-dataset-imdb-movie-ratings.md"
   ],
   "ba6e8f80c6d1f570d126622415203f46c586225d": [
     "includes\\machine-learning-sample-dataset-imdb-movie-ratings.md"
   ],
+  "60bae49abbcaa4f16a8c24c7d99ab98115000fb1": [
+    "includes\\machine-learning-sample-dataset-imdb-movie-titles.md"
+  ],
   "8a06b93db0d5eb513f27ed19c1e9ea2645b3cab3": [
     "includes\\machine-learning-sample-dataset-imdb-movie-titles.md"
+  ],
+  "8c30b0a0e191b2319f8a8bf040f81a79575f78f1": [
+    "includes\\machine-learning-sample-dataset-iris-two-class.md"
   ],
   "c060059d982c104d8cf7dc275ae8e2091fb4a7ab": [
     "includes\\machine-learning-sample-dataset-iris-two-class.md"
   ],
+  "a114fc53a66028232d3ca1c1cf4e9f75b3a441dd": [
+    "includes\\machine-learning-sample-dataset-lyrl2004-tokens-test.md"
+  ],
   "e5e9f31d7fbbd58e9b80b64695c5dae3139c6c8e": [
     "includes\\machine-learning-sample-dataset-lyrl2004-tokens-test.md"
+  ],
+  "2b2aa1a8b638a5d29ebd85686e4bd2934ab31165": [
+    "includes\\machine-learning-sample-dataset-lyrl2004-tokens-train.md"
   ],
   "4069f4693adcbeab46991e0998876ce8a7d62df4": [
     "includes\\machine-learning-sample-dataset-lyrl2004-tokens-train.md"
   ],
+  "c2b810e14f64aeb015a95a607ea51095bbab5eb3": [
+    "includes\\machine-learning-sample-dataset-movie-tweets.md"
+  ],
   "5784bcecd5a23b235112a4bf612eec3fe3c3327f": [
     "includes\\machine-learning-sample-dataset-movie-tweets.md"
+  ],
+  "7f631a18052988197355cbc1e139168b047a9009": [
+    "includes\\machine-learning-sample-dataset-network-intrusion.md"
   ],
   "a7a6860dd0f127cddef0ec6f29066055bb578e31": [
     "includes\\machine-learning-sample-dataset-network-intrusion.md"
   ],
+  "0863a4a2566c6e1736172d92d241aaad99b8f6a0": [
+    "includes\\machine-learning-sample-dataset-pima-indians-diabetes.md"
+  ],
   "1344f175c0f5375e953ba678f3ecc71505900f17": [
     "includes\\machine-learning-sample-dataset-pima-indians-diabetes.md"
+  ],
+  "7c6f1dc093a55410c56a86db27515fefa33a0497": [
+    "includes\\machine-learning-sample-dataset-rcv1-v2-topics.md"
   ],
   "6759b564f54b81c930fc93a8db51fc4ec25deeae": [
     "includes\\machine-learning-sample-dataset-rcv1-v2-topics.md"
   ],
+  "6e0420fd0f4bc6354e1e462931dd884b74527ece": [
+    "includes\\machine-learning-sample-dataset-restaurant-customer-data.md"
+  ],
   "cf55a92c93397102f6e4865afceabee7b809f50b": [
     "includes\\machine-learning-sample-dataset-restaurant-customer-data.md"
+  ],
+  "b55606aa143f04b60d8343fdcc9098cd86262761": [
+    "includes\\machine-learning-sample-dataset-restaurant-feature-data.md"
   ],
   "f26172d224487239b7209999034d8fce11c26d7f": [
     "includes\\machine-learning-sample-dataset-restaurant-feature-data.md"
   ],
+  "432377afb9d24a65d8c33ca97b959c78608c1012": [
+    "includes\\machine-learning-sample-dataset-restaurant-ratings.md"
+  ],
   "de49a8c8c823fd81bc38c027a9e37581f33b0bc6": [
     "includes\\machine-learning-sample-dataset-restaurant-ratings.md"
+  ],
+  "b0ca4a556c15ff66a7caa5c23b3bd62d0f393c41": [
+    "includes\\machine-learning-sample-dataset-steel-annealing.md"
   ],
   "0f5edcbc32dba340977e707dde3bcb3992a03180": [
     "includes\\machine-learning-sample-dataset-steel-annealing.md"
   ],
+  "b7d745675e635169eac4de16e084c6dbb1b80b00": [
+    "includes\\machine-learning-sample-dataset-student-performance.md"
+  ],
   "f74fe3ba5dd448e9f1f1f42921da82358454da32": [
     "includes\\machine-learning-sample-dataset-student-performance.md"
+  ],
+  "22da66fa3f6891bbdd0340aab4e4ac015a81c5a1": [
+    "includes\\machine-learning-sample-dataset-telescope-data.md"
   ],
   "6d0d8218820fb46a38075cf893c8ab285801b46e": [
     "includes\\machine-learning-sample-dataset-telescope-data.md"
   ],
+  "fd7930ffe83ffe6b330cc5b1c98503df4cca5a33": [
+    "includes\\machine-learning-sample-dataset-weather-dataset.md"
+  ],
   "807f23f61e3351a374d8693ad91eb60983deedb9": [
     "includes\\machine-learning-sample-dataset-weather-dataset.md"
+  ],
+  "f6754d76a22971843bd2bd8ba27b4d71c81b1587": [
+    "includes\\machine-learning-sample-dataset-wikipedia-sp-500.md"
   ],
   "f00df0afc5104fce20fdf0b874d2b68c26a56c33": [
     "includes\\machine-learning-sample-dataset-wikipedia-sp-500.md"
   ],
+  "c3593879879eb1033e80fb091af86aeb54fc2091": [
+    "includes\\media-services-learning-paths-include.md"
+  ],
   "86cad5d3b89b339dd2af112560a9669530dde44a": [
     "includes\\media-services-learning-paths-include.md"
+  ],
+  "110f63d3c8a5a3bd449314df70c87956082767ce": [
+    "includes\\media-services-selector-advanced-encoding.md"
   ],
   "1bc6f3e9f225e1b744f3979afb2dbf1326de07c0": [
     "includes\\media-services-selector-advanced-encoding.md"
   ],
+  "7781ee46bb8c2d702c5c16dcfedb16652d2b77a1": [
+    "includes\\media-services-selector-asset-delivery-policy.md"
+  ],
   "cc3cb954c44368dbd7f14753776e64027dd3dbf3": [
     "includes\\media-services-selector-asset-delivery-policy.md"
+  ],
+  "451ba74dac9ce7389895ad27ebea48034d29be54": [
+    "includes\\media-services-selector-connect.md"
   ],
   "4e4523e53e48b76ed193a5370e0177ad8336771d": [
     "includes\\media-services-selector-connect.md"
   ],
+  "7f65f547444a390bae79196021e7cbe193f0e6f3": [
+    "includes\\media-services-selector-content-key-auth-policy.md"
+  ],
   "4e22a9629a87f943d2091e0c65fcc25c3f335976": [
     "includes\\media-services-selector-content-key-auth-policy.md"
+  ],
+  "77ab91fddf08d02642fb4f9ad56404ee98f48d71": [
+    "includes\\media-services-selector-create-contentkey.md"
   ],
   "e516f5af8610c5b01606549cf9be24647007ab67": [
     "includes\\media-services-selector-create-contentkey.md"
   ],
+  "8f89461dbd52f1fd8b6c8eed3b0487b3ec81dfc2": [
+    "includes\\media-services-selector-encode.md"
+  ],
   "c2b291955724df3e512e0798d71a6c5211540006": [
     "includes\\media-services-selector-encode.md"
+  ],
+  "962f3a9b517ca10d4db9cc1444d72eb505dc0a6a": [
+    "includes\\media-services-selector-get-media-processor.md"
   ],
   "9b4be7a14efe7a2b952a3b216cea6bc53502331a": [
     "includes\\media-services-selector-get-media-processor.md"
   ],
+  "b5f84ddae324fe6b4417d1759b20a43eed2e5162": [
+    "includes\\media-services-selector-get-started.md"
+  ],
   "94fafa56d988d3a92b1402346b52f6f6e6a505a3": [
     "includes\\media-services-selector-get-started.md"
+  ],
+  "2a63f723ae044d0ba5e72da2c649506bddc62bed": [
+    "includes\\media-services-selector-index-content.md"
   ],
   "4884e3266fed5a0460e4e87eefba1cb086a16dad": [
     "includes\\media-services-selector-index-content.md"
   ],
+  "84cc7536bd28b4a4f9b674d1cb0f31ce2a322367": [
+    "includes\\media-services-selector-job-progress.md"
+  ],
   "d91d6d5f40f22af3fbc591359845657575a87c1f": [
     "includes\\media-services-selector-job-progress.md"
+  ],
+  "c7271b24ba101d55fb09b4a544fee6a7efcc92e3": [
+    "includes\\media-services-selector-manage-channels.md"
   ],
   "bf6026f28f56b06870a36997eefdb7ad5b0e3c95": [
     "includes\\media-services-selector-manage-channels.md"
   ],
+  "51d9a0d7362feeb8420aaeee09504ca968b14e30": [
+    "includes\\media-services-selector-publish.md"
+  ],
   "4dd73bef5bbb696e61fc5dfe9d104fc08c92f610": [
     "includes\\media-services-selector-publish.md"
+  ],
+  "78c152b3a62f5c3a2a12d1d51a1635f140dfae10": [
+    "includes\\media-services-selector-scale-encoding-units.md"
   ],
   "4db19331dedd08f7a5f91e39a42e65d15fee91d2": [
     "includes\\media-services-selector-scale-encoding-units.md"
   ],
+  "85ec73950941f86c980f8bb2585b45d8fee1a6f5": [
+    "includes\\media-services-selector-setup.md"
+  ],
   "d502ce924d78c299acb8bda0fe7b18cde49bd067": [
     "includes\\media-services-selector-setup.md"
+  ],
+  "84bfd69da0612c16ad6fb8b328b77eb5484e6ee8": [
+    "includes\\media-services-selector-upload-files.md"
   ],
   "60ff5fe92935edaf979009e6c5b856e7daa41d43": [
     "includes\\media-services-selector-upload-files.md"
   ],
+  "34575db48a0b142dcd2e4b9d078bf6ee9c3aac6b": [
+    "includes\\media-services-user-voice-include.md"
+  ],
   "66623b41c676a34b84defc1b0331416682d164a8": [
     "includes\\media-services-user-voice-include.md"
+  ],
+  "fb9346e2ef1cca2ef4e40a1729ea7acdaffd51f5": [
+    "includes\\mobile-android-authenticate-app.md"
   ],
   "b5cae43786a58f63136f4a6f5b9c0ffd660637b9": [
     "includes\\mobile-android-authenticate-app.md"
   ],
+  "518b424742a5b2e15ef4816bd11c966acaffa87d": [
+    "includes\\mobile-android-authenticate-app-refresh-token.md"
+  ],
   "e268b8072703e15baae6e8afbd0a10b2661872f0": [
     "includes\\mobile-android-authenticate-app-refresh-token.md"
+  ],
+  "3570d173709b31852cbfb820715471392f8134cf": [
+    "includes\\mobile-android-authenticate-app-with-token.md"
   ],
   "5dbf2827bc9dddcd1a48c7d74e941d1c4f529ca1": [
     "includes\\mobile-android-authenticate-app-with-token.md"
   ],
+  "a3287670339146dbc297b7034f256444c9e9ba6e": [
+    "includes\\mobile-engagement-connect-app-with-monitor.md"
+  ],
   "5bdf33f987f56e1dea4b11944d8e6e4971e121e7": [
     "includes\\mobile-engagement-connect-app-with-monitor.md"
+  ],
+  "2da1c3f6e10e688868cbdc91b3e3a174ef82d841": [
+    "includes\\mobile-engagement-create-app-in-portal.md"
   ],
   "f284e2858e5de429e499a7c4146ae6613a07d4d5": [
     "includes\\mobile-engagement-create-app-in-portal.md"
   ],
+  "2193815eaa472c77ba519925f768f8a52f55b69e": [
+    "includes\\mobile-engagement-create-new-ios-app.md"
+  ],
   "66ce930a3e568489bacf3df05f87c01c0df50b23": [
     "includes\\mobile-engagement-create-new-ios-app.md"
+  ],
+  "4175e62992d23734b2c2fd021478ee2bf0821767": [
+    "includes\\mobile-engagement-enable-google-cloud-messaging.md"
   ],
   "e495d088fb177aea61e6396cb00821cd2ccad816": [
     "includes\\mobile-engagement-enable-google-cloud-messaging.md"
   ],
+  "cdddc123be78671186aedc1028d979f0dc9a46cd": [
+    "includes\\mobile-engagement-ios-send-push.md"
+  ],
   "c30b8bbcb2a483a03d5cfc28da3599067aae78a4": [
     "includes\\mobile-engagement-ios-send-push.md"
+  ],
+  "4b5f9eb439b799e5d641a80cd14a4d183f078fea": [
+    "includes\\mobile-engagement-ios-silent-push.md"
   ],
   "b92cd00b1abea3d392874572ecfcbdc7248632ca": [
     "includes\\mobile-engagement-ios-silent-push.md"
   ],
+  "dea20a8844393c00bccdc1acdd125094c3b9b6fd": [
+    "includes\\mobile-engagement-windows-push-campaign.md"
+  ],
   "4cf9adff29d6ca07292008a8e999a0f597bdfea0": [
     "includes\\mobile-engagement-windows-push-campaign.md"
+  ],
+  "2c6ebd20ef87585e29b3baa0960a3c634cbbcff8": [
+    "includes\\mobile-services-aad-graph-info-test-app.md"
   ],
   "54761af4c4bb3a2e16f12e63c7042e5d0481d26a": [
     "includes\\mobile-services-aad-graph-info-test-app.md"
   ],
+  "9c025d873c8582898920caae3c75b8bb30e6a56e": [
+    "includes\\mobile-services-aad-graph-info-update-app.md"
+  ],
   "4c204e2b4057a5ce669dba3a0dfb3da0bbc2938a": [
     "includes\\mobile-services-aad-graph-info-update-app.md"
+  ],
+  "bd630e4272d62f2ec46ad36a371597a9e4b1165f": [
+    "includes\\mobile-services-aad-rbac-create-sales-group.md"
   ],
   "5daccfa1a0a3eec5922114c7d219c761bad45e6e": [
     "includes\\mobile-services-aad-rbac-create-sales-group.md"
   ],
+  "2cb30025875298b2774d33bd185a89c99ad4e6da": [
+    "includes\\mobile-services-aad-rbac-test-app.md"
+  ],
   "5c4932a0f01754f8535c4e87909758f6107f076a": [
     "includes\\mobile-services-aad-rbac-test-app.md"
+  ],
+  "b40d40f9402cb2a91c54118e88b239b7cc24ee8d": [
+    "includes\\mobile-services-add-google-play-services.md"
   ],
   "ce3aeed83465dd0cacb3965ebbb4f3f94b8486bb": [
     "includes\\mobile-services-add-google-play-services.md"
   ],
+  "ee59b986fe9e55e62eaf9759a8e569b71996f741": [
+    "includes\\mobile-services-android-call-custom-api.md"
+  ],
   "865192d6f22646842725739ae7bc78c84c4ab067": [
     "includes\\mobile-services-android-call-custom-api.md"
+  ],
+  "0c4544a7dd1464b5b1613638ac27803a23c265a8": [
+    "includes\\mobile-services-android-configure-push.md"
   ],
   "7502f71ca7c43b89e103d1d922d459b5208e7455": [
     "includes\\mobile-services-android-configure-push.md"
   ],
+  "329f167e06b30a721121c0fdae2d22fe0c417f5b": [
+    "includes\\mobile-services-android-get-started.md"
+  ],
   "49093801f4a4970e9aaf42283051ac4ea73bcf28": [
     "includes\\mobile-services-android-get-started.md"
+  ],
+  "80720ef882433ee889e1e1a2da1f4007f9f5849a": [
+    "includes\\mobile-services-android-getting-started-with-data.md"
   ],
   "0fa2b11e8886409b8db324e4d3d6f4d85ac45631": [
     "includes\\mobile-services-android-getting-started-with-data.md"
   ],
+  "0e3058876b3675b49cebc1693cda67671b761bad": [
+    "includes\\mobile-services-android-getting-started-with-push.md"
+  ],
   "743ca7715961e2237c11b223e45009b96da5e681": [
     "includes\\mobile-services-android-getting-started-with-push.md"
+  ],
+  "43f71daf8709a4080a085cf6d9a82252a91b5f46": [
+    "includes\\mobile-services-android-prerequisites.md"
   ],
   "2f3593be724844c754b6044d42c8ae973ef33327": [
     "includes\\mobile-services-android-prerequisites.md"
   ],
+  "d706d2ac9e6d2aa3e09a56535e1e5427b79ee667": [
+    "includes\\mobile-services-android-push-notifications-app-users.md"
+  ],
   "d28abe0eeb62c81ebcc07eb344ee23a84fcbef2f": [
     "includes\\mobile-services-android-push-notifications-app-users.md"
+  ],
+  "97dadf7616b8ce2abc73abc817129a0960aa3386": [
+    "includes\\mobile-services-android-push-notifications-test.md"
   ],
   "bd7a6bbd73dd959cb32815eda31c0c7e7261fd61": [
     "includes\\mobile-services-android-push-notifications-test.md"
   ],
+  "dcb499380acf43e44797088fa6f8f172d2963287": [
+    "includes\\mobile-services-android-run-sample-code.md"
+  ],
   "d3f6d51dbf011d14f3c86b95a268f914abc8aef2": [
     "includes\\mobile-services-android-run-sample-code.md"
+  ],
+  "1e42b033684b60fe4a6220b43e7d78e9fa017b76": [
+    "includes\\mobile-services-android-test-push-users.md"
   ],
   "458e0755120410b7d609dc68227bc0ba4950ee78": [
     "includes\\mobile-services-android-test-push-users.md"
   ],
+  "177ad0b07ea77153bb9f0786cf6f2c1294e4b205": [
+    "includes\\mobile-services-android-test-starting-with-data.md"
+  ],
   "a700ed8e5bcee2dfead50421b7313c7c96ce3a1e": [
     "includes\\mobile-services-android-test-starting-with-data.md"
+  ],
+  "78fdfb93f95119fba719642f4b39dc6ad5110da9": [
+    "includes\\mobile-services-apns-configure-push.md"
   ],
   "a508c51451de4660b7314d63b7f5173dbc480257": [
     "includes\\mobile-services-apns-configure-push.md"
   ],
+  "698be498b3dbef8c940ef179eeacca34e29f4058": [
+    "includes\\mobile-services-concepts.md"
+  ],
   "47c344484696b7c3862d84238a7d54fe0efe545a": [
     "includes\\mobile-services-concepts.md"
+  ],
+  "166b7bf100a80f87280827342cc5be99f1db0f7f": [
+    "includes\\mobile-services-configure-blob-storage.md"
   ],
   "748643ab4f345d4408f1c54a2f40263f8203ee37": [
     "includes\\mobile-services-configure-blob-storage.md"
   ],
+  "88624f811949c56332c33e0b6a02ac455f6ceef5": [
+    "includes\\mobile-services-content-not-ready.md"
+  ],
   "ea0b7a2e7515f1b0d68fc508aa267e00b1e95f41": [
     "includes\\mobile-services-content-not-ready.md"
+  ],
+  "e2c86498e674c9a083f06b21a3c8d8525a4683be": [
+    "includes\\mobile-services-create-custom-api.md"
   ],
   "28ffadfe2916b1b93fadad176672aed07265f780": [
     "includes\\mobile-services-create-custom-api.md"
   ],
+  "15a252a7a690fd5e264b596b2cd28d32a98aa62d": [
+    "includes\\mobile-services-create-new-push-table.md"
+  ],
   "2d3e9b875a9d1bc9a07a74dabaa94fd06f46b663": [
     "includes\\mobile-services-create-new-push-table.md"
+  ],
+  "d11ec0c77678be3bfb3bd895fd6aa9c780bf3220": [
+    "includes\\mobile-services-create-new-push-vs2013.md"
   ],
   "3496b51cf1059ca0c5b6163a7bda07d454aa0f10": [
     "includes\\mobile-services-create-new-push-vs2013.md"
   ],
+  "41cc4e285c6483c49444959e028929cdd1e2cb13": [
+    "includes\\mobile-services-create-new-push-vs2013-2.md"
+  ],
   "1d4c68ed36a422eeb41eba74889ba05db414a800": [
     "includes\\mobile-services-create-new-push-vs2013-2.md"
+  ],
+  "6e27f0a79845a5b5771ec88c640577251a4c7940": [
+    "includes\\mobile-services-create-new-service.md"
   ],
   "9e1d847e913bdf55fba201e63759a7491239af91": [
     "includes\\mobile-services-create-new-service.md"
   ],
+  "d2b081e962a7ac135449ca99e4f65cf00788c236": [
+    "includes\\mobile-services-create-new-service-data.md"
+  ],
   "4adff576efb33038f3ca196c4b5730d0e91fc0ce": [
     "includes\\mobile-services-create-new-service-data.md"
+  ],
+  "3cdb01909d97ffdc68d3d2708b4b855dec781b1f": [
+    "includes\\mobile-services-create-new-service-data-2.md"
   ],
   "6c7485d9527c0b1fd891c2bf0bf3c0a3ae316fbb": [
     "includes\\mobile-services-create-new-service-data-2.md"
   ],
+  "39000258f9fa9b09bf6bfb53472434c06a9d1bb1": [
+    "includes\\mobile-services-create-new-service-vs2013.md"
+  ],
   "98b785acabd8d325bc4b14760ca2b7cd0a1a4907": [
     "includes\\mobile-services-create-new-service-vs2013.md"
+  ],
+  "834efcff7d958176ec24b6d768a8966ff23934ff": [
+    "includes\\mobile-services-create-new-table-vs2013.md"
   ],
   "f6f80f833f4d6c1f049a350d22db7908f92ddee3": [
     "includes\\mobile-services-create-new-table-vs2013.md"
   ],
+  "4bca8b0cab5e7bbb439c380e0fab533eb9a3d402": [
+    "includes\\mobile-services-dotnet-adal-install-nuget.md"
+  ],
   "8c04217dfe99150e1192b7a6f8535b1ec0d1537a": [
     "includes\\mobile-services-dotnet-adal-install-nuget.md"
+  ],
+  "8454bf5e69aea145d6a6354cfc35f525d1416552": [
+    "includes\\mobile-services-dotnet-adal-register-client.md"
   ],
   "0f3a7863324765c323b10fc0fe74d7e1fe45c479": [
     "includes\\mobile-services-dotnet-adal-register-client.md"
   ],
+  "2db9b77cfe11cb116de85638e6c23339800fbc41": [
+    "includes\\mobile-services-dotnet-adal-register-service.md"
+  ],
   "c31db215fb56060206fefbb8cadb35801b132ff1": [
     "includes\\mobile-services-dotnet-adal-register-service.md"
+  ],
+  "2ce153efd555effe311b4ccc6461cc85fb74e94c": [
+    "includes\\mobile-services-dotnet-backend-aad-server-extension.md"
   ],
   "2d3b2763a35b0670b3fb669ed1cb279328030db2": [
     "includes\\mobile-services-dotnet-backend-aad-server-extension.md"
   ],
+  "7cb606631aeefeff4f565d1348e1abe4e62c3e7f": [
+    "includes\\mobile-services-dotnet-backend-add-completedate.md"
+  ],
   "ca4b1db15df056f0b4dc0fb0dbd4ac7e335240b3": [
     "includes\\mobile-services-dotnet-backend-add-completedate.md"
+  ],
+  "f52713225e06497817dd663a98f8eb4a8e5b714b": [
+    "includes\\mobile-services-dotnet-backend-add-validation.md"
   ],
   "0f32f583b0a69d178c38759230e02955d15e0d5e": [
     "includes\\mobile-services-dotnet-backend-add-validation.md"
   ],
+  "0ccc2f01f69531ac6a2999e05ea91a3bfac205b5": [
+    "includes\\mobile-services-dotnet-backend-android-push-update-service.md"
+  ],
   "dcbb90f0e61f43fe47f6c675a1c60fab5f9499ee": [
     "includes\\mobile-services-dotnet-backend-android-push-update-service.md"
+  ],
+  "ba7fce1dcba831124d83bfef22afdfcc2f60069c": [
+    "includes\\mobile-services-dotnet-backend-configure-blob-storage.md"
   ],
   "bc2492b7769268836c4985cd345a1d506c4be941": [
     "includes\\mobile-services-dotnet-backend-configure-blob-storage.md"
   ],
+  "2beb6b8cd96e8ddf55bb8027e807299587f260ca": [
+    "includes\\mobile-services-dotnet-backend-configure-local-push.md"
+  ],
   "f4d22cd240cfcf3b942a72e8a025a477eb953d7e": [
     "includes\\mobile-services-dotnet-backend-configure-local-push.md"
+  ],
+  "ffc051db63f0ee3e3bd37ce2007f4a7e5d30de9b": [
+    "includes\\mobile-services-dotnet-backend-configure-local-push-vs2013.md"
   ],
   "487b16f404b9d07b5ffee1b409c431e15438cb0f": [
     "includes\\mobile-services-dotnet-backend-configure-local-push-vs2013.md"
   ],
+  "bc2e419853a10008adf925603746b02a04d42db8": [
+    "includes\\mobile-services-dotnet-backend-create-custom-api.md"
+  ],
   "303cddb56faa21748758fbb3a7e5033a38be17ce": [
     "includes\\mobile-services-dotnet-backend-create-custom-api.md"
+  ],
+  "affed049e5d51b1b9c1e0a5ffdd294ce70d0f0fe": [
+    "includes\\mobile-services-dotnet-backend-create-new-service.md"
   ],
   "e6be99a72772860c7e6742cb5a9f9ec074d17a87": [
     "includes\\mobile-services-dotnet-backend-create-new-service.md"
   ],
+  "1bc9748fa74907bce2501b4d7e7ccf54545c9a54": [
+    "includes\\mobile-services-dotnet-backend-create-new-service-vs2013.md"
+  ],
   "1694bc36bcc514c3e303fd1a144ed23d04c2763a": [
     "includes\\mobile-services-dotnet-backend-create-new-service-vs2013.md"
+  ],
+  "53fac49f06b68ade8baa9d79e2528877a799843e": [
+    "includes\\mobile-services-dotnet-backend-notification-hubs-register-windows-store-app.md"
   ],
   "e4f0dd7551ef828198ae18a2df505ddbd2286d07": [
     "includes\\mobile-services-dotnet-backend-notification-hubs-register-windows-store-app.md"
   ],
+  "9480e4bd4e3bf7d2169b36fb1b0b2adf0fb88e6e": [
+    "includes\\mobile-services-dotnet-backend-publish-service.md"
+  ],
   "b3b7af6703c44cf33860513b37498056dead1d10": [
     "includes\\mobile-services-dotnet-backend-publish-service.md"
+  ],
+  "697849f025557a41f401cc124e6d6b15c852b998": [
+    "includes\\mobile-services-dotnet-backend-push-notifications-app-users.md"
   ],
   "bff4cd7c256850c25636a5a236811d41a4ae30c2": [
     "includes\\mobile-services-dotnet-backend-push-notifications-app-users.md"
   ],
+  "989c15a0f2a83d2f61f580e6e8054b426128d4ad": [
+    "includes\\mobile-services-dotnet-backend-test-local-service.md"
+  ],
   "12ec04ae0ab072311abbb1351c57cc97ee1b0069": [
     "includes\\mobile-services-dotnet-backend-test-local-service.md"
+  ],
+  "9218299d158563e2d2d93dae30c88f06ee7f21b7": [
+    "includes\\mobile-services-dotnet-backend-test-local-service-api-documentation.md"
   ],
   "61a6b2f77477da1105033e19506a49d4b242d4dd": [
     "includes\\mobile-services-dotnet-backend-test-local-service-api-documentation.md"
   ],
+  "5e687b1a9a43fad7ec4a62e5cfb6a63b28bfbcce": [
+    "includes\\mobile-services-dotnet-backend-test-local-service-data.md"
+  ],
   "19a999d1ea7c8bda2c3cc727c6aa12fdc9320af6": [
     "includes\\mobile-services-dotnet-backend-test-local-service-data.md"
+  ],
+  "020f3f3eefa5e0dd3430c5b9c0bfd594837f3639": [
+    "includes\\mobile-services-dotnet-backend-test-local-service-dotnet.md"
   ],
   "032fba46dbc445f5bac4d6981c31fa5787d09cf9": [
     "includes\\mobile-services-dotnet-backend-test-local-service-dotnet.md"
   ],
+  "5d4a6cd3139e48d06987f59b44544849be04a945": [
+    "includes\\mobile-services-dotnet-backend-update-server-push.md"
+  ],
   "7f9ac432c586c26d8b49b36639b8c1f215897e60": [
     "includes\\mobile-services-dotnet-backend-update-server-push.md"
+  ],
+  "fb7b333434703914c2b96e3e831ff9845fee8c67": [
+    "includes\\mobile-services-dotnet-backend-update-server-push-vs2013.md"
   ],
   "1e5cbbe6a4abb12ed027690dff9853ca5c2ab615": [
     "includes\\mobile-services-dotnet-backend-update-server-push-vs2013.md"
   ],
+  "cb0035ff11139264d7331dd91a162ff33d0f84bf": [
+    "includes\\mobile-services-dotnet-backend-view-sql-data.md"
+  ],
   "0256fb6426eafaadb9f1c4d3612122ca5055679e": [
     "includes\\mobile-services-dotnet-backend-view-sql-data.md"
+  ],
+  "8e091215a75287a94d6d2d368880c106f683f5e5": [
+    "includes\\mobile-services-dotnet-backend-windows-universal-test-push.md"
   ],
   "8a6158dd5f3f8e548ba84fb4b39b610649b1a127": [
     "includes\\mobile-services-dotnet-backend-windows-universal-test-push.md"
   ],
+  "438e02e2f95345d03e2fb25f8dd9f67c0e38878d": [
+    "includes\\mobile-services-download-service-locally.md"
+  ],
   "97ae17f76476efa873e1ff69251f94287fc98673": [
     "includes\\mobile-services-download-service-locally.md"
+  ],
+  "4af5946b0ef5140beb6cdc07c3f4b4e27b7786dd": [
+    "includes\\mobile-services-enable-google-cloud-messaging.md"
   ],
   "145e26975e36e7da9768813af6323a6ff69b2d28": [
     "includes\\mobile-services-enable-google-cloud-messaging.md"
   ],
+  "672280ee3ab8b22e2a7bc79bd06ceb2a55fed954": [
+    "includes\\mobile-services-enable-source-control.md"
+  ],
   "84767953e447a89ae1aea5f94f1d1dd45b7d6c1f": [
     "includes\\mobile-services-enable-source-control.md"
+  ],
+  "f9181676fdc264d87fbb69b544951c5e1447585a": [
+    "includes\\mobile-services-generate-aad-app-registration-access-key.md"
   ],
   "e23b4a11136827c72944b3960e74ba0fe2f21909": [
     "includes\\mobile-services-generate-aad-app-registration-access-key.md"
   ],
+  "93d9511aa10816a3e546435630e4fcbf71491cce": [
+    "includes\\mobile-services-generate-aad-app-registration-access-key-rbac.md"
+  ],
   "dfd5941f156d0fc79afe2e885ca361db150cb875": [
     "includes\\mobile-services-generate-aad-app-registration-access-key-rbac.md"
+  ],
+  "c2ee6dabf607387006dc7d78a15f78e7d794ec52": [
+    "includes\\mobile-services-hero-slug.md"
   ],
   "3beaf84ab3427ff293b960979b0ab10e0d81485b": [
     "includes\\mobile-services-hero-slug.md"
   ],
+  "74b483b540ea5e11f41e74e7b3cc66746be6aad9": [
+    "includes\\mobile-services-how-to-configure-iis-express.md"
+  ],
   "791fcf4b627cadaffa0cd17015c1634d8a7fede8": [
     "includes\\mobile-services-how-to-configure-iis-express.md"
+  ],
+  "b55d23e46fe6f8f81190aaa4370baf769cfb987f": [
+    "includes\\mobile-services-ios-authenticate-app.md"
   ],
   "2ad6e17f82a77a7a63e2e6b0d5ed4b939ae9cf6a": [
     "includes\\mobile-services-ios-authenticate-app.md"
   ],
+  "b943ff60ccf9afd251a4b6ddbb2e365937c821ed": [
+    "includes\\mobile-services-ios-call-custom-api.md"
+  ],
   "8644a796e4843cd24fc0ce3251b0d832b2b3a8bd": [
     "includes\\mobile-services-ios-call-custom-api.md"
+  ],
+  "4408bb6377d302869c45cfe5a03fadea40f985d0": [
+    "includes\\mobile-services-ios-download-service-locally.md"
   ],
   "0c18a174fc648d4301867f8a71135eaa498c9e2f": [
     "includes\\mobile-services-ios-download-service-locally.md"
   ],
+  "4fc484e46e22cea87962bfd7208a24c705476360": [
+    "includes\\mobile-services-ios-enable-mobile-service-access.md"
+  ],
   "45d1c082f667d105eb1767eb3647a7a8b27817ae": [
     "includes\\mobile-services-ios-enable-mobile-service-access.md"
+  ],
+  "e55d9c4b98778931825fecf693a987d4966302a8": [
+    "includes\\mobile-services-ios-push-notifications-app-users-login.md"
   ],
   "f76c8ce4a3679a318b39e83b51e0394c4ef4b36c": [
     "includes\\mobile-services-ios-push-notifications-app-users-login.md"
   ],
+  "5597a969db1bf35ea00a5da471a4339311b9c5bf": [
+    "includes\\mobile-services-ios-push-notifications-app-users-test-app.md"
+  ],
   "5eee24b26823d1fc15fd9a7a61eeb155e3bb98a2": [
     "includes\\mobile-services-ios-push-notifications-app-users-test-app.md"
+  ],
+  "b3e9dc9f8c09abb08193e407cd362ebfa0a243a4": [
+    "includes\\mobile-services-ios-run-app.md"
   ],
   "88f3631320a89ddb24ecae548668dc2ac73221bf": [
     "includes\\mobile-services-ios-run-app.md"
   ],
+  "d1b597c6e1ac7295e11c878e9aa5f037dcde5857": [
+    "includes\\mobile-services-javascript-backend-android-push-insert-script.md"
+  ],
   "5b7d742f67683da802aa2d1b49ae0aeb3d91052a": [
     "includes\\mobile-services-javascript-backend-android-push-insert-script.md"
+  ],
+  "d781e489854c5cf373a58b1f533a5e529cdc762d": [
+    "includes\\mobile-services-javascript-backend-push-notifications-app-users.md"
   ],
   "c6cd226f67c621f80ab734db143b935e5cff706f": [
     "includes\\mobile-services-javascript-backend-push-notifications-app-users.md"
   ],
+  "caa6ce18159ca9b7f33bf1bf2a41589d72317d89": [
+    "includes\\mobile-services-javascript-backend-run-app.md"
+  ],
   "586dc6d886c0fc0c9645573f33c6ea56e15bcb85": [
     "includes\\mobile-services-javascript-backend-run-app.md"
   ],
-  "71853c6197a6a7f222db0f1978c7cb232b87c5ee": [
-    "includes\\mobile-services-javascript-backend-view-portal-data.md"
+  "bccce210e3ecffd8e8dd6202d49bf0e7b431b85c": [
+    "includes\\mobile-services-javascript-backend-windows-universal-test-push.md"
   ],
   "dabbe10aa4290819c429bd9f588634c1c3d8ea61": [
     "includes\\mobile-services-javascript-backend-windows-universal-test-push.md"
   ],
+  "6ba5747ef546c634a092f58db0224680c0421efc": [
+    "includes\\mobile-services-javascript-paging.md"
+  ],
   "e599fea524ce2873b047a4f8f276dbda9b5b58ca": [
     "includes\\mobile-services-javascript-paging.md"
+  ],
+  "582ce9980109805d0c89b9f3c4f7004a54e5b646": [
+    "includes\\mobile-services-javascript-update-script-notification-hubs.md"
   ],
   "176d6b2cdd71eb9acc01adc1fb7c124ea6c014d2": [
     "includes\\mobile-services-javascript-update-script-notification-hubs.md"
   ],
+  "fd2de63d3d2a4b67f676ec2d158a67de2f539c19": [
+    "includes\\mobile-services-limits.md"
+  ],
   "a84b3823cd6617373d5221bdda305765e9227701": [
     "includes\\mobile-services-limits.md"
+  ],
+  "a9d3ca3c02989a6059acd9e95c1fb4889ca2f2b6": [
+    "includes\\mobile-services-note-mobile-apps.md"
   ],
   "2d4520cf46ca42f19a9298683b122f467c7520c6": [
     "includes\\mobile-services-note-mobile-apps.md"
   ],
+  "3d602cce246b47c3a107dc300c0583be478df597": [
+    "includes\\mobile-services-notification-hubs-register-windows-store-app.md"
+  ],
   "036ceaef41ed607cfac1a184532977020f8f4afc": [
     "includes\\mobile-services-notification-hubs-register-windows-store-app.md"
+  ],
+  "91788f8bcfd8655e6a25cd07ee4e53fdf89ec42b": [
+    "includes\\mobile-services-offline-summary-csharp.md"
   ],
   "4be643564cb2e3c3160d84f9b67368748ee30db6": [
     "includes\\mobile-services-offline-summary-csharp.md"
   ],
+  "24c8c3b02cdd320b605c78770c1ed874e571801a": [
+    "includes\\mobile-services-register-authentication.md"
+  ],
   "1865c7997c422c3f877e2969e0cd6ee9a8d71477": [
     "includes\\mobile-services-register-authentication.md"
+  ],
+  "80238008851879887f61724755cfbe85aa5189cf": [
+    "includes\\mobile-services-register-twitter-access.md"
   ],
   "1073f0de8432216921e7eaf3da77c3e56e07306d": [
     "includes\\mobile-services-register-twitter-access.md"
   ],
+  "176487a7957c7cd6dbe2573067a148af07ca9e1d": [
+    "includes\\mobile-services-register-windows-store-app.md"
+  ],
   "caad766a624709f1fc84314a381e621363eeb995": [
     "includes\\mobile-services-register-windows-store-app.md"
+  ],
+  "5a754a5eff384f620f486a591981adefb6d82279": [
+    "includes\\mobile-services-restrict-permissions-dotnet-backend.md"
   ],
   "c49ed4f49c9d36171eaefe64f882ff5286971c2e": [
     "includes\\mobile-services-restrict-permissions-dotnet-backend.md"
   ],
+  "ac9670f7d686fd1a001d54625c30ff44f18f716d": [
+    "includes\\mobile-services-restrict-permissions-javascript-backend.md"
+  ],
   "69192604b394c3bb620ba8921b130429301d4620": [
     "includes\\mobile-services-restrict-permissions-javascript-backend.md"
+  ],
+  "512f4fd0f7f1f8b5040bb81be9a07f92f165786b": [
+    "includes\\mobile-services-restrict-permissions-windows.md"
   ],
   "bf09d93a2355f0b113e284d355c6ad291968a848": [
     "includes\\mobile-services-restrict-permissions-windows.md"
   ],
+  "7feff8b10ddebdede2aa828392dfe3b4fd8a2743": [
+    "includes\\mobile-services-selector-adal-sso.md"
+  ],
   "21ed7b2c2fa7ea3ff208d867ae85dc1ac85e8698": [
     "includes\\mobile-services-selector-adal-sso.md"
+  ],
+  "8ce80a04b2400b7c8fbbdb992216bffac11eb8d1": [
+    "includes\\mobile-services-selector-add-paging-data.md"
   ],
   "6d830f177ca17dbc960cadada809eacfb6183ce4": [
     "includes\\mobile-services-selector-add-paging-data.md"
   ],
+  "cf561b9dff0b2d5cc8f100cefb564f3be2add65f": [
+    "includes\\mobile-services-selector-client-library.md"
+  ],
   "f8701f7a20e0fdc3040c2b463a1dfce61a009338": [
     "includes\\mobile-services-selector-client-library.md"
+  ],
+  "97ceca30ef10eb2085af3a9d5955b5152aa92001": [
+    "includes\\mobile-services-selector-get-started.md"
   ],
   "db751ede5db5884be6c98bdd564c495644e2f621": [
     "includes\\mobile-services-selector-get-started.md"
   ],
+  "2542d26912962f5ee941f3af6a26a6f5cc4e824e": [
+    "includes\\mobile-services-selector-get-started-data.md"
+  ],
   "44cd463e822060b9b75c6d9be0bc95f71d3ddf11": [
     "includes\\mobile-services-selector-get-started-data.md"
+  ],
+  "fb4820a44df0bef7bc675aa5307f0205cef0c46d": [
+    "includes\\mobile-services-selector-get-started-push.md"
   ],
   "ae62bcc3d5b0a27f3a7329443797a0daca50f59a": [
     "includes\\mobile-services-selector-get-started-push.md"
   ],
+  "5e50f666427e54b51f66646d469ad6855ab1bfaa": [
+    "includes\\mobile-services-selector-get-started-push-legacy.md"
+  ],
   "d5810347ffd9c60f0cd03c92a02c671ed1a9750a": [
     "includes\\mobile-services-selector-get-started-push-legacy.md"
+  ],
+  "5d20b58897120b432540f057e33eb6fb9664056c": [
+    "includes\\mobile-services-selector-get-started-push-xamarin.md"
   ],
   "1e04829db7cb5946adb6a47a0e177cd51badfc10": [
     "includes\\mobile-services-selector-get-started-push-xamarin.md"
   ],
+  "a3de9ada5587fe597e9ea49a6dcb938a6a782328": [
+    "includes\\mobile-services-selector-get-started-users.md"
+  ],
   "6086d4dff2bf61d17c63d7170f03c30664f1d767": [
     "includes\\mobile-services-selector-get-started-users.md"
+  ],
+  "097255e17e205326f468ac6876afdb615702c9a9": [
+    "includes\\mobile-services-selector-get-started-users-legacy.md"
   ],
   "8cbf4313570f5747b6740dcdd54d50ea1f8a2b36": [
     "includes\\mobile-services-selector-get-started-users-legacy.md"
   ],
+  "603f981414fdabd56efbe35a1e7b8803b23eab08": [
+    "includes\\mobile-services-selector-offline.md"
+  ],
   "420edb7aee8bb4267ceab31fa2b619e661d874dd": [
     "includes\\mobile-services-selector-offline.md"
+  ],
+  "f1723b5b4aa9ce923986e386839bb17317287a1c": [
+    "includes\\mobile-services-selector-offline-conflicts.md"
   ],
   "7d54806e5131916ed517449fd5dc52c90f15af74": [
     "includes\\mobile-services-selector-offline-conflicts.md"
   ],
+  "86d71d8a8e667c968efdb8da877dde49c93cb4be": [
+    "includes\\mobile-services-selector-push-users.md"
+  ],
   "3f8e7a9e6d5c4caad74aa6f00b5b21af015871f3": [
     "includes\\mobile-services-selector-push-users.md"
+  ],
+  "a789060e13de53a714e14735b48747e092af63c4": [
+    "includes\\mobile-services-selector-rbac.md"
   ],
   "ff2c9d0c95c3933ea463fefdf1759250107b64b6": [
     "includes\\mobile-services-selector-rbac.md"
   ],
+  "94f23d78cd011a04dec02e16318878fb40296492": [
+    "includes\\mobile-services-selector-register-identity-provider.md"
+  ],
   "8ea2acc7a9372e0237fe6cbe8ff4b951b8c9e7c5": [
     "includes\\mobile-services-selector-register-identity-provider.md"
+  ],
+  "4fb24a2d699afaf28f2fb32673c640eca433a2ee": [
+    "includes\\mobile-services-selector-schedule-recurring-tasks.md"
   ],
   "609563723d1c37a4cda1e137830833f93c86b633": [
     "includes\\mobile-services-selector-schedule-recurring-tasks.md"
   ],
+  "32077bfa63f59dce700ac6fe04507d80f3aefaf0": [
+    "includes\\mobile-services-selector-service-auth-users.md"
+  ],
   "1707bdb663fe6f5ed6790b4878450a729c3f5b7e": [
     "includes\\mobile-services-selector-service-auth-users.md"
+  ],
+  "74c4b0b6b03291d817b60786a81f04d271a6c994": [
+    "includes\\mobile-services-selector-upload-data-blob-storage.md"
   ],
   "baeb44f2849f94be97a4098235694d6f2c06697b": [
     "includes\\mobile-services-selector-upload-data-blob-storage.md"
   ],
+  "03764d0a4f36077a9e7fca192a1341d396db5a0c": [
+    "includes\\mobile-services-update-registrations-script.md"
+  ],
   "86a4b9ebaca4b1cca7bc8edd03145e1a5df56771": [
     "includes\\mobile-services-update-registrations-script.md"
+  ],
+  "4ad1759f7b107e6487e32004b3ab0f21030b1420": [
+    "includes\\mobile-services-verify-android-sdk-version.md"
   ],
   "69070ec82df9cfce63c0f978438f2715e837f1af": [
     "includes\\mobile-services-verify-android-sdk-version.md"
   ],
+  "42c19575f38dc240a157de86c2649778681a4be6": [
+    "includes\\mobile-services-windows-dotnet-authenticate-app.md"
+  ],
   "3d8c4959f8e3ffc31ebd4fcc68cbf5ab60d63353": [
     "includes\\mobile-services-windows-dotnet-authenticate-app.md"
+  ],
+  "7e4f005ba86c7e8ad17b60da1e714528531d0fcc": [
+    "includes\\mobile-services-windows-dotnet-paging.md"
   ],
   "a859d5942571d58caebb29b704af4705396c1fe1": [
     "includes\\mobile-services-windows-dotnet-paging.md"
   ],
+  "741eaa6d6f08d87b0891cf6af9164bda91c02822": [
+    "includes\\mobile-services-windows-dotnet-update-data-app.md"
+  ],
   "69812944248797d1a18e018837d69ce4659990bb": [
     "includes\\mobile-services-windows-dotnet-update-data-app.md"
+  ],
+  "a628c103cbb8595c65920125737846a24954a4c8": [
+    "includes\\mobile-services-windows-javascript-update-data-app.md"
   ],
   "702d518df476679deb2d133d6b4cac5358f9c225": [
     "includes\\mobile-services-windows-javascript-update-data-app.md"
   ],
+  "ba3e1a7464cab8189434095ffa52a201e6a45cbd": [
+    "includes\\mobile-services-windows-phone-authenticate-app.md"
+  ],
   "f910c930ada6a797f2def2b6fbcc5c6d8636cfb2": [
     "includes\\mobile-services-windows-phone-authenticate-app.md"
+  ],
+  "8cf58f58377efa160b08f5cbc7bb32d93bb1f3a9": [
+    "includes\\mobile-services-windows-phone-authenticate-app-with-token.md"
   ],
   "57c0bae0ae9cc9d8e4d404eeef13e3960f6b21e8": [
     "includes\\mobile-services-windows-phone-authenticate-app-with-token.md"
   ],
+  "11b54ff5e7f3f1ef4f4c121c44b7cfe32b2182bb": [
+    "includes\\mobile-services-windows-phone-call-custom-api.md"
+  ],
   "fa5f4d15ac25feb19aa8e86b39e5f63bcf2b4879": [
     "includes\\mobile-services-windows-phone-call-custom-api.md"
+  ],
+  "39958545a4ecbdb1132c7385e23202ae3c108e37": [
+    "includes\\mobile-services-windows-phone-push-notifications-app-users.md"
   ],
   "a5084534b60bc87a89c6f069ddb84a201eb98c68": [
     "includes\\mobile-services-windows-phone-push-notifications-app-users.md"
   ],
+  "79bf890d97a02c25d3ba9d581caf36856cb59f9a": [
+    "includes\\mobile-services-windows-phone-upload-to-blob-storage.md"
+  ],
   "8123f86f4bba966d82967f0428ecde9ceada0299": [
     "includes\\mobile-services-windows-phone-upload-to-blob-storage.md"
+  ],
+  "5503ee2eaf6252515cdcca43aa8dc03a5eb6526b": [
+    "includes\\mobile-services-windows-store-dotnet-call-custom-api.md"
   ],
   "8c486809afcfe047dc27feac18260f134a91a8ca": [
     "includes\\mobile-services-windows-store-dotnet-call-custom-api.md"
   ],
+  "01997d09e103c5c37e9e74d60f0c908bfea611f3": [
+    "includes\\mobile-services-windows-store-dotnet-push-notifications-app-users.md"
+  ],
   "d0f085f4c480b65333d4b47469e9625077536fa1": [
     "includes\\mobile-services-windows-store-dotnet-push-notifications-app-users.md"
+  ],
+  "6f3e7417afd0760386a13f9491aee8372dd4dc11": [
+    "includes\\mobile-services-windows-store-dotnet-upload-to-blob-storage.md"
   ],
   "9d1ea0d4439cb97b6cfb0dc54af66025243724bf": [
     "includes\\mobile-services-windows-store-dotnet-upload-to-blob-storage.md"
   ],
+  "dc81621db066e00651f0a4fecb7fc96ba4bd920c": [
+    "includes\\mobile-services-windows-store-javascript-authenticate-app.md"
+  ],
   "c8a6e6d5e3a9b299ab54ba8edae57eacfe3136d0": [
     "includes\\mobile-services-windows-store-javascript-authenticate-app.md"
+  ],
+  "4c24a2d708b20b789ffd8614e7d0c89cfadda4aa": [
+    "includes\\mobile-services-windows-store-javascript-authenticate-app-with-token.md"
   ],
   "b644d6fe09bc44024908ec0b6c7ea5686ea3350f": [
     "includes\\mobile-services-windows-store-javascript-authenticate-app-with-token.md"
   ],
+  "ef1b7efa85ef0f269a1e2ca81db9b8d3bd7a394c": [
+    "includes\\mobile-services-windows-store-javascript-call-custom-api.md"
+  ],
   "8c2a1f780f626a64afec21a67e69b9068a8402ec": [
     "includes\\mobile-services-windows-store-javascript-call-custom-api.md"
+  ],
+  "327012e3c9e5f89816c7044e7b4bf12049a64905": [
+    "includes\\mobile-services-windows-store-javascript-push-notifications-app-users.md"
   ],
   "d333a414be247a049e96add0c44821ea2ac8970e": [
     "includes\\mobile-services-windows-store-javascript-push-notifications-app-users.md"
   ],
+  "4dc7fe1a19a246f34b3c6affa137fcd24021ed59": [
+    "includes\\mobile-services-windows-store-test-push.md"
+  ],
   "911f46bb5c5b76c6ba17497126aeb62423df0a9b": [
     "includes\\mobile-services-windows-store-test-push.md"
+  ],
+  "8644dcd87419995cef2ed83fff69e9022e94358e": [
+    "includes\\mobile-services-windows-test-push-users.md"
   ],
   "a99531cd7724839c48e51f4a49aab91daa0e823a": [
     "includes\\mobile-services-windows-test-push-users.md"
   ],
+  "27df358c6f1a2260eaa3cbdab9c771c97817e80f": [
+    "includes\\mobile-services-windows-universal-dotnet-download-project.md"
+  ],
   "ddb9c91ee141e0568701ee4cbe77210716d2ee2c": [
     "includes\\mobile-services-windows-universal-dotnet-download-project.md"
+  ],
+  "a7fae9c49c18dcbf7dff835a9379be66620cb475": [
+    "includes\\mobile-services-windows-universal-dotnet-upload-to-blob-storage.md"
   ],
   "0e88b44b1a5e8052f7d7fc26675fe621baf26957": [
     "includes\\mobile-services-windows-universal-dotnet-upload-to-blob-storage.md"
   ],
+  "f9b9eeeca78f12b0b2fd5a9317de23fbcfb252a3": [
+    "includes\\mobile-services-windows-universal-get-started.md"
+  ],
   "124afc07542c8a6eba947f6bf5ccc16498caca50": [
     "includes\\mobile-services-windows-universal-get-started.md"
+  ],
+  "9910cc5f222ae9c25c6a77aa79cbe7b63f1f3085": [
+    "includes\\mobile-services-windows-universal-javascript-authenticate-app.md"
   ],
   "29e5301c90ea8e7a53bf614ee2574074dede2755": [
     "includes\\mobile-services-windows-universal-javascript-authenticate-app.md"
   ],
+  "edf94321ccb9d9e50f2b10aa6cb6e45ffc9955b6": [
+    "includes\\mobile-services-windows-universal-javascript-download-project.md"
+  ],
   "613f8514ac242d820dcbf519a9d46d00b931b275": [
     "includes\\mobile-services-windows-universal-javascript-download-project.md"
+  ],
+  "7f6893a0af40dbe5fb8564ebb4c48aedbffde6a6": [
+    "includes\\mobile-services-windows-universal-test-app.md"
   ],
   "e36e806bc87edeb7495568695ccc25edc28ab8d5": [
     "includes\\mobile-services-windows-universal-test-app.md"
   ],
+  "b273bc185dca259a346be50e131f2e02700a64c0": [
+    "includes\\mobile-services-xamarin-android-push-add-to-app.md"
+  ],
   "40b0c956ff58370bfea44390c1ed0d90e73d5439": [
     "includes\\mobile-services-xamarin-android-push-add-to-app.md"
+  ],
+  "355857895bccf54178934d85d462d99a82dde9bd": [
+    "includes\\mobile-services-xamarin-android-push-configure-project.md"
   ],
   "be7425af738fef473de73bccf86c6c644d82ef0e": [
     "includes\\mobile-services-xamarin-android-push-configure-project.md"
   ],
+  "4793c923283028be1afee9177343201809c0fdd8": [
+    "includes\\mobile-windows-universal-dotnet-authenticate-app.md"
+  ],
   "dae2827d8a3875be413dfa56097e2ecc967526ee": [
     "includes\\mobile-windows-universal-dotnet-authenticate-app.md"
+  ],
+  "cf438f504aefe5eaf66bb42049960fa2e6460b66": [
+    "includes\\mobile-windows-universal-dotnet-authenticate-app-with-token.md"
   ],
   "f089d29dbabf1b223bc5053f9d13ad0e337754e7": [
     "includes\\mobile-windows-universal-dotnet-authenticate-app-with-token.md"
   ],
+  "390fde5db844f8af605fbb327596c9671681ede9": [
+    "includes\\notification-hub-limits.md"
+  ],
   "dbf91059957c0506cbba8aa16c03e1e61be1a50e": [
     "includes\\notification-hub-limits.md"
+  ],
+  "3915b5d4ea72a60546cf4c06adc393874b683849": [
+    "includes\\notification-hubs-android-get-started.md"
   ],
   "1cef124d7525be62985dd0abc8e126b6ae57b057": [
     "includes\\notification-hubs-android-get-started.md"
   ],
+  "01d7aa94739c5ff736e35ed98157dc4f036d95d6": [
+    "includes\\notification-hubs-android-studio-add-google-play-services.md"
+  ],
   "e61b7ecede036717f2892a4fe295056a30580369": [
     "includes\\notification-hubs-android-studio-add-google-play-services.md"
+  ],
+  "fbd293d4bcf500d0cb50bba465b50f707441fc09": [
+    "includes\\notification-hubs-aspnet-backend-notifyusers.md"
   ],
   "ced34e90134fac8c730fccd78d1bfeff82a5a506": [
     "includes\\notification-hubs-aspnet-backend-notifyusers.md"
   ],
+  "e3e12736722c8b954c294db56844f802e254f7da": [
+    "includes\\notification-hubs-aspnet-backend-securepush.md"
+  ],
   "772bd321ab0e5db8517ad6d8ef9dcd9f9f4e5ebd": [
     "includes\\notification-hubs-aspnet-backend-securepush.md"
+  ],
+  "021bab89a55f6bdc984140a8cbfa994e273c73a7": [
+    "includes\\notification-hubs-back-end.md"
   ],
   "20895abbf19490f6b3e403312ff7b42a66b52b68": [
     "includes\\notification-hubs-back-end.md"
   ],
+  "782fcb7ea7d9057284728dd6dc753c1c094306f9": [
+    "includes\\notification-hubs-backend-how-to-selector.md"
+  ],
   "d5722f234edde3fcc4f439ef525ff2dbdd564d97": [
     "includes\\notification-hubs-backend-how-to-selector.md"
+  ],
+  "d19a30d7a4ff08d30e739b33592f8783ef76391a": [
+    "includes\\notification-hubs-enable-apple-push-notifications.md"
   ],
   "2a2676d229855e3317ecf570ba498a25d91ba8de": [
     "includes\\notification-hubs-enable-apple-push-notifications.md"
   ],
+  "49e9cc133d5523dc1568552d54d9ccde0afc9d6e": [
+    "includes\\notification-hubs-hero-slug.md"
+  ],
   "850baa3e02e1655fba06c06ca9499c6721f19caf": [
     "includes\\notification-hubs-hero-slug.md"
+  ],
+  "941b79cd320bfb1e361162b984f5fbf5406061e6": [
+    "includes\\notification-hubs-localized-back-end.md"
   ],
   "e7171ddcccf205408ae54a3f557027410268817a": [
     "includes\\notification-hubs-localized-back-end.md"
   ],
+  "aed06bfa1cff5af0c57590585b3446afb7f0123e": [
+    "includes\\notification-hubs-portal-create-new-hub.md"
+  ],
   "a59326e8af607f0e94f94d0d84cd8c5f5e90f9fe": [
     "includes\\notification-hubs-portal-create-new-hub.md"
+  ],
+  "d29dd907281bcbb2fa05bda192d082565227ad3b": [
+    "includes\\notification-hubs-selector-aspnet-backend-notify-users.md"
   ],
   "9c202c37f90a3423ef80a5bd623fa313a9c1e536": [
     "includes\\notification-hubs-selector-aspnet-backend-notify-users.md"
   ],
+  "9a194facd6d6e9e8d1fca1a23d4d2115fed845af": [
+    "includes\\notification-hubs-selector-breaking-news.md"
+  ],
   "d54ab8ede1e2d953c908030008e2ba8a7606cafa": [
     "includes\\notification-hubs-selector-breaking-news.md"
+  ],
+  "ad606dbfdf0b6046180a23de9090523d71978d7f": [
+    "includes\\notification-hubs-selector-get-started.md"
   ],
   "bce744caf31547f01b8be4de78671f3fe078daca": [
     "includes\\notification-hubs-selector-get-started.md"
   ],
+  "1f71fc77ec4d400fff54904896bf7fc0cffa811e": [
+    "includes\\notification-hubs-send-categories-template.md"
+  ],
   "6a99e9bde80fe578685cb96ec952451e3c6cb568": [
     "includes\\notification-hubs-send-categories-template.md"
+  ],
+  "8bd45c8bf5365e9987d4152d389469e581372d0e": [
+    "includes\\notification-hubs-sending-notifications-from-the-portal.md"
   ],
   "8ed988554c4e4340bc6daeb670873d20e0c1db4c": [
     "includes\\notification-hubs-sending-notifications-from-the-portal.md"
   ],
+  "3a9ebea438619a169b80031a1f2464cf99af9689": [
+    "includes\\notification-hubs-xamarin-enable-apple-push-notifications.md"
+  ],
   "a94d1d30464847a8d4d6cd1b1a1b049aa3d3ad3c": [
     "includes\\notification-hubs-xamarin-enable-apple-push-notifications.md"
+  ],
+  "abbce9f6cdac1574f0aa258e68d7ebc61364ecb5": [
+    "includes\\operational-insights-limits.md"
   ],
   "6ce8e701e79f62708c2db2da386f12ddad7a1964": [
     "includes\\operational-insights-limits.md"
   ],
+  "e42d4ccd3b9f34b6460f13e3792ffb2b4d8e9248": [
+    "includes\\powershell-preview-include.md"
+  ],
   "6ae5434197f854be2c203360c966a04940988da7": [
     "includes\\powershell-preview-include.md"
+  ],
+  "952c16563c5852e909ff130724e9656185c999d9": [
+    "includes\\powershell-preview-inline-include.md"
   ],
   "d8e8e5c63234952bfbd2120e8a6565e958c8f85e": [
     "includes\\powershell-preview-inline-include.md"
   ],
+  "86804aef878d8b94435e21339836cf86b756e43f": [
+    "includes\\powershell-setup.md"
+  ],
   "c225f81ca47d732b56ac6faa4c938d5bcf0b978c": [
     "includes\\powershell-setup.md"
+  ],
+  "caf090f085b8f40f1767d369db7dbdd0142c1348": [
+    "includes\\preview-portal-note.md"
   ],
   "869130b32f39bbd02ea630c401d1323cf36db30e": [
     "includes\\preview-portal-note.md"
   ],
+  "1ae90bd2edb41894ec0c6fff22f911eb9c6a6600": [
+    "includes\\publishing-with-git.md"
+  ],
   "0a7c19626f344ca92666d9a87119e2ad579615f1": [
     "includes\\publishing-with-git.md"
+  ],
+  "a4e8bf445d8b2e2d62dc53a787cd232b6c44d9d2": [
+    "includes\\publishsettingsfilewarningchunk.md"
   ],
   "aa577378411d76f3697397b844f5add26e4c42b3": [
     "includes\\publishsettingsfilewarningchunk.md"
   ],
+  "56cb6c00f2d6d5ac61ba6e33be78fe339bda7042": [
+    "includes\\pusher-sign-up.md"
+  ],
   "696d57dd8392eb67fc09d01b1fc1051510941cb1": [
     "includes\\pusher-sign-up.md"
+  ],
+  "8c0947d343d11cc6bf2e6978c7182090c8f052ab": [
+    "includes\\redis-cache-service-limits.md"
   ],
   "4deffb3743cfe2966d4bb1debd6cce8d772806f8": [
     "includes\\redis-cache-service-limits.md"
   ],
+  "d8c47328ddbc9ac6f8d907d6abc5fec96005d2e6": [
+    "includes\\resource-group-deploy-powershell.md"
+  ],
   "814d59e77db6c1b07fda74aa30be2bc6caa51033": [
     "includes\\resource-group-deploy-powershell.md"
+  ],
+  "43e915e59d42f65bc7adb929702019e36865cb04": [
+    "includes\\resource-group-deploy-xplat.md"
   ],
   "3741f49dd647c93663b7a91d0557595b8cc53b98": [
     "includes\\resource-group-deploy-xplat.md"
   ],
+  "f165c1486172f761cddea5103bf7e44950cb0f3b": [
+    "includes\\resource-manager-pointer-to-service-management.md"
+  ],
   "208a714ae88198b1486cbedc974aad8ea0562cf6": [
     "includes\\resource-manager-pointer-to-service-management.md"
+  ],
+  "e697821f7425926d9f1b8fe9fd2ba02308657875": [
+    "includes\\role-based-access-control-toc.md"
   ],
   "043fbf305b93672ce0388b0f741b795fddc54fc5": [
     "includes\\role-based-access-control-toc.md"
   ],
+  "f5de277cf86c7557ee3bf6c89e268f900371ed7a": [
+    "includes\\scheduler-limits-table.md"
+  ],
   "d299ff47291a07f4001efc632a5c140ae08f242e": [
     "includes\\scheduler-limits-table.md"
+  ],
+  "721cf240a7572f056b018509d3c025a70bd320f0": [
+    "includes\\securityrx.md"
   ],
   "2b333921afccdd9e6f331d2d6d931160f6221b9d": [
     "includes\\securityrx.md"
   ],
+  "0f035149ba78fa9498df4041b544d5b09b4d2185": [
+    "includes\\sendgrid-sign-up.md"
+  ],
   "168f41742443cac287aab529a9ba1d78584b91e7": [
     "includes\\sendgrid-sign-up.md"
+  ],
+  "6f1148a547a307fb8fcc0c6ca44526d55512806f": [
+    "includes\\service-bus-event-hubs-get-started-receive-ephcs.md"
   ],
   "131de12247795b6eabeac75754e37af85616c059": [
     "includes\\service-bus-event-hubs-get-started-receive-ephcs.md"
   ],
+  "56e745ac8fa8b6f70c822a998e085691a8b7b47e": [
+    "includes\\service-bus-event-hubs-get-started-receive-storm.md"
+  ],
   "cae93978c3f7cd63f28cf73d5318616a9e1a3de5": [
     "includes\\service-bus-event-hubs-get-started-receive-storm.md"
+  ],
+  "61cbafb3df42394c121c4a40a01863c586159065": [
+    "includes\\service-bus-event-hubs-get-started-send-c.md"
   ],
   "c5190399a6d9eb56846f0d397fc0ac2457bc17b0": [
     "includes\\service-bus-event-hubs-get-started-send-c.md"
   ],
+  "491164646aab22cfb630cda3a8530097eb190584": [
+    "includes\\service-bus-event-hubs-get-started-send-csharp.md"
+  ],
   "3110b412f9972d9ebc20dc8c71f3970d4f0f9d2f": [
     "includes\\service-bus-event-hubs-get-started-send-csharp.md"
+  ],
+  "6e88f584095457783786cbb6827014316d2c5fec": [
+    "includes\\service-bus-event-hubs-get-started-send-java.md"
   ],
   "a61d140cd106d107e737931c9ade347968ebb595": [
     "includes\\service-bus-event-hubs-get-started-send-java.md"
   ],
+  "95058ef1ff7496e4ff5f2585c958682c411da208": [
+    "includes\\service-bus-java-how-to-create-queue.md"
+  ],
   "d5b38a950dfcf7316ebd157d08ac0a223e27e7fd": [
     "includes\\service-bus-java-how-to-create-queue.md"
+  ],
+  "7d0344072fe5ca30e93f076260dceb56d49e16b7": [
+    "includes\\service-bus-java-how-to-create-topic.md"
   ],
   "f25e8ea990093d6797d563ed9e95d07e517407aa": [
     "includes\\service-bus-java-how-to-create-topic.md"
   ],
+  "c23d2906cfa480521c29f7019fa6e70221d9b471": [
+    "includes\\service-bus-quotas-table.md"
+  ],
   "ac48a246235c298227aab919529793150bdb3a91": [
     "includes\\service-bus-quotas-table.md"
+  ],
+  "01800b42049fa8cb18409572fbb0a1f911655951": [
+    "includes\\service-bus-selector-amqp.md"
   ],
   "77fdb5d372cd13e3169e2f743f9b607c1309bc1b": [
     "includes\\service-bus-selector-amqp.md"
   ],
+  "f4355b39fdf485b1d5d56595de2a6e7c4cc051d8": [
+    "includes\\service-bus-selector-get-started.md"
+  ],
   "1f00acba5934e4d910dcde409e750d31b549186a": [
     "includes\\service-bus-selector-get-started.md"
+  ],
+  "59d5309522bdb93d562f8de655daffa6d67b21a9": [
+    "includes\\service-bus-selector-queues.md"
   ],
   "dd6eec6dfdf32b412f9bcb644b60da05330795ca": [
     "includes\\service-bus-selector-queues.md"
   ],
+  "f8ce5c5928591cb81851ab31de35b8bb14fdb777": [
+    "includes\\service-bus-selector-topics.md"
+  ],
   "f5c46a979f33077694599953a72dedcae5ab1cad": [
     "includes\\service-bus-selector-topics.md"
+  ],
+  "f7867450e4f1a473b50065f22052662a6f63b8e2": [
+    "includes\\service-management-pointer-to-resource-manager.md"
   ],
   "3d51383c39b9d9adc05405466a18d0d67b9756e4": [
     "includes\\service-management-pointer-to-resource-manager.md"
   ],
+  "83a9aef5bc47095d476cf6b1a8f37ef630890fb5": [
+    "includes\\site-recovery-limits.md"
+  ],
   "7fd3cfbe8e98ecb0e4403b0f6ea3dec026f50b04": [
     "includes\\site-recovery-limits.md"
+  ],
+  "bf1a51a7c5e9ef1f6f348d4ede285bc708d4710e": [
+    "includes\\sql-azure-management.md"
   ],
   "34f5150c686dbf72ea8ff44f4c96cd930c485956": [
     "includes\\sql-azure-management.md"
   ],
+  "77232780866c8ebcab0cae5d809fb42fa190c932": [
+    "includes\\sql-database-configure-includes-selector-method.md"
+  ],
   "5430e916eefb277538250fd39c2d5eb95a8e92e6": [
     "includes\\sql-database-configure-includes-selector-method.md"
+  ],
+  "32d79dfcb70809f1490c92776a710dceac1a9eca": [
+    "includes\\sql-database-develop-includes-prerequisites-php-windows.md"
   ],
   "835fb049a78498dac3f1694633fa26739b78bc71": [
     "includes\\sql-database-develop-includes-prerequisites-php-windows.md"
   ],
+  "12a28e21738a409ed09634d893d5ec4f3ec2a0e7": [
+    "includes\\sql-database-develop-includes-selector-language-platform-depth.md"
+  ],
   "60b5add31121f6da84447b9b09422e938ee2f4f8": [
     "includes\\sql-database-develop-includes-selector-language-platform-depth.md"
+  ],
+  "9cddb508192013fc6307dc75d39e282af43b1fb2": [
+    "includes\\sql-database-include-connection-string-20-portalshots.md"
   ],
   "709a93606154edc5e6e8c92d3716f9729c187dd2": [
     "includes\\sql-database-include-connection-string-20-portalshots.md"
   ],
+  "dfee70db05f0d5fc6ee4bf28961527620ca874a7": [
+    "includes\\sql-database-include-connection-string-30-compare.md"
+  ],
   "634dee0cac41852f4b13c099bbac4de70ca7159e": [
     "includes\\sql-database-include-connection-string-30-compare.md"
+  ],
+  "ff1985b71f051aad480011799d1edf34dce8dfe3": [
+    "includes\\sql-database-include-connection-string-40-config.md"
   ],
   "5d59ec3096fd9947619b544304961a9cc826320a": [
     "includes\\sql-database-include-connection-string-40-config.md"
   ],
+  "876dd9f3f0b8192c91448f8f4efa12bad6784afd": [
+    "includes\\sql-database-include-connection-string-details-20-portalshots.md"
+  ],
   "9f2c5f739211d1d9def2c48714f33e524216276e": [
     "includes\\sql-database-include-connection-string-details-20-portalshots.md"
+  ],
+  "5703843ceb48778fd9caf679818dc11d0858823d": [
+    "includes\\sql-database-include-connection-string-dotnet-20-portalshots.md"
   ],
   "27a62a7cad9170beea8465117e44880f0c8d73a1": [
     "includes\\sql-database-include-connection-string-dotnet-20-portalshots.md"
   ],
+  "1b550ded7482330fe32ceaf88784523a47147372": [
+    "includes\\sql-database-include-connection-string-jdbc-20-portalshots.md"
+  ],
   "282f3c90757901fd4413503e663ac230bdf149ef": [
     "includes\\sql-database-include-connection-string-jdbc-20-portalshots.md"
+  ],
+  "bea1a591ff705062a305d924e233ca431cb26716": [
+    "includes\\sql-database-include-connection-string-odbc-20-portalshots.md"
   ],
   "0ae5ba3838c0ad420af62713435b67c4088c2250": [
     "includes\\sql-database-include-connection-string-odbc-20-portalshots.md"
   ],
+  "58aad453eb5209fae87c8e31fdcb493c405eb1ec": [
+    "includes\\sql-database-include-connection-string-php-20-portalshots.md"
+  ],
   "1273e7cbf241c3940f324ba8d505e6ee5c0de655": [
     "includes\\sql-database-include-connection-string-php-20-portalshots.md"
+  ],
+  "e308a3c7bd8ce0b9cb11537547ec6787455b8492": [
+    "includes\\sql-database-include-ip-address-22-v12portal.md"
   ],
   "6d9b01701d27afc6e9cd388e2a25f923c16da919": [
     "includes\\sql-database-include-ip-address-22-v12portal.md"
   ],
+  "2ff30a69f2ab69d653ead06d50b320b96e78d7d7": [
+    "includes\\sql-database-service-tiers-table.md"
+  ],
   "bb73116fab3c869edc9ecc574f23d8f06498c552": [
     "includes\\sql-database-service-tiers-table.md"
+  ],
+  "b8f735621826fd0f7da2b489a8aa075e8c0d3d14": [
+    "includes\\sql-database-service-tiers-table-elastic-db-pools.md"
   ],
   "d30bc35f477640e02f1f5e51fe4b2baf2d24cd9d": [
     "includes\\sql-database-service-tiers-table-elastic-db-pools.md"
   ],
+  "ce007a632d1e3a09e3bb9e6ed6e559d12d7065d3": [
+    "includes\\sql-database-understanding-dtus.md"
+  ],
   "1fac67891a6e5ddcba94ff4d8ed1bf0a636dc1d7": [
     "includes\\sql-database-understanding-dtus.md"
+  ],
+  "7b4c9c7adf41779939b27e71cb895868baa454d3": [
+    "includes\\storage-blob-concepts-include.md"
   ],
   "c61739fe4e6b5a4316e6f8d34d65fc873670ff4e": [
     "includes\\storage-blob-concepts-include.md"
   ],
+  "5f0efe484f85c6ef058d298b15c8da72600226b9": [
+    "includes\\storage-configure-connection-string-include.md"
+  ],
   "5fa5a34bc94547694849a474290e15974ecc3dce": [
     "includes\\storage-configure-connection-string-include.md"
+  ],
+  "d91da0be5fe8a72ce3f5814081abf5b47133c77e": [
+    "includes\\storage-container-naming-rules-include.md"
   ],
   "80ac680a22ee67d34df1235c48529f2b83bd498b": [
     "includes\\storage-container-naming-rules-include.md"
   ],
+  "32f28431419f3eb3c01bedcb73c95fe139d2dccd": [
+    "includes\\storage-create-account-include.md"
+  ],
   "fb7078d9bf393dc0d6c893257959dce144ee09e7": [
     "includes\\storage-create-account-include.md"
+  ],
+  "b3b11a2c5e5afb264d7e458a10903f56bbbf3484": [
+    "includes\\storage-dotnet-client-library-version-include.md"
   ],
   "82b61be226759a4401671d00a266327ab5a63490": [
     "includes\\storage-dotnet-client-library-version-include.md"
   ],
+  "d020c73d84fb4b36729920330c8e948727c95f5b": [
+    "includes\\storage-dotnet-obtain-assembly.md"
+  ],
   "5f05e7f1430d13fd0ff776e1c457b99b5ee197d8": [
     "includes\\storage-dotnet-obtain-assembly.md"
+  ],
+  "89924782042138d8b0cedbac9352ec75816d40a5": [
+    "includes\\storage-dotnet-odatalib-dependencies.md"
   ],
   "d5eb8831343d83d7746cff02060e0113fb7900a6": [
     "includes\\storage-dotnet-odatalib-dependencies.md"
   ],
+  "23f94aeef1c2d62c4b2c48edf611ea88d8306729": [
+    "includes\\storage-dotnet-retrieve-conn-string.md"
+  ],
   "17fa55ff8d8faf81fad24f53baad35edfa42574f": [
     "includes\\storage-dotnet-retrieve-conn-string.md"
+  ],
+  "75a650f4fe21b3495a7d10176270bba75a38c533": [
+    "includes\\storage-emulator-connection-string-include.md"
   ],
   "a70f72df9df924b067d4f32dd35fb07ce2bbfb34": [
     "includes\\storage-emulator-connection-string-include.md"
   ],
+  "2d760e0a2390a5b7db7b3f2762bf92fd2bc04779": [
+    "includes\\storage-file-concepts-include.md"
+  ],
   "730cf2fdad8f44cde53c5bc9b839b4d1f8741af2": [
     "includes\\storage-file-concepts-include.md"
+  ],
+  "3c19a9ed3cebeb795cd4b9da19d5d364dc6fd569": [
+    "includes\\storage-queue-concepts-include.md"
   ],
   "50743a9e6defa04d1a6f49809fdb573b98123378": [
     "includes\\storage-queue-concepts-include.md"
   ],
+  "1f7725063b6864ee90f69c7da0bf65b7b07f537d": [
+    "includes\\storage-replication-options-include.md"
+  ],
   "94871ed1563d92bf4069545a03e4a776f2631ca1": [
     "includes\\storage-replication-options-include.md"
+  ],
+  "9d2e11b22c9e344a56d321df42210a534d6f0a6d": [
+    "includes\\storage-selector-blob-include.md"
   ],
   "7be3434934d2daadcd3c9739c67ad103d9f16957": [
     "includes\\storage-selector-blob-include.md"
   ],
+  "a66c1b0c819e6c5a65b69130c400858bb46b6621": [
+    "includes\\storage-selector-client-side-encryption-include.md"
+  ],
   "aca205d8a395b0237b47d2af2e945d6f32940478": [
     "includes\\storage-selector-client-side-encryption-include.md"
+  ],
+  "e88c1fbd4afafa2e9a8e80628f28c6ec9a85e130": [
+    "includes\\storage-selector-file-include.md"
   ],
   "98ddcbbacbba631bef59f756039b5bcf429910d2": [
     "includes\\storage-selector-file-include.md"
   ],
+  "75aa2222c8acf97cfc5df5526bd7cdff39073488": [
+    "includes\\storage-selector-portal-create-storage-account.md"
+  ],
   "cce32c534e7767ae762e63bf852c202bcb113c88": [
     "includes\\storage-selector-portal-create-storage-account.md"
+  ],
+  "ae4e5a4682479e3d3a0080a044489e71d77e47f1": [
+    "includes\\storage-selector-portal-e2e-troubleshooting.md"
   ],
   "f5ea4502f37ecc99146bb71f337add0378e58156": [
     "includes\\storage-selector-portal-e2e-troubleshooting.md"
   ],
+  "2ee8f9fb6224e2697dbf39a67f09e8e595820b55": [
+    "includes\\storage-selector-portal-enable-and-view-metrics.md"
+  ],
   "cdc936e3bde4df011d8001eddedd00814c779488": [
     "includes\\storage-selector-portal-enable-and-view-metrics.md"
+  ],
+  "ced5335bba80ef1cae65e911e155d26ebb02ce0f": [
+    "includes\\storage-selector-portal-import-export-service.md"
   ],
   "29abda47383217db3500e4daa9b1ad0a5cc5d303": [
     "includes\\storage-selector-portal-import-export-service.md"
   ],
+  "f7e46f017cdb33cf5846549c66be17305801d886": [
+    "includes\\storage-selector-portal-monitoring-diagnosing-troubleshooting.md"
+  ],
   "a5685194193ac02bd7d106d7f9a1b47dde2f9d55": [
     "includes\\storage-selector-portal-monitoring-diagnosing-troubleshooting.md"
+  ],
+  "54955d8eb2fa76c9eed0737e090ec5c1f5e33798": [
+    "includes\\storage-selector-queue-include.md"
   ],
   "53ec36e856896f252674687bbc53e1f5437779cc": [
     "includes\\storage-selector-queue-include.md"
   ],
+  "044e1781da29564a337954c181939e13432a2df8": [
+    "includes\\storage-selector-table-include.md"
+  ],
   "30a2b211ac82102999e4968f0fdb3b34156ad29c": [
     "includes\\storage-selector-table-include.md"
+  ],
+  "bbaa1caa1b357b856a106bfa7cc6b6f5556fc5a9": [
+    "includes\\storage-table-concepts-include.md"
   ],
   "4082dbcdc08661ca08c59e82a71e290043373380": [
     "includes\\storage-table-concepts-include.md"
   ],
+  "3e4e8b897eba7b1c798b08700aec4c52f0d5ec93": [
+    "includes\\storage-versions-include.md"
+  ],
   "365e8507be979ac097c9e00ec14068260d715337": [
     "includes\\storage-versions-include.md"
+  ],
+  "0ff1964e2b3fc67c155eca6193095fc959719e07": [
+    "includes\\storsimple-add-backup-policy.md"
   ],
   "bd84d542470947948603a880257d1b2500b07ea4": [
     "includes\\storsimple-add-backup-policy.md"
   ],
+  "7340cb2500600198352fdf00fc871c3dd09344d4": [
+    "includes\\storsimple-add-backup-policy-u2.md"
+  ],
   "48ccde59066a75dc4695bdcdfcd8c3724ddb7750": [
     "includes\\storsimple-add-backup-policy-u2.md"
+  ],
+  "a62a0b4efb9d7c33559decfe17f24f08af6e4ddc": [
+    "includes\\storsimple-add-modify-backup-schedule.md"
   ],
   "41afdbb849bbdb8bd07dfcbcf555dd4f47af2a13": [
     "includes\\storsimple-add-modify-backup-schedule.md"
   ],
+  "19933cafb7ad079623d1043522f4f19bdc97387e": [
+    "includes\\storsimple-add-modify-backup-schedule-u2.md"
+  ],
   "ad1c2feb660dd30dd02d214183db1b5d124a1f0f": [
     "includes\\storsimple-add-modify-backup-schedule-u2.md"
+  ],
+  "d271fb08645d8e67f971b78ac2c57466c9482f03": [
+    "includes\\storsimple-add-volume-container.md"
   ],
   "3314e0a76efd637fec344e8c15cbb6b803b44646": [
     "includes\\storsimple-add-volume-container.md"
   ],
+  "7d2593980040e348d814ca2465c34fee314cf1c3": [
+    "includes\\storsimple-cable-8100-for-power.md"
+  ],
   "3bb95aa0f4a543ed26d6b7a0799bdd5549444c57": [
     "includes\\storsimple-cable-8100-for-power.md"
+  ],
+  "644b2fdc3918baabd6872f0219a944c3e131f5ac": [
+    "includes\\storsimple-cable-8600-for-power.md"
   ],
   "149770eeaec9f0555dc4526192af540b0cbbf88c": [
     "includes\\storsimple-cable-8600-for-power.md"
   ],
+  "c366c23ea3715288e873f782cc7312f879c00b12": [
+    "includes\\storsimple-change-data-encryption-key.md"
+  ],
   "946af3df8eac44606ce7b27b7f21d892268b5b1e": [
     "includes\\storsimple-change-data-encryption-key.md"
+  ],
+  "6989c603914c91242d5497c13de3c64951201aa9": [
+    "includes\\storsimple-complete-minimum-device-setup.md"
   ],
   "c07c774ca9cb955b3b671ed22047975d63cc8e1c": [
     "includes\\storsimple-complete-minimum-device-setup.md"
   ],
+  "d153ab2815a2b6972506201adf8deaf25d9a32fe": [
+    "includes\\storsimple-complete-minimum-device-setup-u1.md"
+  ],
   "bbcb712b716865f568cbf949ec413c114bfa16e1": [
     "includes\\storsimple-complete-minimum-device-setup-u1.md"
+  ],
+  "39e482596673b30f07a88b22de8c858e95c2839f": [
+    "includes\\storsimple-configure-and-register-device.md"
   ],
   "cda149e988dedd22eb17f1b94892cd80ef4f2441": [
     "includes\\storsimple-configure-and-register-device.md"
   ],
+  "d0033eac8d42cc47ff3bb34cb55b60da8889eb12": [
+    "includes\\storsimple-configure-and-register-device-gov.md"
+  ],
   "cfaefddd403a214e1163432ce0245c9bc0e750d4": [
     "includes\\storsimple-configure-and-register-device-gov.md"
+  ],
+  "9b754b38b8726cbd0f2be009e4ab72978f8f2921": [
+    "includes\\storsimple-configure-and-register-device-gov-u2.md"
   ],
   "f7b027cd975d1de14825b5983e57136afe741f50": [
     "includes\\storsimple-configure-and-register-device-gov-u2.md"
   ],
+  "3bc6ab77de434bc245f6e1ff2eb81a21f06c1df3": [
+    "includes\\storsimple-configure-and-register-device-u1.md"
+  ],
   "23d2d606e0e379c455a4976a8ae18e7f4a821e6c": [
     "includes\\storsimple-configure-and-register-device-u1.md"
+  ],
+  "e47cadc66f66462c91d10a665f78aafe354f844b": [
+    "includes\\storsimple-configure-auto-update.md"
   ],
   "f14062cc2aca2054fa6d6ed84bbf6b3ccd61a450": [
     "includes\\storsimple-configure-auto-update.md"
   ],
+  "376eeb099bd74f7bb2b97e27f6c55e1e55cfd404": [
+    "includes\\storsimple-configure-new-storage-account.md"
+  ],
   "397f852d51f12dd83b478bef12e848bd90e9520e": [
     "includes\\storsimple-configure-new-storage-account.md"
+  ],
+  "20732a112997686c44639a537b1936e1c52f7743": [
+    "includes\\storsimple-configure-new-storage-account-u1.md"
   ],
   "8dd7a6b66333d13bbc9c040e6fae72ce5816bad9": [
     "includes\\storsimple-configure-new-storage-account-u1.md"
   ],
+  "b25c70a9bedd6183813a811338fccb530d5c9a1a": [
+    "includes\\storsimple-configure-register-virtual-device.md"
+  ],
   "3b542783c88d6a6911622d82f4d5407b985786ef": [
     "includes\\storsimple-configure-register-virtual-device.md"
+  ],
+  "1193f8dfd7553562b1d00876a27e72544d640fb5": [
+    "includes\\storsimple-configure-remote-management-http-device.md"
   ],
   "529cbc769fdd213b55a3a3fbb5463b456436a6b2": [
     "includes\\storsimple-configure-remote-management-http-device.md"
   ],
+  "a186bb5c194bb475a1632474bd60667278a4d01c": [
+    "includes\\storsimple-create-custom-backup-policy.md"
+  ],
   "55f8f498e716a6b381ba75750fe21594527c8910": [
     "includes\\storsimple-create-custom-backup-policy.md"
+  ],
+  "3ba54bfb58d4eb42a0b8788b8f1359573426ae60": [
+    "includes\\storsimple-create-custom-backup-policy-u2.md"
   ],
   "913adb85445ece60ae68c2ddf3d0bd219f0a14c1": [
     "includes\\storsimple-create-custom-backup-policy-u2.md"
   ],
+  "6c62b7a7f8dcd0c99828600ea237fdc1c0bf5ffe": [
+    "includes\\storsimple-create-manual-backup.md"
+  ],
   "65b22b21bcdc5e651fe4771061a2f440a14989bf": [
     "includes\\storsimple-create-manual-backup.md"
+  ],
+  "56d87cb4e25f25095d027aef137d3e6c67fbc0e7": [
+    "includes\\storsimple-create-manual-backup-gov.md"
   ],
   "9d25e8bcff367b872a86fb6f98e3ad8b6d5c43ba": [
     "includes\\storsimple-create-manual-backup-gov.md"
   ],
+  "1e7783ce9df6aa555e3e8c0e732cfe020dbb29ef": [
+    "includes\\storsimple-create-new-service.md"
+  ],
   "e4bcb0d630ea55661126111fa15a260907a7c1bf": [
     "includes\\storsimple-create-new-service.md"
+  ],
+  "8ca657d04bef72f957dba415efa48d1498c97839": [
+    "includes\\storsimple-create-new-service-gov.md"
   ],
   "d22c9fb09d9b1d7d57c777e0d238893ba231fb28": [
     "includes\\storsimple-create-new-service-gov.md"
   ],
+  "96f7256d115a8d7f743b33723b734cfc99361ba9": [
+    "includes\\storsimple-create-public-endpoints-virtual-device.md"
+  ],
   "0285d7c43825ca13ae8b67cef9abe11da0ad4c6b": [
     "includes\\storsimple-create-public-endpoints-virtual-device.md"
+  ],
+  "537fddaec66fab5bdaef53dee2084353b00db7e8": [
+    "includes\\storsimple-create-virtual-device-u2.md"
   ],
   "ac246a0025469838a543626dd878dcc15160e708": [
     "includes\\storsimple-create-virtual-device-u2.md"
   ],
+  "0dd61e59bc41b1446fb8115532eb56d6c0d6cff4": [
+    "includes\\storsimple-create-volume.md"
+  ],
   "0f838dc5a96e9a8cc6b4f00d503fee768d2712cd": [
     "includes\\storsimple-create-volume.md"
+  ],
+  "97267ebba6307f8754726b0234bd0a38c6489432": [
+    "includes\\storsimple-create-volume-container.md"
   ],
   "aac34593bfae9f00381cb4eedf039f6b58e6f7f6": [
     "includes\\storsimple-create-volume-container.md"
   ],
+  "3609d93fc99e990b77cf5c15c79b857de5bdc461": [
+    "includes\\storsimple-create-volume-u2.md"
+  ],
   "15465b1cf45b1af58382cb65cf6aa0d55199faff": [
     "includes\\storsimple-create-volume-u2.md"
+  ],
+  "9dfd51d15f47bcdb144b75b4ecffd9880a4b880a": [
+    "includes\\storsimple-delete-backup-policy.md"
   ],
   "2972143df0654986c1979d6bc422b9d580c9da19": [
     "includes\\storsimple-delete-backup-policy.md"
   ],
+  "0865fbee3a48cd335894058c2b9edef060a5d247": [
+    "includes\\storsimple-delete-virtual-device.md"
+  ],
   "17d5c21ffbacf5a3aad42186193fb61f48c0ccb0": [
     "includes\\storsimple-delete-virtual-device.md"
+  ],
+  "c5299dcd4c2f5ab56dc3883d2f9682309bd511a4": [
+    "includes\\storsimple-delete-volume-container.md"
   ],
   "70779f20bfeb8bb0b33bd5ef18857bb624864a4c": [
     "includes\\storsimple-delete-volume-container.md"
   ],
+  "63feff7eac9acbfa67aca115132ca6039c1781c8": [
+    "includes\\storsimple-enter-maintenance-mode.md"
+  ],
   "e19025c5557070c4424d4c72dfceb4d1856f2e8b": [
     "includes\\storsimple-enter-maintenance-mode.md"
+  ],
+  "02a4052897c847d3c6e4a832e93f81db5f48627a": [
+    "includes\\storsimple-exit-maintenance-mode.md"
   ],
   "17a6b37d4beab03ca9550f10c2b2005e7871d6e8": [
     "includes\\storsimple-exit-maintenance-mode.md"
   ],
+  "8db0e5627d84128f1e321d170deafa893849180a": [
+    "includes\\storsimple-failover-to-virtual-device.md"
+  ],
   "b86546038998fa01965c1b31b66e9e0f2376d415": [
     "includes\\storsimple-failover-to-virtual-device.md"
+  ],
+  "eed4ef81653c74b1b47147e7bb776aa5e96b7571": [
+    "includes\\storsimple-get-iqn.md"
   ],
   "ec450e270ccb3093735cd7f229fe277b41614824": [
     "includes\\storsimple-get-iqn.md"
   ],
+  "7289ffcd0d0af7dafb5fdbd3b30ecee14c72cce7": [
+    "includes\\storsimple-get-service-registration-key.md"
+  ],
   "add1afefcdfdf49185056b06a090d3aaf858df23": [
     "includes\\storsimple-get-service-registration-key.md"
+  ],
+  "1a151e229264077468612efac166884e8b1ebaac": [
+    "includes\\storsimple-get-service-registration-key-gov.md"
   ],
   "51e9feeb948de54e88b0a6570a7d86204d633f10": [
     "includes\\storsimple-get-service-registration-key-gov.md"
   ],
+  "186f4cfec3673ac43bb7019575477d836e925af6": [
+    "includes\\storsimple-install-maintenance-mode-hotfixes.md"
+  ],
   "896db8ee230166f5eae6660e270334bf27da8714": [
     "includes\\storsimple-install-maintenance-mode-hotfixes.md"
+  ],
+  "1593cca01cf0ea7cb677568d5b28298b4dd51ac2": [
+    "includes\\storsimple-install-maintenance-mode-updates.md"
   ],
   "f2ba4d48ee6f883e831dc50a108c92080601af1f": [
     "includes\\storsimple-install-maintenance-mode-updates.md"
   ],
+  "d968b8e7e3369bdbdbee20b249b5ebb6045fd812": [
+    "includes\\storsimple-install-regular-hotfixes.md"
+  ],
   "7ff7212b8df933be3fe3840fcd119b84be78ca5a": [
     "includes\\storsimple-install-regular-hotfixes.md"
+  ],
+  "0fcf4802315c9c6a12e56d8df1a97e08c1c979a0": [
+    "includes\\storsimple-install-regular-updates-powershell.md"
   ],
   "9cc2227cd367bd40548408432487c42c9af7120a": [
     "includes\\storsimple-install-regular-updates-powershell.md"
   ],
+  "b925bafcfba4b1f1acaa0b029c2613d10418b796": [
+    "includes\\storsimple-install-sharepoint-adapter.md"
+  ],
   "728f3029fc87071fb8534d0ee7d2f14798909707": [
     "includes\\storsimple-install-sharepoint-adapter.md"
+  ],
+  "c554e3cfc6f55f5a5a69a14ed40b2626e57a3aad": [
+    "includes\\storsimple-install-update-option1.md"
   ],
   "72ee17bdc5fd3ad21af2fa718c218428cb87d003": [
     "includes\\storsimple-install-update-option1.md"
   ],
+  "29a12bef1eeac8aa0c9a6c5a40be0189815f6f47": [
+    "includes\\storsimple-install-update-option2.md"
+  ],
   "35f186a99edb0f94a86935f13e0b4540a63e3d86": [
     "includes\\storsimple-install-update-option2.md"
+  ],
+  "736517939e9fdf587468b3d01dc8824d614e347a": [
+    "includes\\storsimple-install-updates-manually.md"
   ],
   "ea00a86cddaf2298d57f0b1b1c5ae5445e121cf6": [
     "includes\\storsimple-install-updates-manually.md"
   ],
+  "737cfa595977a292e44a15b9a4fa947e1c4b74b1": [
+    "includes\\storsimple-install-update-via-portal.md"
+  ],
   "9310f29a564efe544767dfc4e0aa2e0be5925e13": [
     "includes\\storsimple-install-update-via-portal.md"
+  ],
+  "fa87488ff0ac10a2b7cc45701adda24ef40c0f1d": [
+    "includes\\storsimple-limits-table.md"
   ],
   "37f2e13eb5438bf5b917045b576b5c63e5b00772": [
     "includes\\storsimple-limits-table.md"
   ],
+  "2765f13089d1b90977945a638a5b09dd873a7270": [
+    "includes\\storsimple-modify-volume-container.md"
+  ],
   "059af816de1579d2574029012ea64313f44c773d": [
     "includes\\storsimple-modify-volume-container.md"
+  ],
+  "ad0c56dfeea42e8f0b9f38cd974e633c120aa049": [
+    "includes\\storsimple-mount-initialize-format-volume.md"
   ],
   "bbe06848245aa2e224e520b143038c093a179153": [
     "includes\\storsimple-mount-initialize-format-volume.md"
   ],
+  "21a5f76e103e7b44faa91e404d98a2c1645b418e": [
+    "includes\\storsimple-sas-cable-8600.md"
+  ],
   "acbb33fc9757707d2a11b9926a6aabc30aa6fc1f": [
     "includes\\storsimple-sas-cable-8600.md"
+  ],
+  "bf6b6d8b6d573465dc8a053021c7f417dbf597a1": [
+    "includes\\storsimple-sharepoint-adapter-configure-rbs.md"
   ],
   "334f89a17316d04668a08c9ba3aacb819b20e5cc": [
     "includes\\storsimple-sharepoint-adapter-configure-rbs.md"
   ],
+  "625e53394eeb22debe16f690bf0bd2cb2c9160de": [
+    "includes\\storsimple-sharepoint-adapter-garbage-collection.md"
+  ],
   "b44405f19b974dc929f6ddb65113678d6e0bbf1b": [
     "includes\\storsimple-sharepoint-adapter-garbage-collection.md"
+  ],
+  "33364ef663a14c28af39fb616af755983c6bef58": [
+    "includes\\storsimple-shutdown-virtual-device.md"
   ],
   "6d7fdc79707f55a47b63d3edd2816e93aa6caa1a": [
     "includes\\storsimple-shutdown-virtual-device.md"
   ],
+  "b96bb9ade69199a5ce0de8c571df5cd26a62ce68": [
+    "includes\\storsimple-stop-restart-virtual-device.md"
+  ],
   "3f003cc2fb9f6b40b9e7a11a0985f0ee9489fb16": [
     "includes\\storsimple-stop-restart-virtual-device.md"
+  ],
+  "a8568201ad56944fd1eeb6c3c64e1c54bd3bada0": [
+    "includes\\storsimple-take-backup.md"
   ],
   "39dd730998ee82f5506192a6f448e76ca551933a": [
     "includes\\storsimple-take-backup.md"
   ],
+  "fe4379f8a7519a141053962b5cf97665d85d7187": [
+    "includes\\storsimple-upgrade-sharepoint-adapter.md"
+  ],
   "4de590bf6dbd73d5f43245baec4aae5e50efe9fc": [
     "includes\\storsimple-upgrade-sharepoint-adapter.md"
+  ],
+  "99e721c1c956e848a75f9d5683ce251dd6fb9489": [
+    "includes\\storsimple-use-putty.md"
   ],
   "c896b3861406b730eb3e7bb71780c0bc23210b05": [
     "includes\\storsimple-use-putty.md"
   ],
+  "688696f48ccf95583ec9a16e87878788880a4f00": [
+    "includes\\storsimple-version-selector.md"
+  ],
   "3abab6ec34db7883a9b22f101bc7452ac763f931": [
     "includes\\storsimple-version-selector.md"
+  ],
+  "45dc919c081268e024947bc736785ac32885ef6e": [
+    "includes\\storsimple-version-selector-clone-volume.md"
   ],
   "d4031c022f3045e904735e9b4c6b1038aff0c032": [
     "includes\\storsimple-version-selector-clone-volume.md"
   ],
+  "39a120c498af9bdba8df4d7eb25beebb85deb779": [
+    "includes\\storsimple-version-selector-deploy-gov.md"
+  ],
   "28c1ad731fa6b4dc8000152f7726360d76aea7b6": [
     "includes\\storsimple-version-selector-deploy-gov.md"
+  ],
+  "840186bf97e0b571742d555c76f697b74512b177": [
+    "includes\\storsimple-version-selector-manage-backup-policies.md"
   ],
   "150f9d99514e6d8fa48381fde37973525a616be9": [
     "includes\\storsimple-version-selector-manage-backup-policies.md"
   ],
+  "362c7bf1cf759f1ef0e6e35d17c748495066333e": [
+    "includes\\storsimple-version-selector-manage-jobs.md"
+  ],
   "7837b4dc538dc51b9d5931da3a4ae539c2f2c345": [
     "includes\\storsimple-version-selector-manage-jobs.md"
+  ],
+  "8625c51cc8b5bbd23e6b8a3396d1c271eedc0f03": [
+    "includes\\storsimple-version-selector-manage-volumes.md"
   ],
   "87424876b1a54f48ab87da288b074bf0eee40b64": [
     "includes\\storsimple-version-selector-manage-volumes.md"
   ],
+  "a23f44b723b20c9ec8e085e9c68487fcf5df2e2e": [
+    "includes\\storsimple-version-selector-restore-from-backup.md"
+  ],
   "201ec6bedb159e261774cffabea918a74521c907": [
     "includes\\storsimple-version-selector-restore-from-backup.md"
+  ],
+  "fa83780150e13b57ae50f2701c868eff66c54ac5": [
+    "includes\\storsimple-version-selector-sva.md"
   ],
   "17e86a3a7caff7b8e3c3ce543e194d5b66996959": [
     "includes\\storsimple-version-selector-sva.md"
   ],
+  "05a6f254aad8e61168bd8fe13b6ee0fceaef77c0": [
+    "includes\\storsimple-virtual-device-security.md"
+  ],
   "c29c1634d5109c867482e5c31904f2995435837b": [
     "includes\\storsimple-virtual-device-security.md"
+  ],
+  "4018e95fd48630d0babfcf0a511f62428dd60967": [
+    "includes\\stream-analytics-limits-table.md"
   ],
   "0f31755f934762cf0070bfd458e92a1e62eb4a89": [
     "includes\\stream-analytics-limits-table.md"
   ],
+  "6fc8c11b36f51aa24e98efcc668aecd0c949d96f": [
+    "includes\\test-push-notifications-in-app.md"
+  ],
   "14e935fe6e28ea367cf4cf35c297710e8b6731d1": [
     "includes\\test-push-notifications-in-app.md"
+  ],
+  "eaa1563d3719b01345ca722260b365a5de76ba31": [
+    "includes\\traffic-manager-limits.md"
   ],
   "5c497e4e0ded73142c4cec209fc1a6868b968094": [
     "includes\\traffic-manager-limits.md"
   ],
+  "c0d100567b7863e737f70044c5689d7e523a4f7f": [
+    "includes\\training-kit.md"
+  ],
   "3edf31c123249d7714439ee4754c10854811d37b": [
     "includes\\training-kit.md"
+  ],
+  "9c9428d86183743aa2b365f31b8bb7cd6e9bd93e": [
+    "includes\\twilio_additional_services_and_next_steps.md"
   ],
   "c1e4f405bc9b3e423eea7ad50c3ac24a9e3a772f": [
     "includes\\twilio_additional_services_and_next_steps.md"
   ],
+  "91e9fe638afc470d4291602e81e9330258f5e57e": [
+    "includes\\virtual-machines-ag-listener-bring-online.md"
+  ],
   "b665e28884c2f0fea7ac6a2cebba51ed8b738f5c": [
     "includes\\virtual-machines-ag-listener-bring-online.md"
+  ],
+  "83b31ce6b49fb1f2cf1555085b34c9c040a27a11": [
+    "includes\\virtual-machines-ag-listener-create-listener.md"
   ],
   "ef121957073c4127ad5d0cd12a04215848d5dcd8": [
     "includes\\virtual-machines-ag-listener-create-listener.md"
   ],
+  "4d314e564e580fd99ac158ec29bb5fe1fbc49058": [
+    "includes\\virtual-machines-ag-listener-determine-accessibility.md"
+  ],
   "a63c4c40496c373c4b2c912f527a943293442d9e": [
     "includes\\virtual-machines-ag-listener-determine-accessibility.md"
+  ],
+  "597ccacf3af951cfebfc993e9ff416892055d357": [
+    "includes\\virtual-machines-ag-listener-follow-up.md"
   ],
   "4450848ea52f254d42a51a3bfa9720837953ff2a": [
     "includes\\virtual-machines-ag-listener-follow-up.md"
   ],
+  "b8eb3fb0537ba19e6851157ef356d613663845a7": [
+    "includes\\virtual-machines-ag-listener-kb2854082.md"
+  ],
   "0f3e2884a9cd250c8be9334c868dcc74d5cb2692": [
     "includes\\virtual-machines-ag-listener-kb2854082.md"
+  ],
+  "1399d4589209c40c557b81fa759970e8d8d59e3a": [
+    "includes\\virtual-machines-ag-listener-load-balanced-endpoints.md"
   ],
   "596b7c084d8307816aa566ec606aea783fdfa68e": [
     "includes\\virtual-machines-ag-listener-load-balanced-endpoints.md"
   ],
+  "46d1c20ee7848ff912fc900d47d6b45dbaa2f852": [
+    "includes\\virtual-machines-ag-listener-next-steps.md"
+  ],
   "457d1218d8f2de0ce232be448417584805c01259": [
     "includes\\virtual-machines-ag-listener-next-steps.md"
+  ],
+  "3bc86b2e8d7775b8e2799835c43493951d8e19b0": [
+    "includes\\virtual-machines-ag-listener-open-firewall.md"
   ],
   "601df48c3b864c82464afe2d19999e7612f1264a": [
     "includes\\virtual-machines-ag-listener-open-firewall.md"
   ],
+  "65415ae9d52a0f0c076cfc027d6b19969177f8ee": [
+    "includes\\virtual-machines-ag-listener-test.md"
+  ],
   "878318d3b2d213c9c4561718a72c3f9b83496e45": [
     "includes\\virtual-machines-ag-listener-test.md"
+  ],
+  "61109928323fd2eb0b4e70c38395543b9551f332": [
+    "includes\\virtual-machines-choose-me-content.md"
   ],
   "fa449959ef5872b13fb58ee573ab14a6e3580d9d": [
     "includes\\virtual-machines-choose-me-content.md"
   ],
+  "5b17d0697e1a30440e71035b04c4a86e93a43438": [
+    "includes\\virtual-machines-create-linuxvm.md"
+  ],
   "8096fd8a219edb89e16b1db6435a17ad8481f3ac": [
     "includes\\virtual-machines-create-linuxvm.md"
+  ],
+  "3ca7203fb941b5f8ddf40568a84891cbdd1a5d42": [
+    "includes\\virtual-machines-create-windowsvm.md"
   ],
   "cff675fdbdb7b3d8c12a6a3b3ce70dd13c33215b": [
     "includes\\virtual-machines-create-windowsvm.md"
   ],
+  "0b45acaee8262a37c3ea19105d73d4f84ee7281a": [
+    "includes\\virtual-machines-log-on-win-server.md"
+  ],
   "cf14b8ed7dfe7fdd2ccec3e5f951621517055d2c": [
     "includes\\virtual-machines-log-on-win-server.md"
+  ],
+  "20d1201376f5eab4986e5ba5f5ab8929e3265254": [
+    "includes\\virtual-machines-sql-server-connection-steps.md"
   ],
   "d9c152af21ad22b839aa077917331d9d3222ac05": [
     "includes\\virtual-machines-sql-server-connection-steps.md"
   ],
-  "4b5feb004bcb7aa2593fae510765501eaff29735": [
-    "includes\\virtual-machines-vmss-preview-include.md"
+  "71a5ca0564bef0e8a1371e397679fbd34b250322": [
+    "includes\\virtual-network-create-udr-arm-selectors-include.md"
   ],
   "25c0d085583561916ad5e0e353c0f88aaba2046d": [
     "includes\\virtual-network-create-udr-arm-selectors-include.md"
   ],
+  "7f7794ef415097a15e11e812d557d77ee2369aba": [
+    "includes\\virtual-network-create-udr-classic-selectors-include.md"
+  ],
   "e26f06afb30d615bebd82c7991bdd4998069a4cb": [
     "includes\\virtual-network-create-udr-classic-selectors-include.md"
+  ],
+  "e7a9f3cfa6e07799f7ca6771d1d17ad55cfd5692": [
+    "includes\\virtual-network-create-udr-intro-include.md"
   ],
   "67052b2991f6eedad466fcc743fd335dc3acbfca": [
     "includes\\virtual-network-create-udr-intro-include.md"
   ],
+  "3114c686e67df29606404cd6248c2ebb5c62834a": [
+    "includes\\virtual-network-create-udr-scenario-include.md"
+  ],
   "84b90afddf54b191f3b7962c66b8a08acd6a82cb": [
     "includes\\virtual-network-create-udr-scenario-include.md"
+  ],
+  "8692bb0354bc9f21961e35e0220ec2a468a57697": [
+    "includes\\virtual-network-deploy-multinic-arm-selectors-include.md"
   ],
   "10e00a30eb0f913b7ed3a51aedccad221879434d": [
     "includes\\virtual-network-deploy-multinic-arm-selectors-include.md"
   ],
+  "b04551422c5868a35c3a031374389fa1b94ea662": [
+    "includes\\virtual-network-deploy-multinic-classic-selectors-include.md"
+  ],
   "80fda0393ce527617ffab61b2c4bc348e324a4d9": [
     "includes\\virtual-network-deploy-multinic-classic-selectors-include.md"
+  ],
+  "698fe53146cacb817439a4621b86fb37240c6d26": [
+    "includes\\virtual-network-deploy-multinic-intro-include.md"
   ],
   "ac8cc37144fafd798e3458515c1574823e1d9708": [
     "includes\\virtual-network-deploy-multinic-intro-include.md"
   ],
+  "de0b3217421e8c9acfa0dd416ee95da438b23c92": [
+    "includes\\virtual-network-deploy-multinic-scenario-include.md"
+  ],
   "ab0dc560ae30facb9e670f09047ec78586a8ed66": [
     "includes\\virtual-network-deploy-multinic-scenario-include.md"
+  ],
+  "82e237efb0a511040891898923e98445b4377da5": [
+    "includes\\virtual-networks-create-nsg-intro-include.md"
   ],
   "d247959ff60a60862119bc5ad915bb3d251f5d73": [
     "includes\\virtual-networks-create-nsg-intro-include.md"
   ],
+  "e58556029f8696d323c24d27c15a2fa0f8a817d0": [
+    "includes\\virtual-networks-create-nsg-scenario-include.md"
+  ],
   "b02624339d5897842768d18fe1ec0967efab8460": [
     "includes\\virtual-networks-create-nsg-scenario-include.md"
+  ],
+  "f49985d0d4d1bc4b005eb34086872310d7702fae": [
+    "includes\\virtual-networks-create-nsg-selectors-arm-include.md"
   ],
   "1b97f5b33f7b7e9d125bd2442fd9d88ba237c615": [
     "includes\\virtual-networks-create-nsg-selectors-arm-include.md"
   ],
+  "cc700a7286f029220c240dc807a73fe1e2a63b73": [
+    "includes\\virtual-networks-create-nsg-selectors-classic-include.md"
+  ],
   "0b596759c818642313e1ec66ed39fe4cc4152bde": [
     "includes\\virtual-networks-create-nsg-selectors-classic-include.md"
+  ],
+  "061f5b0a5220896116102ee10315499f1f9adeaa": [
+    "includes\\virtual-networks-create-vnet-arm-cli-include.md"
   ],
   "99db3e7fda59fc332bb0398fa0cd806313a50c70": [
     "includes\\virtual-networks-create-vnet-arm-cli-include.md"
   ],
+  "c6e4a0b9205c2a54e9ed890689606e816059941f": [
+    "includes\\virtual-networks-create-vnet-arm-pportal-include.md"
+  ],
   "2580b1d4768c416d996f10dff6f8f3054f1e7e4e": [
     "includes\\virtual-networks-create-vnet-arm-pportal-include.md"
+  ],
+  "1259489a49bbee02ce8494de10ac6dc887c9c379": [
+    "includes\\virtual-networks-create-vnet-arm-ps-include.md"
   ],
   "60e45c4b15d994aa4da0161bef8a344a7d549adb": [
     "includes\\virtual-networks-create-vnet-arm-ps-include.md"
   ],
+  "099365c1dfda96f16043f15d4607af09658f90b9": [
+    "includes\\virtual-networks-create-vnet-arm-template-click-include.md"
+  ],
   "22eb14e0465651e1abda4888bd217b7c1536c484": [
     "includes\\virtual-networks-create-vnet-arm-template-click-include.md"
+  ],
+  "42129e273fed0cf9891f1d8fa1d4460f3d4d6714": [
+    "includes\\virtual-networks-create-vnet-arm-template-cli-include.md"
   ],
   "4c17b29a4838d2ce7b57c1ebc7d78e3ea38b70be": [
     "includes\\virtual-networks-create-vnet-arm-template-cli-include.md"
   ],
+  "bc84f438c6e49802f9a92d219e51f73e3b80c33a": [
+    "includes\\virtual-networks-create-vnet-arm-template-include.md"
+  ],
   "1cac18566ebb52f9b7487b13efc2b9ae97df9c1c": [
     "includes\\virtual-networks-create-vnet-arm-template-include.md"
+  ],
+  "78b76b14d8742d35685f05d7959801304932b1c7": [
+    "includes\\virtual-networks-create-vnet-arm-template-ps-include.md"
   ],
   "132718887ecf888cea2169973db10d04273cb20c": [
     "includes\\virtual-networks-create-vnet-arm-template-ps-include.md"
   ],
+  "31bb8c363110ec2d626a9e1670b79d3964ec2d25": [
+    "includes\\virtual-networks-create-vnet-classic-cli-include.md"
+  ],
   "0468eed746df4005a117834d4547152051bb0dd5": [
     "includes\\virtual-networks-create-vnet-classic-cli-include.md"
+  ],
+  "039cdab67f2c3b7a972be0facb112f54eeaeb26b": [
+    "includes\\virtual-networks-create-vnet-classic-netcfg-portal-include.md"
   ],
   "023faa73151893a84f58e309615de3a4e2844057": [
     "includes\\virtual-networks-create-vnet-classic-netcfg-portal-include.md"
   ],
+  "441954f45cd3f02fe69a2a0b106da5d52c0b2dac": [
+    "includes\\virtual-networks-create-vnet-classic-netcfg-ps-include.md"
+  ],
   "24869e088a3928626c6c889c197862a2b06cf2c5": [
     "includes\\virtual-networks-create-vnet-classic-netcfg-ps-include.md"
+  ],
+  "434385e632524d3f5c44c389f99a4143a67da46c": [
+    "includes\\virtual-networks-create-vnet-classic-portal-include.md"
   ],
   "2a27b894abefd7b5c8f54cbcef21e4626d0eaa5e": [
     "includes\\virtual-networks-create-vnet-classic-portal-include.md"
   ],
+  "655181aea80e02e64c23800c4d147e489290addb": [
+    "includes\\virtual-networks-create-vnet-classic-pportal-include.md"
+  ],
   "978f0c7f92c3f451fb13f9ea3dcce4e12848d2c8": [
     "includes\\virtual-networks-create-vnet-classic-pportal-include.md"
+  ],
+  "30359f719692a5c2ffe257fb05a4e4dfa2d8255c": [
+    "includes\\virtual-networks-create-vnet-intro-include.md"
   ],
   "d2c9b259f4f2a38dbf0b32b9b1e9d9f165ad43ee": [
     "includes\\virtual-networks-create-vnet-intro-include.md"
   ],
+  "15bd8fd6f1d236680fc958284f7029b18c1c83e3": [
+    "includes\\virtual-networks-create-vnet-scenario-include.md"
+  ],
   "28da83241cb72ca29c22ad43c98c5965d1866c62": [
     "includes\\virtual-networks-create-vnet-scenario-include.md"
+  ],
+  "576536552250a614f980dac6ec9af41244733fd4": [
+    "includes\\virtual-networks-create-vnet-selectors-arm-include.md"
   ],
   "5d422f96670e58751d70815bf64672e1516228e4": [
     "includes\\virtual-networks-create-vnet-selectors-arm-include.md"
   ],
+  "4e8c8fe72143e20cb9f09ccbbc13e0ca23bda692": [
+    "includes\\virtual-networks-create-vnet-selectors-classic-include.md"
+  ],
   "889c220528008fe4f52ea4a2c8c8b1142b1cf292": [
     "includes\\virtual-networks-create-vnet-selectors-classic-include.md"
+  ],
+  "8852a0f6aa92165d2bf7c55365465fe611c9ac82": [
+    "includes\\virtual-networks-nrp-appgw-include.md"
   ],
   "9343cd39ff4f621285c66d515a60af76b010492d": [
     "includes\\virtual-networks-nrp-appgw-include.md"
   ],
+  "0d77f134ded37b6c94de79a667b7a3d64e0c625b": [
+    "includes\\virtual-networks-nrp-dns-include.md"
+  ],
   "df92982e0477a696b7df2a6f29d5f9927f830427": [
     "includes\\virtual-networks-nrp-dns-include.md"
+  ],
+  "b9f49eb4a4392af816161dbd534f07e57b28b9e6": [
+    "includes\\virtual-networks-nrp-lb-include.md"
   ],
   "226fac0744827c5557d4d21644d7a983fd010b5b": [
     "includes\\virtual-networks-nrp-lb-include.md"
   ],
+  "4f172293522adbfb9d75caf4a6ce7d3ed74c93d5": [
+    "includes\\virtual-networks-nrp-nic-include.md"
+  ],
   "30329035adf0efbfa9d779c52ae746ebb78d57c1": [
     "includes\\virtual-networks-nrp-nic-include.md"
+  ],
+  "9be0ba02059687f648a8ab004125f5c0b6ba3065": [
+    "includes\\virtual-networks-nrp-nsg-include.md"
   ],
   "dce9fc02d9c960fdef2e6759a9e63fc77ce5763e": [
     "includes\\virtual-networks-nrp-nsg-include.md"
   ],
+  "62dfafc9d4b1d43c2308d7a316eb5d64d553c2a1": [
+    "includes\\virtual-networks-nrp-pip-include.md"
+  ],
   "c0b57d5f8a924473ec8db55caf5343b237d1b2ad": [
     "includes\\virtual-networks-nrp-pip-include.md"
+  ],
+  "05437615cfdce0ecf6fcd458c03edc70cbeed4bb": [
+    "includes\\virtual-networks-nrp-tm-include.md"
   ],
   "e0d07315ffb88847f29eb38e2f0aee2da8eef946": [
     "includes\\virtual-networks-nrp-tm-include.md"
   ],
+  "f7b271b1e2f3683e03a1f28dbbba00c6945bd392": [
+    "includes\\virtual-networks-nrp-udr-include.md"
+  ],
   "ed51c4671a980c3f3bdf95671e0d158309eb6108": [
     "includes\\virtual-networks-nrp-udr-include.md"
+  ],
+  "98f1f9054f566a4582d682484268e4a4c994feec": [
+    "includes\\virtual-networks-nrp-vnet-include.md"
   ],
   "365e621aa809cbe2daff7f3341e7f0302819383b": [
     "includes\\virtual-networks-nrp-vnet-include.md"
   ],
+  "98202ed4a1c5bf24689ed408c01a821c40c92a29": [
+    "includes\\virtual-networks-nrp-vpn-include.md"
+  ],
   "7f1fef0bc1044b90dab3db9b98a9f102fbe896f2": [
     "includes\\virtual-networks-nrp-vpn-include.md"
+  ],
+  "9794b27cd98945d8c14c813a954fce4e9f77f98c": [
+    "includes\\virtual-networks-static-ip-scenario-include.md"
   ],
   "c177b17958a345094c08d72c185148fc684a66d9": [
     "includes\\virtual-networks-static-ip-scenario-include.md"
   ],
+  "b6de83985333272564cf863c54649e06224f4a32": [
+    "includes\\virtual-networks-static-private-ip-intro-include.md"
+  ],
   "d57231f522742451093c882eb73d23e3cc91461a": [
     "includes\\virtual-networks-static-private-ip-intro-include.md"
+  ],
+  "6a77ab82c5f0b9bf3891c7b1ae30abec3d78958e": [
+    "includes\\virtual-networks-static-private-ip-selectors-arm-include.md"
   ],
   "8eef83098592eddbf0846f358adc7f1f3d64a6d6": [
     "includes\\virtual-networks-static-private-ip-selectors-arm-include.md"
   ],
+  "d29059f7686701fe8be8d493f2f6a58fd430b1ba": [
+    "includes\\virtual-networks-static-private-ip-selectors-classic-include.md"
+  ],
   "d5ba76e74483fbca055a3162b7fc8c7869f83205": [
     "includes\\virtual-networks-static-private-ip-selectors-classic-include.md"
+  ],
+  "084a58e8529824a63b30cba2a317db546a6c3716": [
+    "includes\\virtual-networks-vnet-faq-include.md"
   ],
   "d79f5add28920b37505b2bab5501b9df5ca36674": [
     "includes\\virtual-networks-vnet-faq-include.md"
   ],
+  "f8b13499ac749ae503766308b74cceea8e1d05ad": [
+    "includes\\vpn-gateway-classic-rm-include.md"
+  ],
   "e11629ec35f2c6cd0896792968ef2262f8a29008": [
     "includes\\vpn-gateway-classic-rm-include.md"
+  ],
+  "d9a17b7347fca5aab60e3b8b09d18d6f8f35435c": [
+    "includes\\vpn-gateway-no-nsg-include.md"
   ],
   "ffbbfd14df08c2aea101f97cbad8f2e1bd734e21": [
     "includes\\vpn-gateway-no-nsg-include.md"
   ],
+  "41437dd06ce068b099ebd522841c9f1a5f6aaef5": [
+    "includes\\vpn-gateway-ps-rm-howto-include.md"
+  ],
   "58746a304d0c6ff85681132bb8fa7727cecc3704": [
     "includes\\vpn-gateway-ps-rm-howto-include.md"
+  ],
+  "b1430192dd46045c88143ad226fd6df50a92fe04": [
+    "includes\\vpn-gateway-sm-rm-include.md"
   ],
   "7bf465ccb3f83e2f40a2f3bd1bafe303bc07126c": [
     "includes\\vpn-gateway-sm-rm-include.md"
   ],
+  "7b5236252a3769d5e6aebd9e79b373fa7ce818bc": [
+    "includes\\vs-connect.md"
+  ],
   "72e05345a1e5b853551a4f62a4c84e988b9e25a7": [
     "includes\\vs-connect.md"
+  ],
+  "e4111f44873d77ac541b104a935d018218c110ac": [
+    "includes\\vs-connect-ws-publish.md"
   ],
   "120a9eebd5f42361111dcb754a1e6fb4f4696999": [
     "includes\\vs-connect-ws-publish.md"
   ],
+  "a6a791ba6c44f587b3351f0148875030f7213073": [
+    "includes\\vs-create-blob-container-in-server-explorer.md"
+  ],
   "a2ce4c08ea3532642a8dfae100c332f25a5b3aac": [
     "includes\\vs-create-blob-container-in-server-explorer.md"
+  ],
+  "f51aea42e2826117eb90d238ca5c15f29873cb92": [
+    "includes\\vs-create-queue-in-server-explorer.md"
   ],
   "3be4c92731c0899548f99381dc18bf0f487902e7": [
     "includes\\vs-create-queue-in-server-explorer.md"
   ],
+  "41811088ef317cdf09930932a40e29e533f5afbb": [
+    "includes\\vs-create-table-in-server-explorer.md"
+  ],
   "13a05e434b267f9ebfba6f78e5fa1eaf71c2f6a7": [
     "includes\\vs-create-table-in-server-explorer.md"
+  ],
+  "3ac3b810f553799fbea238f73ef724e703d4a7b3": [
+    "includes\\vs-storage-dotnet-blobs-next-steps.md"
   ],
   "c7cb779a2f1b247dea25ea3c57c0f81113909e62": [
     "includes\\vs-storage-dotnet-blobs-next-steps.md"
   ],
+  "75846a3af8722436f9e9edcc6c7332a95254840f": [
+    "includes\\vs-storage-dotnet-queues-next-steps.md"
+  ],
   "50993df6aa81b80f82621353a99122943b49c86e": [
     "includes\\vs-storage-dotnet-queues-next-steps.md"
+  ],
+  "f077c694cf696b8358b7d88ebfdba8314eea1e48": [
+    "includes\\vs-storage-dotnet-tables-next-steps.md"
   ],
   "231d9976bd84bc363d0042945b9b2f1c348e511e": [
     "includes\\vs-storage-dotnet-tables-next-steps.md"
   ],
+  "28f1fe6d3f411421b48e8f6960050915ce80db38": [
+    "includes\\website-from-gallery.md"
+  ],
   "3e7706fc85061ec3f4244aa068d08bab8bf8968a": [
     "includes\\website-from-gallery.md"
+  ],
+  "8372c89d7e28427d9c71bb68dd2c6d7643f40748": [
+    "includes\\websites-cloud-services-css-guided-walkthrough.md"
   ],
   "855742c88c0023541a0059309025436f516eea09": [
     "includes\\websites-cloud-services-css-guided-walkthrough.md"
   ],
+  "fd0f2602bfebd94e415ff1b80f401c12a0905d7a": [
+    "includes\\websites-custom-domain-selector.md"
+  ],
   "968cf3f16cdb631f20c456c52accd62f6d95369a": [
     "includes\\websites-custom-domain-selector.md"
+  ],
+  "7c1f0534f4e14e5491698dd528769ac4f07cfd1f": [
+    "includes\\web-sites-python-customizing-deployment.md"
   ],
   "74849f8f099b3ef290d4635503b3ee046fe49614": [
     "includes\\web-sites-python-customizing-deployment.md"
   ],
+  "6c703d5c8649bc5b4b1bd3d7280f97b30a6ff33e": [
+    "includes\\web-sites-python-customizing-runtime.md"
+  ],
   "68ba04675b5ab06350040843cefc7bee03eb1700": [
     "includes\\web-sites-python-customizing-runtime.md"
+  ],
+  "73167db7c907dc588721acc63505062b1cf3c441": [
+    "includes\\web-sites-python-troubleshooting-deployment.md"
   ],
   "77fc7f156518d0fc4b370218ff275476a8dfd705": [
     "includes\\web-sites-python-troubleshooting-deployment.md"
   ],
+  "8ec400af7810532818f3ffe5e8dc9a967086fba3": [
+    "includes\\web-sites-python-troubleshooting-package-installation.md"
+  ],
   "26fa339c1b73c0047d3a8e1b685bc09f42cb3d2d": [
     "includes\\web-sites-python-troubleshooting-package-installation.md"
+  ],
+  "f17b49f936f3eacccc5da0afb701d80dc0de71d7": [
+    "includes\\web-sites-python-troubleshooting-virtual-environment.md"
   ],
   "ebd6c3b813d71e8128b1181a640d6c733defe946": [
     "includes\\web-sites-python-troubleshooting-virtual-environment.md"
   ],
+  "36d80e5fa1ad732d1bc8478e9fe88a056689697b": [
+    "includes\\xplat-getting-set-up.md"
+  ],
   "a39c886f373ecaa2320f5344325ee254ffb96856": [
     "includes\\xplat-getting-set-up.md"
+  ],
+  "dea3893d122046f189fa34e74fa2b92ee6428546": [
+    "includes\\xplat-getting-set-up-arm.md"
   ],
   "2d5448f222a5604f652d54b79afe25f0af03bd2a": [
     "includes\\xplat-getting-set-up-arm.md"
@@ -4289,14 +6434,23 @@
   "c9883d73b1c5989834e83ba7a2ca793cfd4ef042": [
     "articles\\app-service\\app-service-deployment-readme.md"
   ],
+  "72b23ffe44e686f46e36cd5c5565ff472a6337d4": [
+    "articles\\app-service\\app-service-how-works-readme.md"
+  ],
   "7baf00cc3cd5f8c78686d7b20f502935e85c85eb": [
     "articles\\app-service\\app-service-how-works-readme.md"
+  ],
+  "5a7aee52959bf739c22aed3819b6dddd4e355638": [
+    "articles\\app-service\\app-service-local-cache.md"
   ],
   "b6b54380855fbabc1bef35399f7d1623ac7bcb85": [
     "articles\\app-service\\app-service-local-cache.md"
   ],
   "21a18a6b32e445929885e6db10c04945abaae257": [
     "articles\\app-service\\app-service-local-cache.md"
+  ],
+  "97c486187829bcab9c88104e8d517f1aae3f82a5": [
+    "articles\\app-service\\app-service-security-readme.md"
   ],
   "de2ec0be5d153075a45bd4f7881c5bb387fb1551": [
     "articles\\app-service\\app-service-security-readme.md"
@@ -4310,23 +6464,11 @@
   "92b98c1b94b63cb201bbf29a5cb99dff4ec02aa2": [
     "articles\\app-service-logic\\app-service-logic-schema-2015-08-01.md"
   ],
-  "d806969f84c9f0307115a9f90c37df067a9de280": [
-    "articles\\app-service\\test-exclude1.md"
-  ],
-  "e3dce7811b66d328d1092664b0410605f9a88d1f": [
-    "articles\\app-service\\test-exclude1.md"
-  ],
-  "a6ace9ea2c977266a32e8c7adbebb935c9b8cc0d": [
-    "articles\\app-service\\test-exclude1.md"
-  ],
   "20210dd0f65cb688d5ec307f61f25b2013625dcf": [
     "articles\\app-service-logic\\test-exclude2.md"
   ],
   "274be36536dcc3e78fb284fec076961536eb7998": [
     "articles\\app-service-logic\\test-exclude2.md"
-  ],
-  "afe10e26b5201d92d21ae591d8df816635ca90b7": [
-    "articles\\app-service\\app-service-include-scale.md"
   ],
   "9ee10e3ff0c556686e81a3c586c68b557872c587": [
     "articles\\active-directory\\active-directory-aadconnect-feature-automatic-upgrade.md"
@@ -8451,5 +10593,452 @@
   ],
   "b8a2c9d50fcfc194abdd1489c9dbfd0652e0e124": [
     "articles\\app-service-mobile\\app-service-mobile-xamarin-forms-blob-storage.md"
+  ],
+  "f442c52506ff0e14b4e529cdfdbbd8f68db22acd": [
+    "includes\\active-directory-applications-guiding-developers-for-lob-applications-toc.md"
+  ],
+  "a7a8e176e1611ae1316f3319127a7a22ea2cc289": [
+    "includes\\app-analytics-footer.md"
+  ],
+  "8518c6fa8ce59128906b48bde992dbea8d665f07": [
+    "includes\\app-analytics-top-index.md"
+  ],
+  "264b0068f46b406fa6e41620f248bb93dd3c70a7": [
+    "includes\\app-insights-analytics-footer.md"
+  ],
+  "99b13578dd4cd0bd52b87a87f27e43771ffa2120": [
+    "includes\\app-insights-analytics-top-index.md"
+  ],
+  "b94f9cc2a19531eb56a6675fd9450b50770cae02": [
+    "includes\\application-gateway-create-probe-intro-include.md"
+  ],
+  "bc68b1fa91e0c56b7c6442e22f8922959c0e3f78": [
+    "includes\\app-service-api-auth-selector.md"
+  ],
+  "dfd2641a2c043028ccdc54882bfba1b3be1411a0": [
+    "includes\\app-service-api-auth-troubleshooting.md"
+  ],
+  "3b2f845f32cf519f72ffe54531f5df83d3cdbe30": [
+    "includes\\app-service-api-dotnet-get-started-prereqs.md"
+  ],
+  "04847b890d30bf108a9973ef6247bbc9291f5ea6": [
+    "includes\\app-service-blueprint-app-service-environment.md"
+  ],
+  "eca872daafe87f8757c3d8e9da607348dac4f071": [
+    "includes\\app-service-blueprint-deployment.md"
+  ],
+  "b08a916c41b32332ffa8bd956800505665efde3f": [
+    "includes\\app-service-blueprint-guide-for-wordpress.md"
+  ],
+  "f5e0413b6f008b59f3f9969e715bd1c3457b220f": [
+    "includes\\app-service-blueprint-how-app-service-works.md"
+  ],
+  "3a46684ec8061e6762cc0d0418eff61e64a08c96": [
+    "includes\\app-service-blueprint-scaling-app-service-applications.md"
+  ],
+  "58a6a03601db4dcee6a9995407e4eb18b7be84d5": [
+    "includes\\app-service-blueprint-security.md"
+  ],
+  "1b693d3a95a59373201e786112dec3a01e45a755": [
+    "includes\\app-service-blueprint-webjobs.md"
+  ],
+  "b923ae9470ae7dbba92eebe55408be32068e9c52": [
+    "includes\\app-service-mobile-cordova-run-app.md"
+  ],
+  "888b72c855a4e610ccaa69f8ccf5eba7dc89146b": [
+    "includes\\app-service-mobile-html-js-auth-library.md"
+  ],
+  "85946ceca50a302031b9035d21f1569580ac8503": [
+    "includes\\app-service-mobile-html-js-library.md"
+  ],
+  "bfca4142cfe06cc5b7d4aae6d8f2b22166001006": [
+    "includes\\app-service-web-dotnet-get-started-prereqs.md"
+  ],
+  "01123c7e6a78955a68ed120c3ca09b6105674f8e": [
+    "includes\\azure-data-lake-analytics-limits.md"
+  ],
+  "0b685f5e0cd9de632f5c849c233779ede905ebe3": [
+    "includes\\azure-search-limits-all.md"
+  ],
+  "2574255e2e33abbe9c4219db1984c07c3cd95257": [
+    "includes\\backup-create-vault-for-vms.md"
+  ],
+  "f05f73901c25a6e771eb2665b50efd952ea2a176": [
+    "includes\\create-aspnet5-app.md"
+  ],
+  "f46103606c70ea862c546c1c2622b387e379434c": [
+    "includes\\data-factory-azure-storage-linked-services.md"
+  ],
+  "f410e71f1149bfa5df0b0739283a95460e267695": [
+    "includes\\data-factory-json-format.md"
+  ],
+  "077433f7d8e0878ec5bbe149c36fc36e4bc4a56d": [
+    "includes\\dns-reverse-dns-record-operations-arm-selectors-include.md"
+  ],
+  "b3b6525c9f4edd66513df5c83f2e71769a00aad3": [
+    "includes\\dns-reverse-dns-record-operations-classic-selectors-include.md"
+  ],
+  "5f3abaec1956ebed0a2f420592df5e0af2b97750": [
+    "includes\\dns-reverse-dns-record-operations-faq-arm-include.md"
+  ],
+  "f46ef0eb57bb307656cdec1cda045f1ac7f816b8": [
+    "includes\\dns-reverse-dns-record-operations-faq-asm-include.md"
+  ],
+  "63b14426a264dd556902ec9f8b31676fbdd48b79": [
+    "includes\\dns-reverse-dns-record-operations-intro-include.md"
+  ],
+  "f0e4aff83d9720a4e7cf5d9e4e39fd4568059875": [
+    "includes\\expressroute-gateway-rm-ps-include.md"
+  ],
+  "747f905566bf0f905d397c1d90deda0237b9e288": [
+    "includes\\functions-bindings.md"
+  ],
+  "73c9af0d54739194ab9a2b96c4c01b752345d7a9": [
+    "includes\\functions-dynamic-service-plan.md"
+  ],
+  "ae463acfd3d3479531d82d687c7f0e5d70375bc7": [
+    "includes\\functions-get-help.md"
+  ],
+  "7b9babbd4aadaa15af098e8820bacdada395c457": [
+    "includes\\functions-getting-started.md"
+  ],
+  "8cb8d03393284a389af934121c0959a40d0ce98a": [
+    "includes\\guidance-elasticsearch-selector.md"
+  ],
+  "54c1ecabf1c5e3f837472c903b13200132664955": [
+    "includes\\hdinsight-create-windows-cluster-selector.md"
+  ],
+  "f16f87bb439ecfb90ca7d0f096b31e42755693c6": [
+    "includes\\hdinsight-delete-cluster-warning.md"
+  ],
+  "19d9e3f6ccf5475442c27e09c114446482169f22": [
+    "includes\\hdinsight-selector-create-clusters.md"
+  ],
+  "2f0c7946eb50a3898704c54a05bfaf67235aabe3": [
+    "includes\\iot-hub-get-started-cloud-java.md"
+  ],
+  "ab8d1fe9c88cee7dbc76dbc08a082e814dfff254": [
+    "includes\\iot-hub-get-started-cloud-node.md"
+  ],
+  "5ea5a5267bdac6b6d655eab311d51c5f2bb0cab9": [
+    "includes\\iot-hub-get-started-device-java.md"
+  ],
+  "98f5f71fe24b84c3336b93ae87d50bfe787550b0": [
+    "includes\\iot-hub-get-started-device-node.md"
+  ],
+  "a1be6e8187f455dd5e44964fb82b0338b76f2fde": [
+    "includes\\load-balancer-compare-tm-ag-lb-include.md"
+  ],
+  "f2f6adaace973fbdb389b37b8c4204a4ff1a2831": [
+    "includes\\mobile-engagement-android-send-push.md"
+  ],
+  "0b00e9509d03740ffcfdd2e8c33a9332da0041b1": [
+    "includes\\mobile-engagement-android-send-push-from-portal.md"
+  ],
+  "3c962fc1ce05afaae829d3282659fb23407e26fc": [
+    "includes\\mobile-engagement-hero-tutorial-switcher.md"
+  ],
+  "f676d1a9a6c48630cfed2d06045789b9ab01223b": [
+    "includes\\resource-manager-audit-limitations.md"
+  ],
+  "84d8ee370b2860cd4afdcbce9510dcd98af21c14": [
+    "includes\\storage-dotnet-install-library-include.md"
+  ],
+  "87f6160337d07054f3542b055bc64616727ffb50": [
+    "includes\\storage-dotnet-save-connection-string-include.md"
+  ],
+  "6e78fc9931aa0944ad07734574ab334aeae80496": [
+    "includes\\storsimple-configure-mpio-volumes.md"
+  ],
+  "6d0d8412e0c506c1498a5a38d49b4c0718199e35": [
+    "includes\\storsimple-install-mpio-windows-server-host.md"
+  ],
+  "105b0b18517cabc1e21be0c29006fb0cf762bb69": [
+    "includes\\storsimple-install-troubleshooting.md"
+  ],
+  "ad3b64189c216c3b7fd0a046d1145023312e6fad": [
+    "includes\\storsimple-install-update2-hotfix.md"
+  ],
+  "b988683a8b5f3075758daf5cb970080b8d10f73d": [
+    "includes\\storsimple-install-update2-via-portal.md"
+  ],
+  "130811be7e8af92a2407586d9ce746a2262bce5d": [
+    "includes\\storsimple-ova-configure-new-storage-account.md"
+  ],
+  "e7b968e5612cdc64c8fff119ed66669b62ce75ec": [
+    "includes\\storsimple-ova-create-new-service.md"
+  ],
+  "b868d7ba900b45a9c349d382198097bdc03562b9": [
+    "includes\\storsimple-ova-get-service-registration-key.md"
+  ],
+  "0aaf67f4ff93613322741810211018ddb76bac70": [
+    "includes\\storsimple-preparing-for-updates.md"
+  ],
+  "5f2783e63181abc8e26fccd9663786f4d9b73496": [
+    "includes\\storsimple-virtual-array-limits.md"
+  ],
+  "7a7f4556a8a13eb1f57568ba4cb85103f9a15471": [
+    "includes\\support-disclaimer.md"
+  ],
+  "f292e0b855021bd5b8d17aa5ab6602a884cd2d70": [
+    "includes\\virtual-machines-common-a8-a9-a10-a11-specs.md"
+  ],
+  "1e461b3b2f64d2bfbd008bac481b55c9ab7484a6": [
+    "includes\\virtual-machines-common-about-disks-vhds.md"
+  ],
+  "66dd096c8d7a902a2019e6f36e16385ceb40982a": [
+    "includes\\virtual-machines-common-allocation-failure.md"
+  ],
+  "ebfd54e312ec9913e0de41fd8a7574133f6f0e04": [
+    "includes\\virtual-machines-common-app-frameworks.md"
+  ],
+  "447f796f2dd3df555368cc46371f1395cd4145b8": [
+    "includes\\virtual-machines-common-attach-disk-portal.md"
+  ],
+  "16087ed09b089f6ea33db8cea29a83b21662c196": [
+    "includes\\virtual-machines-common-classic-about-images.md"
+  ],
+  "fd3c2d559f0e833287b800d9b20df2c60135d381": [
+    "includes\\virtual-machines-common-classic-agents-and-extensions.md"
+  ],
+  "f17f8a5659916a5c18acbb6ef50098c3d83cb641": [
+    "includes\\virtual-machines-common-classic-configure-availability.md"
+  ],
+  "0cc09b96d6f59aee6aac6418bafe9a286e9decf3": [
+    "includes\\virtual-machines-common-classic-connect-vms.md"
+  ],
+  "0592bfe87fb8c66e54cdf0eecfd9c500093880ea": [
+    "includes\\virtual-machines-common-classic-createportal.md"
+  ],
+  "ebd2e068ed81df14304fef63caf9b1c173845235": [
+    "includes\\virtual-machines-common-classic-faq.md"
+  ],
+  "ba6d4e82e62a2604c6ecb9d6bf4328f394af75b4": [
+    "includes\\virtual-machines-common-classic-hpcpack-cluster-powershell-script.md"
+  ],
+  "0be0bbca2ef22aa0eedda3d11534433705e08188": [
+    "includes\\virtual-machines-common-classic-inject-custom-data.md"
+  ],
+  "58b9655c4375e0a348cd48c6dc848fe0b7086d9f": [
+    "includes\\virtual-machines-common-classic-manage-extensions.md"
+  ],
+  "7452a32dce868a9b9049a1b674d2975ccaf6d277": [
+    "includes\\virtual-machines-common-classic-manage-visual-studio.md"
+  ],
+  "effc173b7f41f747924648c9f803f6bce28aff65": [
+    "includes\\virtual-machines-common-classic-oracle.md"
+  ],
+  "06efa31bbea6d1ab30e8f13bddf3e88d44070c99": [
+    "includes\\virtual-machines-common-classic-oracle-images.md"
+  ],
+  "6ffd45508a095d9d271b255d07ee414f7b3d049f": [
+    "includes\\virtual-machines-common-classic-sap-get-started.md"
+  ],
+  "698818eb83fc0a9e16024d294198a0a82f707d6e": [
+    "includes\\virtual-machines-common-classic-setup-endpoints.md"
+  ],
+  "d7b36e60a098aa447a23d229e9f85566454a453f": [
+    "includes\\virtual-machines-common-classic-web-app-visual-studio.md"
+  ],
+  "db9da64067e9791b9c6fced02f5c5dedc97a7f86": [
+    "includes\\virtual-machines-common-cli-deploy-templates.md"
+  ],
+  "612f4316cb8634fa6ded6bf0e1aab8d107bdc92b": [
+    "includes\\virtual-machines-common-cli-manage.md"
+  ],
+  "c2d9b7f6d7714c27f8af36f43d80e468da322a31": [
+    "includes\\virtual-machines-common-cli-ps-findimage.md"
+  ],
+  "26888bc0a4cd5e67e915570f5f47fbdd335de216": [
+    "includes\\virtual-machines-common-compare-deployment-models.md"
+  ],
+  "435228795309dc8a55f2d976c5dfeec3f64f571e": [
+    "includes\\virtual-machines-common-containers.md"
+  ],
+  "0cecc73fc2a7967a535c81ac2fd62b3cd3b01247": [
+    "includes\\virtual-machines-common-create-aad-work-id.md"
+  ],
+  "115f17d56524b3e2d3beadc035b159fdec56c01f": [
+    "includes\\virtual-machines-common-dockerextension.md"
+  ],
+  "11e5e543746fbe2b9ca674b93c2ea26f5848ceee": [
+    "includes\\virtual-machines-common-expand-os-disk.md"
+  ],
+  "0e13f82f58b73fbc9d26c2190fbd23de8c5d2081": [
+    "includes\\virtual-machines-common-extensions-authoring-templates.md"
+  ],
+  "74b19bf6c16bba18bb807e71b736d604b6a5584d": [
+    "includes\\virtual-machines-common-extensions-customscript.md"
+  ],
+  "850d9309c84846ae83f880e7859956f2627bf175": [
+    "includes\\virtual-machines-common-extensions-features.md"
+  ],
+  "3b76261268f6ee2f1430fdc25874ab268a5347d2": [
+    "includes\\virtual-machines-common-extensions-troubleshoot.md"
+  ],
+  "01ae5b3b330d9141fec5f9af40622121b64cc2f1": [
+    "includes\\virtual-machines-common-hpcpack-cluster-options.md"
+  ],
+  "15f149ecb2ff50585a3066f68474ce1c67b22d13": [
+    "includes\\virtual-machines-common-infrastructure-service-guidelines.md"
+  ],
+  "bef104f57044f84a508fcdbce3a8101c43dd132b": [
+    "includes\\virtual-machines-common-load-balance.md"
+  ],
+  "7568bde23e398468510cdf6243123d3b27144bf5": [
+    "includes\\virtual-machines-common-log-collector-extension.md"
+  ],
+  "0527bda051668f5ae933284b7fb9bed55323f69a": [
+    "includes\\virtual-machines-common-manage-availability.md"
+  ],
+  "4fac501c814805577aeeca827518ef1ab2213b93": [
+    "includes\\virtual-machines-common-planned-maintenance.md"
+  ],
+  "f669d8f701c9a811e3f12e250c2bef528730d261": [
+    "includes\\virtual-machines-common-planned-maintenance-schedule.md"
+  ],
+  "7fb2c8f86b135a41362e93b4298195e9a9906801": [
+    "includes\\virtual-machines-common-portal-create-fqdn.md"
+  ],
+  "6ad4ae28f07f2fc8ca7ec80c557d79e9bb217a32": [
+    "includes\\virtual-machines-common-redeploy-to-new-node.md"
+  ],
+  "47b7e07372ed6ef5afdc5c68851605808ecc70a5": [
+    "includes\\virtual-machines-common-scale-sets-overview.md"
+  ],
+  "3f7940df384da0d847bd0168b15a55ee448598f9": [
+    "includes\\virtual-machines-common-scale-sets-visual-studio.md"
+  ],
+  "7b4d8ea987fdf96c438897530e9f1a09b0136cdb": [
+    "includes\\virtual-machines-common-sizes.md"
+  ],
+  "147dc0ea7a6701bad50a013d0a6df8cfefb7f722": [
+    "includes\\virtual-machines-common-tag.md"
+  ],
+  "1c14ac3d93bc9ef0003f225fa0609a6b1190018f": [
+    "includes\\virtual-machines-common-troubleshoot-app-connection.md"
+  ],
+  "6792ec036dae5320f1111a8d85613596e82c711d": [
+    "includes\\virtual-machines-common-vmss-create-cli.md"
+  ],
+  "8ca904068de3c483b4405c28f06e1a96ad5169ca": [
+    "includes\\virtual-machines-sql-server-akv-next-steps.md"
+  ],
+  "3d9de97fd10407061ee5fdeef7cde0775225bfca": [
+    "includes\\virtual-machines-sql-server-akv-prepare.md"
+  ],
+  "0bc5378f8c9bde09ec579b0279756f2d1ce0a467": [
+    "includes\\virtual-machines-sql-server-connection-steps-classic.md"
+  ],
+  "dc03d15b28932cd5f80c4d339a7a55f7f309ead2": [
+    "includes\\virtual-machines-sql-server-connection-steps-classic-tcp-endpoint.md"
+  ],
+  "98eba44409d5c727b931f950b060cb67e3f9835c": [
+    "includes\\virtual-machines-sql-server-connection-steps-resource-manager.md"
+  ],
+  "fda1d9891c4514f5b14d291f201c0046fe290629": [
+    "includes\\virtual-machines-sql-server-connection-steps-resource-manager-nsg-rule.md"
+  ],
+  "caad181001936877b4bf910077ef0946ab116278": [
+    "includes\\virtual-machines-vmss-preview-cli-include.md"
+  ],
+  "9cc58e1291052d8c39c146e5e0d9e88b975db51c": [
+    "includes\\virtual-machines-vmss-preview-ps-include.md"
+  ],
+  "60b23f4369a3e77bdfa23c2333980a4ffb4def4a": [
+    "includes\\virtual-network-deploy-static-pip-arm-selectors-include.md"
+  ],
+  "e65717699e82b627cfdbd1f7c06724660b8e0629": [
+    "includes\\virtual-network-deploy-static-pip-intro-include.md"
+  ],
+  "181d558bf61a80f8f1c271cc6a945cc2d5acb176": [
+    "includes\\virtual-network-deploy-static-pip-scenario-include.md"
+  ],
+  "758e5e2436a24eccb08be874a7f358820e27c705": [
+    "includes\\virtual-network-manage-nsg-arm-scenario-include.md"
+  ],
+  "8ddad2ae8dce2be0a775bcc56bf8df2549437119": [
+    "includes\\virtual-network-manage-nsg-arm-selectors-include.md"
+  ],
+  "bf22395135501a51bd92eab10f7b73ba9ed72850": [
+    "includes\\virtual-network-manage-nsg-intro-include.md"
+  ],
+  "76fcc52956ead7ae180e43d5467724a222957e06": [
+    "includes\\vpn-gateway-add-dns-rm-portal-include.md"
+  ],
+  "5930ad411288ca53a64b69bb2b426efe3e8d0558": [
+    "includes\\vpn-gateway-add-gw-rm-portal-include.md"
+  ],
+  "de8305b1f51cbe9c0c894dcc0fd993afbdaebc43": [
+    "includes\\vpn-gateway-add-gwsubnet-rm-portal-include.md"
+  ],
+  "389e1a2e73db9028b4130885af3622da9ccacdb3": [
+    "includes\\vpn-gateway-additional-address-space-include.md"
+  ],
+  "e2e1a8cfa8610e6d911f5b6abc6d2ac570c8ad43": [
+    "includes\\vpn-gateway-add-lng-rm-portal-include.md"
+  ],
+  "504c8ca6f7bc9520f38d68118d469e94d3094ccc": [
+    "includes\\vpn-gateway-add-site-to-site-connection-rm-portal-include.md"
+  ],
+  "642ffbfc3b319914d164f3e8faedcc9a55211600": [
+    "includes\\vpn-gateway-add-vnet-to-vnet-connection-rm-portal-include.md"
+  ],
+  "dafad38c82553ee142540a53c45655036a05b82c": [
+    "includes\\vpn-gateway-basic-vnet-rm-portal-include.md"
+  ],
+  "c472d58a741ba174b2c61deb4c9161b520d68b8a": [
+    "includes\\vpn-gateway-basic-vnet-scenario-include.md"
+  ],
+  "5c60a88d4156c4b70a99243a765264d1f390c99d": [
+    "includes\\vpn-gateway-configure-vpn-device-rm-include.md"
+  ],
+  "207c6ee87cb4ade09099c4cfd4540bcf88ed90e2": [
+    "includes\\vpn-gateway-cross-premises-include.md"
+  ],
+  "c60effb8e30a194fc1ff7ecfe3beb5f356dd5920": [
+    "includes\\vpn-gateway-modify-ip-prefix-rm-include.md"
+  ],
+  "300c513950f64de298cca649568faed3aa0981ad": [
+    "includes\\vpn-gateway-table-coexist-include.md"
+  ],
+  "9b01d8a00c9b4c02f4b38d3a820ddc38b84d773a": [
+    "includes\\vpn-gateway-table-forcedtunnel-include.md"
+  ],
+  "499fc9818812e5144a9a4a904c30fa616166369a": [
+    "includes\\vpn-gateway-table-gwtype-aggtput-include.md"
+  ],
+  "9ecdcee38398a3af42edc570509f383b16105798": [
+    "includes\\vpn-gateway-table-multisite-include.md"
+  ],
+  "5734ed92f1172a69551c56f3a7f8c3173266b4f8": [
+    "includes\\vpn-gateway-table-point-to-site-include.md"
+  ],
+  "e8916e0237cab41aa1b6be7845f784d4ea757aab": [
+    "includes\\vpn-gateway-table-requirements-include.md"
+  ],
+  "64cb275dfb32a64086a783cc23568096de7b1696": [
+    "includes\\vpn-gateway-table-site-to-site-include.md"
+  ],
+  "ed50f2e1aa9c4f032ce52054711bbe76786178a7": [
+    "includes\\vpn-gateway-table-sku-include.md"
+  ],
+  "24b3c2ffa2bf0003ac5ce9e523ff5449f34f880d": [
+    "includes\\vpn-gateway-table-vnet-to-vnet-include.md"
+  ],
+  "c921a45607dd2b857ddab01a1ce9c35d203d9bac": [
+    "includes\\vpn-gateway-table-vpntype-include.md"
+  ],
+  "3cd4ea9fbd23aab8c1e62bdb1535689fd74e9031": [
+    "includes\\vpn-gateway-verify-connection-rm-include.md"
+  ],
+  "2f6fa7451496cd8369d421975e87c63c94afd036": [
+    "includes\\vpn-gateway-vpntype-include.md"
+  ],
+  "18e65e148d8ebbb666553919938e55f2095cac06": [
+    "includes\\vs-azure-tools-docker-add-docker-support.md"
+  ],
+  "8d7d4c40f7aa6323ec00c5f79d033bf892669e8c": [
+    "includes\\web-sites-python-django-customizing-deployment.md"
   ]
 }
