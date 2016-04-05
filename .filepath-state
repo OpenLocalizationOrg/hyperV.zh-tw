@@ -418,15 +418,6 @@
   "e9503795ad42cf3a631af363a255564c6f365497": [
     "articles\\active-directory\\active-directory-aadconnect-health-adfs.md"
   ],
-  "885112e63577d80ab4b695da483dd58c8a3f68b7": [
-    "articles\\active-directory\\active-directory-aadconnect-health-adfs.md"
-  ],
-  "19024c1db3ac6b5533958496853e6ebd5d49eab2": [
-    "articles\\active-directory\\active-directory-aadconnect-health-adfs.md"
-  ],
-  "e9c21aeaed6a4d94cce934d34476820bf62e47f7": [
-    "articles\\active-directory\\active-directory-aadconnect-health-adfs.md"
-  ],
   "109c8b90df4d638840c52ed2894871a2a93406c3": [
     "articles\\active-directory\\active-directory-aadconnect-health-agent-install.md"
   ],
@@ -655,9 +646,6 @@
   "af20c45eddf101a27bd69301922977e88032859c": [
     "articles\\active-directory\\active-directory-b2b-collaboration-overview.md"
   ],
-  "0f64f4c44e34a7f5503db83e1b53770d701d002d": [
-    "articles\\active-directory\\active-directory-b2b-collaboration-overview.md"
-  ],
   "0522fa49774bf369616f85849087be3774ee8265": [
     "articles\\active-directory\\active-directory-b2b-current-preview-limitations.md"
   ],
@@ -668,9 +656,6 @@
     "articles\\active-directory\\active-directory-b2b-how-it-works.md"
   ],
   "ff9d39e92c923de96c7aa3eb580ce0d45a2851a9": [
-    "articles\\active-directory\\active-directory-b2b-references-csv-file-format.md"
-  ],
-  "e8b5d2f4ddc24d8798a6e193705b650df570bdd4": [
     "articles\\active-directory\\active-directory-b2b-references-csv-file-format.md"
   ],
   "936d1e024d73645e198de3e9a5e8f7ec54026c36": [
@@ -847,9 +832,6 @@
   "94eb12f4b7d5061176a35ed6a15021be852e10c7": [
     "articles\\active-directory\\active-directory-integrating-applications.md"
   ],
-  "cc98e006baa17ce9df1325d16da4e9e39bb07afe": [
-    "articles\\active-directory\\active-directory-integrating-applications.md"
-  ],
   "32a914a906d96cef11b056a3172b4a35176dfbfb": [
     "articles\\active-directory\\active-directory-integrating-applications-getting-started.md"
   ],
@@ -1019,9 +1001,6 @@
     "articles\\active-directory\\active-directory-reporting-users-with-anomalous-sign-in-activity.md"
   ],
   "6ec1f8ce0e60197a72748b763c1f64466db1067d": [
-    "articles\\active-directory\\active-directory-saas-15five-tutorial.md"
-  ],
-  "ecdbdc390dce7c0f74dd78c1c5392bece63c6fe8": [
     "articles\\active-directory\\active-directory-saas-15five-tutorial.md"
   ],
   "5e89119c72eedeb496d8ae507c3d710d2e957f34": [
@@ -1700,19 +1679,10 @@
   "cee5e845ad5e52f597e312c2dff1bee3785cc35f": [
     "articles\\app-service\\app-service-authentication-overview.md"
   ],
-  "34df38bcb60e970175104959232484ffd0f5f5c4": [
-    "articles\\app-service\\app-service-authentication-overview.md"
-  ],
   "d8b23c07df578aa5d7ed5ff470b540b5ed2c5a29": [
     "articles\\app-service\\app-service-environment-auto-scale.md"
   ],
-  "69d0c1a02a5e8961df8947f06a75a4dfe8ac1093": [
-    "articles\\app-service\\app-service-environment-auto-scale.md"
-  ],
   "0ad01baab3ab0a5017e4431c3d5e5e685c1a2d63": [
-    "articles\\app-service\\app-service-release-notes.md"
-  ],
-  "06f198e5d5cf6bb8981ffda1d66605ae82d9ce59": [
     "articles\\app-service\\app-service-release-notes.md"
   ],
   "45dd889f17c7e84749c3c049cf64b65dbec5e88e": [
@@ -2018,73 +1988,37 @@
   "4d0918836e0602f59cf21cfa8f53c14e58352a74": [
     "articles\\app-service-mobile\\app-service-mobile-android-get-started-offline-data.md"
   ],
-  "a0c6503f4379ac93fcc157ac4ab49fe987a5ecd1": [
-    "articles\\app-service-mobile\\app-service-mobile-android-get-started-offline-data.md"
-  ],
   "05160cd0386dc20c89a66c74cbde5b8f58cb5c06": [
-    "articles\\app-service-mobile\\app-service-mobile-android-get-started-push.md"
-  ],
-  "c820436e84f0be3ade899fc6ed7ac1b85c11a28d": [
     "articles\\app-service-mobile\\app-service-mobile-android-get-started-push.md"
   ],
   "7eabed9c465865f1b0a31650b9ce1f96ede936af": [
     "articles\\app-service-mobile\\app-service-mobile-android-get-started-users.md"
   ],
-  "4b29961c08da2158f43b1f9099a17b9ed1243138": [
-    "articles\\app-service-mobile\\app-service-mobile-android-get-started-users.md"
-  ],
   "affabae9c06ccc05f130db877da8dabbc97df0d7": [
-    "articles\\app-service-mobile\\app-service-mobile-auth.md"
-  ],
-  "76d4a73459889f2b938c7fef9a7a10d74578291f": [
     "articles\\app-service-mobile\\app-service-mobile-auth.md"
   ],
   "1d4298a6cbcd9d28df163b685064870995990342": [
     "articles\\app-service-mobile\\app-service-mobile-client-and-server-versioning.md"
   ],
-  "fccef589a5aee6f40ff74641a74c47c30f25bd3c": [
-    "articles\\app-service-mobile\\app-service-mobile-client-and-server-versioning.md"
-  ],
   "d320a784addfd9558cc1f14418e95f306a92327f": [
-    "articles\\app-service-mobile\\app-service-mobile-dotnet-backend-how-to-use-server-sdk.md"
-  ],
-  "693e9e8920b341f3c938229c578a7474ba3bbb57": [
     "articles\\app-service-mobile\\app-service-mobile-dotnet-backend-how-to-use-server-sdk.md"
   ],
   "3801895c1aca2be8f7b7fd425de2a0698752ef4b": [
     "articles\\app-service-mobile\\app-service-mobile-dotnet-how-to-use-client-library.md"
   ],
-  "25cd5bf9b27060bd46c37ab7b1749b4da68c9ac2": [
-    "articles\\app-service-mobile\\app-service-mobile-dotnet-how-to-use-client-library.md"
-  ],
   "01134beb2f8dddf857ac25550662d13b44a32f42": [
-    "articles\\app-service-mobile\\app-service-mobile-how-to-configure-active-directory-authentication.md"
-  ],
-  "89d93b4c3b21d5320d05446f25e354a28fa88b5c": [
     "articles\\app-service-mobile\\app-service-mobile-how-to-configure-active-directory-authentication.md"
   ],
   "c24fc9905499a2ab55028c8e6ddc335a1636ba16": [
     "articles\\app-service-mobile\\app-service-mobile-how-to-configure-facebook-authentication.md"
   ],
-  "fac20aa09d913bcf3ee6b4ec03582af5883c7799": [
-    "articles\\app-service-mobile\\app-service-mobile-how-to-configure-facebook-authentication.md"
-  ],
   "670f22e7aa5ee90efc2e15f65c1560fc2410c032": [
-    "articles\\app-service-mobile\\app-service-mobile-how-to-configure-google-authentication.md"
-  ],
-  "59bb021069ca82fae2369dd165cfa653a3ce5c5c": [
     "articles\\app-service-mobile\\app-service-mobile-how-to-configure-google-authentication.md"
   ],
   "86f09dd3ed3d6d53929fce9284ab35008370491a": [
     "articles\\app-service-mobile\\app-service-mobile-how-to-configure-microsoft-authentication.md"
   ],
-  "ebc3a42e969e3722b991d29831bd6e2829523fda": [
-    "articles\\app-service-mobile\\app-service-mobile-how-to-configure-microsoft-authentication.md"
-  ],
   "d9898b6e096f71a2a17a924f607714c14f0ae6ac": [
-    "articles\\app-service-mobile\\app-service-mobile-how-to-configure-twitter-authentication.md"
-  ],
-  "1f5f9b1fa15522052f9b87593b6476f1adb30380": [
     "articles\\app-service-mobile\\app-service-mobile-how-to-configure-twitter-authentication.md"
   ],
   "52ddbfe4150a933dc0f15a17040b73632af08ad7": [
@@ -2093,55 +2027,28 @@
   "f94d546eff6177961df480bdd22c13cbe1f11de0": [
     "articles\\app-service-mobile\\app-service-mobile-ios-get-started-offline-data.md"
   ],
-  "c1e867a2a96cbdef6db08b549fdaaa9cbbaf8837": [
-    "articles\\app-service-mobile\\app-service-mobile-ios-get-started-offline-data.md"
-  ],
   "9b5107246bf0cc8f0d3379ba485f5ad300efd48f": [
-    "articles\\app-service-mobile\\app-service-mobile-ios-get-started-push.md"
-  ],
-  "4aff18cd7a201ff958909ed9187d885a9b57a8f6": [
     "articles\\app-service-mobile\\app-service-mobile-ios-get-started-push.md"
   ],
   "557a4a128fc5659a36fa4047eadf5e3245b8f86b": [
     "articles\\app-service-mobile\\app-service-mobile-ios-get-started-users.md"
   ],
-  "dcc97e235f17571bd6ee52769c2edc9db175d9d0": [
-    "articles\\app-service-mobile\\app-service-mobile-ios-get-started-users.md"
-  ],
   "08cc31f5e42a97c49422acb3573bfd3fc221cf78": [
-    "articles\\app-service-mobile\\app-service-mobile-ios-how-to-use-client-library.md"
-  ],
-  "5940809095a694a4cef9ae0bf83b177f4485ebd5": [
     "articles\\app-service-mobile\\app-service-mobile-ios-how-to-use-client-library.md"
   ],
   "b0fecf5e7a04863e1a12f97f1f5a0bd80c13d5a2": [
     "articles\\app-service-mobile\\app-service-mobile-migrating-from-mobile-services.md"
   ],
-  "6bb42f498cb4d3cf96beb741d8a3bbe36413f3b8": [
-    "articles\\app-service-mobile\\app-service-mobile-migrating-from-mobile-services.md"
-  ],
   "367706bdce53a4a30c8541914444b8ca41459433": [
-    "articles\\app-service-mobile\\app-service-mobile-net-upgrading-from-mobile-services.md"
-  ],
-  "39b958d393c9fb01eb042bf2fbc5c02ee6f6a1ab": [
     "articles\\app-service-mobile\\app-service-mobile-net-upgrading-from-mobile-services.md"
   ],
   "7466cf4e8f5d626f17462637e7987a9ec1a08fa2": [
     "articles\\app-service-mobile\\app-service-mobile-node-backend-how-to-use-server-sdk.md"
   ],
-  "fd2a03feb7a1f419df0f625b6db6886d79236eed": [
-    "articles\\app-service-mobile\\app-service-mobile-node-backend-how-to-use-server-sdk.md"
-  ],
   "0bb6f4efb0b0cf3a11dff8ddf178a46f9484e94f": [
     "articles\\app-service-mobile\\app-service-mobile-node-backend-upgrading-from-mobile-services.md"
   ],
-  "d1d99492dd26745f77d5884fc19902ce06cd2836": [
-    "articles\\app-service-mobile\\app-service-mobile-node-backend-upgrading-from-mobile-services.md"
-  ],
   "47686f58092fb856f1f287b54b0919f713b3e1cb": [
-    "articles\\app-service-mobile\\app-service-mobile-offline-data-sync.md"
-  ],
-  "236642a64450d22ba05260f3d3556e2c9dcef9f7": [
     "articles\\app-service-mobile\\app-service-mobile-offline-data-sync.md"
   ],
   "24eb7a610dfb73e939e22a058860c83fc58887e3": [
@@ -2156,19 +2063,10 @@
   "db0f8df0970d95c9315aa6a01002a666e3066dac": [
     "articles\\app-service-mobile\\app-service-mobile-windows-store-dotnet-get-started-offline-data.md"
   ],
-  "800f01a1ec99fcdff9f17be6f4182322ad3d6790": [
-    "articles\\app-service-mobile\\app-service-mobile-windows-store-dotnet-get-started-offline-data.md"
-  ],
   "8d2283d8fbbb0a760130a66040af49a940428ea9": [
     "articles\\app-service-mobile\\app-service-mobile-windows-store-dotnet-get-started-push.md"
   ],
-  "bb620fa1fe79a1bd1b8850954ac6405d564f765c": [
-    "articles\\app-service-mobile\\app-service-mobile-windows-store-dotnet-get-started-push.md"
-  ],
   "f14afab882274976e99b6652354846424b8b49b5": [
-    "articles\\app-service-mobile\\app-service-mobile-windows-store-dotnet-get-started-users.md"
-  ],
-  "56a6f4cf2a1e2bc03082893affc3a2b7fcd2195b": [
     "articles\\app-service-mobile\\app-service-mobile-windows-store-dotnet-get-started-users.md"
   ],
   "971d9ca36d252c2ad888587871df21bba7730ecd": [
@@ -2177,19 +2075,10 @@
   "59e533ca5260628dc705da6e1509103dfdd6adc7": [
     "articles\\app-service-mobile\\app-service-mobile-xamarin-android-get-started-offline-data.md"
   ],
-  "a0d6759028bba119b060d4c6081685e7c8d47ad0": [
-    "articles\\app-service-mobile\\app-service-mobile-xamarin-android-get-started-offline-data.md"
-  ],
   "0a47319fdfc72da3ddf5858dc16aceec0b394320": [
     "articles\\app-service-mobile\\app-service-mobile-xamarin-android-get-started-push.md"
   ],
-  "af42230c6679a6ea08b01ac78c702e20c228b941": [
-    "articles\\app-service-mobile\\app-service-mobile-xamarin-android-get-started-push.md"
-  ],
   "ce205ea01a32e44e999e25ee7486ffa4da99024b": [
-    "articles\\app-service-mobile\\app-service-mobile-xamarin-android-get-started-users.md"
-  ],
-  "484e350b3ba6c73e35a69662d829b35ffef8f07a": [
     "articles\\app-service-mobile\\app-service-mobile-xamarin-android-get-started-users.md"
   ],
   "6f23e4a61a7edc73818c84ac828ee97cb95b5b7b": [
@@ -2198,13 +2087,7 @@
   "cc25169174fb793026c8943710b37243e27a71bc": [
     "articles\\app-service-mobile\\app-service-mobile-xamarin-forms-get-started-push.md"
   ],
-  "38702bd98161f2020d734ca325046dbab849d5fe": [
-    "articles\\app-service-mobile\\app-service-mobile-xamarin-forms-get-started-push.md"
-  ],
   "5b4e39e3a9d7ed2115b8b9761f7ad54beeafbf6b": [
-    "articles\\app-service-mobile\\app-service-mobile-xamarin-forms-get-started-users.md"
-  ],
-  "d20883eedea437a631840b8dc6fa70b6bc1cf15e": [
     "articles\\app-service-mobile\\app-service-mobile-xamarin-forms-get-started-users.md"
   ],
   "d09444c49e735d5c3e9a3574462ed5df7f71bea2": [
@@ -2213,19 +2096,10 @@
   "667a5c174b40dcfb713c58586d682fa55e888048": [
     "articles\\app-service-mobile\\app-service-mobile-xamarin-ios-get-started-offline-data.md"
   ],
-  "aa9cdf6d984787faa0e4e294fda5ea359faed429": [
-    "articles\\app-service-mobile\\app-service-mobile-xamarin-ios-get-started-offline-data.md"
-  ],
   "7ecc6a9455f675650dbd2f14d7efce069369bc1c": [
     "articles\\app-service-mobile\\app-service-mobile-xamarin-ios-get-started-push.md"
   ],
-  "d3efe9c9540d8ef26bd240f8dc323299e38414ec": [
-    "articles\\app-service-mobile\\app-service-mobile-xamarin-ios-get-started-push.md"
-  ],
   "aa4d5e0b00826f8e58365de47c35fa184b326160": [
-    "articles\\app-service-mobile\\app-service-mobile-xamarin-ios-get-started-users.md"
-  ],
-  "40524cf0b70a7228288f1609e6b2b70eb37870dc": [
     "articles\\app-service-mobile\\app-service-mobile-xamarin-ios-get-started-users.md"
   ],
   "2c817d1ca86ba2a3e8aa7d1740a7cfc904f1fef5": [
@@ -2239,515 +2113,257 @@
     "includes\\active-directory-b2c-devquickstarts-native-switcher.md",
     "includes\\active-directory-b2c-devquickstarts-web-switcher.md"
   ],
-  "ee0a79d71ceff8ef60040de71b92ee402043fab7": [
-    "includes\\active-directory-b2c-devquickstarts-graph-switcher.md",
-    "includes\\active-directory-b2c-devquickstarts-native-switcher.md",
-    "includes\\active-directory-b2c-devquickstarts-web-switcher.md"
-  ],
   "cfe73c36e046edf9f903f0000398a221f44e4246": [
-    "includes\\active-directory-b2c-devquickstarts-policy.md"
-  ],
-  "ab1c73616ef3d1c0e9517c931564b7490bffaa50": [
     "includes\\active-directory-b2c-devquickstarts-policy.md"
   ],
   "7ab2a8d8f5c168182f1ba3a93a8c8fd3164e4c35": [
     "includes\\active-directory-b2c-devquickstarts-tenant-name.md"
   ],
-  "1217aec1748ee08e9eb2a4b0aa4c9b6dfc257a8c": [
-    "includes\\active-directory-b2c-devquickstarts-tenant-name.md"
-  ],
   "2faa4b022b03e35d032e8be391394d35621244b5": [
-    "includes\\active-directory-b2c-devquickstarts-v2-apps.md"
-  ],
-  "1141c1cc47d726c66e21b640d5f8b7ea5d2c7f1f": [
     "includes\\active-directory-b2c-devquickstarts-v2-apps.md"
   ],
   "ea8bf1bf5921875960bd412fea86289b7329d02d": [
     "includes\\active-directory-b2c-preview-note.md"
   ],
-  "5122ddb20604aee503ac02dd6e8da36573b4c04d": [
-    "includes\\active-directory-b2c-preview-note.md"
-  ],
   "87aa70f97e105fcb142d2c2e9e3d056b120214b5": [
-    "includes\\active-directory-b2c-quickstart-table.md"
-  ],
-  "5c7ee04e0c7191007a3f15e8b233b1c2f7d4ff73": [
     "includes\\active-directory-b2c-quickstart-table.md"
   ],
   "889dff6722c0ed887f28c0a236ca358e2bba6909": [
     "includes\\active-directory-devguide.md"
   ],
-  "d16795652d617d5bb1788626056025d65ee49b72": [
-    "includes\\active-directory-devguide.md"
-  ],
   "9ac9d773f0c4616be367e4cc856467cb1e6e98ab": [
-    "includes\\active-directory-devquickstarts-additional-resources.md"
-  ],
-  "e94829433a9b7bd9069f7582772cddd3443763c8": [
     "includes\\active-directory-devquickstarts-additional-resources.md"
   ],
   "a0c6bdb18bfbc002a691c5d875eea072cc867c5e": [
     "includes\\active-directory-devquickstarts-platforms-selector.md"
   ],
-  "57aae5bd75e4ba556e03f81229b48d569fbf5b0d": [
-    "includes\\active-directory-devquickstarts-platforms-selector.md"
-  ],
   "3659fd7895f85a0b5259c0245507e45fb7a55065": [
-    "includes\\active-directory-devquickstarts-switcher.md"
-  ],
-  "ee782215c93b44b2cc94b9d0c84b9e7ce837b21e": [
     "includes\\active-directory-devquickstarts-switcher.md"
   ],
   "9f4b288cf8c5bcaa6c40601d12511c5d4598b4fd": [
     "includes\\active-directory-passwords-content-journey-selector.md"
   ],
-  "6530d3a6aeb308a3cef104b1f4577179f6d03625": [
-    "includes\\active-directory-passwords-content-journey-selector.md"
-  ],
   "471401269944d748e64febca8f1948c011794bea": [
-    "includes\\active-directory-privileged-identity-management-toc.md"
-  ],
-  "c8976fb2550151d6f9b7061f5f8c156db0e138c9": [
     "includes\\active-directory-privileged-identity-management-toc.md"
   ],
   "d470c7ce88b80382b2621b7ec9b877b78c2af433": [
     "includes\\active-directory-service-limits-include.md"
   ],
-  "76c429566cd8f0c4ff623007f39a3956db3dda7b": [
-    "includes\\active-directory-service-limits-include.md"
-  ],
   "a03b537cf36ea6f6b2ddc5295d2e6966608b7cf5": [
-    "includes\\active-directory-sso-use-case-intro.md"
-  ],
-  "45c5224b523d4d64c5d9c601049529fc43a75635": [
     "includes\\active-directory-sso-use-case-intro.md"
   ],
   "121a9c6f9cfe5893bfbb6f0c9b92456a3ad45a65": [
     "includes\\active-directory-v2-quickstart-table.md"
   ],
-  "53a838794cb4248e098e90c1db8d3e9d2addc499": [
-    "includes\\active-directory-v2-quickstart-table.md"
-  ],
   "d1e74700d1e1962a90a23d9b1ec4c4f766145831": [
-    "includes\\add-push-notifications-to-app.md"
-  ],
-  "27dd4f65f20034a92fc50e586302f70e298a2e29": [
     "includes\\add-push-notifications-to-app.md"
   ],
   "50600714dad7a6fb66e822c5a822a37513dfd56b": [
     "includes\\antares-iaas-signup.md"
   ],
-  "7df7ca5f946eda251dc9d738cea080560f684438": [
-    "includes\\antares-iaas-signup.md"
-  ],
   "a8bda88b66121bf19c4251ceb0d2c4ad469996d9": [
-    "includes\\antares-iaas-signup-iaas.md"
-  ],
-  "7fca4f6447a87cad491fb606ac734a936ba573fe": [
     "includes\\antares-iaas-signup-iaas.md"
   ],
   "6f510f0dab29fcb8036fe3f045024d5d0ba27162": [
     "includes\\api-management-service-limits.md"
   ],
-  "ef179cd30395174b80d6b7297362be09e1bb5743": [
-    "includes\\api-management-service-limits.md"
-  ],
   "b23d5afdd2cc630a9f6523be59a42fd3c1282a72": [
-    "includes\\app-insights-selector-dependencies.md"
-  ],
-  "3d8e6c501c3906ee8d942a5247bdf3b171550599": [
     "includes\\app-insights-selector-dependencies.md"
   ],
   "d0cdb9ec1d4837d73c152097e7a6380372904a05": [
     "includes\\app-insights-selector-get-started.md"
   ],
-  "5ccc883cafc12e21a097b13b51cc81ca56c850a2": [
-    "includes\\app-insights-selector-get-started.md"
-  ],
   "375b67890f73ed4d2546ae9e4f5ac94716c44129": [
-    "includes\\app-insights-selector-get-started-dotnet.md"
-  ],
-  "9fd0dcd99c8fbf22a9f567ce5dd9b7b85ccfb9e1": [
     "includes\\app-insights-selector-get-started-dotnet.md"
   ],
   "7be3b0a11df53aa926f4acb9aa8d97555a5cd6d9": [
     "includes\\application-insights-limits.md"
   ],
-  "40d574068c4c03ee07b0a738018b174697acdc7c": [
-    "includes\\application-insights-limits.md"
-  ],
   "6abd510524027dae69f50734400441a1baf7f326": [
-    "includes\\application-model.md"
-  ],
-  "16a223542077f837762e00cb9b99b356a5a9e561": [
     "includes\\application-model.md"
   ],
   "58ee62d9b909c8280e5712c69d8c1099dd3bb931": [
     "includes\\app-service-api-get-started-selector.md"
   ],
-  "fe6304609ad1ba57b5d0d547051e0d4e1f644e81": [
-    "includes\\app-service-api-get-started-selector.md"
-  ],
   "576aecc2dc8fde3d0da831dcced96066fdd40bf4": [
-    "includes\\app-service-api-v2-note.md"
-  ],
-  "d50bff0ac6fa132509604c0c4c0df7d4971a7022": [
     "includes\\app-service-api-v2-note.md"
   ],
   "6841e2623426c00e2fc427c78d66d97891e1fa2b": [
     "includes\\app-service-choose-me-content.md"
   ],
-  "0ce8da631233ab884d06fd6d802e9caf15aff9d3": [
-    "includes\\app-service-choose-me-content.md"
-  ],
   "7a53f1c226b2d9dcfd48a1ab01cacaa0fd0fb2be": [
-    "includes\\app-service-deploy-commands.md"
-  ],
-  "bf6e28976b8db3625cb2f14a75419c1198e800bf": [
     "includes\\app-service-deploy-commands.md"
   ],
   "1aaf0933101cb9df1cd139e1bddd6399927140ca": [
     "includes\\app-service-disqus-feedback-slug.md"
   ],
-  "51ff898827b7a7046cef84893b5622d2dd996714": [
-    "includes\\app-service-disqus-feedback-slug.md"
-  ],
   "d1eb58208ce43b67709eebf817d3129ce02b490f": [
-    "includes\\app-service-dotnet-debug-api-app-gen-api-client.md"
-  ],
-  "81bbf61e2a3a117d83ce30a231c35e0c9f3275c2": [
     "includes\\app-service-dotnet-debug-api-app-gen-api-client.md"
   ],
   "610e180f1c0259c50af9a546f707059230ff2e96": [
     "includes\\app-service-hybrid-connections-manager-install.md"
   ],
-  "9e654f7e7dd1af2709bf3c2d2f556bc25a97597f": [
-    "includes\\app-service-hybrid-connections-manager-install.md"
-  ],
   "c3aba310b2db3740ed5dd536230dc2e08339db31": [
-    "includes\\app-service-logic-deploy-parameters.md"
-  ],
-  "934051573218fff06f3652aefb38951fdcf671d5": [
     "includes\\app-service-logic-deploy-parameters.md"
   ],
   "311ad2553e2be53f96e156a8d582b783d35723f8": [
     "includes\\app-service-mobile-adal-register-app.md"
   ],
-  "87cc6b8f18d7aa73ed6f58b33eef42124edd7d3d": [
-    "includes\\app-service-mobile-adal-register-app.md"
-  ],
   "d79a569dd2fae33e060a427607ea494b666d2e06": [
-    "includes\\app-service-mobile-add-google-play-services.md"
-  ],
-  "d650fcccb73cdce18c536e4b09be03ebfbb5cb07": [
     "includes\\app-service-mobile-add-google-play-services.md"
   ],
   "9fd08cef4fe23af014afdb61f9a195b5ce570de9": [
     "includes\\app-service-mobile-add-push-notifications-to-ios-app.md"
   ],
-  "3103bd530f7818137d6333a169a095c6504c5346": [
-    "includes\\app-service-mobile-add-push-notifications-to-ios-app.md"
-  ],
   "cf589fbe6b6e4e4cc28e1e1636df1b08ce4b0823": [
-    "includes\\app-service-mobile-android-configure-push.md"
-  ],
-  "4e71ea75cccef5e200c37c5d59ca211bb3d7c465": [
     "includes\\app-service-mobile-android-configure-push.md"
   ],
   "30427c800031b20cb114ebd77123765c35e170cb": [
     "includes\\app-service-mobile-android-getting-started-with-push.md"
   ],
-  "362d342362525e12897e5ed90a2ba79668b977bc": [
-    "includes\\app-service-mobile-android-getting-started-with-push.md"
-  ],
   "28abab3aa7ad63af83fcc6a455cc8843933a500e": [
-    "includes\\app-service-mobile-android-run-app.md"
-  ],
-  "57ae3bf3abf06ecc1350ce9a3b5f54640acf5079": [
     "includes\\app-service-mobile-android-run-app.md"
   ],
   "977c1d6c1878761bc5cfacaf556932c83ac3233b": [
     "includes\\app-service-mobile-apns-configure-push.md"
   ],
-  "56428dfa12aec110c29659715184c48a100268af": [
-    "includes\\app-service-mobile-apns-configure-push.md"
-  ],
   "18be862afd177785f2fb4f7d3d33979e6d94ad9c": [
-    "includes\\app-service-mobile-configure-new-backend.md"
-  ],
-  "8d691e1e09072f339fd7426c900e9d1abda0f816": [
     "includes\\app-service-mobile-configure-new-backend.md"
   ],
   "09fdd626a50a8a4592d5d97c03c76ffdcc6c0a40": [
     "includes\\app-service-mobile-configure-wns.md"
   ],
-  "f42cd71636af51b50381a6b8bb660f10564345ab": [
-    "includes\\app-service-mobile-configure-wns.md"
-  ],
   "99e0195c98bcdb998819edf34b280975e87de7bb": [
-    "includes\\app-service-mobile-create-notification-hub.md"
-  ],
-  "4b8b34280cc1d55b3933db1ac0674b52171c909c": [
     "includes\\app-service-mobile-create-notification-hub.md"
   ],
   "396d36e5be8c1333addda2a562488508059112d3": [
     "includes\\app-service-mobile-dotnet-adal-install-nuget.md"
   ],
-  "f9e15231eded4809f8665094416e8659a339112e": [
-    "includes\\app-service-mobile-dotnet-adal-install-nuget.md"
-  ],
   "97cad87272fa2c4b0cf5cd505f406f6fc73d60f8": [
-    "includes\\app-service-mobile-dotnet-backend-configure-push-apns.md"
-  ],
-  "794dee7a314ad3647806a072079ef73fc11728cb": [
     "includes\\app-service-mobile-dotnet-backend-configure-push-apns.md"
   ],
   "88c858202447c2e8f099865b10e810549db33189": [
     "includes\\app-service-mobile-dotnet-backend-configure-push-google.md"
   ],
-  "0fc88bc9e22ac620d22546bd17bc178de1aed191": [
-    "includes\\app-service-mobile-dotnet-backend-configure-push-google.md"
-  ],
   "66f20cb0bc43399f4f940bc2b65c62d261620d68": [
-    "includes\\app-service-mobile-dotnet-backend-create-new-service.md"
-  ],
-  "68ac8f1276369e19667ae78f781265e78136b1f8": [
     "includes\\app-service-mobile-dotnet-backend-create-new-service.md"
   ],
   "b73bac18b8c26265c7f153b6f6288c827dc5fd64": [
     "includes\\app-service-mobile-dotnet-backend-enable-auth.md"
   ],
-  "2227a7251d59ab4fdb5ddc1342913ed234bbe7f6": [
-    "includes\\app-service-mobile-dotnet-backend-enable-auth.md"
-  ],
   "fa22ee7fc0a0eb556a3ac9ad3d684305ded83d92": [
-    "includes\\app-service-mobile-dotnet-backend-enable-offline.md"
-  ],
-  "704288ccb777ae7504bb264ded1ab54d2600b955": [
     "includes\\app-service-mobile-dotnet-backend-enable-offline.md"
   ],
   "30cb29ee26ceeaf5012464a1f1b33f73d5d6324d": [
     "includes\\app-service-mobile-dotnet-backend-enable-push.md"
   ],
-  "ed5c48edb51703b48d55b8086f75964c08b030bd": [
-    "includes\\app-service-mobile-dotnet-backend-enable-push.md"
-  ],
   "5d81d34b6172e46132070fd6aeb0f24a85e3e7f3": [
-    "includes\\app-service-mobile-dotnet-backend-publish-service.md"
-  ],
-  "0ec69239f783da61d34bd6e37a5dba04bd32976e": [
     "includes\\app-service-mobile-dotnet-backend-publish-service.md"
   ],
   "edb0dac1370981623fbda79ee7b489e54b8b0610": [
     "includes\\app-service-mobile-dotnet-backend-test-local-service.md"
   ],
-  "1f7887cf2ec7d78ae905d8c74f507e6baa86f62d": [
-    "includes\\app-service-mobile-dotnet-backend-test-local-service.md"
-  ],
   "e0c46d8dae64b09e8259b1ac0f450004ea7948e5": [
-    "includes\\app-service-mobile-dotnet-backend-web-and-mobile.md"
-  ],
-  "ab0e6837a5e1b5098044d5d06a234a5d46329807": [
     "includes\\app-service-mobile-dotnet-backend-web-and-mobile.md"
   ],
   "c6fb12bfd77feead000289e6b968faef732ba515": [
     "includes\\app-service-mobile-hero-clarification.md"
   ],
-  "aabfea2da8dcf7853d55a4f9dcf07d1640997aa5": [
-    "includes\\app-service-mobile-hero-clarification.md"
-  ],
   "72e71c51918ef21953943db92651f83db94c54dc": [
     "includes\\app-service-mobile-hero-slug.md"
   ],
-  "c6c095662a9b40410ae1c3a4d1e8bc49cbe54952": [
-    "includes\\app-service-mobile-hero-slug.md"
-  ],
   "a4a0b474d53e498317071c1115057af46015dd94": [
-    "includes\\app-service-mobile-ios-authenticate-app.md"
-  ],
-  "697e234885b8c5564f5f1191123085e0b7ace7a8": [
     "includes\\app-service-mobile-ios-authenticate-app.md"
   ],
   "3e5c8f8209e15e88cfcca929b33d7dc0f8298890": [
     "includes\\app-service-mobile-ios-authenticate-app-with-token.md",
     "includes\\mobile-services-ios-authenticate-app-with-token.md"
   ],
-  "02743d2f800386fc08573883d59462fad47c8cfb": [
-    "includes\\app-service-mobile-ios-authenticate-app-with-token.md",
-    "includes\\mobile-services-ios-authenticate-app-with-token.md"
-  ],
   "1d04f7c95d0be9b140b3b058451923783c9dd126": [
-    "includes\\app-service-mobile-ios-run-app.md"
-  ],
-  "5b4e492cb68c2d34038f4cd5e56ca0f2e8c50954": [
     "includes\\app-service-mobile-ios-run-app.md"
   ],
   "67442f5b4a752a2c3413bc645f44387206cab671": [
     "includes\\app-service-mobile-migrate-vs-upgrade.md"
   ],
-  "e227492d80b1386b3146cbf0144a9d757c106578": [
-    "includes\\app-service-mobile-migrate-vs-upgrade.md"
-  ],
   "7b0025b1c9723b5ef1b88eead734a2ae359385f7": [
-    "includes\\app-service-mobile-note-mobile-services.md"
-  ],
-  "53cb5e37f1f28a2e6fbd455112b96f291083657d": [
     "includes\\app-service-mobile-note-mobile-services.md"
   ],
   "91f3b7847fa479da26359611fd8e5a7383b19bb5": [
     "includes\\app-service-mobile-push-notifications-to-users.md"
   ],
-  "a99734197871cea5100f7173d11da12fd37f40f8": [
-    "includes\\app-service-mobile-push-notifications-to-users.md"
-  ],
   "d5a3326ffa6fefed0772bc63d5e6ad4ecc0b03ff": [
-    "includes\\app-service-mobile-register-authentication.md"
-  ],
-  "c927e457b1451c117cde1e461cb4d2beb24a1528": [
     "includes\\app-service-mobile-register-authentication.md"
   ],
   "7b60b9171593db326a1887fdbbdcb0e4fef08a92": [
     "includes\\app-service-mobile-register-wns.md"
   ],
-  "9d93b425fa3678b343253106ca422c41d75b4373": [
-    "includes\\app-service-mobile-register-wns.md"
-  ],
   "435193d5980b1c8bf3cb8cb824fcefd2615180d9": [
-    "includes\\app-service-mobile-related-content-get-started-users.md"
-  ],
-  "86a3cb81db94632c9250c2332f415bd9d0d378f3": [
     "includes\\app-service-mobile-related-content-get-started-users.md"
   ],
   "a8f696ac13bf8032860e9be46d8765fe88c33b64": [
     "includes\\app-service-mobile-restrict-permissions-dotnet-backend.md"
   ],
-  "3a9e031526cfece88c091f92cf7485af6f48bb24": [
-    "includes\\app-service-mobile-restrict-permissions-dotnet-backend.md"
-  ],
   "233bca1471b4dcb9e1ecb5aedfb27be95613c357": [
-    "includes\\app-service-mobile-selector-authentication.md"
-  ],
-  "b722aae73b1d4dbb924fb736a7bc113838518207": [
     "includes\\app-service-mobile-selector-authentication.md"
   ],
   "2c9784744f29ba8d4b5ab641c22d7dcae8a863c4": [
     "includes\\app-service-mobile-selector-client-library.md"
   ],
-  "2a3e6d929e9ca05060af760f2dcd4590c547d5c8": [
-    "includes\\app-service-mobile-selector-client-library.md"
-  ],
   "ccecab514271e00f61c72617174907c2ef8a1dac": [
-    "includes\\app-service-mobile-selector-get-started.md"
-  ],
-  "ea7a3526e2aa0b9b9592d4f1ba5ea29ac39ec4a1": [
     "includes\\app-service-mobile-selector-get-started.md"
   ],
   "b2103ea85b48a2caeb6ec233105274a6a5b775d8": [
     "includes\\app-service-mobile-selector-get-started-push.md"
   ],
-  "29edd5a63b520e979abe48c63d03787b5c8339ff": [
-    "includes\\app-service-mobile-selector-get-started-push.md"
-  ],
   "aa475f51b8ee2203f6cb13e13ff38aebb6f2dd63": [
-    "includes\\app-service-mobile-selector-get-started-users.md"
-  ],
-  "b922502d1f2ea49ad54f6430bd582c477df3ff2b": [
     "includes\\app-service-mobile-selector-get-started-users.md"
   ],
   "8f046558d7b833f37885ea3fae1c53e18a3120b9": [
     "includes\\app-service-mobile-selector-offline.md"
   ],
-  "10f51f52561683ac98f2c079b4230e303f4fb7af": [
-    "includes\\app-service-mobile-selector-offline.md"
-  ],
   "f94129fc0d86274dab3471a9228eb082572a3048": [
-    "includes\\app-service-mobile-selector-push-users.md"
-  ],
-  "97ccdc3e991752393778929a5cee9df6327c06f3": [
     "includes\\app-service-mobile-selector-push-users.md"
   ],
   "e1caaf7fdd14da2c36e0fe6a0b2afc0a0d501912": [
     "includes\\app-service-mobile-selector-server-sdk.md"
   ],
-  "51bff419f4fc9cb16bf44f8d248b2389c06fdf79": [
-    "includes\\app-service-mobile-selector-server-sdk.md"
-  ],
   "9035d08b4fdbb06345d3ac3f70267a3a6a136180": [
-    "includes\\app-service-mobile-to-web-and-api.md"
-  ],
-  "391759623391ed43559bce7db01e3bd826181eac": [
     "includes\\app-service-mobile-to-web-and-api.md"
   ],
   "bfdd02b015d4c1c0950e6843997b4b5bf1b7fc97": [
     "includes\\app-service-mobile-update-server-project-for-push-template.md"
   ],
-  "6ef4a82471695228eceba5f140dbccd2ba5d9ac1": [
-    "includes\\app-service-mobile-update-server-project-for-push-template.md"
-  ],
   "22f82937a34938043836a2333a3474e9296918f7": [
-    "includes\\app-service-mobile-verify-android-sdk-version.md"
-  ],
-  "c8ab678ba08114c674c459238cff9cf18c6e342f": [
     "includes\\app-service-mobile-verify-android-sdk-version.md"
   ],
   "5cb60fb58ab68b984ef6eca50977a192bffeb9c1": [
     "includes\\app-service-mobile-windows-universal-get-started.md"
   ],
-  "8f48900f18659212e07af3d97095a2fccfee097c": [
-    "includes\\app-service-mobile-windows-universal-get-started.md"
-  ],
   "517dd44768ff09a772e8ed67052bfbc93d1f36ed": [
-    "includes\\app-service-mobile-windows-universal-test-app.md"
-  ],
-  "8aeb6e9520ed9e1a9c486a71e07f11b0a8025efb": [
     "includes\\app-service-mobile-windows-universal-test-app.md"
   ],
   "d0c8d96c1f36082e7c39ff88b645ccc6f7a0dbb4": [
     "includes\\app-service-mobile-windows-universal-test-push.md"
   ],
-  "d573fec636312782a500fbc5d7509fbbb2de3ed0": [
-    "includes\\app-service-mobile-windows-universal-test-push.md"
-  ],
   "dc159116ad4608a1cb4491d878d0525b27e72cfa": [
-    "includes\\app-service-mobile-xamarin-android-push-add-to-app.md"
-  ],
-  "70149448a4c257753ee05b5ca3eef60e7bd80067": [
     "includes\\app-service-mobile-xamarin-android-push-add-to-app.md"
   ],
   "5eaac4cacc756c500f025d424c2e0d4561bf8c8a": [
     "includes\\app-service-mobile-xamarin-ios-configure-project.md"
   ],
-  "93efe5aed476276544ccea4c95704b1929c3f73e": [
-    "includes\\app-service-mobile-xamarin-ios-configure-project.md"
-  ],
   "b31e76dda6cd4f815d809e03dbacb8f287b4b23a": [
-    "includes\\app-service-web-deploy-web-host.md"
-  ],
-  "bb2ee1f15670e5f7fb55d5cb27d61cc297f072df": [
     "includes\\app-service-web-deploy-web-host.md"
   ],
   "85335d25cd1983a8946d8aa7e3ce7a981dcb124b": [
     "includes\\app-service-web-deploy-web-parameters.md"
   ],
-  "2012edabc20a7e79f77cc01ace27d87f3e6cc81a": [
-    "includes\\app-service-web-deploy-web-parameters.md"
-  ],
   "4f7ad6998d7f5b0507125deef2f694d2f837cdd7": [
-    "includes\\app-service-web-to-api-and-mobile.md"
-  ],
-  "ab742e6d0e71770f1a470ac1464b4a9ce0d548a2": [
     "includes\\app-service-web-to-api-and-mobile.md"
   ],
   "a6f292dd86c28734ae8f79505fa08b1b734d89aa": [
     "includes\\app-service-web-try-app-service.md"
   ],
-  "199fa900068899ed0c0739030c477b7302ab2bc4": [
-    "includes\\app-service-web-try-app-service.md"
-  ],
   "3b1fa9e92ebe5f343b31f401185f38e297fd7134": [
-    "includes\\app-service-web-whats-changed.md"
-  ],
-  "933928c431fdd21bf52e11f1ce6306f24aaab5f5": [
     "includes\\app-service-web-whats-changed.md"
   ],
   "5cb86233e15dea6d23d7bad5cf910a203c5222b8": [
@@ -6407,16 +6023,7 @@
   "5a7aee52959bf739c22aed3819b6dddd4e355638": [
     "articles\\app-service\\app-service-local-cache.md"
   ],
-  "b6b54380855fbabc1bef35399f7d1623ac7bcb85": [
-    "articles\\app-service\\app-service-local-cache.md"
-  ],
-  "21a18a6b32e445929885e6db10c04945abaae257": [
-    "articles\\app-service\\app-service-local-cache.md"
-  ],
   "97c486187829bcab9c88104e8d517f1aae3f82a5": [
-    "articles\\app-service\\app-service-security-readme.md"
-  ],
-  "de2ec0be5d153075a45bd4f7881c5bb387fb1551": [
     "articles\\app-service\\app-service-security-readme.md"
   ],
   "8004437ca93e7f6a22ad26c8d68a60889c8bd417": [
