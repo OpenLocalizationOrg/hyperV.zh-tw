@@ -1,11 +1,42 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 0
+ Total Files | 2
 
 ## File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [articles\app-service-mobile\app-service-mobile-how-to-configure-active-directory-authentication.md](https://github.com/OpenLocalizationOrg/hyperV/blob/5763cc86328668c3be69ff5f077a3b0f57183074/articles/app-service-mobile/app-service-mobile-how-to-configure-active-directory-authentication.md) | HandedBackFailed | [Details](#01134beb2f8dddf857ac25550662d13b44a32f422354)
+ [virtualization\windowscontainers\containers_welcome.md](https://github.com/OpenLocalizationOrg/hyperV/blob/5763cc86328668c3be69ff5f077a3b0f57183074/virtualization/windowscontainers/containers_welcome.md) | OutofSyncHandedBackSuccess | [Details](#234291c4b51a6fd2eeb358df3da281b2323e06863466)
 
 ## Item Details
+##### <a name='01134beb2f8dddf857ac25550662d13b44a32f422354'></a> Source: [articles\app-service-mobile\app-service-mobile-how-to-configure-active-directory-authentication.md](https://github.com/OpenLocalizationOrg/hyperV/blob/5763cc86328668c3be69ff5f077a3b0f57183074/articles/app-service-mobile/app-service-mobile-how-to-configure-active-directory-authentication.md)
+* Status: HandedBackFailed
+* Target File: 
+* Handoff File: [app-service-mobile-how-to-configure-active-directory-authentication.280f17cbba32fa7304578f095c049504f0deb566.zh-tw.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/f194f849b3e2060dcf3547aea0b98a4b66a0844d/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/acomdc_nonhi/app-service-mobile-how-to-configure-active-directory-authentication.280f17cbba32fa7304578f095c049504f0deb566.zh-tw.xlf)
+* Handoff Datetime: 2016-04-11 23:37:21
+* Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* [Back to Top](#report-top)
+
+##### <a name='234291c4b51a6fd2eeb358df3da281b2323e06863466'></a> Source: [virtualization\windowscontainers\containers_welcome.md](https://github.com/OpenLocalizationOrg/hyperV/blob/5763cc86328668c3be69ff5f077a3b0f57183074/virtualization/windowscontainers/containers_welcome.md)
+* Status: OutofSyncHandedBackSuccess
+* Target File: 
+* Handoff File: [containers_welcome.2c85b1345b8dfcc523a3848ed7661e25d5ffbb17.zh-tw.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/f194f849b3e2060dcf3547aea0b98a4b66a0844d/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/acomdc_nonhi/containers_welcome.2c85b1345b8dfcc523a3848ed7661e25d5ffbb17.zh-tw.xlf)
+* Handoff Datetime: 2016-04-11 23:37:21
+* Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Current Target File: [virtualization\windowscontainers\containers_welcome.md](https://github.com/OpenLocalizationOrg/hyperV.zh-tw/blob/192aad52ec9cd6d13541daecbe66300ab25a8bf9/virtualization/windowscontainers/containers_welcome.md)
+* Current Handback File: [containers_welcome.2c85b1345b8dfcc523a3848ed7661e25d5ffbb17.zh-tw.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/23b7cc78a121cc16a17caf613e5be1a5d8876d1e/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/containers_welcome.2c85b1345b8dfcc523a3848ed7661e25d5ffbb17.zh-tw.xlf)
+* Current Handback Datetime: 2016-02-22 08:59:06
+* [Back to Top](#report-top)
+
 
 ## Error Details
 

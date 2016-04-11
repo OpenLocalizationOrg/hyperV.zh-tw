@@ -282,6 +282,9 @@
   "090e2dccc937df4c7a80f63b447cb733af5020a3": [
     "virtualization\\windowscontainers\\about\\work_in_progress.md"
   ],
+  "234291c4b51a6fd2eeb358df3da281b2323e0686": [
+    "virtualization\\windowscontainers\\containers_welcome.md"
+  ],
   "aa0f803f7afebd865daf559531ae19c72a5fea16": [
     "virtualization\\windowscontainers\\containers_welcome.md"
   ],
@@ -2007,6 +2010,9 @@
     "articles\\app-service-mobile\\app-service-mobile-dotnet-how-to-use-client-library.md"
   ],
   "01134beb2f8dddf857ac25550662d13b44a32f42": [
+    "articles\\app-service-mobile\\app-service-mobile-how-to-configure-active-directory-authentication.md"
+  ],
+  "89d93b4c3b21d5320d05446f25e354a28fa88b5c": [
     "articles\\app-service-mobile\\app-service-mobile-how-to-configure-active-directory-authentication.md"
   ],
   "c24fc9905499a2ab55028c8e6ddc335a1636ba16": [
