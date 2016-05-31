@@ -1477,12 +1477,12 @@
 * Handoff File: [00f8d7cfb9fbdf0f9d67f239aff5575dcdaaaed0.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/8d471a82b5926cd313da355aeec28d7b5c575305/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/00f8d7cfb9fbdf0f9d67f239aff5575dcdaaaed0.png)
 * Handoff Datetime: 2016-01-11 05:17:41
 * Handoff Reason: IsDependency
+* Dependency From: virtualization\hyperv_on_windows\about\hyperv_on_windows_new.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [00f8d7cfb9fbdf0f9d67f239aff5575dcdaaaed0.png](https://github.com/OpenLocalizationOrg/olhandback/blob/23b7cc78a121cc16a17caf613e5be1a5d8876d1e/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/00f8d7cfb9fbdf0f9d67f239aff5575dcdaaaed0.png)
 * Handback Datetime: 2016-02-22 08:59:06
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#00f8d7cfb9fbdf0f9d67f239aff5575dcdaaaed097handback_type_is_mismatch_with_handoff_type)
-* Dependency From: virtualization\hyperv_on_windows\about\hyperv_on_windows_new.md
 * [Back to Top](#report-top)
 
 ##### <a name='907679edd04736394d4e796f706436d114baec4f98'></a> Source: [virtualization\hyperv_on_windows\about\media\StandardCheckpoints.png](https://github.com/OpenLocalizationOrg/hyperV/blob/dcb397ab647e455c0066e8b998973be1a344e48e/virtualization/hyperv_on_windows/about/media/StandardCheckpoints.png)
@@ -1565,12 +1565,12 @@
 * Handoff File: [90b18083c5e836b383786e364b91c37fde16adff.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/8d471a82b5926cd313da355aeec28d7b5c575305/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/90b18083c5e836b383786e364b91c37fde16adff.png)
 * Handoff Datetime: 2016-01-11 05:17:41
 * Handoff Reason: IsDependency
+* Dependency From: virtualization\hyperv_on_windows\develop\make_mgmt_servic.md, virtualization\hyperv_on_windows\windows_welcome1.md, virtualization\hyperv_on_windows\windows_welcome.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [90b18083c5e836b383786e364b91c37fde16adff.png](https://github.com/OpenLocalizationOrg/olhandback/blob/23b7cc78a121cc16a17caf613e5be1a5d8876d1e/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/90b18083c5e836b383786e364b91c37fde16adff.png)
 * Handback Datetime: 2016-02-22 08:59:06
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#90b18083c5e836b383786e364b91c37fde16adff104handback_type_is_mismatch_with_handoff_type)
-* Dependency From: virtualization\hyperv_on_windows\develop\make_mgmt_servic.md, virtualization\hyperv_on_windows\windows_welcome1.md, virtualization\hyperv_on_windows\windows_welcome.md
 * [Back to Top](#report-top)
 
 ##### <a name='c03a5c80b30140cb497ed0bff018bab4b304d835105'></a> Source: [virtualization\hyperv_on_windows\media\10.png](https://github.com/OpenLocalizationOrg/hyperV/blob/dcb397ab647e455c0066e8b998973be1a344e48e/virtualization/hyperv_on_windows/media/10.png)
@@ -1747,12 +1747,12 @@
 * Handoff File: [61d3a219c4976b61137f6b8c6739135a4d917265.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/8d471a82b5926cd313da355aeec28d7b5c575305/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/61d3a219c4976b61137f6b8c6739135a4d917265.png)
 * Handoff Datetime: 2016-01-11 05:17:41
 * Handoff Reason: IsDependency
+* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints.md, virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints1.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [61d3a219c4976b61137f6b8c6739135a4d917265.png](https://github.com/OpenLocalizationOrg/olhandback/blob/23b7cc78a121cc16a17caf613e5be1a5d8876d1e/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/61d3a219c4976b61137f6b8c6739135a4d917265.png)
 * Handback Datetime: 2016-02-22 08:59:06
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#61d3a219c4976b61137f6b8c6739135a4d917265119handback_type_is_mismatch_with_handoff_type)
-* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints.md, virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints1.md
 * [Back to Top](#report-top)
 
 ##### <a name='ef703b72761888dcdd6066d39283537620066e7f120'></a> Source: [virtualization\hyperv_on_windows\quick_start\media\applied_production.png](https://github.com/OpenLocalizationOrg/hyperV/blob/dcb397ab647e455c0066e8b998973be1a344e48e/virtualization/hyperv_on_windows/quick_start/media/applied_production.png)
@@ -1773,12 +1773,12 @@
 * Handoff File: [41fe6f9104dcc2946ef60efe9e0a66fd70ebbecc.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/8d471a82b5926cd313da355aeec28d7b5c575305/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/41fe6f9104dcc2946ef60efe9e0a66fd70ebbecc.png)
 * Handoff Datetime: 2016-01-11 05:17:41
 * Handoff Reason: IsDependency
+* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints.md, virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints1.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [41fe6f9104dcc2946ef60efe9e0a66fd70ebbecc.png](https://github.com/OpenLocalizationOrg/olhandback/blob/23b7cc78a121cc16a17caf613e5be1a5d8876d1e/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/41fe6f9104dcc2946ef60efe9e0a66fd70ebbecc.png)
 * Handback Datetime: 2016-02-22 08:59:06
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#41fe6f9104dcc2946ef60efe9e0a66fd70ebbecc121handback_type_is_mismatch_with_handoff_type)
-* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints.md, virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints1.md
 * [Back to Top](#report-top)
 
 ##### <a name='23eca458ec44c46dea8eca88aa041c9f9e1a8005122'></a> Source: [virtualization\hyperv_on_windows\quick_start\media\basic.png](https://github.com/OpenLocalizationOrg/hyperV/blob/c2a703077ad70c2cac21e0e39c6fc49b6f04ab8a/virtualization/hyperv_on_windows/quick_start/media/basic.png)
@@ -1787,12 +1787,12 @@
 * Handoff File: [23eca458ec44c46dea8eca88aa041c9f9e1a8005.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/8d471a82b5926cd313da355aeec28d7b5c575305/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/23eca458ec44c46dea8eca88aa041c9f9e1a8005.png)
 * Handoff Datetime: 2016-01-11 05:17:41
 * Handoff Reason: IsDependency
+* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_vmconnect.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [23eca458ec44c46dea8eca88aa041c9f9e1a8005.png](https://github.com/OpenLocalizationOrg/olhandback/blob/23b7cc78a121cc16a17caf613e5be1a5d8876d1e/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/23eca458ec44c46dea8eca88aa041c9f9e1a8005.png)
 * Handback Datetime: 2016-02-22 08:59:06
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#23eca458ec44c46dea8eca88aa041c9f9e1a8005122handback_type_is_mismatch_with_handoff_type)
-* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_vmconnect.md
 * [Back to Top](#report-top)
 
 ##### <a name='dcc854e9982c81a2ad99872fd40bbd940733ccdb123'></a> Source: [virtualization\hyperv_on_windows\quick_start\media\checkpoint.png](https://github.com/OpenLocalizationOrg/hyperV/blob/c2a703077ad70c2cac21e0e39c6fc49b6f04ab8a/virtualization/hyperv_on_windows/quick_start/media/checkpoint.png)
@@ -1801,12 +1801,12 @@
 * Handoff File: [dcc854e9982c81a2ad99872fd40bbd940733ccdb.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/8d471a82b5926cd313da355aeec28d7b5c575305/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/dcc854e9982c81a2ad99872fd40bbd940733ccdb.png)
 * Handoff Datetime: 2016-01-11 05:17:41
 * Handoff Reason: IsDependency
+* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_vmconnect.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [dcc854e9982c81a2ad99872fd40bbd940733ccdb.png](https://github.com/OpenLocalizationOrg/olhandback/blob/23b7cc78a121cc16a17caf613e5be1a5d8876d1e/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/dcc854e9982c81a2ad99872fd40bbd940733ccdb.png)
 * Handback Datetime: 2016-02-22 08:59:06
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#dcc854e9982c81a2ad99872fd40bbd940733ccdb123handback_type_is_mismatch_with_handoff_type)
-* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_vmconnect.md
 * [Back to Top](#report-top)
 
 ##### <a name='0d2809240461a6599a34c795b237533f55698452124'></a> Source: [virtualization\hyperv_on_windows\quick_start\media\checkpoint_button.png](https://github.com/OpenLocalizationOrg/hyperV/blob/c2a703077ad70c2cac21e0e39c6fc49b6f04ab8a/virtualization/hyperv_on_windows/quick_start/media/checkpoint_button.png)
@@ -1815,12 +1815,12 @@
 * Handoff File: [0d2809240461a6599a34c795b237533f55698452.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/8d471a82b5926cd313da355aeec28d7b5c575305/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/0d2809240461a6599a34c795b237533f55698452.png)
 * Handoff Datetime: 2016-01-11 05:17:41
 * Handoff Reason: IsDependency
+* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints.md, virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints1.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [0d2809240461a6599a34c795b237533f55698452.png](https://github.com/OpenLocalizationOrg/olhandback/blob/23b7cc78a121cc16a17caf613e5be1a5d8876d1e/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/0d2809240461a6599a34c795b237533f55698452.png)
 * Handback Datetime: 2016-02-22 08:59:06
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#0d2809240461a6599a34c795b237533f55698452124handback_type_is_mismatch_with_handoff_type)
-* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints.md, virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints1.md
 * [Back to Top](#report-top)
 
 ##### <a name='033b857ffede72ffede2bb885c0b3305bfe49e5d125'></a> Source: [virtualization\hyperv_on_windows\quick_start\media\click_export.png](https://github.com/OpenLocalizationOrg/hyperV/blob/c2a703077ad70c2cac21e0e39c6fc49b6f04ab8a/virtualization/hyperv_on_windows/quick_start/media/click_export.png)
@@ -1829,12 +1829,12 @@
 * Handoff File: [033b857ffede72ffede2bb885c0b3305bfe49e5d.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/8d471a82b5926cd313da355aeec28d7b5c575305/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/033b857ffede72ffede2bb885c0b3305bfe49e5d.png)
 * Handoff Datetime: 2016-01-11 05:17:41
 * Handoff Reason: IsDependency
+* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_export_import.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [033b857ffede72ffede2bb885c0b3305bfe49e5d.png](https://github.com/OpenLocalizationOrg/olhandback/blob/23b7cc78a121cc16a17caf613e5be1a5d8876d1e/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/033b857ffede72ffede2bb885c0b3305bfe49e5d.png)
 * Handback Datetime: 2016-02-22 08:59:06
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#033b857ffede72ffede2bb885c0b3305bfe49e5d125handback_type_is_mismatch_with_handoff_type)
-* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_export_import.md
 * [Back to Top](#report-top)
 
 ##### <a name='44a0686f5ce5d1544b8a61bcad0a06eb1e1ce9d4126'></a> Source: [virtualization\hyperv_on_windows\quick_start\media\command_grid.png](https://github.com/OpenLocalizationOrg/hyperV/blob/c2a703077ad70c2cac21e0e39c6fc49b6f04ab8a/virtualization/hyperv_on_windows/quick_start/media/command_grid.png)
@@ -1843,12 +1843,12 @@
 * Handoff File: [44a0686f5ce5d1544b8a61bcad0a06eb1e1ce9d4.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/8d471a82b5926cd313da355aeec28d7b5c575305/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/44a0686f5ce5d1544b8a61bcad0a06eb1e1ce9d4.png)
 * Handoff Datetime: 2016-01-11 05:17:41
 * Handoff Reason: IsDependency
+* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_powershell.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [44a0686f5ce5d1544b8a61bcad0a06eb1e1ce9d4.png](https://github.com/OpenLocalizationOrg/olhandback/blob/23b7cc78a121cc16a17caf613e5be1a5d8876d1e/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/44a0686f5ce5d1544b8a61bcad0a06eb1e1ce9d4.png)
 * Handback Datetime: 2016-02-22 08:59:06
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#44a0686f5ce5d1544b8a61bcad0a06eb1e1ce9d4126handback_type_is_mismatch_with_handoff_type)
-* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_powershell.md
 * [Back to Top](#report-top)
 
 ##### <a name='940d718ffbccd63370662ebbef9d1ca1bb506665127'></a> Source: [virtualization\hyperv_on_windows\quick_start\media\coreinfo.png](https://github.com/OpenLocalizationOrg/hyperV/blob/dcb397ab647e455c0066e8b998973be1a344e48e/virtualization/hyperv_on_windows/quick_start/media/coreinfo.png)
@@ -1869,12 +1869,12 @@
 * Handoff File: [e4d15fec95c845919ba7f9fe8df128d7dbec116d.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/8d471a82b5926cd313da355aeec28d7b5c575305/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/e4d15fec95c845919ba7f9fe8df128d7dbec116d.png)
 * Handoff Datetime: 2016-01-11 05:17:41
 * Handoff Reason: IsDependency
+* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_vmconnect.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [e4d15fec95c845919ba7f9fe8df128d7dbec116d.png](https://github.com/OpenLocalizationOrg/olhandback/blob/23b7cc78a121cc16a17caf613e5be1a5d8876d1e/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/e4d15fec95c845919ba7f9fe8df128d7dbec116d.png)
 * Handback Datetime: 2016-02-22 08:59:06
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#e4d15fec95c845919ba7f9fe8df128d7dbec116d128handback_type_is_mismatch_with_handoff_type)
-* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_vmconnect.md
 * [Back to Top](#report-top)
 
 ##### <a name='cf30ca46d006229820dd2e400d50243e43cbe669129'></a> Source: [virtualization\hyperv_on_windows\quick_start\media\delete_checkpoint.png](https://github.com/OpenLocalizationOrg/hyperV/blob/c2a703077ad70c2cac21e0e39c6fc49b6f04ab8a/virtualization/hyperv_on_windows/quick_start/media/delete_checkpoint.png)
@@ -1883,12 +1883,12 @@
 * Handoff File: [cf30ca46d006229820dd2e400d50243e43cbe669.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/8d471a82b5926cd313da355aeec28d7b5c575305/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/cf30ca46d006229820dd2e400d50243e43cbe669.png)
 * Handoff Datetime: 2016-01-11 05:17:41
 * Handoff Reason: IsDependency
+* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints.md, virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints1.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [cf30ca46d006229820dd2e400d50243e43cbe669.png](https://github.com/OpenLocalizationOrg/olhandback/blob/23b7cc78a121cc16a17caf613e5be1a5d8876d1e/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/cf30ca46d006229820dd2e400d50243e43cbe669.png)
 * Handback Datetime: 2016-02-22 08:59:06
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#cf30ca46d006229820dd2e400d50243e43cbe669129handback_type_is_mismatch_with_handoff_type)
-* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints.md, virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints1.md
 * [Back to Top](#report-top)
 
 ##### <a name='3a3b909ddbe5faa7ae9c894932c783ae0b3a861e130'></a> Source: [virtualization\hyperv_on_windows\quick_start\media\delete_me.png](https://github.com/OpenLocalizationOrg/hyperV/blob/c2a703077ad70c2cac21e0e39c6fc49b6f04ab8a/virtualization/hyperv_on_windows/quick_start/media/delete_me.png)
@@ -1897,12 +1897,12 @@
 * Handoff File: [3a3b909ddbe5faa7ae9c894932c783ae0b3a861e.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/8d471a82b5926cd313da355aeec28d7b5c575305/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/3a3b909ddbe5faa7ae9c894932c783ae0b3a861e.png)
 * Handoff Datetime: 2016-01-11 05:17:41
 * Handoff Reason: IsDependency
+* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints.md, virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints1.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [3a3b909ddbe5faa7ae9c894932c783ae0b3a861e.png](https://github.com/OpenLocalizationOrg/olhandback/blob/23b7cc78a121cc16a17caf613e5be1a5d8876d1e/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/3a3b909ddbe5faa7ae9c894932c783ae0b3a861e.png)
 * Handback Datetime: 2016-02-22 08:59:06
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#3a3b909ddbe5faa7ae9c894932c783ae0b3a861e130handback_type_is_mismatch_with_handoff_type)
-* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints.md, virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints1.md
 * [Back to Top](#report-top)
 
 ##### <a name='197db0f85ff76bdbac3321d595f3b3a93429ac30131'></a> Source: [virtualization\hyperv_on_windows\quick_start\media\delete_warn.png](https://github.com/OpenLocalizationOrg/hyperV/blob/c2a703077ad70c2cac21e0e39c6fc49b6f04ab8a/virtualization/hyperv_on_windows/quick_start/media/delete_warn.png)
@@ -1911,12 +1911,12 @@
 * Handoff File: [197db0f85ff76bdbac3321d595f3b3a93429ac30.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/8d471a82b5926cd313da355aeec28d7b5c575305/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/197db0f85ff76bdbac3321d595f3b3a93429ac30.png)
 * Handoff Datetime: 2016-01-11 05:17:41
 * Handoff Reason: IsDependency
+* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints.md, virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints1.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [197db0f85ff76bdbac3321d595f3b3a93429ac30.png](https://github.com/OpenLocalizationOrg/olhandback/blob/23b7cc78a121cc16a17caf613e5be1a5d8876d1e/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/197db0f85ff76bdbac3321d595f3b3a93429ac30.png)
 * Handback Datetime: 2016-02-22 08:59:06
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#197db0f85ff76bdbac3321d595f3b3a93429ac30131handback_type_is_mismatch_with_handoff_type)
-* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints.md, virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints1.md
 * [Back to Top](#report-top)
 
 ##### <a name='cf1afe8b9244392e7866e4a3c72f366f9a0a7c05132'></a> Source: [virtualization\hyperv_on_windows\quick_start\media\EnhancedEn.png](https://github.com/OpenLocalizationOrg/hyperV/blob/dcb397ab647e455c0066e8b998973be1a344e48e/virtualization/hyperv_on_windows/quick_start/media/EnhancedEn.png)
@@ -1949,12 +1949,12 @@
 * Handoff File: [ac1b9c7df82cc6513a357b20b4dfb1f662560ba8.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/8d471a82b5926cd313da355aeec28d7b5c575305/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/ac1b9c7df82cc6513a357b20b4dfb1f662560ba8.png)
 * Handoff Datetime: 2016-01-11 05:17:41
 * Handoff Reason: IsDependency
+* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_export_import.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [ac1b9c7df82cc6513a357b20b4dfb1f662560ba8.png](https://github.com/OpenLocalizationOrg/olhandback/blob/23b7cc78a121cc16a17caf613e5be1a5d8876d1e/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/ac1b9c7df82cc6513a357b20b4dfb1f662560ba8.png)
 * Handback Datetime: 2016-02-22 08:59:06
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#ac1b9c7df82cc6513a357b20b4dfb1f662560ba8134handback_type_is_mismatch_with_handoff_type)
-* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_export_import.md
 * [Back to Top](#report-top)
 
 ##### <a name='0561b03a80a6c5694a3597cb12de616cb772f3df135'></a> Source: [virtualization\hyperv_on_windows\quick_start\media\export_progress.png](https://github.com/OpenLocalizationOrg/hyperV/blob/c2a703077ad70c2cac21e0e39c6fc49b6f04ab8a/virtualization/hyperv_on_windows/quick_start/media/export_progress.png)
@@ -1963,12 +1963,12 @@
 * Handoff File: [0561b03a80a6c5694a3597cb12de616cb772f3df.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/8d471a82b5926cd313da355aeec28d7b5c575305/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/0561b03a80a6c5694a3597cb12de616cb772f3df.png)
 * Handoff Datetime: 2016-01-11 05:17:41
 * Handoff Reason: IsDependency
+* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_export_import.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [0561b03a80a6c5694a3597cb12de616cb772f3df.png](https://github.com/OpenLocalizationOrg/olhandback/blob/23b7cc78a121cc16a17caf613e5be1a5d8876d1e/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/0561b03a80a6c5694a3597cb12de616cb772f3df.png)
 * Handback Datetime: 2016-02-22 08:59:06
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#0561b03a80a6c5694a3597cb12de616cb772f3df135handback_type_is_mismatch_with_handoff_type)
-* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_export_import.md
 * [Back to Top](#report-top)
 
 ##### <a name='9d753332489389765c1ea1cfa1737126a201644c136'></a> Source: [virtualization\hyperv_on_windows\quick_start\media\get_help.png](https://github.com/OpenLocalizationOrg/hyperV/blob/c2a703077ad70c2cac21e0e39c6fc49b6f04ab8a/virtualization/hyperv_on_windows/quick_start/media/get_help.png)
@@ -1977,12 +1977,12 @@
 * Handoff File: [9d753332489389765c1ea1cfa1737126a201644c.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/8d471a82b5926cd313da355aeec28d7b5c575305/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/9d753332489389765c1ea1cfa1737126a201644c.png)
 * Handoff Datetime: 2016-01-11 05:17:41
 * Handoff Reason: IsDependency
+* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_powershell.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [9d753332489389765c1ea1cfa1737126a201644c.png](https://github.com/OpenLocalizationOrg/olhandback/blob/23b7cc78a121cc16a17caf613e5be1a5d8876d1e/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/9d753332489389765c1ea1cfa1737126a201644c.png)
 * Handback Datetime: 2016-02-22 08:59:06
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#9d753332489389765c1ea1cfa1737126a201644c136handback_type_is_mismatch_with_handoff_type)
-* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_powershell.md
 * [Back to Top](#report-top)
 
 ##### <a name='579a5b151617e20cfb4e116a6f365a96dbaa9c4a137'></a> Source: [virtualization\hyperv_on_windows\quick_start\media\get_vm.png](https://github.com/OpenLocalizationOrg/hyperV/blob/c2a703077ad70c2cac21e0e39c6fc49b6f04ab8a/virtualization/hyperv_on_windows/quick_start/media/get_vm.png)
@@ -1991,12 +1991,12 @@
 * Handoff File: [579a5b151617e20cfb4e116a6f365a96dbaa9c4a.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/8d471a82b5926cd313da355aeec28d7b5c575305/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/579a5b151617e20cfb4e116a6f365a96dbaa9c4a.png)
 * Handoff Datetime: 2016-01-11 05:17:41
 * Handoff Reason: IsDependency
+* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_powershell.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [579a5b151617e20cfb4e116a6f365a96dbaa9c4a.png](https://github.com/OpenLocalizationOrg/olhandback/blob/23b7cc78a121cc16a17caf613e5be1a5d8876d1e/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/579a5b151617e20cfb4e116a6f365a96dbaa9c4a.png)
 * Handback Datetime: 2016-02-22 08:59:06
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#579a5b151617e20cfb4e116a6f365a96dbaa9c4a137handback_type_is_mismatch_with_handoff_type)
-* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_powershell.md
 * [Back to Top](#report-top)
 
 ##### <a name='152595e982ed925cc5a6f625f1786a5f397ecd08138'></a> Source: [virtualization\hyperv_on_windows\quick_start\media\hyper-v_feature_selected.png](https://github.com/OpenLocalizationOrg/hyperV/blob/c2a703077ad70c2cac21e0e39c6fc49b6f04ab8a/virtualization/hyperv_on_windows/quick_start/media/hyper-v_feature_selected.png)
@@ -2005,12 +2005,12 @@
 * Handoff File: [152595e982ed925cc5a6f625f1786a5f397ecd08.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/8d471a82b5926cd313da355aeec28d7b5c575305/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/152595e982ed925cc5a6f625f1786a5f397ecd08.png)
 * Handoff Datetime: 2016-01-11 05:17:41
 * Handoff Reason: IsDependency
+* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_install.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [152595e982ed925cc5a6f625f1786a5f397ecd08.png](https://github.com/OpenLocalizationOrg/olhandback/blob/23b7cc78a121cc16a17caf613e5be1a5d8876d1e/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/152595e982ed925cc5a6f625f1786a5f397ecd08.png)
 * Handback Datetime: 2016-02-22 08:59:06
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#152595e982ed925cc5a6f625f1786a5f397ecd08138handback_type_is_mismatch_with_handoff_type)
-* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_install.md
 * [Back to Top](#report-top)
 
 ##### <a name='7914414173209fcf0105acf95f81399419f997e8139'></a> Source: [virtualization\hyperv_on_windows\quick_start\media\network_warning.png](https://github.com/OpenLocalizationOrg/hyperV/blob/c2a703077ad70c2cac21e0e39c6fc49b6f04ab8a/virtualization/hyperv_on_windows/quick_start/media/network_warning.png)
@@ -2019,12 +2019,12 @@
 * Handoff File: [7914414173209fcf0105acf95f81399419f997e8.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/8d471a82b5926cd313da355aeec28d7b5c575305/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/7914414173209fcf0105acf95f81399419f997e8.png)
 * Handoff Datetime: 2016-01-11 05:17:41
 * Handoff Reason: IsDependency
+* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_virtual_switch.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [7914414173209fcf0105acf95f81399419f997e8.png](https://github.com/OpenLocalizationOrg/olhandback/blob/23b7cc78a121cc16a17caf613e5be1a5d8876d1e/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/7914414173209fcf0105acf95f81399419f997e8.png)
 * Handback Datetime: 2016-02-22 08:59:06
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#7914414173209fcf0105acf95f81399419f997e8139handback_type_is_mismatch_with_handoff_type)
-* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_virtual_switch.md
 * [Back to Top](#report-top)
 
 ##### <a name='c99ae72d3f7fed23ecb0c4f298e5a7a35afc88d4140'></a> Source: [virtualization\hyperv_on_windows\quick_start\media\new_switch.png](https://github.com/OpenLocalizationOrg/hyperV/blob/c2a703077ad70c2cac21e0e39c6fc49b6f04ab8a/virtualization/hyperv_on_windows/quick_start/media/new_switch.png)
@@ -2033,12 +2033,12 @@
 * Handoff File: [c99ae72d3f7fed23ecb0c4f298e5a7a35afc88d4.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/8d471a82b5926cd313da355aeec28d7b5c575305/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/c99ae72d3f7fed23ecb0c4f298e5a7a35afc88d4.png)
 * Handoff Datetime: 2016-01-11 05:17:41
 * Handoff Reason: IsDependency
+* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_virtual_switch.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [c99ae72d3f7fed23ecb0c4f298e5a7a35afc88d4.png](https://github.com/OpenLocalizationOrg/olhandback/blob/23b7cc78a121cc16a17caf613e5be1a5d8876d1e/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/c99ae72d3f7fed23ecb0c4f298e5a7a35afc88d4.png)
 * Handback Datetime: 2016-02-22 08:59:06
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#c99ae72d3f7fed23ecb0c4f298e5a7a35afc88d4140handback_type_is_mismatch_with_handoff_type)
-* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_virtual_switch.md
 * [Back to Top](#report-top)
 
 ##### <a name='16014b7a0feb0558437d99113972981e6560ef83141'></a> Source: [virtualization\hyperv_on_windows\quick_start\media\new_switch_createbutton.png](https://github.com/OpenLocalizationOrg/hyperV/blob/c2a703077ad70c2cac21e0e39c6fc49b6f04ab8a/virtualization/hyperv_on_windows/quick_start/media/new_switch_createbutton.png)
@@ -2047,12 +2047,12 @@
 * Handoff File: [16014b7a0feb0558437d99113972981e6560ef83.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/8d471a82b5926cd313da355aeec28d7b5c575305/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/16014b7a0feb0558437d99113972981e6560ef83.png)
 * Handoff Datetime: 2016-01-11 05:17:41
 * Handoff Reason: IsDependency
+* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_virtual_switch.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [16014b7a0feb0558437d99113972981e6560ef83.png](https://github.com/OpenLocalizationOrg/olhandback/blob/23b7cc78a121cc16a17caf613e5be1a5d8876d1e/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/16014b7a0feb0558437d99113972981e6560ef83.png)
 * Handback Datetime: 2016-02-22 08:59:06
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#16014b7a0feb0558437d99113972981e6560ef83141handback_type_is_mismatch_with_handoff_type)
-* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_virtual_switch.md
 * [Back to Top](#report-top)
 
 ##### <a name='78740c9adf598a1937af543c99ca01c2aecd625f142'></a> Source: [virtualization\hyperv_on_windows\quick_start\media\new_vm.png](https://github.com/OpenLocalizationOrg/hyperV/blob/dcb397ab647e455c0066e8b998973be1a344e48e/virtualization/hyperv_on_windows/quick_start/media/new_vm.png)
@@ -2085,12 +2085,12 @@
 * Handoff File: [19e37da524322414c21e941fb1c902b3a361c2db.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/8d471a82b5926cd313da355aeec28d7b5c575305/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/19e37da524322414c21e941fb1c902b3a361c2db.png)
 * Handoff Datetime: 2016-01-11 05:17:41
 * Handoff Reason: IsDependency
+* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_vmconnect.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [19e37da524322414c21e941fb1c902b3a361c2db.png](https://github.com/OpenLocalizationOrg/olhandback/blob/23b7cc78a121cc16a17caf613e5be1a5d8876d1e/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/19e37da524322414c21e941fb1c902b3a361c2db.png)
 * Handback Datetime: 2016-02-22 08:59:06
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#19e37da524322414c21e941fb1c902b3a361c2db144handback_type_is_mismatch_with_handoff_type)
-* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_vmconnect.md
 * [Back to Top](#report-top)
 
 ##### <a name='207905143eddd439473ec83db1de0d5abbbcf261145'></a> Source: [virtualization\hyperv_on_windows\quick_start\media\POSH_CP.png](https://github.com/OpenLocalizationOrg/hyperV/blob/dcb397ab647e455c0066e8b998973be1a344e48e/virtualization/hyperv_on_windows/quick_start/media/POSH_CP.png)
@@ -2111,12 +2111,12 @@
 * Handoff File: [50819aee09462e65ad3e58e1498aeb2100326434.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/8d471a82b5926cd313da355aeec28d7b5c575305/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/50819aee09462e65ad3e58e1498aeb2100326434.png)
 * Handoff Datetime: 2016-01-11 05:17:41
 * Handoff Reason: IsDependency
+* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_powershell.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [50819aee09462e65ad3e58e1498aeb2100326434.png](https://github.com/OpenLocalizationOrg/olhandback/blob/23b7cc78a121cc16a17caf613e5be1a5d8876d1e/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/50819aee09462e65ad3e58e1498aeb2100326434.png)
 * Handback Datetime: 2016-02-22 08:59:06
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#50819aee09462e65ad3e58e1498aeb2100326434146handback_type_is_mismatch_with_handoff_type)
-* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_powershell.md
 * [Back to Top](#report-top)
 
 ##### <a name='fed34babab3f4e671a89cac091b2e17ef42d2a8a147'></a> Source: [virtualization\hyperv_on_windows\quick_start\media\production.png](https://github.com/OpenLocalizationOrg/hyperV/blob/c2a703077ad70c2cac21e0e39c6fc49b6f04ab8a/virtualization/hyperv_on_windows/quick_start/media/production.png)
@@ -2125,12 +2125,12 @@
 * Handoff File: [fed34babab3f4e671a89cac091b2e17ef42d2a8a.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/8d471a82b5926cd313da355aeec28d7b5c575305/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/fed34babab3f4e671a89cac091b2e17ef42d2a8a.png)
 * Handoff Datetime: 2016-01-11 05:17:41
 * Handoff Reason: IsDependency
+* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints.md, virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints1.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [fed34babab3f4e671a89cac091b2e17ef42d2a8a.png](https://github.com/OpenLocalizationOrg/olhandback/blob/23b7cc78a121cc16a17caf613e5be1a5d8876d1e/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/fed34babab3f4e671a89cac091b2e17ef42d2a8a.png)
 * Handback Datetime: 2016-02-22 08:59:06
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#fed34babab3f4e671a89cac091b2e17ef42d2a8a147handback_type_is_mismatch_with_handoff_type)
-* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints.md, virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints1.md
 * [Back to Top](#report-top)
 
 ##### <a name='d36276f92ae59c03ec9ee6ebf036be2e21221851148'></a> Source: [virtualization\hyperv_on_windows\quick_start\media\production_CheckpointName.png](https://github.com/OpenLocalizationOrg/hyperV/blob/c2a703077ad70c2cac21e0e39c6fc49b6f04ab8a/virtualization/hyperv_on_windows/quick_start/media/production_CheckpointName.png)
@@ -2139,12 +2139,12 @@
 * Handoff File: [d36276f92ae59c03ec9ee6ebf036be2e21221851.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/8d471a82b5926cd313da355aeec28d7b5c575305/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/d36276f92ae59c03ec9ee6ebf036be2e21221851.png)
 * Handoff Datetime: 2016-01-11 05:17:41
 * Handoff Reason: IsDependency
+* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints.md, virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints1.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [d36276f92ae59c03ec9ee6ebf036be2e21221851.png](https://github.com/OpenLocalizationOrg/olhandback/blob/23b7cc78a121cc16a17caf613e5be1a5d8876d1e/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/d36276f92ae59c03ec9ee6ebf036be2e21221851.png)
 * Handback Datetime: 2016-02-22 08:59:06
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#d36276f92ae59c03ec9ee6ebf036be2e21221851148handback_type_is_mismatch_with_handoff_type)
-* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints.md, virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints1.md
 * [Back to Top](#report-top)
 
 ##### <a name='380c6e5e0bfe92b92d31d48427f07a973d8fe984149'></a> Source: [virtualization\hyperv_on_windows\quick_start\media\production_complete.png](https://github.com/OpenLocalizationOrg/hyperV/blob/c2a703077ad70c2cac21e0e39c6fc49b6f04ab8a/virtualization/hyperv_on_windows/quick_start/media/production_complete.png)
@@ -2153,12 +2153,12 @@
 * Handoff File: [380c6e5e0bfe92b92d31d48427f07a973d8fe984.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/8d471a82b5926cd313da355aeec28d7b5c575305/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/380c6e5e0bfe92b92d31d48427f07a973d8fe984.png)
 * Handoff Datetime: 2016-01-11 05:17:41
 * Handoff Reason: IsDependency
+* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints.md, virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints1.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [380c6e5e0bfe92b92d31d48427f07a973d8fe984.png](https://github.com/OpenLocalizationOrg/olhandback/blob/23b7cc78a121cc16a17caf613e5be1a5d8876d1e/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/380c6e5e0bfe92b92d31d48427f07a973d8fe984.png)
 * Handback Datetime: 2016-02-22 08:59:06
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#380c6e5e0bfe92b92d31d48427f07a973d8fe984149handback_type_is_mismatch_with_handoff_type)
-* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints.md, virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints1.md
 * [Back to Top](#report-top)
 
 ##### <a name='1d9a3786134bfd9ab4454491be318023849ebf3e150'></a> Source: [virtualization\hyperv_on_windows\quick_start\media\production_notepad.png](https://github.com/OpenLocalizationOrg/hyperV/blob/c2a703077ad70c2cac21e0e39c6fc49b6f04ab8a/virtualization/hyperv_on_windows/quick_start/media/production_notepad.png)
@@ -2167,12 +2167,12 @@
 * Handoff File: [1d9a3786134bfd9ab4454491be318023849ebf3e.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/8d471a82b5926cd313da355aeec28d7b5c575305/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/1d9a3786134bfd9ab4454491be318023849ebf3e.png)
 * Handoff Datetime: 2016-01-11 05:17:41
 * Handoff Reason: IsDependency
+* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints.md, virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints1.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [1d9a3786134bfd9ab4454491be318023849ebf3e.png](https://github.com/OpenLocalizationOrg/olhandback/blob/23b7cc78a121cc16a17caf613e5be1a5d8876d1e/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/1d9a3786134bfd9ab4454491be318023849ebf3e.png)
 * Handback Datetime: 2016-02-22 08:59:06
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#1d9a3786134bfd9ab4454491be318023849ebf3e150handback_type_is_mismatch_with_handoff_type)
-* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints.md, virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints1.md
 * [Back to Top](#report-top)
 
 ##### <a name='7556052a7d70be496c0cff3c8b6e87d42d507cf7151'></a> Source: [virtualization\hyperv_on_windows\quick_start\media\production_off.png](https://github.com/OpenLocalizationOrg/hyperV/blob/dcb397ab647e455c0066e8b998973be1a344e48e/virtualization/hyperv_on_windows/quick_start/media/production_off.png)
@@ -2205,12 +2205,12 @@
 * Handoff File: [fdb6dbedc6e3005586a9f283aa1f46b014bf929e.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/8d471a82b5926cd313da355aeec28d7b5c575305/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/fdb6dbedc6e3005586a9f283aa1f46b014bf929e.png)
 * Handoff Datetime: 2016-01-11 05:17:41
 * Handoff Reason: IsDependency
+* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_install.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [fdb6dbedc6e3005586a9f283aa1f46b014bf929e.png](https://github.com/OpenLocalizationOrg/olhandback/blob/23b7cc78a121cc16a17caf613e5be1a5d8876d1e/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/fdb6dbedc6e3005586a9f283aa1f46b014bf929e.png)
 * Handback Datetime: 2016-02-22 08:59:06
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#fdb6dbedc6e3005586a9f283aa1f46b014bf929e153handback_type_is_mismatch_with_handoff_type)
-* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_install.md
 * [Back to Top](#report-top)
 
 ##### <a name='a528f7589ae64227fae49db803628dadff0c5f7e154'></a> Source: [virtualization\hyperv_on_windows\quick_start\media\rdp.png](https://github.com/OpenLocalizationOrg/hyperV/blob/dcb397ab647e455c0066e8b998973be1a344e48e/virtualization/hyperv_on_windows/quick_start/media/rdp.png)
@@ -2231,12 +2231,12 @@
 * Handoff File: [b9da284951ca5bea7773ac6e0b4029fcd25c514d.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/8d471a82b5926cd313da355aeec28d7b5c575305/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/b9da284951ca5bea7773ac6e0b4029fcd25c514d.png)
 * Handoff Datetime: 2016-01-11 05:17:41
 * Handoff Reason: IsDependency
+* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_vmconnect.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [b9da284951ca5bea7773ac6e0b4029fcd25c514d.png](https://github.com/OpenLocalizationOrg/olhandback/blob/23b7cc78a121cc16a17caf613e5be1a5d8876d1e/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/b9da284951ca5bea7773ac6e0b4029fcd25c514d.png)
 * Handback Datetime: 2016-02-22 08:59:06
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#b9da284951ca5bea7773ac6e0b4029fcd25c514d155handback_type_is_mismatch_with_handoff_type)
-* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_vmconnect.md
 * [Back to Top](#report-top)
 
 ##### <a name='8b5e8f8277dd3bb9ae0df0f19c95fd9f1a2f47e3156'></a> Source: [virtualization\hyperv_on_windows\quick_start\media\restart.png](https://github.com/OpenLocalizationOrg/hyperV/blob/c2a703077ad70c2cac21e0e39c6fc49b6f04ab8a/virtualization/hyperv_on_windows/quick_start/media/restart.png)
@@ -2245,12 +2245,12 @@
 * Handoff File: [8b5e8f8277dd3bb9ae0df0f19c95fd9f1a2f47e3.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/8d471a82b5926cd313da355aeec28d7b5c575305/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/8b5e8f8277dd3bb9ae0df0f19c95fd9f1a2f47e3.png)
 * Handoff Datetime: 2016-01-11 05:17:41
 * Handoff Reason: IsDependency
+* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_install.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [8b5e8f8277dd3bb9ae0df0f19c95fd9f1a2f47e3.png](https://github.com/OpenLocalizationOrg/olhandback/blob/23b7cc78a121cc16a17caf613e5be1a5d8876d1e/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/8b5e8f8277dd3bb9ae0df0f19c95fd9f1a2f47e3.png)
 * Handback Datetime: 2016-02-22 08:59:06
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#8b5e8f8277dd3bb9ae0df0f19c95fd9f1a2f47e3156handback_type_is_mismatch_with_handoff_type)
-* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_install.md
 * [Back to Top](#report-top)
 
 ##### <a name='66caa4c366c1b65937a913bfb39e3af350c2d9f6157'></a> Source: [virtualization\hyperv_on_windows\quick_start\media\Revert.png](https://github.com/OpenLocalizationOrg/hyperV/blob/dcb397ab647e455c0066e8b998973be1a344e48e/virtualization/hyperv_on_windows/quick_start/media/Revert.png)
@@ -2259,12 +2259,12 @@
 * Handoff File: [66caa4c366c1b65937a913bfb39e3af350c2d9f6.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/8d471a82b5926cd313da355aeec28d7b5c575305/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/66caa4c366c1b65937a913bfb39e3af350c2d9f6.png)
 * Handoff Datetime: 2016-01-11 05:17:41
 * Handoff Reason: IsDependency
+* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_vmconnect.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [66caa4c366c1b65937a913bfb39e3af350c2d9f6.png](https://github.com/OpenLocalizationOrg/olhandback/blob/23b7cc78a121cc16a17caf613e5be1a5d8876d1e/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/66caa4c366c1b65937a913bfb39e3af350c2d9f6.png)
 * Handback Datetime: 2016-02-22 08:59:06
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#66caa4c366c1b65937a913bfb39e3af350c2d9f6157handback_type_is_mismatch_with_handoff_type)
-* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_vmconnect.md
 * [Back to Top](#report-top)
 
 ##### <a name='80edad7cc988d2ca8346d2f785345ce6b5d36df4158'></a> Source: [virtualization\hyperv_on_windows\quick_start\media\Save.png](https://github.com/OpenLocalizationOrg/hyperV/blob/dcb397ab647e455c0066e8b998973be1a344e48e/virtualization/hyperv_on_windows/quick_start/media/Save.png)
@@ -2273,12 +2273,12 @@
 * Handoff File: [80edad7cc988d2ca8346d2f785345ce6b5d36df4.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/8d471a82b5926cd313da355aeec28d7b5c575305/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/80edad7cc988d2ca8346d2f785345ce6b5d36df4.png)
 * Handoff Datetime: 2016-01-11 05:17:41
 * Handoff Reason: IsDependency
+* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_vmconnect.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [80edad7cc988d2ca8346d2f785345ce6b5d36df4.png](https://github.com/OpenLocalizationOrg/olhandback/blob/23b7cc78a121cc16a17caf613e5be1a5d8876d1e/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/80edad7cc988d2ca8346d2f785345ce6b5d36df4.png)
 * Handback Datetime: 2016-02-22 08:59:06
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#80edad7cc988d2ca8346d2f785345ce6b5d36df4158handback_type_is_mismatch_with_handoff_type)
-* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_vmconnect.md
 * [Back to Top](#report-top)
 
 ##### <a name='c1c71b98feb102a4e67772bfc2de875ec2af22dd159'></a> Source: [virtualization\hyperv_on_windows\quick_start\media\save_standard.png](https://github.com/OpenLocalizationOrg/hyperV/blob/c2a703077ad70c2cac21e0e39c6fc49b6f04ab8a/virtualization/hyperv_on_windows/quick_start/media/save_standard.png)
@@ -2287,12 +2287,12 @@
 * Handoff File: [c1c71b98feb102a4e67772bfc2de875ec2af22dd.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/8d471a82b5926cd313da355aeec28d7b5c575305/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/c1c71b98feb102a4e67772bfc2de875ec2af22dd.png)
 * Handoff Datetime: 2016-01-11 05:17:41
 * Handoff Reason: IsDependency
+* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints.md, virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints1.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [c1c71b98feb102a4e67772bfc2de875ec2af22dd.png](https://github.com/OpenLocalizationOrg/olhandback/blob/23b7cc78a121cc16a17caf613e5be1a5d8876d1e/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/c1c71b98feb102a4e67772bfc2de875ec2af22dd.png)
 * Handback Datetime: 2016-02-22 08:59:06
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#c1c71b98feb102a4e67772bfc2de875ec2af22dd159handback_type_is_mismatch_with_handoff_type)
-* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints.md, virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints1.md
 * [Back to Top](#report-top)
 
 ##### <a name='4e5d7f445cdc1b8fb9e5722e069d339dc2666269160'></a> Source: [virtualization\hyperv_on_windows\quick_start\media\select_export.png](https://github.com/OpenLocalizationOrg/hyperV/blob/dcb397ab647e455c0066e8b998973be1a344e48e/virtualization/hyperv_on_windows/quick_start/media/select_export.png)
@@ -2313,12 +2313,12 @@
 * Handoff File: [16cfc23957260ceb3b07ef55a8e4b79996d525ca.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/8d471a82b5926cd313da355aeec28d7b5c575305/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/16cfc23957260ceb3b07ef55a8e4b79996d525ca.png)
 * Handoff Datetime: 2016-01-11 05:17:41
 * Handoff Reason: IsDependency
+* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_export_import.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [16cfc23957260ceb3b07ef55a8e4b79996d525ca.png](https://github.com/OpenLocalizationOrg/olhandback/blob/23b7cc78a121cc16a17caf613e5be1a5d8876d1e/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/16cfc23957260ceb3b07ef55a8e4b79996d525ca.png)
 * Handback Datetime: 2016-02-22 08:59:06
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#16cfc23957260ceb3b07ef55a8e4b79996d525ca161handback_type_is_mismatch_with_handoff_type)
-* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_export_import.md
 * [Back to Top](#report-top)
 
 ##### <a name='8c048001cc15535b552166a7f02a9b04a4e3c3f9162'></a> Source: [virtualization\hyperv_on_windows\quick_start\media\select_folder.png](https://github.com/OpenLocalizationOrg/hyperV/blob/dcb397ab647e455c0066e8b998973be1a344e48e/virtualization/hyperv_on_windows/quick_start/media/select_folder.png)
@@ -2339,12 +2339,12 @@
 * Handoff File: [010b14ab9606fc78ab56eee192fa75bd3c9ce944.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/8d471a82b5926cd313da355aeec28d7b5c575305/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/010b14ab9606fc78ab56eee192fa75bd3c9ce944.png)
 * Handoff Datetime: 2016-01-11 05:17:41
 * Handoff Reason: IsDependency
+* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_virtual_switch.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [010b14ab9606fc78ab56eee192fa75bd3c9ce944.png](https://github.com/OpenLocalizationOrg/olhandback/blob/23b7cc78a121cc16a17caf613e5be1a5d8876d1e/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/010b14ab9606fc78ab56eee192fa75bd3c9ce944.png)
 * Handback Datetime: 2016-02-22 08:59:06
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#010b14ab9606fc78ab56eee192fa75bd3c9ce944163handback_type_is_mismatch_with_handoff_type)
-* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_virtual_switch.md
 * [Back to Top](#report-top)
 
 ##### <a name='5ab1d8630e83b53afc73ae837c8d9409f0cfee96164'></a> Source: [virtualization\hyperv_on_windows\quick_start\media\Shutdown.png](https://github.com/OpenLocalizationOrg/hyperV/blob/dcb397ab647e455c0066e8b998973be1a344e48e/virtualization/hyperv_on_windows/quick_start/media/Shutdown.png)
@@ -2353,12 +2353,12 @@
 * Handoff File: [5ab1d8630e83b53afc73ae837c8d9409f0cfee96.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/8d471a82b5926cd313da355aeec28d7b5c575305/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/5ab1d8630e83b53afc73ae837c8d9409f0cfee96.png)
 * Handoff Datetime: 2016-01-11 05:17:41
 * Handoff Reason: IsDependency
+* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_vmconnect.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [5ab1d8630e83b53afc73ae837c8d9409f0cfee96.png](https://github.com/OpenLocalizationOrg/olhandback/blob/23b7cc78a121cc16a17caf613e5be1a5d8876d1e/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/5ab1d8630e83b53afc73ae837c8d9409f0cfee96.png)
 * Handback Datetime: 2016-02-22 08:59:06
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#5ab1d8630e83b53afc73ae837c8d9409f0cfee96164handback_type_is_mismatch_with_handoff_type)
-* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_vmconnect.md
 * [Back to Top](#report-top)
 
 ##### <a name='f3c264f1b0510ecf2dea8110410e9a5675ee5ce9165'></a> Source: [virtualization\hyperv_on_windows\quick_start\media\standard.png](https://github.com/OpenLocalizationOrg/hyperV/blob/dcb397ab647e455c0066e8b998973be1a344e48e/virtualization/hyperv_on_windows/quick_start/media/standard.png)
@@ -2379,12 +2379,12 @@
 * Handoff File: [467fb70b2d1c32195b1ba908c08b294bb569eecd.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/8d471a82b5926cd313da355aeec28d7b5c575305/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/467fb70b2d1c32195b1ba908c08b294bb569eecd.png)
 * Handoff Datetime: 2016-01-11 05:17:41
 * Handoff Reason: IsDependency
+* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints.md, virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints1.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [467fb70b2d1c32195b1ba908c08b294bb569eecd.png](https://github.com/OpenLocalizationOrg/olhandback/blob/23b7cc78a121cc16a17caf613e5be1a5d8876d1e/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/467fb70b2d1c32195b1ba908c08b294bb569eecd.png)
 * Handback Datetime: 2016-02-22 08:59:06
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#467fb70b2d1c32195b1ba908c08b294bb569eecd167handback_type_is_mismatch_with_handoff_type)
-* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints.md, virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints1.md
 * [Back to Top](#report-top)
 
 ##### <a name='6146e217d26ec6fa5338c9df3ebed41ee94192a6168'></a> Source: [virtualization\hyperv_on_windows\quick_start\media\standard_applied_notepad.png](https://github.com/OpenLocalizationOrg/hyperV/blob/c2a703077ad70c2cac21e0e39c6fc49b6f04ab8a/virtualization/hyperv_on_windows/quick_start/media/standard_applied_notepad.png)
@@ -2393,12 +2393,12 @@
 * Handoff File: [6146e217d26ec6fa5338c9df3ebed41ee94192a6.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/8d471a82b5926cd313da355aeec28d7b5c575305/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/6146e217d26ec6fa5338c9df3ebed41ee94192a6.png)
 * Handoff Datetime: 2016-01-11 05:17:41
 * Handoff Reason: IsDependency
+* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints.md, virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints1.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [6146e217d26ec6fa5338c9df3ebed41ee94192a6.png](https://github.com/OpenLocalizationOrg/olhandback/blob/23b7cc78a121cc16a17caf613e5be1a5d8876d1e/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/6146e217d26ec6fa5338c9df3ebed41ee94192a6.png)
 * Handback Datetime: 2016-02-22 08:59:06
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#6146e217d26ec6fa5338c9df3ebed41ee94192a6168handback_type_is_mismatch_with_handoff_type)
-* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints.md, virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints1.md
 * [Back to Top](#report-top)
 
 ##### <a name='4e785972c3be387b6ebd64e8b9fb223cc3dd75fc169'></a> Source: [virtualization\hyperv_on_windows\quick_start\media\standard_complete.png](https://github.com/OpenLocalizationOrg/hyperV/blob/c2a703077ad70c2cac21e0e39c6fc49b6f04ab8a/virtualization/hyperv_on_windows/quick_start/media/standard_complete.png)
@@ -2407,12 +2407,12 @@
 * Handoff File: [4e785972c3be387b6ebd64e8b9fb223cc3dd75fc.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/8d471a82b5926cd313da355aeec28d7b5c575305/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/4e785972c3be387b6ebd64e8b9fb223cc3dd75fc.png)
 * Handoff Datetime: 2016-01-11 05:17:41
 * Handoff Reason: IsDependency
+* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints.md, virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints1.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [4e785972c3be387b6ebd64e8b9fb223cc3dd75fc.png](https://github.com/OpenLocalizationOrg/olhandback/blob/23b7cc78a121cc16a17caf613e5be1a5d8876d1e/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/4e785972c3be387b6ebd64e8b9fb223cc3dd75fc.png)
 * Handback Datetime: 2016-02-22 08:59:06
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#4e785972c3be387b6ebd64e8b9fb223cc3dd75fc169handback_type_is_mismatch_with_handoff_type)
-* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints.md, virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints1.md
 * [Back to Top](#report-top)
 
 ##### <a name='53d9bc961c04974afdcd12bb720ad64bfcf34075170'></a> Source: [virtualization\hyperv_on_windows\quick_start\media\standard_notepad.png](https://github.com/OpenLocalizationOrg/hyperV/blob/c2a703077ad70c2cac21e0e39c6fc49b6f04ab8a/virtualization/hyperv_on_windows/quick_start/media/standard_notepad.png)
@@ -2421,12 +2421,12 @@
 * Handoff File: [53d9bc961c04974afdcd12bb720ad64bfcf34075.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/8d471a82b5926cd313da355aeec28d7b5c575305/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/53d9bc961c04974afdcd12bb720ad64bfcf34075.png)
 * Handoff Datetime: 2016-01-11 05:17:41
 * Handoff Reason: IsDependency
+* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints.md, virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints1.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [53d9bc961c04974afdcd12bb720ad64bfcf34075.png](https://github.com/OpenLocalizationOrg/olhandback/blob/23b7cc78a121cc16a17caf613e5be1a5d8876d1e/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/53d9bc961c04974afdcd12bb720ad64bfcf34075.png)
 * Handback Datetime: 2016-02-22 08:59:06
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#53d9bc961c04974afdcd12bb720ad64bfcf34075170handback_type_is_mismatch_with_handoff_type)
-* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints.md, virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints1.md
 * [Back to Top](#report-top)
 
 ##### <a name='d5fe61997fe63333a11454f5890626ad201cf2a5166'></a> Source: [virtualization\hyperv_on_windows\quick_start\media\Standard1.png](https://github.com/OpenLocalizationOrg/hyperV/blob/dcb397ab647e455c0066e8b998973be1a344e48e/virtualization/hyperv_on_windows/quick_start/media/Standard1.png)
@@ -2435,12 +2435,12 @@
 * Handoff File: [d5fe61997fe63333a11454f5890626ad201cf2a5.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/8d471a82b5926cd313da355aeec28d7b5c575305/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/d5fe61997fe63333a11454f5890626ad201cf2a5.png)
 * Handoff Datetime: 2016-01-11 05:17:41
 * Handoff Reason: IsDependency
+* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints.md, virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints1.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [d5fe61997fe63333a11454f5890626ad201cf2a5.png](https://github.com/OpenLocalizationOrg/olhandback/blob/23b7cc78a121cc16a17caf613e5be1a5d8876d1e/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/d5fe61997fe63333a11454f5890626ad201cf2a5.png)
 * Handback Datetime: 2016-02-22 08:59:06
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#d5fe61997fe63333a11454f5890626ad201cf2a5166handback_type_is_mismatch_with_handoff_type)
-* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints.md, virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints1.md
 * [Back to Top](#report-top)
 
 ##### <a name='600e67045b98582d4dc3d087dcd2ae2a6d4be54c171'></a> Source: [virtualization\hyperv_on_windows\quick_start\media\Start.png](https://github.com/OpenLocalizationOrg/hyperV/blob/dcb397ab647e455c0066e8b998973be1a344e48e/virtualization/hyperv_on_windows/quick_start/media/Start.png)
@@ -2449,12 +2449,12 @@
 * Handoff File: [600e67045b98582d4dc3d087dcd2ae2a6d4be54c.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/8d471a82b5926cd313da355aeec28d7b5c575305/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/600e67045b98582d4dc3d087dcd2ae2a6d4be54c.png)
 * Handoff Datetime: 2016-01-11 05:17:41
 * Handoff Reason: IsDependency
+* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints.md, virtualization\hyperv_on_windows\quick_start\walkthrough_vmconnect.md, virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints1.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [600e67045b98582d4dc3d087dcd2ae2a6d4be54c.png](https://github.com/OpenLocalizationOrg/olhandback/blob/23b7cc78a121cc16a17caf613e5be1a5d8876d1e/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/600e67045b98582d4dc3d087dcd2ae2a6d4be54c.png)
 * Handback Datetime: 2016-02-22 08:59:06
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#600e67045b98582d4dc3d087dcd2ae2a6d4be54c171handback_type_is_mismatch_with_handoff_type)
-* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints.md, virtualization\hyperv_on_windows\quick_start\walkthrough_vmconnect.md, virtualization\hyperv_on_windows\quick_start\walkthrough_checkpoints1.md
 * [Back to Top](#report-top)
 
 ##### <a name='0a5cf2ba600896aeab999b4e8d62df930ee0226d172'></a> Source: [virtualization\hyperv_on_windows\quick_start\media\systeminfo.png](https://github.com/OpenLocalizationOrg/hyperV/blob/c2a703077ad70c2cac21e0e39c6fc49b6f04ab8a/virtualization/hyperv_on_windows/quick_start/media/systeminfo.png)
@@ -2463,12 +2463,12 @@
 * Handoff File: [0a5cf2ba600896aeab999b4e8d62df930ee0226d.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/8d471a82b5926cd313da355aeec28d7b5c575305/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/0a5cf2ba600896aeab999b4e8d62df930ee0226d.png)
 * Handoff Datetime: 2016-01-11 05:17:41
 * Handoff Reason: IsDependency
+* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_compatibility.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [0a5cf2ba600896aeab999b4e8d62df930ee0226d.png](https://github.com/OpenLocalizationOrg/olhandback/blob/23b7cc78a121cc16a17caf613e5be1a5d8876d1e/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/0a5cf2ba600896aeab999b4e8d62df930ee0226d.png)
 * Handback Datetime: 2016-02-22 08:59:06
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#0a5cf2ba600896aeab999b4e8d62df930ee0226d172handback_type_is_mismatch_with_handoff_type)
-* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_compatibility.md
 * [Back to Top](#report-top)
 
 ##### <a name='0ace2b0a0fb0268ec72373ff912836157cddbda5173'></a> Source: [virtualization\hyperv_on_windows\quick_start\media\Turnoff.png](https://github.com/OpenLocalizationOrg/hyperV/blob/dcb397ab647e455c0066e8b998973be1a344e48e/virtualization/hyperv_on_windows/quick_start/media/Turnoff.png)
@@ -2477,12 +2477,12 @@
 * Handoff File: [0ace2b0a0fb0268ec72373ff912836157cddbda5.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/8d471a82b5926cd313da355aeec28d7b5c575305/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/0ace2b0a0fb0268ec72373ff912836157cddbda5.png)
 * Handoff Datetime: 2016-01-11 05:17:41
 * Handoff Reason: IsDependency
+* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_vmconnect.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [0ace2b0a0fb0268ec72373ff912836157cddbda5.png](https://github.com/OpenLocalizationOrg/olhandback/blob/23b7cc78a121cc16a17caf613e5be1a5d8876d1e/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/0ace2b0a0fb0268ec72373ff912836157cddbda5.png)
 * Handback Datetime: 2016-02-22 08:59:06
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#0ace2b0a0fb0268ec72373ff912836157cddbda5173handback_type_is_mismatch_with_handoff_type)
-* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_vmconnect.md
 * [Back to Top](#report-top)
 
 ##### <a name='64a15781d204035d9309edfbfb5d9da7489f707e174'></a> Source: [virtualization\hyperv_on_windows\quick_start\media\virtual_switch_manager.png](https://github.com/OpenLocalizationOrg/hyperV/blob/dcb397ab647e455c0066e8b998973be1a344e48e/virtualization/hyperv_on_windows/quick_start/media/virtual_switch_manager.png)
@@ -2503,12 +2503,12 @@
 * Handoff File: [2d6238ee2a2ab32abb8c554ed523d991dd2872a5.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/8d471a82b5926cd313da355aeec28d7b5c575305/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/2d6238ee2a2ab32abb8c554ed523d991dd2872a5.png)
 * Handoff Datetime: 2016-01-11 05:17:41
 * Handoff Reason: IsDependency
+* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_virtual_switch.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [2d6238ee2a2ab32abb8c554ed523d991dd2872a5.png](https://github.com/OpenLocalizationOrg/olhandback/blob/23b7cc78a121cc16a17caf613e5be1a5d8876d1e/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/2d6238ee2a2ab32abb8c554ed523d991dd2872a5.png)
 * Handback Datetime: 2016-02-22 08:59:06
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#2d6238ee2a2ab32abb8c554ed523d991dd2872a5175handback_type_is_mismatch_with_handoff_type)
-* Dependency From: virtualization\hyperv_on_windows\quick_start\walkthrough_virtual_switch.md
 * [Back to Top](#report-top)
 
 ##### <a name='264bde04cf7bc72f9718fbe8753b29f714c02572176'></a> Source: [virtualization\hyperv_on_windows\quick_start\media\vmconnect_start_button.png](https://github.com/OpenLocalizationOrg/hyperV/blob/dcb397ab647e455c0066e8b998973be1a344e48e/virtualization/hyperv_on_windows/quick_start/media/vmconnect_start_button.png)
@@ -2695,12 +2695,12 @@
 * Handoff File: [5f21c845594a8663b7458e86c121563d3b199e4d.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/8d471a82b5926cd313da355aeec28d7b5c575305/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/5f21c845594a8663b7458e86c121563d3b199e4d.png)
 * Handoff Datetime: 2016-01-11 05:17:41
 * Handoff Reason: IsDependency
+* Dependency From: virtualization\hyperv_on_windows\user_guide\remote_host_management.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [5f21c845594a8663b7458e86c121563d3b199e4d.png](https://github.com/OpenLocalizationOrg/olhandback/blob/23b7cc78a121cc16a17caf613e5be1a5d8876d1e/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/5f21c845594a8663b7458e86c121563d3b199e4d.png)
 * Handback Datetime: 2016-02-22 08:59:06
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#5f21c845594a8663b7458e86c121563d3b199e4d190handback_type_is_mismatch_with_handoff_type)
-* Dependency From: virtualization\hyperv_on_windows\user_guide\remote_host_management.md
 * [Back to Top](#report-top)
 
 ##### <a name='480f125229e908bd46da36baea6c1628b3b10fb3191'></a> Source: [virtualization\hyperv_on_windows\user_guide\media\HyperVManager-ConnectToLocalHost.PNG](https://github.com/OpenLocalizationOrg/hyperV/blob/dcb397ab647e455c0066e8b998973be1a344e48e/virtualization/hyperv_on_windows/user_guide/media/HyperVManager-ConnectToLocalHost.PNG)
@@ -2709,12 +2709,12 @@
 * Handoff File: [480f125229e908bd46da36baea6c1628b3b10fb3.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/8d471a82b5926cd313da355aeec28d7b5c575305/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/480f125229e908bd46da36baea6c1628b3b10fb3.png)
 * Handoff Datetime: 2016-01-11 05:17:41
 * Handoff Reason: IsDependency
+* Dependency From: virtualization\hyperv_on_windows\user_guide\remote_host_management.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [480f125229e908bd46da36baea6c1628b3b10fb3.png](https://github.com/OpenLocalizationOrg/olhandback/blob/23b7cc78a121cc16a17caf613e5be1a5d8876d1e/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/480f125229e908bd46da36baea6c1628b3b10fb3.png)
 * Handback Datetime: 2016-02-22 08:59:06
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#480f125229e908bd46da36baea6c1628b3b10fb3191handback_type_is_mismatch_with_handoff_type)
-* Dependency From: virtualization\hyperv_on_windows\user_guide\remote_host_management.md
 * [Back to Top](#report-top)
 
 ##### <a name='09140851fb0b7b0d268a1beda2d6423fe3c24e1a192'></a> Source: [virtualization\hyperv_on_windows\user_guide\media\HyperVManager-ConnectToRemoteHost.PNG](https://github.com/OpenLocalizationOrg/hyperV/blob/dcb397ab647e455c0066e8b998973be1a344e48e/virtualization/hyperv_on_windows/user_guide/media/HyperVManager-ConnectToRemoteHost.PNG)
@@ -2723,12 +2723,12 @@
 * Handoff File: [09140851fb0b7b0d268a1beda2d6423fe3c24e1a.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/8d471a82b5926cd313da355aeec28d7b5c575305/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/09140851fb0b7b0d268a1beda2d6423fe3c24e1a.png)
 * Handoff Datetime: 2016-01-11 05:17:41
 * Handoff Reason: IsDependency
+* Dependency From: virtualization\hyperv_on_windows\user_guide\remote_host_management.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [09140851fb0b7b0d268a1beda2d6423fe3c24e1a.png](https://github.com/OpenLocalizationOrg/olhandback/blob/23b7cc78a121cc16a17caf613e5be1a5d8876d1e/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/09140851fb0b7b0d268a1beda2d6423fe3c24e1a.png)
 * Handback Datetime: 2016-02-22 08:59:06
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#09140851fb0b7b0d268a1beda2d6423fe3c24e1a192handback_type_is_mismatch_with_handoff_type)
-* Dependency From: virtualization\hyperv_on_windows\user_guide\remote_host_management.md
 * [Back to Top](#report-top)
 
 ##### <a name='b1547cd8ba6a8ff669e679d64b79773d3878beea193'></a> Source: [virtualization\hyperv_on_windows\user_guide\media\HyperVManager-ConnectToRemoteHostAltCreds.png](https://github.com/OpenLocalizationOrg/hyperV/blob/c2a703077ad70c2cac21e0e39c6fc49b6f04ab8a/virtualization/hyperv_on_windows/user_guide/media/HyperVManager-ConnectToRemoteHostAltCreds.png)
@@ -2737,12 +2737,12 @@
 * Handoff File: [b1547cd8ba6a8ff669e679d64b79773d3878beea.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/8d471a82b5926cd313da355aeec28d7b5c575305/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/b1547cd8ba6a8ff669e679d64b79773d3878beea.png)
 * Handoff Datetime: 2016-01-11 05:17:41
 * Handoff Reason: IsDependency
+* Dependency From: virtualization\hyperv_on_windows\user_guide\remote_host_management.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [b1547cd8ba6a8ff669e679d64b79773d3878beea.png](https://github.com/OpenLocalizationOrg/olhandback/blob/23b7cc78a121cc16a17caf613e5be1a5d8876d1e/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/b1547cd8ba6a8ff669e679d64b79773d3878beea.png)
 * Handback Datetime: 2016-02-22 08:59:06
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#b1547cd8ba6a8ff669e679d64b79773d3878beea193handback_type_is_mismatch_with_handoff_type)
-* Dependency From: virtualization\hyperv_on_windows\user_guide\remote_host_management.md
 * [Back to Top](#report-top)
 
 ##### <a name='f256488c87570f303ea12b525a0905a4d3b610d6194'></a> Source: [virtualization\hyperv_on_windows\user_guide\media\HyperVManager-ConnectToRemoteHostWin8.PNG](https://github.com/OpenLocalizationOrg/hyperV/blob/dcb397ab647e455c0066e8b998973be1a344e48e/virtualization/hyperv_on_windows/user_guide/media/HyperVManager-ConnectToRemoteHostWin8.PNG)
@@ -2902,12 +2902,12 @@
 * Handoff File: [93ee375f9efb3462c5d1e4ba45248fe9dde58566.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/8d471a82b5926cd313da355aeec28d7b5c575305/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/93ee375f9efb3462c5d1e4ba45248fe9dde58566.png)
 * Handoff Datetime: 2016-01-11 05:17:41
 * Handoff Reason: IsDependency
+* Dependency From: virtualization\windowscontainers\about\container_ecosystem.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [93ee375f9efb3462c5d1e4ba45248fe9dde58566.png](https://github.com/OpenLocalizationOrg/olhandback/blob/23b7cc78a121cc16a17caf613e5be1a5d8876d1e/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/93ee375f9efb3462c5d1e4ba45248fe9dde58566.png)
 * Handback Datetime: 2016-02-22 08:59:06
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#93ee375f9efb3462c5d1e4ba45248fe9dde58566206handback_type_is_mismatch_with_handoff_type)
-* Dependency From: virtualization\windowscontainers\about\container_ecosystem.md
 * [Back to Top](#report-top)
 
 ##### <a name='b62d8af1f08bc8085945c8aa154d46d2215879cb207'></a> Source: [virtualization\windowscontainers\about\media\containerfund.png](https://github.com/OpenLocalizationOrg/hyperV/blob/c2a703077ad70c2cac21e0e39c6fc49b6f04ab8a/virtualization/windowscontainers/about/media/containerfund.png)
@@ -2916,12 +2916,12 @@
 * Handoff File: [b62d8af1f08bc8085945c8aa154d46d2215879cb.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/8d471a82b5926cd313da355aeec28d7b5c575305/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/b62d8af1f08bc8085945c8aa154d46d2215879cb.png)
 * Handoff Datetime: 2016-01-11 05:17:41
 * Handoff Reason: IsDependency
+* Dependency From: virtualization\windowscontainers\about\about_overview.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [b62d8af1f08bc8085945c8aa154d46d2215879cb.png](https://github.com/OpenLocalizationOrg/olhandback/blob/23b7cc78a121cc16a17caf613e5be1a5d8876d1e/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/b62d8af1f08bc8085945c8aa154d46d2215879cb.png)
 * Handback Datetime: 2016-02-22 08:59:06
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#b62d8af1f08bc8085945c8aa154d46d2215879cb207handback_type_is_mismatch_with_handoff_type)
-* Dependency From: virtualization\windowscontainers\about\about_overview.md
 * [Back to Top](#report-top)
 
 ##### <a name='f38b1c5d5e6054b458fb21cabc6610d107344824208'></a> Source: [virtualization\windowscontainers\about\media\containers._2.png](https://github.com/OpenLocalizationOrg/hyperV/blob/dcb397ab647e455c0066e8b998973be1a344e48e/virtualization/windowscontainers/about/media/containers._2.png)
@@ -3224,12 +3224,12 @@
 * Handoff File: [381c1908855b7bfb04cda840a0792a563345b1a8.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/8d471a82b5926cd313da355aeec28d7b5c575305/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/381c1908855b7bfb04cda840a0792a563345b1a8.png)
 * Handoff Datetime: 2016-01-11 05:17:41
 * Handoff Reason: IsDependency
+* Dependency From: virtualization\windowscontainers\quick_start\manage_docker.md, virtualization\windowscontainers\quick_start\manage_powershell.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [381c1908855b7bfb04cda840a0792a563345b1a8.png](https://github.com/OpenLocalizationOrg/olhandback/blob/23b7cc78a121cc16a17caf613e5be1a5d8876d1e/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/381c1908855b7bfb04cda840a0792a563345b1a8.png)
 * Handback Datetime: 2016-02-22 08:59:06
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#381c1908855b7bfb04cda840a0792a563345b1a8232handback_type_is_mismatch_with_handoff_type)
-* Dependency From: virtualization\windowscontainers\quick_start\manage_docker.md, virtualization\windowscontainers\quick_start\manage_powershell.md
 * [Back to Top](#report-top)
 
 ##### <a name='2a3253667821f9df2c339f481ab90933d19edcab233'></a> Source: [virtualization\windowscontainers\quick_start\media\ContainerHost.PNG](https://github.com/OpenLocalizationOrg/hyperV/blob/dcb397ab647e455c0066e8b998973be1a344e48e/virtualization/windowscontainers/quick_start/media/ContainerHost.PNG)
@@ -3262,12 +3262,12 @@
 * Handoff File: [439993aa3c0ae15d11beb2046585c1bb19629c87.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/8d471a82b5926cd313da355aeec28d7b5c575305/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/439993aa3c0ae15d11beb2046585c1bb19629c87.png)
 * Handoff Datetime: 2016-01-11 05:17:41
 * Handoff Reason: IsDependency
+* Dependency From: virtualization\windowscontainers\quick_start\container_setup.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [439993aa3c0ae15d11beb2046585c1bb19629c87.png](https://github.com/OpenLocalizationOrg/olhandback/blob/23b7cc78a121cc16a17caf613e5be1a5d8876d1e/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/439993aa3c0ae15d11beb2046585c1bb19629c87.png)
 * Handback Datetime: 2016-02-22 08:59:06
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#439993aa3c0ae15d11beb2046585c1bb19629c87234handback_type_is_mismatch_with_handoff_type)
-* Dependency From: virtualization\windowscontainers\quick_start\container_setup.md
 * [Back to Top](#report-top)
 
 ##### <a name='5cdb093497c3578564bfa84ac54e66d615d690b2236'></a> Source: [virtualization\windowscontainers\quick_start\media\create_vm.PNG](https://github.com/OpenLocalizationOrg/hyperV/blob/dcb397ab647e455c0066e8b998973be1a344e48e/virtualization/windowscontainers/quick_start/media/create_vm.PNG)
@@ -3360,12 +3360,12 @@
 * Handoff File: [09f8ea3c577b2683ba069e9b197ef3f5c9681ead.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/8d471a82b5926cd313da355aeec28d7b5c575305/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/09f8ea3c577b2683ba069e9b197ef3f5c9681ead.png)
 * Handoff Datetime: 2016-01-11 05:17:41
 * Handoff Reason: IsDependency
+* Dependency From: virtualization\windowscontainers\quick_start\manage_docker.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [09f8ea3c577b2683ba069e9b197ef3f5c9681ead.png](https://github.com/OpenLocalizationOrg/olhandback/blob/23b7cc78a121cc16a17caf613e5be1a5d8876d1e/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/09f8ea3c577b2683ba069e9b197ef3f5c9681ead.png)
 * Handback Datetime: 2016-02-22 08:59:06
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#09f8ea3c577b2683ba069e9b197ef3f5c9681ead243handback_type_is_mismatch_with_handoff_type)
-* Dependency From: virtualization\windowscontainers\quick_start\manage_docker.md
 * [Back to Top](#report-top)
 
 ##### <a name='255269dc350ce87467693f6b28e6ab63ae87dfed244'></a> Source: [virtualization\windowscontainers\quick_start\media\docker2.png](https://github.com/OpenLocalizationOrg/hyperV/blob/dcb397ab647e455c0066e8b998973be1a344e48e/virtualization/windowscontainers/quick_start/media/docker2.png)
@@ -3422,12 +3422,12 @@
 * Handoff File: [19c1070cee496d52eba1b2ce80f4f939edccdffd.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/8d471a82b5926cd313da355aeec28d7b5c575305/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/19c1070cee496d52eba1b2ce80f4f939edccdffd.png)
 * Handoff Datetime: 2016-01-11 05:17:41
 * Handoff Reason: IsDependency
+* Dependency From: virtualization\windowscontainers\quick_start\manage_docker.md, virtualization\windowscontainers\quick_start\manage_powershell.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [19c1070cee496d52eba1b2ce80f4f939edccdffd.png](https://github.com/OpenLocalizationOrg/olhandback/blob/23b7cc78a121cc16a17caf613e5be1a5d8876d1e/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/19c1070cee496d52eba1b2ce80f4f939edccdffd.png)
 * Handback Datetime: 2016-02-22 08:59:06
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#19c1070cee496d52eba1b2ce80f4f939edccdffd248handback_type_is_mismatch_with_handoff_type)
-* Dependency From: virtualization\windowscontainers\quick_start\manage_docker.md, virtualization\windowscontainers\quick_start\manage_powershell.md
 * [Back to Top](#report-top)
 
 ##### <a name='e37bbadc6a9ae2c90888b1a51969a7ee6999e836249'></a> Source: [virtualization\windowscontainers\quick_start\media\kanban.jpg](https://github.com/OpenLocalizationOrg/hyperV/blob/dcb397ab647e455c0066e8b998973be1a344e48e/virtualization/windowscontainers/quick_start/media/kanban.jpg)
@@ -3448,12 +3448,12 @@
 * Handoff File: [1727f8f50a45ba27cbd0854ad59b26ad639f9e6f.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/8d471a82b5926cd313da355aeec28d7b5c575305/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/1727f8f50a45ba27cbd0854ad59b26ad639f9e6f.png)
 * Handoff Datetime: 2016-01-11 05:17:41
 * Handoff Reason: IsDependency
+* Dependency From: virtualization\windowscontainers\quick_start\azure_setup.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [1727f8f50a45ba27cbd0854ad59b26ad639f9e6f.png](https://github.com/OpenLocalizationOrg/olhandback/blob/23b7cc78a121cc16a17caf613e5be1a5d8876d1e/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/1727f8f50a45ba27cbd0854ad59b26ad639f9e6f.png)
 * Handback Datetime: 2016-02-22 08:59:06
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#1727f8f50a45ba27cbd0854ad59b26ad639f9e6f250handback_type_is_mismatch_with_handoff_type)
-* Dependency From: virtualization\windowscontainers\quick_start\azure_setup.md
 * [Back to Top](#report-top)
 
 ##### <a name='763c92da0f923fce31efd828797c46d750a5464b251'></a> Source: [virtualization\windowscontainers\quick_start\media\newazure2.png](https://github.com/OpenLocalizationOrg/hyperV/blob/c2a703077ad70c2cac21e0e39c6fc49b6f04ab8a/virtualization/windowscontainers/quick_start/media/newazure2.png)
@@ -3462,12 +3462,12 @@
 * Handoff File: [763c92da0f923fce31efd828797c46d750a5464b.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/8d471a82b5926cd313da355aeec28d7b5c575305/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/763c92da0f923fce31efd828797c46d750a5464b.png)
 * Handoff Datetime: 2016-01-11 05:17:41
 * Handoff Reason: IsDependency
+* Dependency From: virtualization\windowscontainers\quick_start\azure_setup.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [763c92da0f923fce31efd828797c46d750a5464b.png](https://github.com/OpenLocalizationOrg/olhandback/blob/23b7cc78a121cc16a17caf613e5be1a5d8876d1e/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/763c92da0f923fce31efd828797c46d750a5464b.png)
 * Handback Datetime: 2016-02-22 08:59:06
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#763c92da0f923fce31efd828797c46d750a5464b251handback_type_is_mismatch_with_handoff_type)
-* Dependency From: virtualization\windowscontainers\quick_start\azure_setup.md
 * [Back to Top](#report-top)
 
 ##### <a name='f34159504927f72f5ef7ccfc8e34ff53c0bec230252'></a> Source: [virtualization\windowscontainers\quick_start\media\newazure3.png](https://github.com/OpenLocalizationOrg/hyperV/blob/c2a703077ad70c2cac21e0e39c6fc49b6f04ab8a/virtualization/windowscontainers/quick_start/media/newazure3.png)
@@ -3476,12 +3476,12 @@
 * Handoff File: [f34159504927f72f5ef7ccfc8e34ff53c0bec230.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/8d471a82b5926cd313da355aeec28d7b5c575305/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/f34159504927f72f5ef7ccfc8e34ff53c0bec230.png)
 * Handoff Datetime: 2016-01-11 05:17:41
 * Handoff Reason: IsDependency
+* Dependency From: virtualization\windowscontainers\quick_start\azure_setup.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [f34159504927f72f5ef7ccfc8e34ff53c0bec230.png](https://github.com/OpenLocalizationOrg/olhandback/blob/23b7cc78a121cc16a17caf613e5be1a5d8876d1e/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/f34159504927f72f5ef7ccfc8e34ff53c0bec230.png)
 * Handback Datetime: 2016-02-22 08:59:06
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#f34159504927f72f5ef7ccfc8e34ff53c0bec230252handback_type_is_mismatch_with_handoff_type)
-* Dependency From: virtualization\windowscontainers\quick_start\azure_setup.md
 * [Back to Top](#report-top)
 
 ##### <a name='73b3b632b406642a26176e84d7baebe66a106bc4253'></a> Source: [virtualization\windowscontainers\quick_start\media\newazure4.png](https://github.com/OpenLocalizationOrg/hyperV/blob/dcb397ab647e455c0066e8b998973be1a344e48e/virtualization/windowscontainers/quick_start/media/newazure4.png)
@@ -3514,12 +3514,12 @@
 * Handoff File: [fccb0dc2730588ddf6851ad3189dd6dd4dc06b74.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/8d471a82b5926cd313da355aeec28d7b5c575305/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/fccb0dc2730588ddf6851ad3189dd6dd4dc06b74.png)
 * Handoff Datetime: 2016-01-11 05:17:41
 * Handoff Reason: IsDependency
+* Dependency From: virtualization\windowscontainers\quick_start\azure_setup.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [fccb0dc2730588ddf6851ad3189dd6dd4dc06b74.png](https://github.com/OpenLocalizationOrg/olhandback/blob/23b7cc78a121cc16a17caf613e5be1a5d8876d1e/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/fccb0dc2730588ddf6851ad3189dd6dd4dc06b74.png)
 * Handback Datetime: 2016-02-22 08:59:06
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#fccb0dc2730588ddf6851ad3189dd6dd4dc06b74255handback_type_is_mismatch_with_handoff_type)
-* Dependency From: virtualization\windowscontainers\quick_start\azure_setup.md
 * [Back to Top](#report-top)
 
 ##### <a name='ac6168b0f3d4e8b2044dd10d1dba101e2290f1d8256'></a> Source: [virtualization\windowscontainers\quick_start\media\newazure7.png](https://github.com/OpenLocalizationOrg/hyperV/blob/c2a703077ad70c2cac21e0e39c6fc49b6f04ab8a/virtualization/windowscontainers/quick_start/media/newazure7.png)
@@ -3528,12 +3528,12 @@
 * Handoff File: [ac6168b0f3d4e8b2044dd10d1dba101e2290f1d8.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/8d471a82b5926cd313da355aeec28d7b5c575305/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/ac6168b0f3d4e8b2044dd10d1dba101e2290f1d8.png)
 * Handoff Datetime: 2016-01-11 05:17:41
 * Handoff Reason: IsDependency
+* Dependency From: virtualization\windowscontainers\quick_start\azure_setup.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [ac6168b0f3d4e8b2044dd10d1dba101e2290f1d8.png](https://github.com/OpenLocalizationOrg/olhandback/blob/23b7cc78a121cc16a17caf613e5be1a5d8876d1e/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/ac6168b0f3d4e8b2044dd10d1dba101e2290f1d8.png)
 * Handback Datetime: 2016-02-22 08:59:06
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#ac6168b0f3d4e8b2044dd10d1dba101e2290f1d8256handback_type_is_mismatch_with_handoff_type)
-* Dependency From: virtualization\windowscontainers\quick_start\azure_setup.md
 * [Back to Top](#report-top)
 
 ##### <a name='3d94c9ae75989bbe040ce7575b855e9d03f453c8257'></a> Source: [virtualization\windowscontainers\quick_start\media\newazure8.png](https://github.com/OpenLocalizationOrg/hyperV/blob/dcb397ab647e455c0066e8b998973be1a344e48e/virtualization/windowscontainers/quick_start/media/newazure8.png)
@@ -3554,12 +3554,12 @@
 * Handoff File: [530bd64d6f6f4ac321bc8a76d9c1b990b2ab338c.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/8d471a82b5926cd313da355aeec28d7b5c575305/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/530bd64d6f6f4ac321bc8a76d9c1b990b2ab338c.png)
 * Handoff Datetime: 2016-01-11 05:17:41
 * Handoff Reason: IsDependency
+* Dependency From: virtualization\windowscontainers\quick_start\manage_docker.md, virtualization\windowscontainers\quick_start\manage_powershell.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [530bd64d6f6f4ac321bc8a76d9c1b990b2ab338c.png](https://github.com/OpenLocalizationOrg/olhandback/blob/23b7cc78a121cc16a17caf613e5be1a5d8876d1e/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/530bd64d6f6f4ac321bc8a76d9c1b990b2ab338c.png)
 * Handback Datetime: 2016-02-22 08:59:06
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#530bd64d6f6f4ac321bc8a76d9c1b990b2ab338c258handback_type_is_mismatch_with_handoff_type)
-* Dependency From: virtualization\windowscontainers\quick_start\manage_docker.md, virtualization\windowscontainers\quick_start\manage_powershell.md
 * [Back to Top](#report-top)
 
 ##### <a name='a9f175f23fed1475c227ec1af2c524c918024bc4259'></a> Source: [virtualization\windowscontainers\quick_start\media\nginx.png](https://github.com/OpenLocalizationOrg/hyperV/blob/c2a703077ad70c2cac21e0e39c6fc49b6f04ab8a/virtualization/windowscontainers/quick_start/media/nginx.png)
@@ -3568,12 +3568,12 @@
 * Handoff File: [a9f175f23fed1475c227ec1af2c524c918024bc4.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/8d471a82b5926cd313da355aeec28d7b5c575305/ol-handoff/OpenLocalizationOrg/hyperV.zh-tw/master/a9f175f23fed1475c227ec1af2c524c918024bc4.png)
 * Handoff Datetime: 2016-01-11 05:17:41
 * Handoff Reason: IsDependency
+* Dependency From: virtualization\windowscontainers\quick_start\manage_docker.md, virtualization\windowscontainers\quick_start\manage_powershell.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [a9f175f23fed1475c227ec1af2c524c918024bc4.png](https://github.com/OpenLocalizationOrg/olhandback/blob/23b7cc78a121cc16a17caf613e5be1a5d8876d1e/ol-handback/OpenLocalizationOrg/hyperV.zh-tw/master/a9f175f23fed1475c227ec1af2c524c918024bc4.png)
 * Handback Datetime: 2016-02-22 08:59:06
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#a9f175f23fed1475c227ec1af2c524c918024bc4259handback_type_is_mismatch_with_handoff_type)
-* Dependency From: virtualization\windowscontainers\quick_start\manage_docker.md, virtualization\windowscontainers\quick_start\manage_powershell.md
 * [Back to Top](#report-top)
 
 ##### <a name='e9a4680b71eb3fb8d3c1135d9e7f9ba879d7c1b8260'></a> Source: [virtualization\windowscontainers\quick_start\media\Users-Developers-Green.png](https://github.com/OpenLocalizationOrg/hyperV/blob/dcb397ab647e455c0066e8b998973be1a344e48e/virtualization/windowscontainers/quick_start/media/Users-Developers-Green.png)
